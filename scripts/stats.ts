@@ -27,13 +27,42 @@ for (const passport of Object.keys(matrix)) {
   visaFreeCounts[passport] = vf;
 }
 
-const rankings = Object.entries(scores)
-  .sort((a, b) => b[1] - a[1])
-  .map(([passport, score], index) => ({
-    rank: index + 1,
-    passport,
-    score,
-  }));
+// Sort by score desc, using visa-free count as a documented tiebreaker
+// before falling back to alphabetical order for full determinism.
+const sorted = Object.entries(scores).sort((a, b) => {
+  const [passportA, scoreA] = a;
+  const [passportB, scoreB] = b;
+
+  if (scoreB !== scoreA) return scoreB - scoreA;
+
+  const vfA = visaFreeCounts[passportA] ?? 0;
+  const vfB = visaFreeCounts[passportB] ?? 0;
+  if (vfB !== vfA) return vfB - vfA;
+
+  return passportA.localeCompare(passportB);
+});
+
+// Equal score AND equal visa-free count => equal (competition-style) rank.
+// e.g. scores [211, 211, 210] => ranks [1, 1, 3]
+const rankings: { rank: number; passport: string; score: number }[] = [];
+
+for (let index = 0; index < sorted.length; index++) {
+  const [passport, score] = sorted[index];
+
+  if (index > 0) {
+    const [prevPassport, prevScore] = sorted[index - 1];
+    const tied =
+      prevScore === score &&
+      visaFreeCounts[prevPassport] === visaFreeCounts[passport];
+
+    if (tied) {
+      rankings.push({ rank: rankings[index - 1].rank, passport, score });
+      continue;
+    }
+  }
+
+  rankings.push({ rank: index + 1, passport, score });
+}
 
 fs.writeFileSync(
   "./generated/scores.json",
