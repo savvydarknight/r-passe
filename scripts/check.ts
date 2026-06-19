@@ -12,6 +12,13 @@ const scores: Record<string, number> = JSON.parse(
 const rankings = JSON.parse(
   fs.readFileSync("./generated/rankings.json", "utf8")
 );
+const { codes: territoryCodes } = JSON.parse(
+  fs.readFileSync("./data/territories.json", "utf8")
+);
+const territories = new Set<string>(territoryCodes);
+// Territories are valid destinations but are intentionally excluded from
+// rankings (see stats.ts), so compare against ranked passports only.
+const rankedPassports = Object.keys(matrix).filter(p => !territories.has(p));
 
 // Major hubs every passport should have a route for
 const MAJOR_HUBS = ["US", "GB", "CN", "AE", "FR", "DE", "SG"];
@@ -40,8 +47,8 @@ for (const [passport, score] of Object.entries(scores)) {
 }
 
 // 4. Rankings count matches passport count
-if (rankings.length !== Object.keys(matrix).length) {
-  fail(`Rankings count (${rankings.length}) != passport count (${Object.keys(matrix).length})`);
+if (rankings.length !== rankedPassports.length) {
+  fail(`Rankings count (${rankings.length}) != passport count (${rankedPassports.length})`);
 }
 
 // 5. Rankings are actually sorted descending
