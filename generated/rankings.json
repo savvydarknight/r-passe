@@ -11,51 +11,51 @@
   },
   {
     "rank": 3,
-    "passport": "LU",
-    "score": 183
-  },
-  {
-    "rank": 4,
     "passport": "DK",
     "score": 183
   },
   {
-    "rank": 4,
+    "rank": 3,
     "passport": "FI",
     "score": 183
   },
   {
-    "rank": 4,
+    "rank": 3,
     "passport": "NL",
     "score": 183
   },
   {
-    "rank": 4,
+    "rank": 3,
     "passport": "SE",
     "score": 183
   },
   {
-    "rank": 8,
+    "rank": 7,
     "passport": "PT",
     "score": 183
   },
   {
-    "rank": 9,
+    "rank": 8,
     "passport": "IE",
     "score": 183
   },
   {
-    "rank": 10,
+    "rank": 9,
     "passport": "FR",
     "score": 182
   },
   {
-    "rank": 11,
+    "rank": 10,
     "passport": "BE",
     "score": 182
   },
   {
-    "rank": 11,
+    "rank": 10,
+    "passport": "LU",
+    "score": 182
+  },
+  {
+    "rank": 10,
     "passport": "MT",
     "score": 182
   },
