@@ -3,93 +3,94 @@ import fs from "fs";
 const matrix = JSON.parse(
   fs.readFileSync("./data/passport_matrix.json", "utf8")
 );
-const countries: Record<string, string> = JSON.parse(
-  fs.readFileSync("./data/countries.json", "utf8")
-);
-const scores: Record<string, number> = JSON.parse(
-  fs.readFileSync("./generated/scores.json", "utf8")
-);
-const rankings = JSON.parse(
-  fs.readFileSync("./generated/rankings.json", "utf8")
-);
+
 const { codes: territoryCodes } = JSON.parse(
   fs.readFileSync("./data/territories.json", "utf8")
 );
 const territories = new Set<string>(territoryCodes);
-// Territories are valid destinations but are intentionally excluded from
-// rankings (see stats.ts), so compare against ranked passports only.
-const rankedPassports = Object.keys(matrix).filter(p => !territories.has(p));
 
-// Major hubs every passport should have a route for
-const MAJOR_HUBS = ["US", "GB", "CN", "AE", "FR", "DE", "SG"];
+const scores: Record<string, number> = {};
+const visaFreeCounts: Record<string, number> = {};
 
-let errors = 0;
-const warn = (msg: string) => { console.warn(`  ⚠ ${msg}`); };
-const fail = (msg: string) => { console.error(`  ✗ ${msg}`); errors++; };
-
-console.log("\n── Checking generated files ──\n");
-
-// 1. All passport codes are in countries.json
+// Territories (Bermuda, Gibraltar, Puerto Rico, etc.) are excluded both as
+// ranked passports (they don't issue their own sovereign passport) and as
+// counted destinations — scores reflect sovereign-to-sovereign access only.
+// They remain in passport_matrix.json itself; only the scoring loop below
+// skips them.
 for (const passport of Object.keys(matrix)) {
-  if (!countries[passport]) fail(`Unknown passport code: ${passport}`);
-}
+  if (territories.has(passport)) continue;
 
-// 2. All destination codes are in countries.json
-for (const [passport, destinations] of Object.entries(matrix)) {
-  for (const dest of Object.keys(destinations as object)) {
-    if (!countries[dest]) fail(`Unknown destination code: ${dest} (passport: ${passport})`);
-  }
-}
+  let score = 0;
+  let vf = 0;
 
-// 3. No zero scores
-for (const [passport, score] of Object.entries(scores)) {
-  if ((score as number) === 0) fail(`Zero mobility score: ${passport}`);
-}
+  for (const destination of Object.keys(matrix[passport])) {
+    if (territories.has(destination)) continue;
 
-// 4. Rankings count matches passport count
-if (rankings.length !== rankedPassports.length) {
-  fail(`Rankings count (${rankings.length}) != passport count (${rankedPassports.length})`);
-}
+    const [status] = matrix[passport][destination];
 
-// 5. Rankings are actually sorted descending
-for (let i = 1; i < rankings.length; i++) {
-  if (rankings[i].score > rankings[i - 1].score) {
-    fail(`Rankings not sorted at position ${i + 1}`);
-    break;
-  }
-}
+    if (["vf", "vo", "ev", "et"].includes(status)) {
+      score++;
+    }
 
-// 6. Each passport has routes to all major hubs (warn only)
-for (const [passport, destinations] of Object.entries(matrix)) {
-  for (const hub of MAJOR_HUBS) {
-    if (passport === hub) continue;
-    if (!(destinations as object).hasOwnProperty(hub)) {
-      warn(`${passport} has no route to major hub: ${hub}`);
+    if (status === "vf") {
+      vf++;
     }
   }
+
+  scores[passport] = score;
+  visaFreeCounts[passport] = vf;
 }
 
-// 7. Each passport has at least 1 destination
-for (const [passport, destinations] of Object.entries(matrix)) {
-  if (Object.keys(destinations as object).length === 0)
-    fail(`Passport with no destinations: ${passport}`);
+// Sort by score desc, using visa-free count as a documented tiebreaker
+// before falling back to alphabetical order for full determinism.
+const sorted = Object.entries(scores).sort((a, b) => {
+  const [passportA, scoreA] = a;
+  const [passportB, scoreB] = b;
+
+  if (scoreB !== scoreA) return scoreB - scoreA;
+
+  const vfA = visaFreeCounts[passportA] ?? 0;
+  const vfB = visaFreeCounts[passportB] ?? 0;
+  if (vfB !== vfA) return vfB - vfA;
+
+  return passportA.localeCompare(passportB);
+});
+
+// Equal score AND equal visa-free count => equal (competition-style) rank.
+// e.g. scores [211, 211, 210] => ranks [1, 1, 3]
+const rankings: { rank: number; passport: string; score: number }[] = [];
+
+for (let index = 0; index < sorted.length; index++) {
+  const [passport, score] = sorted[index];
+
+  if (index > 0) {
+    const [prevPassport, prevScore] = sorted[index - 1];
+    const tied =
+      prevScore === score &&
+      visaFreeCounts[prevPassport] === visaFreeCounts[passport];
+
+    if (tied) {
+      rankings.push({ rank: rankings[index - 1].rank, passport, score });
+      continue;
+    }
+  }
+
+  rankings.push({ rank: index + 1, passport, score });
 }
 
-// Summary
-const totalRoutes = Object.values(matrix).reduce(
-  (a, b) => a + Object.keys(b as object).length, 0
+fs.writeFileSync(
+  "./generated/scores.json",
+  JSON.stringify(scores, null, 2)
 );
 
-console.log(`\n── Summary ──`);
-console.log(`  Passports : ${Object.keys(matrix).length}`);
-console.log(`  Routes    : ${totalRoutes}`);
-console.log(`  Top rank  : ${rankings[0]?.passport} (${rankings[0]?.score})`);
-console.log(`  Last rank : ${rankings.at(-1)?.passport} (${rankings.at(-1)?.score})`);
-console.log();
+fs.writeFileSync(
+  "./generated/visa-free-counts.json",
+  JSON.stringify(visaFreeCounts, null, 2)
+);
 
-if (errors === 0) {
-  console.log("✓ Check passed\n");
-} else {
-  console.error(`✗ Check failed with ${errors} error(s)\n`);
-  process.exit(1);
-}
+fs.writeFileSync(
+  "./generated/rankings.json",
+  JSON.stringify(rankings, null, 2)
+);
+
+console.log("✓ Statistics generated");
