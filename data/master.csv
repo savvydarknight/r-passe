@@ -19764,7 +19764,6 @@ KE,GI,vr,
 KE,GL,vr,
 KE,GM,vf,90
 KE,GN,vr,
-KE,GP,vr,
 KE,GQ,ev,30
 KE,GR,vr,
 KE,GT,vr,
@@ -19821,7 +19820,6 @@ KE,MM,vr,
 KE,MN,vr,
 KE,MO,vr,
 KE,MP,vr,
-KE,MQ,vr,
 KE,MR,vo,30
 KE,MS,vf,
 KE,MT,vr,
@@ -19850,7 +19848,6 @@ KE,PG,vr,
 KE,PH,vf,30
 KE,PK,ev,
 KE,PL,vr,
-KE,PM,vr,
 KE,PR,vr,
 KE,PS,vr,
 KE,PT,vr,
@@ -19879,7 +19876,6 @@ KE,SR,vr,
 KE,SS,vf,180
 KE,ST,vr,
 KE,SV,vr,
-KE,SX,vr,
 KE,SY,vr,
 KE,SZ,vf,90
 KE,TC,vr,
@@ -19908,7 +19904,6 @@ KE,VG,vr,
 KE,VI,vr,
 KE,VN,vr,
 KE,VU,vf,30
-KE,WF,vr,
 KE,WS,vo,60
 KE,XK,vr,
 KE,YE,vr,
