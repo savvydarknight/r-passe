@@ -4,10 +4,21 @@ const matrix = JSON.parse(
   fs.readFileSync("./data/passport_matrix.json", "utf8")
 );
 
+const { codes: territoryCodes } = JSON.parse(
+  fs.readFileSync("./data/territories.json", "utf8")
+);
+const territories = new Set<string>(territoryCodes);
+
 const scores: Record<string, number> = {};
 const visaFreeCounts: Record<string, number> = {};
 
+// Territories (Bermuda, Gibraltar, Puerto Rico, etc.) are excluded from
+// ranking as passports — they don't issue their own sovereign passport —
+// but they are NOT removed from the matrix, so they still count as valid
+// destinations for every other passport's score.
 for (const passport of Object.keys(matrix)) {
+  if (territories.has(passport)) continue;
+
   let score = 0;
   let vf = 0;
 
