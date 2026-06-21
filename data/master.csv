@@ -12156,7 +12156,7 @@ GD,ID,ev,
 GD,IE,vf,90
 GD,IL,et,90
 GD,IN,ev,
-GD,IQ,vr,
+GD,IQ,vo,15
 GD,IR,vo,15
 GD,IS,vf,90
 GD,IT,vf,90
@@ -17305,7 +17305,7 @@ KE,ID,vf,30
 KE,IE,vr,
 KE,IL,vr,
 KE,IN,ev,60
-KE,IQ,vr,
+KE,IQ,vo,15
 KE,IR,vo,30
 KE,IS,vr,
 KE,IT,vr,
@@ -35323,7 +35323,7 @@ TR,ID,vf,
 TR,IE,vr,
 TR,IL,vr,
 TR,IN,vr,
-TR,IQ,vr,
+TR,IQ,vo,15
 TR,IR,vf,
 TR,IS,vr,
 TR,IT,vr,
