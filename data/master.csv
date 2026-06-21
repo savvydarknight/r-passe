@@ -1249,7 +1249,7 @@ AO,GA,ev,
 AO,GB,ev,
 AO,GD,vr,
 AO,GE,ev,
-AO,GH,ev,90
+AO,GH,et,90
 AO,GM,vf,
 AO,GN,ev,
 AO,GQ,ev,
@@ -3031,7 +3031,7 @@ BF,GA,ev,
 BF,GB,ev,
 BF,GD,vr,
 BF,GE,ev,
-BF,GH,ev,90
+BF,GH,et,90
 BF,GM,vf,
 BF,GN,vf,
 BF,GQ,ev,
@@ -3625,7 +3625,7 @@ BI,GA,ev,
 BI,GB,ev,
 BI,GD,vr,
 BI,GE,ev,
-BI,GH,ev,90
+BI,GH,et,90
 BI,GM,vf,
 BI,GN,ev,
 BI,GQ,ev,
@@ -5011,7 +5011,7 @@ BW,GA,ev,
 BW,GB,ev,
 BW,GD,vf,
 BW,GE,vf,
-BW,GH,ev,90
+BW,GH,et,90
 BW,GM,vf,
 BW,GN,ev,
 BW,GQ,ev,
@@ -5803,7 +5803,7 @@ CD,GA,ev,
 CD,GB,ev,
 CD,GD,vr,
 CD,GE,ev,
-CD,GH,ev,90
+CD,GH,et,90
 CD,GM,vf,
 CD,GN,ev,
 CD,GQ,ev,
@@ -6001,7 +6001,7 @@ CF,GA,vf,
 CF,GB,ev,
 CF,GD,vr,
 CF,GE,ev,
-CF,GH,ev,90
+CF,GH,et,90
 CF,GM,vf,
 CF,GN,ev,
 CF,GQ,ev,
@@ -6199,7 +6199,7 @@ CG,GA,vf,
 CG,GB,ev,
 CG,GD,vr,
 CG,GE,ev,
-CG,GH,ev,90
+CG,GH,et,90
 CG,GM,vf,
 CG,GN,ev,
 CG,GQ,ev,
@@ -6991,7 +6991,7 @@ CM,GA,vf,
 CM,GB,ev,
 CM,GD,vf,
 CM,GE,ev,
-CM,GH,ev,90
+CM,GH,et,90
 CM,GM,vf,
 CM,GN,ev,
 CM,GQ,ev,
@@ -8773,7 +8773,7 @@ DJ,GA,ev,
 DJ,GB,ev,
 DJ,GD,vr,
 DJ,GE,ev,
-DJ,GH,ev,90
+DJ,GH,et,90
 DJ,GM,vf,
 DJ,GN,ev,
 DJ,GQ,ev,
@@ -9565,7 +9565,7 @@ DZ,GA,ev,
 DZ,GB,vr,
 DZ,GD,vr,
 DZ,GE,ev,
-DZ,GH,ev,90
+DZ,GH,et,90
 DZ,GM,vf,
 DZ,GN,vf,
 DZ,GQ,ev,
@@ -10159,7 +10159,7 @@ EG,GA,ev,
 EG,GB,ev,
 EG,GD,vr,
 EG,GE,ev,
-EG,GH,ev,90
+EG,GH,et,90
 EG,GM,vf,
 EG,GN,vf,
 EG,GQ,ev,
@@ -10357,7 +10357,7 @@ ER,GA,ev,
 ER,GB,ev,
 ER,GD,vr,
 ER,GE,ev,
-ER,GH,ev,90
+ER,GH,et,90
 ER,GM,vf,
 ER,GN,ev,
 ER,GQ,ev,
@@ -10753,7 +10753,7 @@ ET,GA,ev,
 ET,GB,ev,
 ET,GD,vr,
 ET,GE,ev,
-ET,GH,ev,90
+ET,GH,et,90
 ET,GM,vf,
 ET,GN,ev,
 ET,GQ,ev,
@@ -11743,7 +11743,7 @@ GA,FR,vr,
 GA,GB,ev,
 GA,GD,vr,
 GA,GE,ev,
-GA,GH,ev,90
+GA,GH,et,90
 GA,GM,vf,
 GA,GN,ev,
 GA,GQ,ev,
@@ -13130,7 +13130,7 @@ GQ,GA,vf,
 GQ,GB,ev,
 GQ,GD,vr,
 GQ,GE,ev,
-GQ,GH,ev,90
+GQ,GH,et,90
 GQ,GM,vf,
 GQ,GN,ev,
 GQ,GR,vr,
@@ -17288,7 +17288,7 @@ KE,GA,ev,30
 KE,GB,vr,
 KE,GD,vf,30
 KE,GE,ev,90
-KE,GH,ev,90
+KE,GH,et,90
 KE,GM,vf,90
 KE,GN,ev,90
 KE,GQ,ev,30
@@ -18080,7 +18080,7 @@ KM,GA,ev,
 KM,GB,ev,
 KM,GD,vr,
 KM,GE,ev,
-KM,GH,ev,90
+KM,GH,et,90
 KM,GM,vf,
 KM,GN,ev,
 KM,GQ,ev,
@@ -20456,7 +20456,7 @@ LS,GA,ev,
 LS,GB,ev,
 LS,GD,vf,
 LS,GE,ev,
-LS,GH,ev,90
+LS,GH,et,90
 LS,GM,vf,
 LS,GN,ev,
 LS,GQ,ev,
@@ -21248,7 +21248,7 @@ LY,GA,ev,
 LY,GB,ev,
 LY,GD,vr,
 LY,GE,ev,
-LY,GH,ev,90
+LY,GH,et,90
 LY,GM,vf,
 LY,GN,ev,
 LY,GQ,ev,
@@ -21446,7 +21446,7 @@ MA,GA,vf,
 MA,GB,ev,
 MA,GD,vf,
 MA,GE,ev,
-MA,GH,ev,90
+MA,GH,et,90
 MA,GM,vf,
 MA,GN,vf,
 MA,GQ,ev,
@@ -22238,7 +22238,7 @@ MG,GA,ev,
 MG,GB,ev,
 MG,GD,vr,
 MG,GE,ev,
-MG,GH,ev,90
+MG,GH,et,90
 MG,GM,vf,
 MG,GN,ev,
 MG,GQ,ev,
@@ -22832,7 +22832,7 @@ ML,GA,ev,
 ML,GB,ev,
 ML,GD,vr,
 ML,GE,ev,
-ML,GH,ev,90
+ML,GH,et,90
 ML,GM,vf,
 ML,GN,vf,
 ML,GQ,ev,
@@ -23624,7 +23624,7 @@ MR,GA,ev,
 MR,GB,ev,
 MR,GD,vr,
 MR,GE,ev,
-MR,GH,ev,90
+MR,GH,et,90
 MR,GM,vf,
 MR,GN,ev,
 MR,GQ,ev,
@@ -24020,7 +24020,7 @@ MU,GA,vf,
 MU,GB,et,
 MU,GD,vf,
 MU,GE,vf,
-MU,GH,ev,90
+MU,GH,et,90
 MU,GM,vf,
 MU,GN,ev,
 MU,GQ,ev,
@@ -24416,7 +24416,7 @@ MW,GA,ev,
 MW,GB,ev,
 MW,GD,vf,
 MW,GE,ev,
-MW,GH,ev,90
+MW,GH,et,90
 MW,GM,vf,
 MW,GN,ev,
 MW,GQ,ev,
@@ -25010,7 +25010,7 @@ MZ,GA,ev,
 MZ,GB,ev,
 MZ,GD,vf,
 MZ,GE,ev,
-MZ,GH,ev,90
+MZ,GH,et,90
 MZ,GM,vf,
 MZ,GN,ev,
 MZ,GQ,ev,
@@ -25208,7 +25208,7 @@ NA,GA,ev,
 NA,GB,ev,
 NA,GD,vf,
 NA,GE,ev,
-NA,GH,ev,90
+NA,GH,et,90
 NA,GM,vf,
 NA,GN,vf,
 NA,GQ,ev,
@@ -25406,7 +25406,7 @@ NE,GA,ev,
 NE,GB,ev,
 NE,GD,vr,
 NE,GE,ev,
-NE,GH,ev,90
+NE,GH,et,90
 NE,GM,vf,
 NE,GN,vf,
 NE,GQ,ev,
@@ -29960,7 +29960,7 @@ RW,GA,ev,
 RW,GB,ev,
 RW,GD,vf,
 RW,GE,ev,
-RW,GH,ev,90
+RW,GH,et,90
 RW,GM,vf,
 RW,GN,vf,
 RW,GQ,ev,
@@ -30752,7 +30752,7 @@ SD,GA,ev,
 SD,GB,ev,
 SD,GD,vr,
 SD,GE,ev,
-SD,GH,ev,90
+SD,GH,et,90
 SD,GM,vf,
 SD,GN,ev,
 SD,GQ,ev,
@@ -32336,7 +32336,7 @@ SO,GA,ev,
 SO,GB,ev,
 SO,GD,vr,
 SO,GE,ev,
-SO,GH,ev,90
+SO,GH,et,90
 SO,GM,vf,
 SO,GN,ev,
 SO,GQ,ev,
@@ -32732,7 +32732,7 @@ SS,GA,ev,
 SS,GB,ev,
 SS,GD,vr,
 SS,GE,vr,
-SS,GH,ev,90
+SS,GH,et,90
 SS,GM,vf,
 SS,GN,ev,
 SS,GQ,ev,
@@ -32930,7 +32930,7 @@ ST,GA,ev,
 ST,GB,ev,
 ST,GD,vr,
 ST,GE,ev,
-ST,GH,ev,90
+ST,GH,et,90
 ST,GM,vf,
 ST,GN,ev,
 ST,GQ,ev,
@@ -33524,7 +33524,7 @@ SZ,GA,ev,
 SZ,GB,ev,
 SZ,GD,vf,
 SZ,GE,ev,
-SZ,GH,ev,90
+SZ,GH,et,90
 SZ,GM,vf,
 SZ,GN,ev,
 SZ,GQ,ev,
@@ -33722,7 +33722,7 @@ TD,GA,vf,
 TD,GB,ev,
 TD,GD,vr,
 TD,GE,ev,
-TD,GH,ev,90
+TD,GH,et,90
 TD,GM,vf,
 TD,GN,ev,
 TD,GQ,ev,
@@ -34910,7 +34910,7 @@ TN,GA,ev,
 TN,GB,ev,
 TN,GD,vr,
 TN,GE,ev,
-TN,GH,ev,90
+TN,GH,et,90
 TN,GM,vf,
 TN,GN,vf,
 TN,GQ,vf,
@@ -36098,7 +36098,7 @@ TZ,GA,ev,
 TZ,GB,ev,
 TZ,GD,vf,
 TZ,GE,ev,
-TZ,GH,ev,90
+TZ,GH,et,90
 TZ,GM,vf,
 TZ,GN,ev,
 TZ,GQ,ev,
@@ -36494,7 +36494,7 @@ UG,GA,ev,
 UG,GB,vr,
 UG,GD,vf,
 UG,GE,ev,
-UG,GH,ev,90
+UG,GH,et,90
 UG,GM,vf,
 UG,GN,ev,
 UG,GQ,ev,
@@ -38870,7 +38870,7 @@ ZA,GA,vf,
 ZA,GB,ev,
 ZA,GD,vf,
 ZA,GE,vf,
-ZA,GH,ev,90
+ZA,GH,et,90
 ZA,GM,vf,
 ZA,GN,ev,
 ZA,GQ,ev,
@@ -39068,7 +39068,7 @@ ZM,GA,ev,
 ZM,GB,ev,
 ZM,GD,vf,
 ZM,GE,ev,
-ZM,GH,ev,90
+ZM,GH,et,90
 ZM,GM,vf,
 ZM,GN,ev,
 ZM,GQ,ev,
@@ -39266,7 +39266,7 @@ ZW,GA,ev,
 ZW,GB,ev,
 ZW,GD,vr,
 ZW,GE,ev,
-ZW,GH,ev,90
+ZW,GH,et,90
 ZW,GM,vf,
 ZW,GN,ev,
 ZW,GQ,ev,
