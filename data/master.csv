@@ -3031,7 +3031,7 @@ BF,GA,ev,
 BF,GB,ev,
 BF,GD,vr,
 BF,GE,ev,
-BF,GH,ev,30
+BF,GH,vf,90
 BF,GM,vf,
 BF,GN,vf,
 BF,GQ,ev,
@@ -3823,7 +3823,7 @@ BJ,GA,ev,
 BJ,GB,ev,
 BJ,GD,vf,
 BJ,GE,ev,
-BJ,GH,ev,30
+BJ,GH,vf,90
 BJ,GM,vf,
 BJ,GN,vf,
 BJ,GQ,ev,
@@ -6595,7 +6595,7 @@ CI,GA,ev,
 CI,GB,ev,
 CI,GD,vr,
 CI,GE,ev,
-CI,GH,ev,30
+CI,GH,vf,90
 CI,GM,vf,
 CI,GN,vf,
 CI,GQ,ev,
@@ -7981,7 +7981,7 @@ CV,GA,ev,
 CV,GB,ev,
 CV,GD,vr,
 CV,GE,ev,
-CV,GH,ev,30
+CV,GH,vf,90
 CV,GM,vf,
 CV,GN,vf,
 CV,GQ,ev,
@@ -12734,7 +12734,7 @@ GM,GA,ev,
 GM,GB,ev,
 GM,GD,vf,
 GM,GE,ev,
-GM,GH,ev,30
+GM,GH,vf,90
 GM,GN,vf,
 GM,GQ,ev,
 GM,GR,vr,
@@ -12932,7 +12932,7 @@ GN,GA,ev,
 GN,GB,ev,
 GN,GD,vr,
 GN,GE,ev,
-GN,GH,ev,30
+GN,GH,vf,90
 GN,GM,vf,
 GN,GQ,ev,
 GN,GR,vr,
@@ -13724,7 +13724,7 @@ GW,GA,ev,
 GW,GB,ev,
 GW,GD,vr,
 GW,GE,ev,
-GW,GH,ev,30
+GW,GH,vf,90
 GW,GM,vf,
 GW,GN,vf,
 GW,GQ,ev,
@@ -20258,7 +20258,7 @@ LR,GA,ev,
 LR,GB,ev,
 LR,GD,vr,
 LR,GE,ev,
-LR,GH,ev,30
+LR,GH,vf,90
 LR,GM,vf,
 LR,GN,vf,
 LR,GQ,ev,
@@ -22832,7 +22832,7 @@ ML,GA,ev,
 ML,GB,ev,
 ML,GD,vr,
 ML,GE,ev,
-ML,GH,ev,30
+ML,GH,vf,90
 ML,GM,vf,
 ML,GN,vf,
 ML,GQ,ev,
@@ -23624,7 +23624,7 @@ MR,GA,ev,
 MR,GB,ev,
 MR,GD,vr,
 MR,GE,ev,
-MR,GH,ev,30
+MR,GH,vf,90
 MR,GM,vf,
 MR,GN,ev,
 MR,GQ,ev,
@@ -25406,7 +25406,7 @@ NE,GA,ev,
 NE,GB,ev,
 NE,GD,vr,
 NE,GE,ev,
-NE,GH,ev,30
+NE,GH,vf,90
 NE,GM,vf,
 NE,GN,vf,
 NE,GQ,ev,
@@ -25604,7 +25604,7 @@ NG,GA,ev,
 NG,GB,vr,
 NG,GD,vr,
 NG,GE,ev,
-NG,GH,ev,30
+NG,GH,vf,90
 NG,GM,vf,
 NG,GN,vf,
 NG,GQ,ev,
@@ -31742,7 +31742,7 @@ SL,GA,ev,
 SL,GB,ev,
 SL,GD,vf,
 SL,GE,ev,
-SL,GH,ev,30
+SL,GH,vf,90
 SL,GM,vf,
 SL,GN,vf,
 SL,GQ,ev,
@@ -32138,7 +32138,7 @@ SN,GA,ev,
 SN,GB,ev,
 SN,GD,vr,
 SN,GE,ev,
-SN,GH,ev,30
+SN,GH,vf,90
 SN,GM,vf,
 SN,GN,vf,
 SN,GQ,ev,
@@ -33920,7 +33920,7 @@ TG,GA,ev,
 TG,GB,ev,
 TG,GD,vr,
 TG,GE,ev,
-TG,GH,ev,30
+TG,GH,vf,90
 TG,GM,vf,
 TG,GN,vf,
 TG,GQ,ev,
