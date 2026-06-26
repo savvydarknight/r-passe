@@ -17392,7 +17392,7 @@ KE,SR,vr,
 KE,SS,vo,90
 KE,ST,ev,30
 KE,SV,vr,
-KE,SY,ev,15
+KE,SY,vr,
 KE,SZ,vf,90
 KE,TD,vr,
 KE,TG,vo,7
