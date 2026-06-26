@@ -12121,7 +12121,7 @@ GD,CV,vo,30
 GD,CY,vf,90
 GD,CZ,vf,90
 GD,DE,vf,90
-GD,DJ,vo,31
+GD,DJ,vo,
 GD,DK,vf,90
 GD,DM,vf,180
 GD,DO,vf,90
@@ -12139,7 +12139,7 @@ GD,FR,vf,90
 GD,GA,ev,
 GD,GB,et,180
 GD,GE,vf,360
-GD,GH,vr,
+GD,GH,vf,30
 GD,GM,vf,90
 GD,GN,ev,
 GD,GQ,ev,
@@ -12164,7 +12164,7 @@ GD,JM,vf,180
 GD,JO,vo,30
 GD,JP,vr,
 GD,KE,vf,90
-GD,KG,ev,
+GD,KG,ev,30
 GD,KH,vo,30
 GD,KI,vf,30
 GD,KM,vo,45
@@ -12226,7 +12226,7 @@ GD,PY,vr,
 GD,QA,ev,
 GD,RO,vf,90
 GD,RS,vf,90
-GD,RU,et,90
+GD,RU,vf,90
 GD,RW,vf,30
 GD,SA,vo,90
 GD,SB,vo,90
