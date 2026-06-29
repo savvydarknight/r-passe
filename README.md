@@ -2,63 +2,8 @@
 
 Lightweight passport mobility dataset.
 
-## Goals
-
 * Simple
 * Fast
-* Easy to update
-* Minimal duplication
-
-## Structure
-
-```text
-passport-index/
-├── data/
-│   ├── countries.json
-│   ├── master.csv
-│   └── passport_matrix.json
-│
-├── generated/
-│   ├── rankings.json
-│   ├── scores.json
-│   └── visa-free-counts.json
-│
-├── scripts/
-│   ├── build.ts
-│   ├── changelog.ts
-│   ├── check.ts
-│   ├── edit.ts
-│   ├── stats.ts
-│   └── validate.ts
-│
-├── tests/
-│   ├── build.test.ts
-│   └── validate.test.ts
-│
-├── cmd/
-│   └── passport-cli/
-│       └── main.go
-│
-├── internal/
-│   ├── lookup/
-│   ├── ranking/
-│   └── export/
-│
-├── docs/
-│   ├── schema.md
-│   ├── status-codes.md
-│   └── methodology.md
-│
-├── CHANGELOG.md
-├── package.json
-├── tsconfig.json
-├── go.mod
-└── README.md
-```
-
-## Source of Truth
-
-`data/master.csv`
 
 ```csv
 passport,destination,status,days
@@ -162,9 +107,4 @@ passport-cli.exe lookup KE SG
 * TypeScript → build tools
 * Go → CLI
 
-## Principles
 
-* Edit one file.
-* Generate everything else.
-* Keep data portable.
-* Keep the repo small.
