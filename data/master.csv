@@ -3175,7 +3175,7 @@ BG,AL,vf,
 BG,AM,vf,
 BG,AO,vf,
 BG,AR,vf,
-BG,AT,vf,
+BG,AT,vf,90
 BG,AU,ev,
 BG,AZ,ev,
 BG,BA,vf,
