@@ -4,6 +4,10 @@ const csv = fs.readFileSync("./data/master.csv", "utf8");
 const countries: Record<string, string> = JSON.parse(
   fs.readFileSync("./data/countries.json", "utf8")
 );
+const { codes: territoryCodes } = JSON.parse(
+  fs.readFileSync("./data/territories.json", "utf8")
+);
+const territories = new Set<string>(territoryCodes);
 
 const lines = csv.trim().split("\n");
 const header = lines[0];
@@ -40,6 +44,12 @@ for (const [index, row] of rows.entries()) {
 
   if (!countries[destination])
     throw new Error(`Unknown destination code '${destination}' at row ${rowNumber} — add it to countries.json first`);
+
+  if (territories.has(passport))
+    throw new Error(`Territory code '${passport}' at row ${rowNumber} cannot be a passport`);
+
+  if (territories.has(destination))
+    throw new Error(`Territory code '${destination}' at row ${rowNumber} cannot be a destination`);
 
   const key = `${passport}:${destination}`;
   if (seen.has(key))
