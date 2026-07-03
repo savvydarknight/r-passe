@@ -23766,7 +23766,7 @@ MT,AG,vf,
 MT,AL,vf,
 MT,AM,vf,
 MT,AO,vf,
-MT,AR,vf,
+MT,AR,vf,90
 MT,AT,vf,90
 MT,AU,et,90
 MT,AZ,ev,
@@ -23853,7 +23853,7 @@ MT,KI,vf,
 MT,KM,vo,
 MT,KN,et,
 MT,KP,vr,
-MT,KR,et,
+MT,KR,et,90
 MT,KW,vo,
 MT,KZ,vf,
 MT,LA,vo,
@@ -23893,7 +23893,7 @@ MT,NL,vf,90
 MT,NO,vf,90
 MT,NP,vo,
 MT,NR,vr,
-MT,NZ,et,
+MT,NZ,et,90
 MT,OM,vf,
 MT,PA,vf,
 MT,PE,vf,
