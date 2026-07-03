@@ -20796,9 +20796,9 @@ LU,AG,vf,
 LU,AL,vf,
 LU,AM,vf,
 LU,AO,vf,
-LU,AR,vf,
+LU,AR,vf,90
 LU,AT,vf,90
-LU,AU,et,
+LU,AU,et,90
 LU,AZ,ev,
 LU,BA,vf,
 LU,BB,vf,
@@ -20817,7 +20817,7 @@ LU,BT,ev,
 LU,BW,vf,
 LU,BY,vf,
 LU,BZ,vf,
-LU,CA,et,
+LU,CA,et,180
 LU,CD,ev,
 LU,CF,vr,
 LU,CG,vr,
@@ -20849,7 +20849,7 @@ LU,FJ,vf,
 LU,FM,vf,
 LU,FR,vf,90
 LU,GA,ev,
-LU,GB,et,
+LU,GB,vf,180
 LU,GD,vf,
 LU,GE,vf,
 LU,GH,vr,
@@ -20973,7 +20973,7 @@ LU,TW,vf,
 LU,TZ,vo,
 LU,UA,vf,
 LU,UG,ev,
-LU,US,et,
+LU,US,et,90
 LU,UY,vf,
 LU,UZ,vf,
 LU,VA,vf,
