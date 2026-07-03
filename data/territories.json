@@ -1,5 +1,4 @@
 {
-  "_comment": "Dependent territories / non-sovereign jurisdictions. These remain valid DESTINATIONS in master.csv (other passports' access to them still counts), but they are excluded from being ranked as passports themselves, since they do not issue their own sovereign passport.",
   "codes": [
     "AI", "AS", "AW", "BM", "CK", "CW", "FK", "FO", "GF", "GI",
     "GL", "GP", "GU", "KY", "MF", "MP", "MQ", "MS", "NC", "NU",
