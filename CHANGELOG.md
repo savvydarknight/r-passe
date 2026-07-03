@@ -1,5 +1,16 @@
 # Changelog
 
+## 2026-07-03
+
+| Metric | Value |
+|--------|-------|
+| Passports | 199 |
+| Routes | 39,402 (no change) |
+| Top ranked | AE (score: 185) |
+| Last ranked | AF (score: 71) |
+
+---
+
 ## 2026-06-26
 
 | Metric | Value |
