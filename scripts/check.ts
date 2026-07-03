@@ -12,11 +12,14 @@ const territories = new Set<string>(territoryCodes);
 const scores: Record<string, number> = {};
 const visaFreeCounts: Record<string, number> = {};
 
-// Territories (Bermuda, Gibraltar, Puerto Rico, etc.) are excluded both as
-// ranked passports (they don't issue their own sovereign passport) and as
-// counted destinations — scores reflect sovereign-to-sovereign access only.
-// They remain in passport_matrix.json itself; only the scoring loop below
-// skips them.
+const WEIGHTS: Record<string, number> = {
+  vf: 1.0,
+  vo: 0.7,
+  ev: 0.5,
+  et: 0.3,
+  vr: 0,
+};
+
 for (const passport of Object.keys(matrix)) {
   if (territories.has(passport)) continue;
 
@@ -28,21 +31,17 @@ for (const passport of Object.keys(matrix)) {
 
     const [status] = matrix[passport][destination];
 
-    if (["vf", "vo", "ev", "et"].includes(status)) {
-      score++;
-    }
+    score += WEIGHTS[status] ?? 0;
 
     if (status === "vf") {
       vf++;
     }
   }
 
-  scores[passport] = score;
+  scores[passport] = Math.round(score * 100) / 100;
   visaFreeCounts[passport] = vf;
 }
 
-// Sort by score desc, using visa-free count as a documented tiebreaker
-// before falling back to alphabetical order for full determinism.
 const sorted = Object.entries(scores).sort((a, b) => {
   const [passportA, scoreA] = a;
   const [passportB, scoreB] = b;
@@ -56,8 +55,6 @@ const sorted = Object.entries(scores).sort((a, b) => {
   return passportA.localeCompare(passportB);
 });
 
-// Equal score AND equal visa-free count => equal (competition-style) rank.
-// e.g. scores [211, 211, 210] => ranks [1, 1, 3]
 const rankings: { rank: number; passport: string; score: number }[] = [];
 
 for (let index = 0; index < sorted.length; index++) {
