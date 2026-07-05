@@ -11,148 +11,148 @@
   },
   {
     "rank": 3,
+    "passport": "CH",
+    "score": 158.9
+  },
+  {
+    "rank": 4,
     "passport": "MY",
     "score": 155.6
   },
   {
-    "rank": 4,
+    "rank": 5,
     "passport": "LU",
     "score": 155.1
   },
   {
-    "rank": 5,
+    "rank": 6,
     "passport": "FR",
     "score": 154.6
   },
   {
-    "rank": 6,
+    "rank": 7,
     "passport": "MT",
     "score": 154.4
   },
   {
-    "rank": 7,
+    "rank": 8,
     "passport": "SE",
     "score": 154.3
   },
   {
-    "rank": 8,
+    "rank": 9,
     "passport": "DK",
     "score": 154.1
   },
   {
-    "rank": 8,
+    "rank": 9,
     "passport": "FI",
     "score": 154.1
   },
   {
-    "rank": 8,
+    "rank": 9,
     "passport": "NL",
     "score": 154.1
   },
   {
-    "rank": 11,
+    "rank": 12,
     "passport": "BE",
     "score": 153.9
   },
   {
-    "rank": 12,
+    "rank": 13,
+    "passport": "NO",
+    "score": 153.9
+  },
+  {
+    "rank": 14,
     "passport": "PL",
     "score": 153.7
   },
   {
-    "rank": 13,
+    "rank": 15,
     "passport": "DE",
     "score": 153.6
   },
   {
-    "rank": 13,
+    "rank": 15,
     "passport": "ES",
     "score": 153.6
   },
   {
-    "rank": 13,
+    "rank": 15,
     "passport": "IT",
     "score": 153.6
   },
   {
-    "rank": 16,
+    "rank": 18,
     "passport": "AT",
     "score": 153.5
   },
   {
-    "rank": 17,
+    "rank": 19,
     "passport": "GR",
     "score": 153.1
   },
   {
-    "rank": 18,
+    "rank": 20,
     "passport": "RO",
     "score": 153
   },
   {
-    "rank": 19,
+    "rank": 21,
     "passport": "HU",
     "score": 153
   },
   {
-    "rank": 20,
+    "rank": 22,
     "passport": "PT",
     "score": 152.9
   },
   {
-    "rank": 21,
-    "passport": "CH",
-    "score": 152.7
-  },
-  {
-    "rank": 22,
+    "rank": 23,
     "passport": "BG",
     "score": 152.7
   },
   {
-    "rank": 23,
+    "rank": 24,
     "passport": "HR",
     "score": 152.5
   },
   {
-    "rank": 23,
+    "rank": 24,
     "passport": "LV",
     "score": 152.5
   },
   {
-    "rank": 23,
+    "rank": 24,
     "passport": "SI",
     "score": 152.5
   },
   {
-    "rank": 23,
+    "rank": 24,
     "passport": "SK",
     "score": 152.5
   },
   {
-    "rank": 27,
+    "rank": 28,
     "passport": "CZ",
     "score": 152
   },
   {
-    "rank": 28,
+    "rank": 29,
     "passport": "EE",
     "score": 152
   },
   {
-    "rank": 28,
+    "rank": 29,
     "passport": "LT",
     "score": 152
   },
   {
-    "rank": 30,
+    "rank": 31,
     "passport": "IE",
     "score": 152
-  },
-  {
-    "rank": 31,
-    "passport": "NO",
-    "score": 151.9
   },
   {
     "rank": 32,
