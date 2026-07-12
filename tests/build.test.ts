@@ -73,4 +73,27 @@ describe("build", () => {
       assert.ok((score as number) >= 0, `Negative score for ${passport}`);
     }
   });
+
+  it("route-metadata.json exists and covers every matrix route", () => {
+    const metadataPath = "./generated/route-metadata.json";
+    assert.ok(fs.existsSync(metadataPath), "route-metadata.json missing");
+
+    const matrix = JSON.parse(fs.readFileSync(matrixPath, "utf8"));
+    const metadata = JSON.parse(fs.readFileSync(metadataPath, "utf8"));
+
+    for (const [passport, destinations] of Object.entries(matrix)) {
+      for (const destination of Object.keys(destinations as object)) {
+        const key = `${passport}:${destination}`;
+        assert.ok(key in metadata, `Missing metadata for route ${key}`);
+      }
+    }
+  });
+
+  it("every route-metadata entry has a valid confidence value", () => {
+    const metadata = JSON.parse(fs.readFileSync("./generated/route-metadata.json", "utf8"));
+    const valid = new Set(["unverified", "verified", "disputed"]);
+    for (const [key, entry] of Object.entries(metadata) as [string, any][]) {
+      assert.ok(valid.has(entry.confidence), `Invalid confidence for ${key}: ${entry.confidence}`);
+    }
+  });
 });

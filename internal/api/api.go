@@ -22,6 +22,13 @@ type DB struct {
 	Rankings  []RankEntry
 	Scores    map[string]float64
 	VFCounts  map[string]int
+	RouteMeta map[string]RouteMeta
+}
+
+type RouteMeta struct {
+	SourceURL    string `json:"source_url"`
+	LastVerified string `json:"last_verified"`
+	Confidence   string `json:"confidence"`
 }
 
 var StatusLabels = map[string]string{
@@ -54,6 +61,7 @@ func Load() (*DB, error) {
 	readJSON("./generated/rankings.json", &db.Rankings)
 	readJSON("./generated/scores.json", &db.Scores)
 	readJSON("./generated/visa-free-counts.json", &db.VFCounts)
+	readJSON("./generated/route-metadata.json", &db.RouteMeta)
 
 	return db, nil
 }
@@ -75,6 +83,9 @@ type LookupResult struct {
 	StatusLabel  string `json:"status_label"`
 	Days         int    `json:"days,omitempty"`
 	Found        bool   `json:"found"`
+	SourceURL    string `json:"source_url,omitempty"`
+	LastVerified string `json:"last_verified,omitempty"`
+	Confidence   string `json:"confidence,omitempty"`
 }
 
 func (db *DB) Lookup(passport, destination string) LookupResult {
@@ -108,6 +119,12 @@ func (db *DB) Lookup(passport, destination string) LookupResult {
 		if d, ok := entry[1].(float64); ok {
 			result.Days = int(d)
 		}
+	}
+
+	if meta, ok := db.RouteMeta[passport+":"+destination]; ok {
+		result.SourceURL = meta.SourceURL
+		result.LastVerified = meta.LastVerified
+		result.Confidence = meta.Confidence
 	}
 
 	return result

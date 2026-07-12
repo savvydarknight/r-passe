@@ -18,14 +18,18 @@ interface Row {
   destination: string;
   status: string;
   days: string;
+  sourceUrl: string;
+  lastVerified: string;
+  confidence: string;
 }
 
 function readCSV(): Row[] {
   const content = fs.readFileSync(CSV_PATH, "utf8");
   const lines = content.trim().split("\n").slice(1); // skip header
   return lines.map((line) => {
-    const [passport, destination, status, days = ""] = line.split(",");
-    return { passport, destination, status, days };
+    const [passport, destination, status, days = "", sourceUrl = "", lastVerified = "", confidence = "unverified"] =
+      line.split(",");
+    return { passport, destination, status, days, sourceUrl, lastVerified, confidence };
   });
 }
 
@@ -35,8 +39,13 @@ function writeCSV(rows: Row[]): void {
       ? a.passport.localeCompare(b.passport)
       : a.destination.localeCompare(b.destination)
   );
-  const lines = sorted.map((r) => `${r.passport},${r.destination},${r.status},${r.days}`);
-  fs.writeFileSync(CSV_PATH, ["passport,destination,status,days", ...lines].join("\n") + "\n");
+  const lines = sorted.map(
+    (r) => `${r.passport},${r.destination},${r.status},${r.days},${r.sourceUrl},${r.lastVerified},${r.confidence || "unverified"}`
+  );
+  fs.writeFileSync(
+    CSV_PATH,
+    ["passport,destination,status,days,source_url,last_verified,confidence", ...lines].join("\n") + "\n"
+  );
 }
 
 function validate(passport: string, destination: string, status?: string): void {
@@ -50,11 +59,24 @@ const [, , command, ...args] = process.argv;
 
 switch (command) {
   case "add": {
-    const [passport, destination, status, days = ""] = args;
+    const [passport, destination, status, ...rest] = args;
     if (!passport || !destination || !status) {
-      console.error("Usage: npm run edit -- add <passport> <destination> <status> [days]");
+      console.error("Usage: npm run edit -- add <passport> <destination> <status> [days] [--source=url] [--verified=YYYY-MM-DD] [--confidence=verified|unverified|disputed]");
       process.exit(1);
     }
+    const flags = rest.filter((a) => a.startsWith("--"));
+    const positional = rest.filter((a) => !a.startsWith("--"));
+    const days = positional[0] ?? "";
+
+    const flagValue = (name: string): string => {
+      const flag = flags.find((f) => f.startsWith(`--${name}=`));
+      return flag ? flag.slice(name.length + 3) : "";
+    };
+
+    const sourceUrl = flagValue("source");
+    const lastVerified = flagValue("verified");
+    const confidence = flagValue("confidence") || "unverified";
+
     const p = passport.toUpperCase();
     const d = destination.toUpperCase();
     validate(p, d, status);
@@ -64,11 +86,11 @@ switch (command) {
 
     if (existing >= 0) {
       const old = rows[existing];
-      rows[existing] = { passport: p, destination: d, status, days };
+      rows[existing] = { passport: p, destination: d, status, days, sourceUrl, lastVerified, confidence };
       writeCSV(rows);
       console.log(`✓ Updated ${p} → ${d}: ${old.status} → ${status}`);
     } else {
-      rows.push({ passport: p, destination: d, status, days });
+      rows.push({ passport: p, destination: d, status, days, sourceUrl, lastVerified, confidence });
       writeCSV(rows);
       console.log(`✓ Added ${p} → ${d}: ${status}`);
     }
@@ -115,6 +137,9 @@ switch (command) {
     } else {
       const labels: Record<string, string> = { vf: "Visa Free", vo: "Visa on Arrival", ev: "eVisa", et: "ETA", vr: "Visa Required" };
       console.log(`${p} → ${d}: ${labels[row.status] ?? row.status}${row.days ? ` (${row.days} days)` : ""}`);
+      console.log(`  confidence: ${row.confidence || "unverified"}`);
+      if (row.lastVerified) console.log(`  last verified: ${row.lastVerified}`);
+      if (row.sourceUrl) console.log(`  source: ${row.sourceUrl}`);
     }
     break;
   }
@@ -170,16 +195,18 @@ switch (command) {
 passport-index edit CLI
 
 Commands:
-  add <passport> <destination> <status> [days]   Add or update a route
+  add <passport> <destination> <status> [days] [--source=url] [--verified=YYYY-MM-DD] [--confidence=verified|unverified|disputed]
   remove <passport> <destination>                Remove a route
   lookup <passport> <destination>                Check a single route
   passport <code>                                Show all routes for a passport
   destination <code>                             Show all passports for a destination
 
 Status codes: vf (Visa Free), vo (Visa on Arrival), ev (eVisa), et (ETA), vr (Visa Required)
+Confidence: verified (checked against an official source), unverified (default), disputed (sources disagree)
 
 Examples:
   npm run edit -- add KE US vf 90
+  npm run edit -- add KE US vf 90 --source=https://travel.state.gov --verified=2026-07-12 --confidence=verified
   npm run edit -- remove KE US
   npm run edit -- lookup KE SG
   npm run edit -- passport KE

@@ -12,7 +12,7 @@ describe("validate", () => {
 
   it("header is correct", () => {
     const lines = fs.readFileSync(csvPath, "utf8").trim().split("\n");
-    assert.equal(lines[0], "passport,destination,status,days");
+    assert.equal(lines[0], "passport,destination,status,days,source_url,last_verified,confidence");
   });
 
   it("has rows beyond the header", () => {
@@ -73,6 +73,36 @@ describe("validate", () => {
       const [, , , days] = line.split(",");
       if (days && days.trim() !== "") {
         assert.ok(!Number.isNaN(Number(days)), `Invalid days '${days}' at row ${i + 2}`);
+      }
+    }
+  });
+
+  it("confidence is a valid value on every row", () => {
+    const lines = fs.readFileSync(csvPath, "utf8").trim().split("\n").slice(1);
+    const valid = new Set(["unverified", "verified", "disputed"]);
+    for (const [i, line] of lines.entries()) {
+      const [, , , , , , confidence] = line.split(",");
+      assert.ok(valid.has(confidence), `Invalid confidence '${confidence}' at row ${i + 2}`);
+    }
+  });
+
+  it("last_verified is YYYY-MM-DD when present", () => {
+    const lines = fs.readFileSync(csvPath, "utf8").trim().split("\n").slice(1);
+    const dateRe = /^\d{4}-\d{2}-\d{2}$/;
+    for (const [i, line] of lines.entries()) {
+      const [, , , , , lastVerified] = line.split(",");
+      if (lastVerified && lastVerified.trim() !== "") {
+        assert.ok(dateRe.test(lastVerified), `Invalid last_verified '${lastVerified}' at row ${i + 2}`);
+      }
+    }
+  });
+
+  it("source_url is http(s) when present", () => {
+    const lines = fs.readFileSync(csvPath, "utf8").trim().split("\n").slice(1);
+    for (const [i, line] of lines.entries()) {
+      const [, , , , sourceUrl] = line.split(",");
+      if (sourceUrl && sourceUrl.trim() !== "") {
+        assert.ok(/^https?:\/\//.test(sourceUrl), `Invalid source_url '${sourceUrl}' at row ${i + 2}`);
       }
     }
   });

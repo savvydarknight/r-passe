@@ -6,9 +6,9 @@ Lightweight passport mobility dataset.
 * Fast
 
 ```csv
-passport,destination,status,days
-KE,SG,vf,30
-KE,US,vr,
+passport,destination,status,days,source_url,last_verified,confidence
+KE,SG,vf,30,,,unverified
+KE,US,vr,,,,unverified
 ```
 
 ## Status Codes
@@ -47,6 +47,7 @@ Use the edit CLI to add, update, or remove routes:
 
 ```bash
 npm run edit -- add KE US vf 90       # add or update a route
+npm run edit -- add KE US vf 90 --source=https://travel.state.gov --verified=2026-07-12 --confidence=verified
 npm run edit -- remove KE US          # remove a route
 npm run edit -- lookup KE SG          # check a single route
 npm run edit -- passport KE           # all routes for a passport
