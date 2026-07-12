@@ -11,17 +11,17 @@
   },
   {
     "rank": 3,
-    "passport": "CH",
-    "score": 158.9
-  },
-  {
-    "rank": 4,
     "passport": "MY",
     "score": 155.6
   },
   {
-    "rank": 5,
+    "rank": 4,
     "passport": "LU",
+    "score": 155.1
+  },
+  {
+    "rank": 5,
+    "passport": "CH",
     "score": 155.1
   },
   {
@@ -191,18 +191,18 @@
   },
   {
     "rank": 39,
-    "passport": "LI",
-    "score": 147.6
-  },
-  {
-    "rank": 40,
     "passport": "US",
     "score": 147.6
   },
   {
-    "rank": 41,
+    "rank": 40,
     "passport": "IS",
     "score": 147.4
+  },
+  {
+    "rank": 41,
+    "passport": "LI",
+    "score": 146.8
   },
   {
     "rank": 42,
