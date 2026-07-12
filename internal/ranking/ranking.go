@@ -8,9 +8,9 @@ import (
 )
 
 type RankEntry struct {
-	Rank     int    `json:"rank"`
-	Passport string `json:"passport"`
-	Score    int    `json:"score"`
+	Rank     int     `json:"rank"`
+	Passport string  `json:"passport"`
+	Score    float64 `json:"score"`
 }
 
 type Countries map[string]string
@@ -62,7 +62,7 @@ func ShowRank(code string) {
 
 	// Load scores
 	scoresData, _ := os.ReadFile("./generated/scores.json")
-	var scores map[string]int
+	var scores map[string]float64
 	json.Unmarshal(scoresData, &scores)
 
 	for _, entry := range rankings {
@@ -71,7 +71,7 @@ func ShowRank(code string) {
 			fmt.Printf("\n%s (%s)\n", name, code)
 			fmt.Println(strings.Repeat("─", 30))
 			fmt.Printf("  Rank          : #%d of %d\n", entry.Rank, len(rankings))
-			fmt.Printf("  Mobility score: %d\n", scores[code])
+			fmt.Printf("  Mobility score: %.1f\n", scores[code])
 			fmt.Printf("  Visa free     : %d destinations\n", vfc[code])
 			fmt.Println()
 			return
@@ -100,7 +100,7 @@ func ShowTop(n int) {
 
 	for _, entry := range rankings[:n] {
 		name := countryName(countries, entry.Passport)
-		fmt.Printf("%-5d %-25s %d\n", entry.Rank, name, entry.Score)
+		fmt.Printf("%-5d %-25s %.1f\n", entry.Rank, name, entry.Score)
 	}
 	fmt.Println()
 }
