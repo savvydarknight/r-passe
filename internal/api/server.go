@@ -37,8 +37,18 @@ func (s *Server) Handler() http.Handler {
 	mux.HandleFunc("/destination/", s.handleDestination)
 	mux.HandleFunc("/rank/", s.handleRank)
 	mux.HandleFunc("/top", s.handleTop)
+	mux.Handle("/data/", withJSONHeaders(http.FileServer(http.Dir("."))))
+	mux.Handle("/generated/", withJSONHeaders(http.FileServer(http.Dir("."))))
 
 	return withCORS(mux)
+}
+
+func withJSONHeaders(next http.Handler) http.Handler {
+	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		w.Header().Set("Access-Control-Allow-Origin", "*")
+		w.Header().Set("Cache-Control", "public, max-age=300")
+		next.ServeHTTP(w, r)
+	})
 }
 
 func withCORS(next http.Handler) http.Handler {
