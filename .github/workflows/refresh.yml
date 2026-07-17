@@ -1,0 +1,28 @@
+name: refresh-data
+
+on:
+  schedule:
+    - cron: "0 8 * * 1"
+  workflow_dispatch: {}
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - run: npm install
+      - name: Clone r-data
+        env:
+          DATA_REPO_PAT: ${{ secrets.DATA_REPO_PAT }}
+        run: git clone https://x-access-token:${DATA_REPO_PAT}@github.com/savvydarknight/r-data.git ../r-data
+      - run: npm run generate
+      - name: Commit and push
+        run: |
+          git config user.email "153359624+savvydarknight@users.noreply.github.com"
+          git config user.name "savvydarknight"
+          git add -A
+          git diff --cached --quiet || git commit -m "Refresh data from r-data $(date -u +%Y-%m-%d)"
+          git push

@@ -1,1 +1,174 @@
+import fs from "fs";
+import path from "path";
+import { CODE_MAP } from "./code-map.ts";
 
+const R_DATA_DIR = process.env.R_DATA_DIR ?? "../r-data";
+
+function parseCSV(text: string): string[][] {
+  const rows: string[][] = [];
+  let row: string[] = [];
+  let field = "";
+  let inQuotes = false;
+
+  for (let i = 0; i < text.length; i++) {
+    const c = text[i];
+
+    if (inQuotes) {
+      if (c === '"') {
+        if (text[i + 1] === '"') {
+          field += '"';
+          i++;
+        } else {
+          inQuotes = false;
+        }
+      } else {
+        field += c;
+      }
+      continue;
+    }
+
+    if (c === '"') {
+      inQuotes = true;
+    } else if (c === ",") {
+      row.push(field);
+      field = "";
+    } else if (c === "\r") {
+      continue;
+    } else if (c === "\n") {
+      row.push(field);
+      rows.push(row);
+      row = [];
+      field = "";
+    } else {
+      field += c;
+    }
+  }
+
+  if (field.length > 0 || row.length > 0) {
+    row.push(field);
+    rows.push(row);
+  }
+
+  return rows.filter((r) => r.length > 1 || r[0] !== "");
+}
+
+function parseDays(allowedStay: string): string {
+  const s = allowedStay.toLowerCase();
+  const num = s.match(/\d+/);
+  if (!num) return "";
+  const n = parseInt(num[0], 10);
+  if (s.includes("year")) return String(n * 365);
+  if (s.includes("month")) return String(n * 30);
+  return String(n);
+}
+
+function mapStatus(requirement: string, requirementRaw: string): string | null {
+  if (requirement === "visa_free") return "vf";
+  if (requirement === "visa_on_arrival") return "vo";
+  if (requirement === "visa_required") return "vr";
+  if (requirement === "no_admission") return "vr";
+  if (requirement === "eta_evisa") {
+    const raw = requirementRaw.toLowerCase();
+    if (/\beta\b|electronic travel/.test(raw)) return "et";
+    return "ev";
+  }
+  return null;
+}
+
+type MasterRow = {
+  passport: string;
+  destination: string;
+  status: string;
+  days: string;
+  source_url: string;
+  last_verified: string;
+  confidence: string;
+};
+
+function main() {
+  const visaPath = path.join(R_DATA_DIR, "visa_requirements.csv");
+  const rawText = fs.readFileSync(visaPath, "utf8");
+  const rows = parseCSV(rawText);
+  const header = rows[0];
+  const dataRows = rows.slice(1);
+
+  const idx = (name: string) => header.indexOf(name);
+  const iPassport = idx("passport_code");
+  const iDest = idx("destination_code");
+  const iReq = idx("requirement");
+  const iReqRaw = idx("requirement_raw");
+  const iStay = idx("allowed_stay");
+  const iUrl = idx("source_url");
+
+  const seen = new Set<string>();
+  const out: MasterRow[] = [];
+  let skippedUnmapped = 0;
+  let skippedUnknown = 0;
+  let skippedDuplicate = 0;
+
+  for (const r of dataRows) {
+    if (r.length < header.length) continue;
+
+    const rawPassport = r[iPassport];
+    const rawDest = r[iDest];
+    const requirement = r[iReq];
+    const requirementRaw = r[iReqRaw];
+    const allowedStay = r[iStay];
+    const sourceUrl = r[iUrl];
+
+    const passport = CODE_MAP[rawPassport];
+    const destination = CODE_MAP[rawDest];
+
+    if (!passport || !destination) {
+      skippedUnmapped++;
+      continue;
+    }
+
+    const status = mapStatus(requirement, requirementRaw);
+    if (!status) {
+      skippedUnknown++;
+      continue;
+    }
+
+    const key = `${passport}:${destination}`;
+    if (seen.has(key)) {
+      skippedDuplicate++;
+      continue;
+    }
+    seen.add(key);
+
+    out.push({
+      passport,
+      destination,
+      status,
+      days: parseDays(allowedStay),
+      source_url: sourceUrl,
+      last_verified: "",
+      confidence: "unverified",
+    });
+  }
+
+  out.sort((a, b) =>
+    a.passport === b.passport
+      ? a.destination.localeCompare(b.destination)
+      : a.passport.localeCompare(b.passport)
+  );
+
+  const lines = ["passport,destination,status,days,source_url,last_verified,confidence"];
+  for (const row of out) {
+    const url = row.source_url.includes(",") ? `"${row.source_url}"` : row.source_url;
+    lines.push(
+      [row.passport, row.destination, row.status, row.days, url, row.last_verified, row.confidence].join(",")
+    );
+  }
+
+  fs.mkdirSync("./data", { recursive: true });
+  fs.writeFileSync("./data/master.csv", lines.join("\n") + "\n");
+
+  console.log(`✓ master.csv written: ${out.length} rows`);
+  console.log(`  skipped (unmapped code): ${skippedUnmapped}`);
+  console.log(`  skipped (unknown/unclassified requirement): ${skippedUnknown}`);
+  console.log(`  skipped (duplicate route): ${skippedDuplicate}`);
+}
+
+main();

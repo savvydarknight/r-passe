@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
+    "import": "tsx scripts/import.ts",
     "validate": "tsx scripts/validate.ts",
     "build": "tsx scripts/build.ts",
     "stats": "tsx scripts/stats.ts",
@@ -10,7 +11,7 @@
     "changelog": "tsx scripts/changelog.ts",
     "edit": "tsx scripts/edit.ts",
     "test": "tsx --test tests/validate.test.ts tests/build.test.ts",
-    "generate": "npm run validate && npm run build && npm run stats && npm run check && npm run changelog"
+    "generate": "npm run import && npm run validate && npm run build && npm run stats && npm run check && npm run changelog"
   },
   "devDependencies": {
     "tsx": "^4.20.0",
