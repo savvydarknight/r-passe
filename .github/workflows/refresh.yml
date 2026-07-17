@@ -26,3 +26,7 @@ jobs:
           git add -A
           git diff --cached --quiet || git commit -m "Refresh data from r-data $(date -u +%Y-%m-%d)"
           git push
+      - name: Trigger Render deploy
+        env:
+          RENDER_DEPLOY_HOOK: ${{ secrets.RENDER_DEPLOY_HOOK }}
+        run: curl -fsS -X POST "$RENDER_DEPLOY_HOOK"
