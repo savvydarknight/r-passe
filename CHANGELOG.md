@@ -1,5 +1,16 @@
 # Changelog
 
+## 2026-07-17
+
+| Metric | Value |
+|--------|-------|
+| Passports | 195 |
+| Routes | 3,953 (-35449) |
+| Top ranked | IL (score: 16.1) |
+| Last ranked | IR (score: 3) |
+
+---
+
 ## 2026-07-12
 
 | Metric | Value |
