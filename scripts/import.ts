@@ -2,56 +2,9 @@ import fs from "fs";
 import path from "path";
 import { CODE_MAP } from "./code-map.ts";
 import { NAME_MAP } from "./name-map.ts";
+import { parseCSV, csvField } from "./csv.ts";
 
 const R_DATA_DIR = process.env.R_DATA_DIR ?? "../r-data";
-
-function parseCSV(text: string): string[][] {
-  const rows: string[][] = [];
-  let row: string[] = [];
-  let field = "";
-  let inQuotes = false;
-
-  for (let i = 0; i < text.length; i++) {
-    const c = text[i];
-
-    if (inQuotes) {
-      if (c === '"') {
-        if (text[i + 1] === '"') {
-          field += '"';
-          i++;
-        } else {
-          inQuotes = false;
-        }
-      } else {
-        field += c;
-      }
-      continue;
-    }
-
-    if (c === '"') {
-      inQuotes = true;
-    } else if (c === ",") {
-      row.push(field);
-      field = "";
-    } else if (c === "\r") {
-      continue;
-    } else if (c === "\n") {
-      row.push(field);
-      rows.push(row);
-      row = [];
-      field = "";
-    } else {
-      field += c;
-    }
-  }
-
-  if (field.length > 0 || row.length > 0) {
-    row.push(field);
-    rows.push(row);
-  }
-
-  return rows.filter((r) => r.length > 1 || r[0] !== "");
-}
 
 function parseDays(allowedStay: string): string {
   const s = allowedStay.toLowerCase();
@@ -61,6 +14,10 @@ function parseDays(allowedStay: string): string {
   if (s.includes("year")) return String(n * 365);
   if (s.includes("month")) return String(n * 30);
   return String(n);
+}
+
+function cleanNotes(notes: string): string {
+  return notes.replace(/\[\d+\]/g, "").trim();
 }
 
 function mapStatus(requirement: string, requirementRaw: string): string | null {
@@ -81,6 +38,7 @@ type MasterRow = {
   destination: string;
   status: string;
   days: string;
+  notes: string;
   source_url: string;
   last_verified: string;
   confidence: string;
@@ -99,6 +57,7 @@ function main() {
   const iReq = idx("requirement");
   const iReqRaw = idx("requirement_raw");
   const iStay = idx("allowed_stay");
+  const iNotes = idx("notes");
   const iUrl = idx("source_url");
 
   const seen = new Set<string>();
@@ -115,6 +74,7 @@ function main() {
     const requirement = r[iReq];
     const requirementRaw = r[iReqRaw];
     const allowedStay = r[iStay];
+    const notes = r[iNotes];
     const sourceUrl = r[iUrl];
 
     const passport = CODE_MAP[rawPassport];
@@ -143,6 +103,7 @@ function main() {
       destination,
       status,
       days: parseDays(allowedStay),
+      notes: cleanNotes(notes),
       source_url: sourceUrl,
       last_verified: "",
       confidence: "unverified",
@@ -155,11 +116,19 @@ function main() {
       : a.passport.localeCompare(b.passport)
   );
 
-  const lines = ["passport,destination,status,days,source_url,last_verified,confidence"];
+  const lines = ["passport,destination,status,days,notes,source_url,last_verified,confidence"];
   for (const row of out) {
-    const url = row.source_url.includes(",") ? `"${row.source_url}"` : row.source_url;
     lines.push(
-      [row.passport, row.destination, row.status, row.days, url, row.last_verified, row.confidence].join(",")
+      [
+        row.passport,
+        row.destination,
+        row.status,
+        row.days,
+        csvField(row.notes),
+        csvField(row.source_url),
+        row.last_verified,
+        row.confidence,
+      ].join(",")
     );
   }
 

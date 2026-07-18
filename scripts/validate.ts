@@ -1,4 +1,5 @@
 import fs from "fs";
+import { parseCSV } from "./csv.ts";
 
 const csv = fs.readFileSync("./data/master.csv", "utf8");
 const countries: Record<string, string> = JSON.parse(
@@ -9,23 +10,22 @@ const { codes: territoryCodes } = JSON.parse(
 );
 const territories = new Set<string>(territoryCodes);
 
-const lines = csv.trim().split("\n");
-const header = lines[0];
+const rows = parseCSV(csv);
+const header = rows[0].join(",");
 
-if (header !== "passport,destination,status,days,source_url,last_verified,confidence") {
+if (header !== "passport,destination,status,days,notes,source_url,last_verified,confidence") {
   throw new Error("Invalid CSV header");
 }
 
-const rows = lines.slice(1);
+const dataRows = rows.slice(1);
 const validStatuses = new Set(["vf", "vo", "ev", "et", "vr"]);
 const validConfidence = new Set(["unverified", "verified", "disputed"]);
 const dateRe = /^\d{4}-\d{2}-\d{2}$/;
 const seen = new Set<string>();
 
-for (const [index, row] of rows.entries()) {
+for (const [index, row] of dataRows.entries()) {
   const rowNumber = index + 2;
-  const [passport, destination, status, days, sourceUrl, lastVerified, confidence] =
-    row.split(",");
+  const [passport, destination, status, days, notes, sourceUrl, lastVerified, confidence] = row;
 
   if (!passport || passport.length !== 2)
     throw new Error(`Invalid passport code at row ${rowNumber}`);
@@ -70,4 +70,4 @@ for (const [index, row] of rows.entries()) {
   seen.add(key);
 }
 
-console.log(`✓ Validation passed (${rows.length} rows)`);
+console.log(`✓ Validation passed (${dataRows.length} rows)`);

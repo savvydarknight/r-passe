@@ -1,4 +1,5 @@
 import fs from "fs";
+import { parseCSV, csvField } from "./csv.ts";
 
 // ============================================================
 // passport-index edit CLI
@@ -18,6 +19,7 @@ interface Row {
   destination: string;
   status: string;
   days: string;
+  notes: string;
   sourceUrl: string;
   lastVerified: string;
   confidence: string;
@@ -25,11 +27,10 @@ interface Row {
 
 function readCSV(): Row[] {
   const content = fs.readFileSync(CSV_PATH, "utf8");
-  const lines = content.trim().split("\n").slice(1); // skip header
-  return lines.map((line) => {
-    const [passport, destination, status, days = "", sourceUrl = "", lastVerified = "", confidence = "unverified"] =
-      line.split(",");
-    return { passport, destination, status, days, sourceUrl, lastVerified, confidence };
+  const rows = parseCSV(content).slice(1); // skip header
+  return rows.map((r) => {
+    const [passport, destination, status, days = "", notes = "", sourceUrl = "", lastVerified = "", confidence = "unverified"] = r;
+    return { passport, destination, status, days, notes, sourceUrl, lastVerified, confidence };
   });
 }
 
@@ -39,12 +40,12 @@ function writeCSV(rows: Row[]): void {
       ? a.passport.localeCompare(b.passport)
       : a.destination.localeCompare(b.destination)
   );
-  const lines = sorted.map(
-    (r) => `${r.passport},${r.destination},${r.status},${r.days},${r.sourceUrl},${r.lastVerified},${r.confidence || "unverified"}`
+  const lines = sorted.map((r) =>
+    [r.passport, r.destination, r.status, r.days, csvField(r.notes), csvField(r.sourceUrl), r.lastVerified, r.confidence || "unverified"].join(",")
   );
   fs.writeFileSync(
     CSV_PATH,
-    ["passport,destination,status,days,source_url,last_verified,confidence", ...lines].join("\n") + "\n"
+    ["passport,destination,status,days,notes,source_url,last_verified,confidence", ...lines].join("\n") + "\n"
   );
 }
 
@@ -86,11 +87,11 @@ switch (command) {
 
     if (existing >= 0) {
       const old = rows[existing];
-      rows[existing] = { passport: p, destination: d, status, days, sourceUrl, lastVerified, confidence };
+      rows[existing] = { passport: p, destination: d, status, days, notes: old.notes, sourceUrl, lastVerified, confidence };
       writeCSV(rows);
       console.log(`✓ Updated ${p} → ${d}: ${old.status} → ${status}`);
     } else {
-      rows.push({ passport: p, destination: d, status, days, sourceUrl, lastVerified, confidence });
+      rows.push({ passport: p, destination: d, status, days, notes: "", sourceUrl, lastVerified, confidence });
       writeCSV(rows);
       console.log(`✓ Added ${p} → ${d}: ${status}`);
     }
@@ -140,6 +141,7 @@ switch (command) {
       console.log(`  confidence: ${row.confidence || "unverified"}`);
       if (row.lastVerified) console.log(`  last verified: ${row.lastVerified}`);
       if (row.sourceUrl) console.log(`  source: ${row.sourceUrl}`);
+      if (row.notes) console.log(`  notes: ${row.notes}`);
     }
     break;
   }
