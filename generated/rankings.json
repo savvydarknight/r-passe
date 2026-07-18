@@ -901,18 +901,18 @@
   },
   {
     "rank": 181,
-    "passport": "BD",
-    "score": 51.9
-  },
-  {
-    "rank": 182,
     "passport": "LK",
     "score": 51.7
   },
   {
-    "rank": 183,
+    "rank": 182,
     "passport": "CD",
     "score": 51.3
+  },
+  {
+    "rank": 183,
+    "passport": "BD",
+    "score": 50.9
   },
   {
     "rank": 184,
