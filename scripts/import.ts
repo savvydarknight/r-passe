@@ -1,6 +1,7 @@
 import fs from "fs";
 import path from "path";
 import { CODE_MAP } from "./code-map.ts";
+import { NAME_MAP } from "./name-map.ts";
 
 const R_DATA_DIR = process.env.R_DATA_DIR ?? "../r-data";
 
@@ -94,7 +95,7 @@ function main() {
 
   const idx = (name: string) => header.indexOf(name);
   const iPassport = idx("passport_code");
-  const iDest = idx("destination_code");
+  const iDest = idx("destination_name");
   const iReq = idx("requirement");
   const iReqRaw = idx("requirement_raw");
   const iStay = idx("allowed_stay");
@@ -117,7 +118,7 @@ function main() {
     const sourceUrl = r[iUrl];
 
     const passport = CODE_MAP[rawPassport];
-    const destination = CODE_MAP[rawDest];
+    const destination = NAME_MAP[rawDest];
 
     if (!passport || !destination) {
       skippedUnmapped++;
