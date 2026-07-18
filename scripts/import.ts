@@ -17,11 +17,7 @@ function parseDays(allowedStay: string): string {
 }
 
 function cleanNotes(notes: string): string {
-  return notes
-    .replace(/\[\s*(?:\d+|note\s*\d+)\s*\]/gi, "")
-    .replace(/\s+/g, " ")
-    .replace(/\s+([.,;:)])/g, "$1")
-    .trim();
+  return notes.trim();
 }
 
 function mapStatus(requirement: string, requirementRaw: string): string | null {
