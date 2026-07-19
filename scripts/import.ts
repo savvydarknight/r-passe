@@ -44,6 +44,35 @@ type MasterRow = {
   confidence: string;
 };
 
+function importPassportImages() {
+  const imagesPath = path.join(R_DATA_DIR, "passport_images.csv");
+  if (!fs.existsSync(imagesPath)) {
+    console.log("  (passport_images.csv not found, skipping)");
+    return;
+  }
+
+  const rawText = fs.readFileSync(imagesPath, "utf8");
+  const rows = parseCSV(rawText);
+  const header = rows[0];
+  const dataRows = rows.slice(1);
+
+  const iIso = header.indexOf("iso_code");
+  const iFile = header.indexOf("commons_filename");
+
+  const images: Record<string, string> = {};
+  for (const r of dataRows) {
+    if (r.length < header.length) continue;
+    const iso = r[iIso];
+    const filename = r[iFile];
+    if (!iso || !filename) continue;
+    images[iso] = `https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(filename)}`;
+  }
+
+  fs.mkdirSync("./generated", { recursive: true });
+  fs.writeFileSync("./generated/passport_images.json", JSON.stringify(images, null, 2));
+  console.log(`✓ passport_images.json written: ${Object.keys(images).length} countries`);
+}
+
 function main() {
   const visaPath = path.join(R_DATA_DIR, "visa_requirements.csv");
   const rawText = fs.readFileSync(visaPath, "utf8");
@@ -139,6 +168,8 @@ function main() {
   console.log(`  skipped (unmapped code): ${skippedUnmapped}`);
   console.log(`  skipped (unknown/unclassified requirement): ${skippedUnknown}`);
   console.log(`  skipped (duplicate route): ${skippedDuplicate}`);
+
+  importPassportImages();
 }
 
 main();
