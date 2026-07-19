@@ -197,4 +197,6 @@ export const CODE_MAP: Record<string, string> = {
   TONGAN: "TO",
   TUVALUAN: "TV",
   VANUATUAN: "VU",
+  HONG_KONG: "HK",
+  MACAU: "MO",
 };
