@@ -1,5 +1,16 @@
 # Changelog
 
+## 2026-07-20
+
+| Metric | Value |
+|--------|-------|
+| Passports | 197 |
+| Routes | 37,205 (no change) |
+| Top ranked | HK (score: 157) |
+| Last ranked | SY (score: 35.9) |
+
+---
+
 ## 2026-07-19
 
 | Metric | Value |
