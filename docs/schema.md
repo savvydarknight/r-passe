@@ -3,9 +3,9 @@
 ## master.csv
 
 ```csv
-passport,destination,status,days,source_url,last_verified,confidence
-KE,SG,vf,30,,,unverified
-KE,US,vr,,https://travel.state.gov/,2026-07-12,verified
+passport,destination,status,days,notes,source_url,last_verified,confidence
+KE,SG,vf,30,,,,unverified
+KE,US,vr,,,https://travel.state.gov/,2026-07-12,verified
 ```
 
 ### Fields
@@ -16,6 +16,7 @@ KE,US,vr,,https://travel.state.gov/,2026-07-12,verified
 | destination   | ISO 3166-1 alpha-2                |                                          |
 | status        | Status code                       |                                          |
 | days          | Integer                           | empty if not applicable                |
+| notes         | Text                               | free-text conditions, empty if none    |
 | source_url    | URL                                | empty if not yet sourced               |
 | last_verified | Date (YYYY-MM-DD)                 | empty if never verified                |
 | confidence    | `unverified` \| `verified` \| `disputed` | defaults to `unverified`         |
