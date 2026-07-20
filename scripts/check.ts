@@ -17,7 +17,7 @@ const WEIGHTS: Record<string, number> = {
   vo: 0.7,
   ev: 0.5,
   et: 0.3,
-  vr: 0,
+  vr: -1.0,
 };
 
 for (const passport of Object.keys(matrix)) {
