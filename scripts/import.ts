@@ -110,48 +110,6 @@ function main() {
     });
   }
 
-  let backfilled = 0;
-  const policyPath = path.join(R_DATA_DIR, "destination_policy.csv");
-  if (fs.existsSync(policyPath)) {
-    const policyRows = parseCSV(fs.readFileSync(policyPath, "utf8"));
-    const pHeader = policyRows[0];
-    const pIdx = (name: string) => pHeader.indexOf(name);
-    const iPDest = pIdx("destination_name");
-    const iPSource = pIdx("source_country_name");
-    const iPReq = pIdx("requirement");
-    const iPReqRaw = pIdx("requirement_raw");
-    const iPStay = pIdx("allowed_stay");
-    const iPNotes = pIdx("notes");
-    const iPUrl = pIdx("source_url");
-
-    for (const r of policyRows.slice(1)) {
-      if (r.length < pHeader.length) continue;
-
-      const passport = NAME_MAP[r[iPSource]];
-      const destination = NAME_MAP[r[iPDest]];
-      if (!passport || !destination) continue;
-
-      const key = `${passport}:${destination}`;
-      if (seen.has(key)) continue;
-
-      const status = mapStatus(r[iPReq], r[iPReqRaw]);
-      if (!status) continue;
-
-      seen.add(key);
-      backfilled++;
-      out.push({
-        passport,
-        destination,
-        status,
-        days: parseDays(r[iPStay]),
-        notes: cleanNotes(r[iPNotes]),
-        source_url: r[iPUrl],
-        last_verified: "",
-        confidence: "unverified",
-      });
-    }
-  }
-
   out.sort((a, b) =>
     a.passport === b.passport
       ? a.destination.localeCompare(b.destination)
@@ -181,7 +139,6 @@ function main() {
   console.log(`  skipped (unmapped code): ${skippedUnmapped}`);
   console.log(`  skipped (unknown/unclassified requirement): ${skippedUnknown}`);
   console.log(`  skipped (duplicate route): ${skippedDuplicate}`);
-  console.log(`  backfilled from destination-policy: ${backfilled}`);
 }
 
 main();
