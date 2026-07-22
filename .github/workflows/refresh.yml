@@ -26,13 +26,24 @@ jobs:
           git add -A
           git diff --cached --quiet || git commit -m "Refresh data from r-data $(date -u +%Y-%m-%d)"
           git push
+      - name: Sync data to r-ui
+        env:
+          DATA_REPO_PAT: ${{ secrets.DATA_REPO_PAT }}
+        run: |
+          git clone https://x-access-token:${DATA_REPO_PAT}@github.com/savvydarknight/r-ui.git ../r-ui
+          cp data/countries.json ../r-ui/data/countries.json
+          cp data/passport_matrix.json ../r-ui/data/passport_matrix.json
+          cp generated/rankings.json ../r-ui/data/rankings.json
+          cp generated/scores.json ../r-ui/data/scores.json
+          cp generated/visa-free-counts.json ../r-ui/data/visa-free-counts.json
+          cp generated/route-metadata.json ../r-ui/data/route-metadata.json
+          cd ../r-ui
+          git config user.email "153359624+savvydarknight@users.noreply.github.com"
+          git config user.name "savvydarknight"
+          git add -A
+          git diff --cached --quiet || git commit -m "Sync data from r-passe $(date -u +%Y-%m-%d)"
+          git diff --cached --quiet || git push
       - name: Trigger Render deploy
         env:
           RENDER_DEPLOY_HOOK: ${{ secrets.RENDER_DEPLOY_HOOK }}
         run: curl -fsS -X POST "$RENDER_DEPLOY_HOOK"
-      - name: Wait for Render deploy to land
-        run: sleep 90
-      - name: Trigger Vercel deploy (r-ui)
-        env:
-          VERCEL_DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
-        run: curl -fsS -X POST "$VERCEL_DEPLOY_HOOK"
