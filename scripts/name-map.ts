@@ -144,6 +144,7 @@ export const NAME_MAP: Record<string, string> = {
   Oman: "OM",
   Pakistan: "PK",
   Palau: "PW",
+  Palestine: "PS",
   Panama: "PA",
   "Papua New Guinea": "PG",
   Paraguay: "PY",

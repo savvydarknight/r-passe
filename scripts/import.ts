@@ -6,6 +6,14 @@ import { parseCSV, csvField } from "./csv.ts";
 
 const R_DATA_DIR = process.env.R_DATA_DIR ?? "../r-data";
 
+const NAME_MAP_CI: Record<string, string> = {};
+for (const [name, code] of Object.entries(NAME_MAP)) {
+  NAME_MAP_CI[name.toLowerCase()] = code;
+}
+function resolveName(name: string): string | undefined {
+  return NAME_MAP[name] ?? NAME_MAP_CI[name.trim().toLowerCase()];
+}
+
 function parseDays(allowedStay: string): string {
   const s = allowedStay.toLowerCase();
   const num = s.match(/\d+/);
@@ -127,9 +135,9 @@ function main() {
     for (const r of policyRows.slice(1)) {
       if (r.length < pHeader.length) continue;
 
-      const passport = r[iPSource];
-      const destination = r[iPDest];
-      if (!passport || !destination || passport.length !== 2 || destination.length !== 2) continue;
+      const passport = resolveName(r[iPSource]);
+      const destination = resolveName(r[iPDest]);
+      if (!passport || !destination) continue;
 
       const key = `${passport}:${destination}`;
       if (seen.has(key)) continue;
