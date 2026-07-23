@@ -15,8 +15,8 @@ const visaFreeCounts: Record<string, number> = {};
 const WEIGHTS: Record<string, number> = {
   vf: 1.0,
   vo: 0.7,
-  ev: 0.5,
-  et: 0.3,
+  ev: 0.2,
+  et: 0.1,
   vr: -1.0,
 };
 
