@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-11T04:32:02.543Z",
+  "generated_at": "2026-09-11T04:45:56.162Z",
   "universe_size": 199,
   "total_expected_pairs": 39402,
-  "total_missing_pairs": 327,
+  "total_missing_pairs": 326,
   "by_passport": [
     {
       "code": "CN",
@@ -102,15 +102,6 @@
       "missing": [
         "PS",
         "TW",
-        "XK"
-      ]
-    },
-    {
-      "code": "HK",
-      "name": "Hong Kong",
-      "missing": [
-        "MO",
-        "PS",
         "XK"
       ]
     },
@@ -411,6 +402,14 @@
     {
       "code": "GW",
       "name": "Guinea-Bissau",
+      "missing": [
+        "PS",
+        "XK"
+      ]
+    },
+    {
+      "code": "HK",
+      "name": "Hong Kong",
       "missing": [
         "PS",
         "XK"
@@ -1841,7 +1840,6 @@
       "missing": [
         "BT",
         "CN",
-        "HK",
         "HT",
         "IQ",
         "KP",

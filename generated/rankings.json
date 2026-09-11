@@ -6,18 +6,18 @@
   },
   {
     "rank": 2,
+    "passport": "HK",
+    "score": 160.8
+  },
+  {
+    "rank": 3,
     "passport": "AE",
     "score": 160.1
   },
   {
-    "rank": 3,
+    "rank": 4,
     "passport": "MY",
     "score": 160
-  },
-  {
-    "rank": 4,
-    "passport": "HK",
-    "score": 159.8
   },
   {
     "rank": 5,
