@@ -118,6 +118,7 @@ export const NAME_MAP: Record<string, string> = {
   Lithuania: "LT",
   Luxembourg: "LU",
   Macau: "MO",
+  Macao: "MO",
   Madagascar: "MG",
   Malawi: "MW",
   Malaysia: "MY",
