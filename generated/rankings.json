@@ -6,8 +6,8 @@
   },
   {
     "rank": 2,
-    "passport": "HK",
-    "score": 160.3
+    "passport": "AE",
+    "score": 160.1
   },
   {
     "rank": 3,
@@ -16,8 +16,8 @@
   },
   {
     "rank": 4,
-    "passport": "AE",
-    "score": 159.6
+    "passport": "HK",
+    "score": 159.8
   },
   {
     "rank": 5,
@@ -121,53 +121,53 @@
   },
   {
     "rank": 25,
-    "passport": "HU",
+    "passport": "CZ",
     "score": 153.5
   },
   {
     "rank": 26,
-    "passport": "CZ",
-    "score": 152.5
+    "passport": "HU",
+    "score": 153.5
   },
   {
     "rank": 27,
+    "passport": "KR",
+    "score": 153.2
+  },
+  {
+    "rank": 28,
     "passport": "GB",
     "score": 152.5
   },
   {
-    "rank": 28,
+    "rank": 29,
     "passport": "BG",
     "score": 152.5
   },
   {
-    "rank": 29,
+    "rank": 30,
     "passport": "HR",
     "score": 152.3
   },
   {
-    "rank": 30,
+    "rank": 31,
     "passport": "SK",
     "score": 151.5
   },
   {
-    "rank": 31,
+    "rank": 32,
     "passport": "LT",
     "score": 151.5
   },
   {
-    "rank": 32,
+    "rank": 33,
     "passport": "SI",
     "score": 151.4
   },
   {
-    "rank": 33,
+    "rank": 34,
     "passport": "NZ",
     "score": 151.4
-  },
-  {
-    "rank": 34,
-    "passport": "KR",
-    "score": 151.2
   },
   {
     "rank": 35,
@@ -201,33 +201,33 @@
   },
   {
     "rank": 41,
+    "passport": "US",
+    "score": 147.2
+  },
+  {
+    "rank": 42,
     "passport": "BR",
     "score": 146.4
   },
   {
-    "rank": 42,
+    "rank": 43,
     "passport": "LI",
     "score": 145.8
   },
   {
-    "rank": 43,
+    "rank": 44,
     "passport": "MC",
     "score": 145.2
   },
   {
-    "rank": 44,
+    "rank": 45,
     "passport": "CL",
     "score": 144.3
   },
   {
-    "rank": 45,
-    "passport": "US",
-    "score": 144.2
-  },
-  {
     "rank": 46,
     "passport": "AR",
-    "score": 142.7
+    "score": 143.7
   },
   {
     "rank": 47,
@@ -242,7 +242,7 @@
   {
     "rank": 49,
     "passport": "BB",
-    "score": 140.8
+    "score": 141.5
   },
   {
     "rank": 50,
@@ -252,7 +252,7 @@
   {
     "rank": 51,
     "passport": "KN",
-    "score": 137.7
+    "score": 138.4
   },
   {
     "rank": 52,
@@ -267,7 +267,7 @@
   {
     "rank": 54,
     "passport": "BS",
-    "score": 135.9
+    "score": 136.6
   },
   {
     "rank": 55,
@@ -277,27 +277,27 @@
   {
     "rank": 56,
     "passport": "VC",
-    "score": 133.1
+    "score": 133.8
   },
   {
     "rank": 57,
     "passport": "AG",
-    "score": 133.1
+    "score": 133.8
   },
   {
     "rank": 58,
     "passport": "CR",
-    "score": 132.5
+    "score": 133.2
   },
   {
     "rank": 59,
     "passport": "TT",
-    "score": 132.2
+    "score": 132.9
   },
   {
     "rank": 60,
     "passport": "UA",
-    "score": 131.7
+    "score": 132.4
   },
   {
     "rank": 61,
@@ -307,17 +307,17 @@
   {
     "rank": 62,
     "passport": "DM",
-    "score": 130.6
+    "score": 131.1
   },
   {
     "rank": 63,
     "passport": "PE",
-    "score": 129
+    "score": 130.2
   },
   {
     "rank": 64,
     "passport": "PY",
-    "score": 129
+    "score": 129.7
   },
   {
     "rank": 65,
@@ -336,58 +336,58 @@
   },
   {
     "rank": 68,
+    "passport": "MU",
+    "score": 127.3
+  },
+  {
+    "rank": 69,
     "passport": "GD",
     "score": 126.9
   },
   {
-    "rank": 69,
-    "passport": "MU",
-    "score": 126.8
-  },
-  {
     "rank": 70,
     "passport": "PA",
-    "score": 124.9
+    "score": 126.1
   },
   {
     "rank": 71,
+    "passport": "LC",
+    "score": 123.9
+  },
+  {
+    "rank": 72,
+    "passport": "CO",
+    "score": 123.5
+  },
+  {
+    "rank": 73,
     "passport": "WS",
     "score": 123.5
   },
   {
-    "rank": 72,
-    "passport": "LC",
-    "score": 122.9
-  },
-  {
-    "rank": 73,
-    "passport": "CO",
-    "score": 122.3
-  },
-  {
     "rank": 74,
     "passport": "ME",
-    "score": 121.7
+    "score": 122.2
   },
   {
     "rank": 75,
-    "passport": "SB",
-    "score": 121.4
+    "passport": "SV",
+    "score": 121.7
   },
   {
     "rank": 76,
-    "passport": "SV",
-    "score": 121
+    "passport": "SB",
+    "score": 121.6
   },
   {
     "rank": 77,
     "passport": "TV",
-    "score": 120.8
+    "score": 121.5
   },
   {
     "rank": 78,
     "passport": "GE",
-    "score": 120
+    "score": 120.7
   },
   {
     "rank": 79,
@@ -396,93 +396,93 @@
   },
   {
     "rank": 80,
-    "passport": "KI",
-    "score": 118.1
+    "passport": "MK",
+    "score": 119.6
   },
   {
     "rank": 81,
-    "passport": "MK",
-    "score": 117.6
+    "passport": "TO",
+    "score": 117.8
   },
   {
     "rank": 82,
-    "passport": "TO",
-    "score": 117.1
+    "passport": "KI",
+    "score": 117.8
   },
   {
     "rank": 83,
     "passport": "MH",
-    "score": 116.1
+    "score": 116.8
   },
   {
     "rank": 84,
+    "passport": "GT",
+    "score": 114.8
+  },
+  {
+    "rank": 85,
+    "passport": "HN",
+    "score": 114.7
+  },
+  {
+    "rank": 86,
+    "passport": "BA",
+    "score": 114.5
+  },
+  {
+    "rank": 87,
     "passport": "TW",
     "score": 114.3
   },
   {
-    "rank": 85,
-    "passport": "GT",
-    "score": 114.1
-  },
-  {
-    "rank": 86,
-    "passport": "HN",
-    "score": 114
-  },
-  {
-    "rank": 87,
-    "passport": "BA",
-    "score": 114
-  },
-  {
     "rank": 88,
+    "passport": "RU",
+    "score": 113.8
+  },
+  {
+    "rank": 89,
     "passport": "NI",
     "score": 113.7
   },
   {
-    "rank": 89,
-    "passport": "RU",
-    "score": 113.3
-  },
-  {
     "rank": 90,
     "passport": "MD",
-    "score": 113.1
+    "score": 113.6
   },
   {
     "rank": 91,
     "passport": "FM",
-    "score": 110.2
+    "score": 110.9
   },
   {
     "rank": 92,
     "passport": "VE",
-    "score": 109.9
+    "score": 110.6
   },
   {
     "rank": 93,
     "passport": "PW",
-    "score": 106.6
+    "score": 107.3
   },
   {
     "rank": 94,
     "passport": "TR",
-    "score": 105.1
+    "score": 107.1
   },
   {
     "rank": 95,
     "passport": "QA",
-    "score": 102.8
+    "score": 104
   },
   {
     "rank": 96,
     "passport": "KW",
-    "score": 99.8
+    "score": 101.3
   },
   {
     "rank": 97,
     "passport": "TL",
-    "score": 97.1
+    "score": 98.8
   },
   {
     "rank": 98,
@@ -492,132 +492,132 @@
   {
     "rank": 99,
     "passport": "BZ",
-    "score": 94.3
+    "score": 95
   },
   {
     "rank": 100,
     "passport": "JM",
-    "score": 91.2
+    "score": 91.9
   },
   {
     "rank": 101,
     "passport": "MV",
-    "score": 91.1
+    "score": 91.8
   },
   {
     "rank": 102,
-    "passport": "XK",
-    "score": 90.2
+    "passport": "SA",
+    "score": 91
   },
   {
     "rank": 103,
+    "passport": "XK",
+    "score": 90.9
+  },
+  {
+    "rank": 104,
+    "passport": "EC",
+    "score": 90.5
+  },
+  {
+    "rank": 105,
     "passport": "CN",
     "score": 90
   },
   {
-    "rank": 104,
-    "passport": "SA",
-    "score": 89.8
-  },
-  {
-    "rank": 105,
-    "passport": "EC",
-    "score": 89
-  },
-  {
     "rank": 106,
     "passport": "FJ",
-    "score": 86.6
+    "score": 87.3
   },
   {
     "rank": 107,
-    "passport": "VU",
-    "score": 83.9
+    "passport": "KZ",
+    "score": 84.8
   },
   {
     "rank": 108,
-    "passport": "OM",
-    "score": 83.4
+    "passport": "VU",
+    "score": 84.6
   },
   {
     "rank": 109,
-    "passport": "KZ",
-    "score": 82.8
+    "passport": "OM",
+    "score": 84.1
   },
   {
     "rank": 110,
     "passport": "BH",
-    "score": 82.4
+    "score": 83.6
   },
   {
     "rank": 111,
+    "passport": "GY",
+    "score": 82.5
+  },
+  {
+    "rank": 112,
+    "passport": "MA",
+    "score": 82.1
+  },
+  {
+    "rank": 113,
     "passport": "TH",
     "score": 82
   },
   {
-    "rank": 112,
-    "passport": "GY",
-    "score": 81.8
-  },
-  {
-    "rank": 113,
-    "passport": "NR",
-    "score": 80.8
-  },
-  {
     "rank": 114,
-    "passport": "MA",
-    "score": 80.6
+    "passport": "NR",
+    "score": 81.5
   },
   {
     "rank": 115,
     "passport": "BY",
-    "score": 80.4
+    "score": 81.4
   },
   {
     "rank": 116,
     "passport": "ID",
-    "score": 80.2
+    "score": 81.2
   },
   {
     "rank": 117,
     "passport": "BW",
-    "score": 78.4
+    "score": 79.1
   },
   {
     "rank": 118,
+    "passport": "DO",
+    "score": 77.4
+  },
+  {
+    "rank": 119,
+    "passport": "BO",
+    "score": 77.4
+  },
+  {
+    "rank": 120,
     "passport": "NA",
     "score": 77.1
   },
   {
-    "rank": 119,
-    "passport": "DO",
-    "score": 76.7
-  },
-  {
-    "rank": 120,
-    "passport": "BO",
-    "score": 76.7
-  },
-  {
     "rank": 121,
     "passport": "SR",
-    "score": 76.4
+    "score": 77.1
   },
   {
     "rank": 122,
+    "passport": "GH",
+    "score": 76.7
+  },
+  {
+    "rank": 123,
     "passport": "MN",
     "score": 75.8
   },
   {
-    "rank": 123,
-    "passport": "GH",
-    "score": 75.5
-  },
-  {
     "rank": 124,
     "passport": "LS",
-    "score": 75
+    "score": 75.7
   },
   {
     "rank": 125,
@@ -627,242 +627,242 @@
   {
     "rank": 126,
     "passport": "PG",
-    "score": 74.2
+    "score": 74.9
   },
   {
     "rank": 127,
-    "passport": "SZ",
-    "score": 73
+    "passport": "AM",
+    "score": 74.3
   },
   {
     "rank": 128,
-    "passport": "AM",
-    "score": 72.8
+    "passport": "SZ",
+    "score": 73.7
   },
   {
     "rank": 129,
+    "passport": "KE",
+    "score": 72.9
+  },
+  {
+    "rank": 130,
     "passport": "TZ",
     "score": 72.6
   },
   {
-    "rank": 130,
-    "passport": "KE",
-    "score": 72.2
-  },
-  {
     "rank": 131,
-    "passport": "MW",
-    "score": 71.7
+    "passport": "AZ",
+    "score": 72.5
   },
   {
     "rank": 132,
+    "passport": "MW",
+    "score": 72.4
+  },
+  {
+    "rank": 133,
+    "passport": "UG",
+    "score": 71.4
+  },
+  {
+    "rank": 134,
     "passport": "UZ",
     "score": 71.4
   },
   {
-    "rank": 133,
-    "passport": "AZ",
-    "score": 71.3
-  },
-  {
-    "rank": 134,
-    "passport": "UG",
-    "score": 70.7
-  },
-  {
     "rank": 135,
     "passport": "BJ",
-    "score": 70.6
+    "score": 71.3
   },
   {
     "rank": 136,
     "passport": "TN",
-    "score": 70.5
+    "score": 71.2
   },
   {
     "rank": 137,
     "passport": "ZM",
-    "score": 69.8
+    "score": 70.5
   },
   {
     "rank": 138,
     "passport": "ZW",
-    "score": 69.1
+    "score": 69.8
   },
   {
     "rank": 139,
+    "passport": "SN",
+    "score": 69.2
+  },
+  {
+    "rank": 140,
+    "passport": "NE",
+    "score": 68.7
+  },
+  {
+    "rank": 141,
     "passport": "CV",
     "score": 68.6
   },
   {
-    "rank": 140,
-    "passport": "IN",
-    "score": 68.2
-  },
-  {
-    "rank": 141,
-    "passport": "SN",
-    "score": 68
-  },
-  {
     "rank": 142,
-    "passport": "NE",
-    "score": 68
+    "passport": "SL",
+    "score": 68.5
   },
   {
     "rank": 143,
-    "passport": "SL",
-    "score": 67.3
+    "passport": "IN",
+    "score": 67.5
   },
   {
     "rank": 144,
     "passport": "KG",
-    "score": 66
+    "score": 67.2
   },
   {
     "rank": 145,
     "passport": "CI",
-    "score": 65.6
+    "score": 66.8
   },
   {
     "rank": 146,
     "passport": "GM",
-    "score": 65.5
+    "score": 66.2
   },
   {
     "rank": 147,
-    "passport": "MZ",
-    "score": 65.1
+    "passport": "RW",
+    "score": 66.1
   },
   {
     "rank": 148,
-    "passport": "VN",
-    "score": 65
+    "passport": "MZ",
+    "score": 65.8
   },
   {
     "rank": 149,
-    "passport": "RW",
-    "score": 64.9
+    "passport": "VN",
+    "score": 65.8
   },
   {
     "rank": 150,
-    "passport": "TJ",
-    "score": 64.7
+    "passport": "TG",
+    "score": 65.4
   },
   {
     "rank": 151,
     "passport": "MG",
-    "score": 64.5
+    "score": 65.2
   },
   {
     "rank": 152,
     "passport": "ST",
-    "score": 64.4
+    "score": 65.1
   },
   {
     "rank": 153,
-    "passport": "TG",
-    "score": 64.2
+    "passport": "TJ",
+    "score": 64.7
   },
   {
     "rank": 154,
     "passport": "GN",
-    "score": 63.9
+    "score": 64.6
   },
   {
     "rank": 155,
-    "passport": "BF",
-    "score": 63.3
+    "passport": "KH",
+    "score": 64.5
   },
   {
     "rank": 156,
-    "passport": "KH",
-    "score": 63.3
+    "passport": "CU",
+    "score": 64.3
   },
   {
     "rank": 157,
-    "passport": "JO",
-    "score": 63.2
+    "passport": "BF",
+    "score": 64
   },
   {
     "rank": 158,
+    "passport": "JO",
+    "score": 63.9
+  },
+  {
+    "rank": 159,
+    "passport": "DZ",
+    "score": 63.7
+  },
+  {
+    "rank": 160,
     "passport": "EG",
     "score": 63.2
   },
   {
-    "rank": 159,
-    "passport": "CU",
-    "score": 63.1
-  },
-  {
-    "rank": 160,
-    "passport": "DZ",
-    "score": 63
-  },
-  {
     "rank": 161,
+    "passport": "TD",
+    "score": 62.9
+  },
+  {
+    "rank": 162,
+    "passport": "GW",
+    "score": 62.7
+  },
+  {
+    "rank": 163,
+    "passport": "MR",
+    "score": 62.5
+  },
+  {
+    "rank": 164,
+    "passport": "AO",
+    "score": 62.5
+  },
+  {
+    "rank": 165,
     "passport": "BT",
     "score": 62.5
   },
   {
-    "rank": 162,
+    "rank": 166,
+    "passport": "GA",
+    "score": 62.3
+  },
+  {
+    "rank": 166,
     "passport": "ML",
     "score": 62.3
   },
   {
-    "rank": 163,
-    "passport": "TD",
-    "score": 62.2
-  },
-  {
-    "rank": 164,
-    "passport": "MR",
-    "score": 61.8
-  },
-  {
-    "rank": 165,
-    "passport": "GA",
-    "score": 61.6
-  },
-  {
-    "rank": 166,
-    "passport": "GW",
-    "score": 61.5
-  },
-  {
-    "rank": 167,
-    "passport": "AO",
-    "score": 61.3
-  },
-  {
     "rank": 168,
     "passport": "GQ",
-    "score": 60.1
+    "score": 60.8
   },
   {
     "rank": 169,
     "passport": "CM",
-    "score": 59.1
+    "score": 60.3
   },
   {
     "rank": 170,
-    "passport": "KM",
-    "score": 59
+    "passport": "LB",
+    "score": 60.2
   },
   {
     "rank": 171,
     "passport": "CF",
-    "score": 58.5
+    "score": 59.7
   },
   {
     "rank": 172,
-    "passport": "LB",
-    "score": 58.2
+    "passport": "KM",
+    "score": 59.7
   },
   {
     "rank": 173,
     "passport": "LR",
-    "score": 57.6
+    "score": 58.8
   },
   {
     "rank": 174,
@@ -871,83 +871,83 @@
   },
   {
     "rank": 175,
-    "passport": "PS",
-    "score": 56.6
+    "passport": "BI",
+    "score": 57.4
   },
   {
     "rank": 176,
-    "passport": "BI",
-    "score": 56.2
+    "passport": "PS",
+    "score": 57.1
   },
   {
     "rank": 177,
     "passport": "LK",
-    "score": 55.5
+    "score": 56
   },
   {
     "rank": 178,
+    "passport": "CG",
+    "score": 55.7
+  },
+  {
+    "rank": 179,
+    "passport": "DJ",
+    "score": 55.3
+  },
+  {
+    "rank": 180,
+    "passport": "SD",
+    "score": 54.9
+  },
+  {
+    "rank": 181,
+    "passport": "HT",
+    "score": 54.9
+  },
+  {
+    "rank": 182,
     "passport": "MM",
     "score": 54.8
   },
   {
-    "rank": 179,
+    "rank": 183,
     "passport": "LA",
     "score": 54.7
   },
   {
-    "rank": 180,
-    "passport": "DJ",
-    "score": 54.6
-  },
-  {
-    "rank": 181,
-    "passport": "CG",
-    "score": 54.5
-  },
-  {
-    "rank": 182,
-    "passport": "HT",
-    "score": 54.4
-  },
-  {
-    "rank": 183,
-    "passport": "NG",
-    "score": 54.1
-  },
-  {
     "rank": 184,
-    "passport": "SD",
-    "score": 53.7
+    "passport": "NG",
+    "score": 54.6
   },
   {
     "rank": 185,
     "passport": "CD",
-    "score": 52.9
+    "score": 54.1
   },
   {
     "rank": 186,
     "passport": "ET",
-    "score": 52.5
+    "score": 53.7
   },
   {
     "rank": 187,
     "passport": "LY",
-    "score": 52
+    "score": 53.2
   },
   {
     "rank": 188,
-    "passport": "NP",
-    "score": 51.1
+    "passport": "IR",
+    "score": 52
   },
   {
     "rank": 189,
-    "passport": "BD",
-    "score": 50.8
+    "passport": "NP",
+    "score": 51.6
   },
   {
     "rank": 190,
-    "passport": "IR",
-    "score": 50.3
+    "passport": "BD",
+    "score": 50.8
   },
   {
     "rank": 191,
@@ -957,27 +957,27 @@
   {
     "rank": 192,
     "passport": "PK",
-    "score": 47.5
+    "score": 48.5
   },
   {
     "rank": 193,
     "passport": "ER",
-    "score": 46.9
+    "score": 48.1
   },
   {
     "rank": 194,
-    "passport": "YE",
-    "score": 46.9
+    "passport": "SO",
+    "score": 47.5
   },
   {
     "rank": 195,
-    "passport": "SO",
-    "score": 46.3
+    "passport": "SS",
+    "score": 46.9
   },
   {
     "rank": 196,
-    "passport": "SS",
-    "score": 45.7
+    "passport": "YE",
+    "score": 46.9
   },
   {
     "rank": 197,
@@ -987,7 +987,7 @@
   {
     "rank": 198,
     "passport": "AF",
-    "score": 38.5
+    "score": 39.7
   },
   {
     "rank": 199,
