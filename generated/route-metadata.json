@@ -112912,7 +112912,7 @@
     "footnote_ids": "103"
   },
   "HK:DJ": {
-    "notes": "Multiple entry methods are available for this route:\n- Visa not required\n- Visa on arrival",
+    "notes": "Multiple entry methods are available for this route:\n- Visa not required\n- eVisa\n- Visa on arrival",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
     "last_verified": "",
     "confidence": "unverified",
@@ -113560,7 +113560,7 @@
     "footnote_ids": "161"
   },
   "HK:MZ": {
-    "notes": "Multiple entry methods are available for this route:\n- Visa not required\n- Visa on arrival",
+    "notes": "Multiple entry methods are available for this route:\n- Visa not required\n- Visa on arrival\n- eVisa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
     "last_verified": "",
     "confidence": "unverified",
@@ -113752,7 +113752,7 @@
     "footnote_ids": "209"
   },
   "HK:RW": {
-    "notes": "Multiple entry methods are available for this route:\n- Visa not required\n- Visa on arrival",
+    "notes": "Multiple entry methods are available for this route:\n- Visa not required\n- eVisa\n- Visa on arrival",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
     "last_verified": "",
     "confidence": "unverified",
@@ -207648,7 +207648,7 @@
     "footnote_ids": "20"
   },
   "NL:AU": {
-    "notes": "- 90 days on each visit in 12-month period if granted.",
+    "notes": "Multiple entry methods are available for this route:\n- eVisa\n- ETA\n\n- 90 days on each visit in 12-month period if granted.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -224864,7 +224864,7 @@
     "footnote_ids": "347;Immigration_&_Customs-348;349"
   },
   "PK:TW": {
-    "notes": "",
+    "notes": "Multiple entry methods are available for this route:\n- Visa required\n- eVisa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Pakistani_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -304008,7 +304008,7 @@
     "footnote_ids": "279"
   },
   "VN:TW": {
-    "notes": "Multiple entry methods are available for this route:\n- Visa required\n- ETA",
+    "notes": "Multiple entry methods are available for this route:\n- Visa required\n- eVisa\n- ETA",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens",
     "last_verified": "",
     "confidence": "unverified",

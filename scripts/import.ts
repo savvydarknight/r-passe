@@ -46,7 +46,10 @@ function classifySegmentLabel(text: string): string | null {
 }
 
 function extractAllMethods(requirementRaw: string): string[] {
-  const segments = requirementRaw.split("/").map((s) => s.trim()).filter(Boolean);
+  const segments = requirementRaw
+    .split(/\/|\bor\b/i)
+    .map((s) => s.trim())
+    .filter(Boolean);
   if (segments.length < 2) return [];
   const labels: string[] = [];
   const seen = new Set<string>();

@@ -19336,7 +19336,7 @@ HK,CL,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizen
 HK,CM,ev,,"- Your chosen embassy will examine your file and make a decision. If the file is accepted, there are two options:
   - The visa is granted at our embassy. Such applicants will receive an electronic message for an appointment. The Applicant(s) must bring the original documents used in the pre-enrolment together with the passport, which mush have at least a minimum of 6 months validity. The visa will be affixed inside your passport.
   - An electronic authorization with a QR code will be provided to collect electronic parameters of those who cannot come to the embassy. Such people would be able to travel to Cameroon with a printed authorization. They will also have to bring along the original documents used for the pre-enrolment. Their parameters will be collected at the entry check point into Cameroon e.g. Airport or Sea port or any border post, and a six- month validity visa will be stamped into your passport.",https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong,,unverified,,53;54
-HK,CN,vr,,"Entry to mainland China cannot be on a HKSAR passport. However, all eligible for a HKSAR passport are also eligible to apply for a separate Mainland Travel Permit for Hong Kong and Macao Residents, otherwise and previously known as a Home Return Permit, or a Chinese Travel Document if the HKSAR passport holder does not reside in Greater China and is not in possession of a current MTP, allowing the holder to enter and stay in mainland China for indefinite period until its expiry for any purpose. Issuance of the MTP, however, is not guaranteed for all Chinese citizens of Hong Kong and is at the sole discretion of the National Immigration Administration of the Ministry of Public Security of China.",https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong,,unverified,,护照/旅行证简介-6
+HK,CN,ev,,"Entry to mainland China cannot be on a HKSAR passport. However, all eligible for a HKSAR passport are also eligible to apply for a separate Mainland Travel Permit for Hong Kong and Macao Residents, otherwise and previously known as a Home Return Permit, or a Chinese Travel Document if the HKSAR passport holder does not reside in Greater China and is not in possession of a current MTP, allowing the holder to enter and stay in mainland China for indefinite period until its expiry for any purpose. Issuance of the MTP, however, is not guaranteed for all Chinese citizens of Hong Kong and is at the sole discretion of the National Immigration Administration of the Ministry of Public Security of China.",https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong,,unverified,,护照/旅行证简介-6
 HK,CO,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong,,unverified,,63
 HK,CR,vf,180,,https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong,,unverified,,68
 HK,CU,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong,,unverified,,72
@@ -19347,6 +19347,7 @@ HK,DE,vf,90,"- 90 days within any 180 day period in the Schengen Area.
 - Hong Kong citizens can apply for automatic customs clearance upon entry.",https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong,,unverified,,103
 HK,DJ,vf,14,"Multiple entry methods are available for this route:
 - Visa not required
+- eVisa
 - Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong,,unverified,,76;77;78
 HK,DK,vf,90,- 90 days within any 180 day period in the Schengen Area.,https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong,,unverified,,75
 HK,DM,vf,180,,https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong,,unverified,,79
@@ -19459,7 +19460,8 @@ HK,MX,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizen
 HK,MY,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong,,unverified,,161
 HK,MZ,vf,30,"Multiple entry methods are available for this route:
 - Visa not required
-- Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong,,unverified,,178;179
+- Visa on arrival
+- eVisa",https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong,,unverified,,178;179
 HK,NA,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong,,unverified,,181
 HK,NE,vf,14,,https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong,,unverified,,190
 HK,NG,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong,,unverified,,191;192
@@ -19489,6 +19491,7 @@ HK,RS,vf,14,,https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizen
 HK,RU,vf,14,- For a maximum total stay of 90 days within one calendar year period,https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong,,unverified,,209
 HK,RW,vf,30,"Multiple entry methods are available for this route:
 - Visa not required
+- eVisa
 - Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong,,unverified,,210;211;212
 HK,SA,ev,90,"Multiple entry methods are available for this route:
 - eVisa
@@ -35886,7 +35889,11 @@ NL,AO,vf,30,"- 30 days per trip, but no more than 90 days within any 1 calendar 
 NL,AR,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens,,unverified,,16
 NL,AT,vf,,"- Freedom of movement.
 - ID card valid.",https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens,,unverified,,20
-NL,AU,et,90,- 90 days on each visit in 12-month period if granted.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens,,unverified,,18;19
+NL,AU,et,90,"Multiple entry methods are available for this route:
+- eVisa
+- ETA
+
+- 90 days on each visit in 12-month period if granted.",https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens,,unverified,,18;19
 NL,AZ,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens,,unverified,,21
 NL,BA,vf,90,"- 90 days within any 6-month period.
 - ID card valid.",https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens,,unverified,,38
@@ -38913,7 +38920,9 @@ PK,TT,vf,90,"- Yellow fever vaccine certificate is required.
 - Minors under 18 years of age without parents, require a certified copy of their parents national ID and a letter giving permission for them to travel.",https://en.wikipedia.org/wiki/Visa_requirements_for_Pakistani_citizens,,unverified,,337;338
 PK,TV,vo,30,"- Will be given a 30-day Visitors Permit upon arrival if they meet the conditions of entry. [ 347 ]
 - Countries not separately listed in Schedule 1 of the Visa Regulations must pay 100 USD upon entry.",https://en.wikipedia.org/wiki/Visa_requirements_for_Pakistani_citizens,,unverified,,347;Immigration_&_Customs-348;349
-PK,TW,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Pakistani_citizens,,unverified,,431;432
+PK,TW,ev,,"Multiple entry methods are available for this route:
+- Visa required
+- eVisa",https://en.wikipedia.org/wiki/Visa_requirements_for_Pakistani_citizens,,unverified,,431;432
 PK,TZ,ev,90,"- Applicants are advised to submit their applications at least 2 months before their travel date.
 - Having an invitation letter or a request letter for visa from the Host is an added credibility of their application. [ 327 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Pakistani_citizens,,unverified,,325;auto3-326;auto6-327;auto4-328
 PK,UA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Pakistani_citizens,,unverified,,352;353
@@ -52501,6 +52510,7 @@ VN,TT,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citi
 VN,TV,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,279
 VN,TW,et,,"Multiple entry methods are available for this route:
 - Visa required
+- eVisa
 - ETA",https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,314;315
 VN,TZ,ev,90,"Multiple entry methods are available for this route:
 - eVisa
