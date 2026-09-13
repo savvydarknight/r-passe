@@ -36,12 +36,12 @@ function cleanNotes(notes: string): string {
 
 function classifySegmentLabel(text: string): string | null {
   const t = text.toLowerCase();
-  if (/not required|freedom of movement|right of abode|free visa|visa waiver|id card valid|visa free/.test(t)) return "Visa not required";
+  if (/not required|freedom of movement(?!.{0,60}\bpermit)|right of abode|free visa(?!\s*on\s*arrival)|visa waiver|id card valid|visa free/.test(t)) return "Visa not required";
   if (/visa on arr\w*|voa\b|visitor[’']?s?\s*permit|permit on arrival/.test(t)) return "Visa on arrival";
   if (/\beta\b|electronic travel authorization|electronic travel/.test(t)) return "ETA";
-  if (/evisa|e-visa|electronic\s*visa|electronic(al)?\s*travel|electronic\s*authorization|electronic\s*entry|evisitor|e600\b|esta\b|electronic border|online visa|e-tourist card|e\s*tourist\s*card|\bease\b/.test(t)) return "eVisa";
+  if (/evisa|e-visa|electronic\s*visa|electronic(al)?\s*travel|electronic\s*authorization|electronic\s*entry|evisitor|e600\b|esta\b|electronic border|online visa|e-tourist card|e\s*tourist\s*card|\bease\b|mainland travel permit/.test(t)) return "eVisa";
   if (/admission refused|admission restrict\w*|travel restrict\w*|travel banned|travel prohibited|visa restrict\w*|suspended|passport not recognized|particular visit regime/.test(t)) return "Admission restricted";
-  if (/visa required|vesa required|visa de facto required|tourist card required|permission required|invitation required|special permit required|travel certificate required|affidavit of identity required|mainland travel permit/.test(t)) return "Visa required";
+  if (/visa required|vesa required|visa de facto required|tourist card required|permission required|invitation required|special permit required|travel certificate required|affidavit of identity required/.test(t)) return "Visa required";
   return null;
 }
 
@@ -63,11 +63,24 @@ function extractAllMethods(requirementRaw: string): string[] {
   return labels.length > 1 ? labels : [];
 }
 
-function buildNotes(notes: string, requirementRaw: string): string {
+const STATUS_TO_LABEL: Record<string, string> = {
+  vf: "Visa not required",
+  vo: "Visa on arrival",
+  ev: "eVisa",
+  et: "ETA",
+  vr: "Visa required",
+};
+
+function buildNotes(notes: string, requirementRaw: string, primaryStatus: string): string {
   const cleaned = cleanNotes(notes);
   const methods = extractAllMethods(requirementRaw);
-  if (methods.length === 0) return cleaned;
-  const methodLines = ["Multiple entry methods are available for this route:", ...methods.map((m) => `- ${m}`)].join("\n");
+  const primaryLabel = STATUS_TO_LABEL[primaryStatus];
+  const additional = methods.filter((m) => m !== primaryLabel);
+  if (additional.length === 0) return cleaned;
+  const methodLines = [
+    `Also available via ${additional.length > 1 ? "these methods" : "this method"}:`,
+    ...additional.map((m) => `- ${m}`),
+  ].join("\n");
   return cleaned ? `${methodLines}\n\n${cleaned}` : methodLines;
 }
 
@@ -185,7 +198,7 @@ function main() {
         destination,
         status,
         days: parseDays(allowedStay),
-        notes: buildNotes(notes, requirementRaw),
+        notes: buildNotes(notes, requirementRaw, status),
         source_url: sourceUrl,
         last_verified: "",
         confidence: "unverified",
