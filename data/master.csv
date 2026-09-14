@@ -12253,7 +12253,7 @@ DM,SZ,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominica_citize
 DM,TC,vf,,,https://borderforce.gov.tc/entry-requirements,,unverified,,
 DM,TD,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominica_citizens,,unverified,,56;57
 DM,TG,ev,15,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominica_citizens,,unverified,,252;253
-DM,TH,vf,60,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominica_citizens,,unverified,,248;249
+DM,TH,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominica_citizens,,unverified,,248;249
 DM,TJ,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominica_citizens,,unverified,,244;245;246
 DM,TL,vo,30,- Not available at all entry points. [ 245 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Dominica_citizens,,unverified,,250;251
 DM,TM,vr,,- Eligible for a visa on arrival for a maximum stay of 10 days if having a letter of invitation issued by a company registered in Turkmenistan and approved by the Foreign Ministry. [ 254 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Dominica_citizens,,unverified,,259;260
@@ -22437,7 +22437,7 @@ JO,SY,vf,,- Departure tax applies. [ 304 ],https://en.wikipedia.org/wiki/Visa_re
 JO,SZ,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens,,unverified,,147
 JO,TD,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens,,unverified,,116;117
 JO,TG,ev,15,,https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens,,unverified,,312;313
-JO,TH,vf,60,,https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens,,unverified,,310
+JO,TH,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens,,unverified,,310
 JO,TJ,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens,,unverified,,307
 JO,TL,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens,,unverified,,311
 JO,TM,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens,,unverified,,319
@@ -44511,7 +44511,7 @@ TG,ZA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Togolese_citizens
 TG,ZM,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Togolese_citizens,,unverified,,265;266
 TG,ZW,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Togolese_citizens,,unverified,,267;268
 TH,AD,vr,,- A Schengen visa is required as entry is only possible via France or Spain.,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,10
-TH,AE,vr,,- May apply using 'Smart service'. [ 278 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,277;278
+TH,AE,vr,,- May apply using 'Smart service'. [ 275 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,274;275
 TH,AF,ev,30,- e-Visa: Visitors must arrive at Kabul International (KBL).,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,3;4
 TH,AG,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,13;14
 TH,AL,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,5;6
@@ -44542,128 +44542,128 @@ TH,BT,ev,90,"- The Sustainable Development Fee (SDF) of 200 USD per person, per 
 TH,BW,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,42;43
 TH,BY,vr,,- Visas are issued on arrival at the Minsk International Airport if the support documents were submitted not later than 3 business days before expected date of arrival. [ 30 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,29;30
 TH,BZ,vr,,- Free Visitor's Permit on arrival with valid U.S. visa.,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,32
-TH,CA,vr,,"- Visitors who have either held a Canadian visa in the last 10 years or who ""currently hold a valid United States non-immigrant visa"" can now apply for an eTA for up to 6 months instead of a visa when travelling to Canada by air.",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,54
-TH,CD,ev,7,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,69;70
+TH,CA,vr,,"- Visitors who have either held a Canadian visa in the last 10 years or who ""currently hold a valid United States non-immigrant visa"" can now apply for an eTA for up to 6 months instead of a visa when travelling to Canada by air.",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,ReferenceA-54
+TH,CD,ev,7,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,68;69
 TH,CF,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,58
-TH,CG,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,68
-TH,CH,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,252;253
-TH,CI,ev,90,- e-Visa holders must arrive via Port Bouet Airport.,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,72;73
+TH,CG,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,67
+TH,CH,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,249;250
+TH,CI,ev,90,- e-Visa holders must arrive via Port Bouet Airport.,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,71;72
 TH,CL,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,61
 TH,CM,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,52;53
 TH,CN,vf,30,"- The duration of stay is 30 days at a time, no more than 90 days within any 180-day period. [ 63 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,62;63
-TH,CO,ev,,- Visa-free for holders of valid visa for Schengen area or the US. [ 66 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,64;65;66
-TH,CR,vr,,- Visa-free for holders of valid U.S. visa or Canada visa.,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,71
-TH,CU,ev,90,- Can be extended up to 90 days with a fee.,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,75;76
+TH,CO,ev,,- Visa-free for holders of valid visa for Schengen area or the US. [ 65 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,64;65;ReferenceA-54
+TH,CR,vr,,- Visa-free for holders of valid U.S. visa or Canada visa.,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,70
+TH,CU,ev,90,- Can be extended up to 90 days with a fee.,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,74;75
 TH,CV,vo,30,"- Visa on arrival may applied for via the online platform (EASE) and issued at international airports in Sal, Boa Vista, São Vicente or Santiago. Visa fee is approximately 25–30 EUR. [ 57 ]
 - Visitors must pay the Airport Security Fee (TSA) before visiting. The cost is 3,400 CVE (approx. 31 EUR) and can be paid via the online platform (EASE).",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,55;56;57
-TH,CY,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,77
-TH,CZ,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,78
-TH,DE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,103
-TH,DJ,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,80;81
-TH,DK,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,79
-TH,DM,vf,21,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,82
-TH,DO,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,83
+TH,CY,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,76
+TH,CZ,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,77
+TH,DE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,102
+TH,DJ,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,79;80
+TH,DK,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,78
+TH,DM,vf,21,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,81
+TH,DO,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,82
 TH,DZ,vr,,"- Persons may be denied entry if entering with a passport containing visas or stamps issued by Israel.
 - Visitors on tours organized to some southern regions by an approved travel agency may obtain a visa on arrival for up to 30 days. [ 8 ] [ 9 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,7;8;9
-TH,EC,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,84
-TH,EE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,90
-TH,EG,vr,,"- Transit Without Visa if Holders of onward tickets for a max transit time of 48 hours (up to 2 days), Leaving the airport is permitted for passengers with transit time longer than 6 hours. Passengers with transit time of less than 6 hours may leave the transit area but not the airport.",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,85
-TH,ER,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,89
-TH,ES,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,241
+TH,EC,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,83
+TH,EE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,89
+TH,EG,vr,,"- Transit Without Visa if Holders of onward tickets for a max transit time of 48 hours (up to 2 days), Leaving the airport is permitted for passengers with transit time longer than 6 hours. Passengers with transit time of less than 6 hours may leave the transit area but not the airport.",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,84
+TH,ER,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,88
+TH,ES,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,238
 TH,ET,ev,90,"Also available via this method:
 - Visa on arrival
 
-- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 94 ]
+- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 93 ]
 - e-Visa holders must arrive via Addis Ababa Bole International Airport.
-- e-Visa is available for 30 or 90 days. [ 95 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,92;93;94;95
-TH,FI,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,97
-TH,FJ,vf,120,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,96
-TH,FM,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,169
-TH,FR,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,98
-TH,GA,ev,90,- e-Visa holders must arrive via Libreville International Airport.,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,100;99
-TH,GB,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,279
-TH,GD,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,106
-TH,GE,vf,365,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,102
-TH,GH,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,104
-TH,GM,vr,,- An entry clearance must be obtained from the Gambian Immigration prior to travel.,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,101
-TH,GN,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,109;110
-TH,GQ,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,87;88
-TH,GR,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,105
-TH,GT,vr,,"- No visa required with a valid visa issued by Canada, Mexico, USA or a Schengen Member State for a maximum stay of 90 days. [ 108 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,107;:0-108
-TH,GW,vo,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,111
-TH,GY,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,112;113
-TH,HK,vf,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,326
-TH,HN,vr,,"- No visa required with a valid visa issued by Canada, Mexico, USA or a Schengen Member State for a maximum stay of 90 days. [ 108 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,115;:0-108
-TH,HR,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,74
-TH,HT,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,114
-TH,HU,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,116
-TH,ID,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,121
-TH,IE,vr,,- Visa waiver for UK 'C' visa holders until October 2016. Entry permitted only if first point of entry to the Common Travel Area is in the UK. [ 126 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,125;126
-TH,IL,vr,,"- Holders of a confirmation issued by the Israeli Ministry of Interior, traveling in a group of 10 or more can obtain a visa on arrival.",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,127
-TH,IN,ev,30,"- Thai tourists can visit India for up to 30 days with double entry under this scheme without paying any visa fees. However, e-Tourist visas still need to be applied for in advance via the website: https://indianvisaonline.gov.in/evisa/tvoa.html. [ 120 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,118;119;120
-TH,IQ,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,124
-TH,IR,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,122;123
-TH,IS,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,117
-TH,IT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,128
-TH,JM,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,129
+- e-Visa is available for 30 or 90 days. [ 94 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,91;92;93;94
+TH,FI,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,96
+TH,FJ,vf,120,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,95
+TH,FM,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,167
+TH,FR,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,97
+TH,GA,ev,90,- e-Visa holders must arrive via Libreville International Airport.,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,98;99
+TH,GB,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,276
+TH,GD,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,105
+TH,GE,vf,365,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,101
+TH,GH,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,103
+TH,GM,vr,,- An entry clearance must be obtained from the Gambian Immigration prior to travel.,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,100
+TH,GN,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,108;109
+TH,GQ,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,86;87
+TH,GR,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,104
+TH,GT,vr,,"- No visa required with a valid visa issued by Canada, Mexico, USA or a Schengen Member State for a maximum stay of 90 days. [ 107 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,106;:0-107
+TH,GW,vo,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,110
+TH,GY,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,111;112
+TH,HK,vf,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,323
+TH,HN,vr,,"- No visa required with a valid visa issued by Canada, Mexico, USA or a Schengen Member State for a maximum stay of 90 days. [ 107 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,114;:0-107
+TH,HR,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,73
+TH,HT,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,113
+TH,HU,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,115
+TH,ID,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,120
+TH,IE,vr,,- Visa waiver for UK 'C' visa holders until October 2016. Entry permitted only if first point of entry to the Common Travel Area is in the UK. [ 124 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,124;ReferenceB-123
+TH,IL,vr,,"- Holders of a confirmation issued by the Israeli Ministry of Interior, traveling in a group of 10 or more can obtain a visa on arrival.",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,125
+TH,IN,ev,30,"- Thai tourists can visit India for up to 30 days with double entry under this scheme without paying any visa fees. However, e-Tourist visas still need to be applied for in advance via the website: https://indianvisaonline.gov.in/evisa/tvoa.html. [ 119 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,117;118;119
+TH,IQ,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,ReferenceB-123
+TH,IR,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,121;122
+TH,IS,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,116
+TH,IT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,126
+TH,JM,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,127
 TH,JO,ev,,"Also available via this method:
-- Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,131;132
-TH,JP,vf,15,- Visa not required for visits up to 15 days using Thai biometric passports.,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,130
+- Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,129;130
+TH,JP,vf,15,- Visa not required for visits up to 15 days using Thai biometric passports.,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,128
 TH,KE,et,90,"- Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance.
 - eTA fee is 32.50 USD.
 - Proof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable).
-- Yellow fever vaccination certificate is required if coming from endemic countries.",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,134;135
-TH,KG,vf,30,- 30 days within any 60-day period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,144
+- Yellow fever vaccination certificate is required if coming from endemic countries.",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,132;133
+TH,KG,vf,30,- 30 days within any 60-day period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,142
 TH,KH,vf,14,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,51
-TH,KI,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,136
-TH,KM,vo,45,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,67
-TH,KN,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,215;216
-TH,KP,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,137
-TH,KR,ev,90,"- The validity period of a K-ETA is 3 years from the date of approval. [ 140 ]
-- K-ETA often denies entry to Thai citizens. [ 141 ] [ 142 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,138;139;140;141;142
-TH,KW,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,143
+TH,KI,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,134
+TH,KM,vo,45,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,66
+TH,KN,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,212;213
+TH,KP,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,135
+TH,KR,ev,90,"- The validity period of a K-ETA is 3 years from the date of approval. [ 138 ]
+- K-ETA often denies entry to Thai citizens. [ 139 ] [ 140 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,136;137;138;139;140
+TH,KW,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,141
 TH,KY,vr,,,https://gov.ky/web/cbc/travel/visas-extensions/visitors-visas/list-of-countries-visa-required,,unverified,,
-TH,KZ,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,133
-TH,LA,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,145
-TH,LB,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,147
-TH,LC,vo,42,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,217
-TH,LI,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,153
+TH,KZ,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,131
+TH,LA,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,143
+TH,LB,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,145
+TH,LC,vo,42,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,214
+TH,LI,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,151
 TH,LK,et,30,"Also available via this method:
 - Visa on arrival
 
-- On 24 October 2023, Sri Lanka announced that Thai citizens are exempt from paying a fee for visas. This will be a pilot program that lasts until 30 April 2024. [ 244 ]
-- Sri Lanka introduced an ETA valid for 30 days. [ 245 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,242;243;244;245
-TH,LR,vo,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,149;150
-TH,LS,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,148
-TH,LT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,154
-TH,LU,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,155
-TH,LV,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,146
-TH,LY,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,151;152
-TH,MA,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,175;176
-TH,MC,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,172
-TH,MD,ev,,"- Need invitation letter to apply for e-Visa, except for holders of a residence permit or a valid visa (except Transit Visa) issued by an EU Member State or a state party to the Schengen Agreement.",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,170;171
-TH,ME,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,174
+- On 24 October 2023, Sri Lanka announced that Thai citizens are exempt from paying a fee for visas. This will be a pilot program that lasts until 30 April 2024. [ 241 ]
+- Sri Lanka introduced an ETA valid for 30 days. [ 242 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,239;240;241;242
+TH,LR,vo,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,147;148
+TH,LS,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,146
+TH,LT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,152
+TH,LU,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,153
+TH,LV,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,144
+TH,LY,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,149;150
+TH,MA,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,173;174
+TH,MC,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,170
+TH,MD,ev,,"- Need invitation letter to apply for e-Visa, except for holders of a residence permit or a valid visa (except Transit Visa) issued by an EU Member State or a state party to the Schengen Agreement.",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,168;169
+TH,ME,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,172
 TH,MG,ev,90,"Also available via this method:
 - Visa on arrival
 
-- For stays of 61 to 90 days, the visa fee is 59 USD.",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,156;157
-TH,MH,vo,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,164
-TH,MK,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,194
-TH,ML,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,162
-TH,MM,vf,14,"- Also e-Visa for 28 days. [ 180 ]
-  - Holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports.",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,179;180
-TH,MN,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,173
-TH,MO,vf,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,334
-TH,MR,ev,30,- Available at Nouakchott–Oumtounsy International Airport.,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,165;166
-TH,MT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,163
-TH,MU,vo,60,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,167
-TH,MV,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,161
+- For stays of 61 to 90 days, the visa fee is 59 USD.",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,154;155
+TH,MH,vo,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,162
+TH,MK,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,192
+TH,ML,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,160
+TH,MM,vf,14,"- Also e-Visa for 28 days. [ 178 ]
+  - Holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports.",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,177;178
+TH,MN,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,171
+TH,MO,vf,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,331
+TH,MR,ev,30,- Available at Nouakchott–Oumtounsy International Airport.,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,163;164
+TH,MT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,161
+TH,MU,vo,60,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,165
+TH,MV,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,159
 TH,MW,ev,90,"Also available via this method:
-- Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,158;159
-TH,MX,vr,,"- No visa required for holders of a valid visa issued by Canada, Japan, USA, United Kingdom or a Schengen Member State and holders of an APEC Business Travel Card if traveling on business. Residence permit from EU not recognized.",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,168
-TH,MY,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,160
+- Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,156;157
+TH,MX,vr,,"- No visa required for holders of a valid visa issued by Canada, Japan, USA, United Kingdom or a Schengen Member State and holders of an APEC Business Travel Card if traveling on business. Residence permit from EU not recognized.",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,166
+TH,MY,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,158
 TH,MZ,ev,30,"Also available via this method:
-- Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,177;178
+- Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,175;176
 TH,NA,ev,90,"Also available via this method:
 - Visa on arrival
 
@@ -44673,98 +44673,98 @@ TH,NA,ev,90,"Also available via this method:
   - Katima Mulilo
   - Ngoma
   - Trans Kalahari (Buitepos)
-  - Walvis Bay Airport",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,181;182
-TH,NE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,191
-TH,NG,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,192;193
-TH,NI,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,190
-TH,NL,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,186
-TH,NO,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,195
+  - Walvis Bay Airport",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,179;180
+TH,NE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,189
+TH,NG,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,190;191
+TH,NI,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,188
+TH,NL,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,184
+TH,NO,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,193
 TH,NP,ev,90,"Also available via this method:
-- Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,184;185
-TH,NR,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,183
-TH,NZ,vr,,"- May transit without visa if transit is through Auckland Airport and for no longer than 24 hours, subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. [ 188 ]
-- Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. [ 189 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,187;Australian_Resident_Visa-189;New_Zealand_Transit_Visa-188
+- Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,182;183
+TH,NR,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,181
+TH,NZ,vr,,"- May transit without visa if transit is through Auckland Airport and for no longer than 24 hours, subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. [ 186 ]
+- Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. [ 187 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,185;Australian_Resident_Visa-187;New_Zealand_Transit_Visa-186
 TH,OM,vf,14,"Also available via this method:
-- eVisa",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,196;197
-TH,PA,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,201
-TH,PE,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,205;206
-TH,PG,ev,60,"- Available at Gurney Airport (Alotau), Mount Hagen Airport, Port Moresby Airport and Tokua Airport (Rabaul).",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,202;203
-TH,PH,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,207
-TH,PK,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,198;199
-TH,PL,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,208
-TH,PT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,209
-TH,PW,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,200
-TH,PY,vo,15,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,204
-TH,QA,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,210;211
-TH,RO,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,212
+- eVisa",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,194;195
+TH,PA,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,199
+TH,PE,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,203;consular.mfa.go.th-2
+TH,PG,ev,60,"- Available at Gurney Airport (Alotau), Mount Hagen Airport, Port Moresby Airport and Tokua Airport (Rabaul).",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,200;201
+TH,PH,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,204
+TH,PK,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,196;197
+TH,PL,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,205
+TH,PT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,206
+TH,PW,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,198
+TH,PY,vo,15,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,202
+TH,QA,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,207;208
+TH,RO,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,209
 TH,RS,ev,90,"- 90 days within any 180-day period. Transfers allowed.
-- Visa-free for a maximum stay of 90 days for valid visa holders or residents of the European Union member states and the United States.",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,226;227
-TH,RU,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,213
+- Visa-free for a maximum stay of 90 days for valid visa holders or residents of the European Union member states and the United States.",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,223;224
+TH,RU,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,210
 TH,RW,ev,30,"Also available via this method:
-- Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,214
+- Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,211
 TH,SA,ev,90,"Also available via this method:
 - Visa on arrival
 
-- Non-Muslim residents are prohibited from visiting Mecca and its holy sites. Other religious places may also be restricted to Non-Muslim people.",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,223;224
-TH,SB,vo,90,- Visitors may obtain a free permit valid for 3 months within any 1-year period on arrival.,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,235
+- Non-Muslim residents are prohibited from visiting Mecca and its holy sites. Other religious places may also be restricted to Non-Muslim people.",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,220;221
+TH,SB,vo,90,- Visitors may obtain a free permit valid for 3 months within any 1-year period on arrival.,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,232
 TH,SC,ev,90,"- Application can be submitted up to 30 days before travel.
 - Visitors must upload a reservation confirmation(s) for each visitor's location of stay in Seychelles.
 - Yellow fever vaccination certificate is required if coming from endemic countries.
 - Payment of the fee (EUR 10) by credit or debit card.
-- Valid for one journey only and it expires once exit the country.",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,228;229
-TH,SD,vr,,- Registration for a visa is obligatory within 3 days of arrival. It can be completed at entry ports.,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,246
-TH,SE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,251
-TH,SG,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,232
-TH,SI,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,234
-TH,SK,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,233
+- Valid for one journey only and it expires once exit the country.",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,225;226
+TH,SD,vr,,- Registration for a visa is obligatory within 3 days of arrival. It can be completed at entry ports.,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,243
+TH,SE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,248
+TH,SG,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,229
+TH,SI,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,231
+TH,SK,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,230
 TH,SL,ev,90,"Also available via this method:
-- Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,230;231
-TH,SM,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,220
-TH,SN,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,225
-TH,SO,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,236;237
-TH,SR,vf,90,"- An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival. [ 249 ]
-- Multiple entry e-Visa is also available. [ 250 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,247;248;249;250
+- Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,227;228
+TH,SM,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,217
+TH,SN,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,222
+TH,SO,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,233;234
+TH,SR,vf,90,"- An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival. [ 246 ]
+- Multiple entry e-Visa is also available. [ 247 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,244;245;246;247
 TH,SS,ev,,"- Obtainable online 30 days single entry for 100 USD, 90 days multiple entry for 200 USD and 180 days multiple entry for 350 USD.
-- Printed visa authorization must be presented at the time of travel.",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,239;240
-TH,ST,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,221;222
-TH,SV,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,86
-TH,SY,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,254;255
-TH,SZ,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,91
+- Printed visa authorization must be presented at the time of travel.",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,236;237
+TH,ST,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,218;219
+TH,SV,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,85
+TH,SY,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,251;252
+TH,SZ,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,90
 TH,TD,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,59;60
-TH,TG,ev,15,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,261;262
+TH,TG,ev,15,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,258;259
 TH,TJ,vf,30,"Also available via this method:
-- eVisa",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,256
-TH,TL,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,260
-TH,TM,vr,,"- 10-day visa on arrival if holding a letter of invitation provided by a company registered in Turkmenistan with a prior approval from the Foreign Ministry. Visitors can apply to extend their stay for an additional 10 days. [ 269 ]
-- When transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD. [ 270 ] [ 271 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,268;269;270;271
-TH,TN,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,266
-TH,TO,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,263
-TH,TR,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,267
-TH,TT,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,264;265
-TH,TV,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,272
-TH,TW,vf,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,338;339;340;341
+- eVisa",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,253
+TH,TL,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,257
+TH,TM,vr,,"- 10-day visa on arrival if holding a letter of invitation provided by a company registered in Turkmenistan with a prior approval from the Foreign Ministry. Visitors can apply to extend their stay for an additional 10 days. [ 266 ]
+- When transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD. [ 267 ] [ 268 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,265;266;267;268
+TH,TN,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,263
+TH,TO,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,260
+TH,TR,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,264
+TH,TT,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,261;262
+TH,TV,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,269
+TH,TW,vf,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,335;336;337;338
 TH,TZ,ev,90,"Also available via this method:
 - Visa on arrival
 
-- e-Visa also available. [ 259 ]
-- e-Visa holders can enter through all border points.",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,257;258;259
-TH,UA,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,275;276
-TH,UG,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,273;274
-TH,US,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,280
-TH,UY,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,281
-TH,UZ,ev,30,- 5-day visa-free transit at the international airports if holding a confirmed onward ticket for a flight to a third country. [ 284 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,282;283;284
-TH,VA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,286
-TH,VC,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,218
-TH,VE,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,287;288
+- e-Visa also available. [ 256 ]
+- e-Visa holders can enter through all border points.",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,254;255;256
+TH,UA,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,272;273
+TH,UG,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,270;271
+TH,US,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,277
+TH,UY,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,278
+TH,UZ,ev,30,- 5-day visa-free transit at the international airports if holding a confirmed onward ticket for a flight to a third country. [ 281 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,279;280;281
+TH,VA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,283
+TH,VC,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,215
+TH,VE,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,284;285
 TH,VG,vr,,,https://www.bvitourism.com/travel/visas,,unverified,,
-TH,VN,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,289
-TH,VU,vf,120,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,285
-TH,WS,vo,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,219
-TH,YE,vr,,"- Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.). [ 291 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,290;291
-TH,ZA,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,238
+TH,VN,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,286
+TH,VU,vf,120,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,282
+TH,WS,vo,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,216
+TH,YE,vr,,"- Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.). [ 288 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,287;288
+TH,ZA,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,235
 TH,ZM,ev,90,"Also available via this method:
-- Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,292;293
-TH,ZW,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,294;295
+- Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,289;290
+TH,ZW,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens,,unverified,,291;292
 TJ,AD,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Tajikistani_citizens,,unverified,,8
 TJ,AE,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Tajikistani_citizens,,unverified,,259;260
 TJ,AF,vr,,- Not eligible for the e-Visa program available to most nationalities. [ 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Tajikistani_citizens,,unverified,,2;3
@@ -47318,57 +47318,57 @@ TZ,YE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Tanzanian_citizen
 TZ,ZA,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Tanzanian_citizens,,unverified,,226
 TZ,ZM,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Tanzanian_citizens,,unverified,,266
 TZ,ZW,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Tanzanian_citizens,,unverified,,267
-UA,AD,vf,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,41
+UA,AD,vf,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,40
 UA,AE,vf,30,"- Extension of stay is possible for another 30 days for a fee.
-- Also, a 2-year freelance visa is available; renewable an unlimited number of times [ 328 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,337;338
-UA,AF,ev,30,"- A visa is not required for individuals born in Afghanistan or for those who can provide proof that one of their parents is an Afghan national or was born in Afghanistan. [ 34 ]
-- e-Visa: Visitors must arrive at Kabul International (KBL).",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,34;35;36
-UA,AG,vf,180,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,44
-UA,AL,vf,90,- 90 days within any 180-day period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,37
-UA,AM,vf,180,- 180 days in a year.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,46
-UA,AO,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,42;43
-UA,AR,vf,90,- 90 days within any 180-day period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,45
-UA,AT,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,49;biometric-50
-UA,AU,ev,,- May apply online (Online Visitor e600 visa).,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,48;ReferenceB-47
-UA,AZ,vf,90,"- If staying in Azerbaijan for more than 15 days, visitors must register at the State Migration Service within 3 days of arrival. [ 49 ]
-- The Government of Azerbaijan prohibits entry to persons of Armenian origin.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,51;52
-UA,BA,vf,30,- 30 days within any 2-month period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,69
-UA,BB,vf,28,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,58
-UA,BD,vo,30,- Extension of stay is possible for an additional 30 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,57
-UA,BE,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,60;biometric-50
-UA,BF,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,75;76
-UA,BG,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,74;biometric-50
+- Also, a 2-year freelance visa is available; renewable an unlimited number of times [ 323 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,332;333
+UA,AF,ev,30,"- A visa is not required for individuals born in Afghanistan or for those who can provide proof that one of their parents is an Afghan national or was born in Afghanistan. [ 33 ]
+- e-Visa: Visitors must arrive at Kabul International (KBL).",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,33;34;35
+UA,AG,vf,180,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,43
+UA,AL,vf,90,- 90 days within any 180-day period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,36
+UA,AM,vf,180,- 180 days in a year.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,45
+UA,AO,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,41;42
+UA,AR,vf,90,- 90 days within any 180-day period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,44
+UA,AT,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,48;biometric-49
+UA,AU,ev,,- May apply online (Online Visitor e600 visa).,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,47;ReferenceB-46
+UA,AZ,vf,90,"- If staying in Azerbaijan for more than 15 days, visitors must register at the State Migration Service within 3 days of arrival. [ 48 ]
+- The Government of Azerbaijan prohibits entry to persons of Armenian origin.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,50;51
+UA,BA,vf,30,- 30 days within any 2-month period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,68
+UA,BB,vf,28,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,57
+UA,BD,vo,30,- Extension of stay is possible for an additional 30 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,56
+UA,BE,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,59;biometric-49
+UA,BF,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,74;75
+UA,BG,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,73;biometric-49
 UA,BH,ev,14,"Also available via this method:
 - Visa on arrival
 
 - Visa may be issued on arrival for a stay up to 1 month.
 - Visa may be extended for an additional 2 weeks.
-- e-Visa issued for 14 days with the possibility of a one-time extension.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,56
+- e-Visa issued for 14 days with the possibility of a one-time extension.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,55
 UA,BI,ev,30,"Also available via this method:
-- Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,77;78
+- Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,76;77
 UA,BJ,ev,30,"- Must have an international vaccination certificate.
-- Three types of electronic visa are offered: the e-Visa valid for 30 days for a single entry (50 EUR), the e-Visa valid for 30 days for several (multiple) entries (75 EUR), and the e-Visa valid for 90 days to make several (multiple) entries (100 EUR). [ 61 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,62;63;64
-UA,BN,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,73
-UA,BO,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,68
+- Three types of electronic visa are offered: the e-Visa valid for 30 days for a single entry (50 EUR), the e-Visa valid for 30 days for several (multiple) entries (75 EUR), and the e-Visa valid for 90 days to make several (multiple) entries (100 EUR). [ 60 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,61;62;63
+UA,BN,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,72
+UA,BO,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,67
 UA,BR,vf,90,"- 90 days within any 180-day period.
-- Extension of stay possible for an additional 90 days.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,72
-UA,BS,ev,90,"- Visa not required for permanent residents of Canada or the United States. [ 51 ]
-- Cruise ship passengers travelling to and returning from the Bahamas do not require to obtain visa for entry. Both entry and departure must be by a cruise ship. [ 52 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,53;54;55
-UA,BT,ev,90,"- The Sustainable Development Fee (SDF) of 200 USD per person, per night for almost all visitors to Bhutan. Additionally, if payment is made in US dollars from September 1, 2023 to August 31, 2027, the SDF is 100 USD. [ 64 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,65;66;67
-UA,BW,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,70;71
+- Extension of stay possible for an additional 90 days.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,71
+UA,BS,ev,90,"- Visa not required for permanent residents of Canada or the United States. [ 50 ]
+- Cruise ship passengers travelling to and returning from the Bahamas do not require to obtain visa for entry. Both entry and departure must be by a cruise ship. [ 51 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,52;53;54
+UA,BT,ev,90,"- The Sustainable Development Fee (SDF) of 200 USD per person, per night for almost all visitors to Bhutan. Additionally, if payment is made in US dollars from September 1, 2023 to August 31, 2027, the SDF is 100 USD. [ 63 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,64;65;66
+UA,BW,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,69;70
 UA,BY,vf,90,"- 90 days within any 180-day period.
-- Citizens of Ukraine could be denied entry for reasons of national security or without explanation at all.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,59
-UA,BZ,vr,,"- Visa not required for visits not exceeding 30 days for those holding a valid multiple entry visa or Permanent Residence Card of Canada, US or holding a valid multiple entry Schengen visa.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,61
-UA,CA,vr,,"- The Liberal party of Canada has proposed a resolution to remove the visitor visa requirement for Ukrainian citizens, enabling short - term, visa - free travel for up to 90 days within a 180 - day period via the electronic travel authorization (eTA) system.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,83
-UA,CD,ev,7,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,100;99
-UA,CF,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,86
-UA,CG,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,98
-UA,CH,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,314;biometric-50
-UA,CI,ev,90,- e-Visa holders must arrive via Port Bouet Airport.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,102;103
-UA,CL,vf,90,- Extension of stay is possible for an additional 90 days for a fee.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,89
+- Citizens of Ukraine could be denied entry for reasons of national security or without explanation at all.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,58
+UA,BZ,vr,,"- Visa not required for visits not exceeding 30 days for those holding a valid multiple entry visa or Permanent Residence Card of Canada, US or holding a valid multiple entry Schengen visa.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,60
+UA,CA,vr,,"- The Liberal party of Canada has proposed a resolution to remove the visitor visa requirement for Ukrainian citizens, enabling short - term, visa - free travel for up to 90 days within a 180 - day period via the electronic travel authorization (eTA) system.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,82
+UA,CD,ev,7,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,98;99
+UA,CF,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,85
+UA,CG,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,97
+UA,CH,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,309;biometric-49
+UA,CI,ev,90,- e-Visa holders must arrive via Port Bouet Airport.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,101;102
+UA,CL,vf,90,- Extension of stay is possible for an additional 90 days for a fee.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,88
 UA,CM,ev,,"- May apply online.
-- Pre-arranged visa may be picked up on arrival.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,81;82
-UA,CN,vf,,"- Registration mandatory within 24 hours of arrival, registration is done during hotel check by hotel staff in if staying at an approved hotel or hostel. [ 88 ]
+- Pre-arranged visa may be picked up on arrival.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,80;81
+UA,CN,vf,,"- Registration mandatory within 24 hours of arrival, registration is done during hotel check by hotel staff in if staying at an approved hotel or hostel. [ 87 ]
 - All visitors between the ages of 14 and 70 are fingerprinted upon arrival and departure.
 - 24-hour (1 day) visa-free transit through any international airports of China, allows domestic travel through different airports. [ Note 4 ]
 - 240-hour (10 days) visa-free transit through:
@@ -47379,272 +47379,270 @@ UA,CN,vf,,"- Registration mandatory within 24 hours of arrival, registration is 
   - Railways:
     - Mohan railway station – Laos side: Boten
 - Hong Kong, Macau and Taiwan count as third countries under the 24 and 240-hours transit without visa (TWOV) policies.
-- Visa not required for 30 days on Hainan Island. [ 90 ] [ 91 ]
-- Visa not required for 15 days if arriving via cruise ports as part of tour groups.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,90;91;93;94;95
-UA,CO,vf,90,- Extension of stay is possible for up to 180 days within any 1-year period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,96
-UA,CR,vf,180,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,101
-UA,CU,ev,90,- Extension of stay is possible for another 90 days for a fee.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,105;106
-UA,CV,vo,30,- Must register online (EASE) at least 5 days prior to arrival.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,84;85
-UA,CY,vf,90,- 90 days within any 180-day period. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,107;biometric-50
-UA,CZ,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,108;biometric-50
-UA,DE,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,135;biometric-50
+- Visa not required for 30 days on Hainan Island. [ 89 ] [ 90 ]
+- Visa not required for 15 days if arriving via cruise ports as part of tour groups.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,89;90;92;93;94
+UA,CO,vf,90,- Extension of stay is possible for up to 180 days within any 1-year period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,95
+UA,CR,vf,180,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,100
+UA,CU,ev,90,- Extension of stay is possible for another 90 days for a fee.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,104;105
+UA,CV,vo,30,- Must register online (EASE) at least 5 days prior to arrival.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,83;84
+UA,CY,vf,90,- 90 days within any 180-day period. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,106;biometric-49
+UA,CZ,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,107;biometric-49
+UA,DE,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,134;biometric-49
 UA,DJ,ev,30,"Also available via this method:
-- Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,110;111
-UA,DK,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,109;biometric-50
-UA,DM,vf,90,- 90 days within any 180-day period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,112
+- Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,109;110
+UA,DK,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,108;biometric-49
+UA,DM,vf,90,- 90 days within any 180-day period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,111
 UA,DO,vf,30,"- For tourist purposes only.
 - A tourist card must be obtained on arrival for a fee.
-- Extension of stay is possible for up to 120 days for a fee.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,113
+- Extension of stay is possible for up to 120 days for a fee.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,112
 UA,DZ,vr,,"- Persons may be denied entry if entering with a passport containing visas or stamps issued by Israel.
-- Visitors on tours organized to some southern regions by an approved travel agency may obtain a visa on arrival for up to 30 days. [ 37 ] [ 38 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,38;39;40
-UA,EC,vf,90,- Extension of stay is possible.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,114
-UA,EE,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,122;biometric-50
+- Visitors on tours organized to some southern regions by an approved travel agency may obtain a visa on arrival for up to 30 days. [ 36 ] [ 37 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,37;38;39
+UA,EC,vf,90,- Extension of stay is possible.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,113
+UA,EE,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,121;biometric-49
 UA,EG,ev,30,"Also available via this method:
 - Visa on arrival
 
 - Extension of stay is possible.
-- Tourists arriving at Sharm El Sheikh, Saint Catherine or Taba airports and remaining in the Sinai resorts do not require a visa for up to 15 days.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,115;116
-UA,ER,vr,,- Passengers with a confirmation that a visa has been approved before departure may obtain a visa on arrival if sponsor in Eritrea submits the request to the Eritrean Immigration Authority 48 hours before arrival and the passenger has 1 passport photo.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,121
-UA,ES,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,305;biometric-50
+- Tourists arriving at Sharm El Sheikh, Saint Catherine or Taba airports and remaining in the Sinai resorts do not require a visa for up to 15 days.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,114;115
+UA,ER,vr,,- Passengers with a confirmation that a visa has been approved before departure may obtain a visa on arrival if sponsor in Eritrea submits the request to the Eritrean Immigration Authority 48 hours before arrival and the passenger has 1 passport photo.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,120
+UA,ES,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,300;biometric-49
 UA,ET,ev,90,"Also available via this method:
 - Visa on arrival
 
 - e-Visa holders must arrive via Addis Ababa Bole International Airport. e-Visa is available for 30 or 90 days.
 - According to the e-Visa website, as of 18 November 2020, credit card payment transactions are not accepted for applicants from Crimea region of Ukraine.
-- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 122 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,124;125;126
-UA,FI,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,128;biometric-50
-UA,FJ,vf,120,- Extension of stay is possible for an additional 2 months.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,127
-UA,FM,vf,30,- Extension of stay is possible for up to 60 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,220
-UA,FR,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,129;biometric-50
-UA,GA,ev,90,- e-Visa holders must arrive via Libreville International Airport.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,130;131
-UA,GB,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,339;340
-UA,GD,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,139
-UA,GE,vf,365,- Citizens of Ukraine may enter with an ID card if arriving directly from Ukraine.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,134
-UA,GH,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,136;137
-UA,GM,vr,,- Citizens of Ukraine travelling on charter flights and as part of tour groups may enter without a visa. [ 129 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,132;133
-UA,GN,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,141;142
-UA,GQ,ev,,- e-Visa holders must arrive via Malabo International Airport. [ 116 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,118;119;120
-UA,GR,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,138;biometric-50
-UA,GT,vf,90,- Extension of stay is possible for 90 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,140
-UA,GW,vo,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,143
+- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 121 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,123;124;125
+UA,FI,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,127;biometric-49
+UA,FJ,vf,120,- Extension of stay is possible for an additional 2 months.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,126
+UA,FM,vf,30,- Extension of stay is possible for up to 60 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,219
+UA,FR,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,128;biometric-49
+UA,GA,ev,90,- e-Visa holders must arrive via Libreville International Airport.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,129;130
+UA,GB,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,334;335
+UA,GD,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,138
+UA,GE,vf,365,- Citizens of Ukraine may enter with an ID card if arriving directly from Ukraine.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,133
+UA,GH,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,135;136
+UA,GM,vr,,- Citizens of Ukraine travelling on charter flights and as part of tour groups may enter without a visa. [ 128 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,131;132
+UA,GN,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,140;141
+UA,GQ,ev,,- e-Visa holders must arrive via Malabo International Airport. [ 115 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,117;118;119
+UA,GR,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,137;biometric-49
+UA,GT,vf,90,- Extension of stay is possible for 90 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,139
+UA,GW,vo,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,142
 UA,GY,ev,,"- An eVisa(Approval letter) can only be obtained after contacting the Department of Immigration and Citizenship by phone.
-- Payment is done upon arrival. [ 142 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,144;145;146
-UA,HK,vf,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,373
-UA,HN,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,148
-UA,HR,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,104;biometric-50
-UA,HT,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,147
-UA,HU,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,149;biometric-50
-UA,ID,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,157;158
-UA,IE,vf,90,- Holders of biometric passports only.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,165
-UA,IL,et,90,"- ETA-IL is valid for 2 years for the date of issuance. [ 162 ]
-- 90 days within any 180-day period.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,166;167;168
-UA,IN,ev,30,"- e-Visa holders must arrive via 32 designated airports [ Note 5 ] or 5 designated seaports. [ Note 6 ] [ 148 ]
-- An Indian e-Tourist Visa may only be obtained twice within 1 calendar year. [ 149 ]
-- Foreigners of Pakistani origin or who hold a Pakistani Passport are not eligible for an e-Visa. Foreigners who are not Pakistani nationals, but whose parents or grandparents (either paternal or maternal) were born in, or were permanent residents in Pakistan, are also not eligible for an e-Visa. [ 150 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,151;154;155;156;Airports-152;Seaports-153
-UA,IQ,ev,30,- Holders of passports containing an Israeli stamp or visa will be refused entry in Iraq.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,163;164
-UA,IR,ev,30,"- Citizens of Ukraine who have already made an application, at least two days before arrival, at the Iranian Ministry of Foreign Affair's e-Visa website and present the submission notification at the airport's visa desk may obtain a visa on arrival. [ 155 ]
+- Payment is done upon arrival. [ 141 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,143;144;145
+UA,HK,vf,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,368
+UA,HN,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,147
+UA,HR,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,103;biometric-49
+UA,HT,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,146
+UA,HU,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,148;biometric-49
+UA,ID,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,156;157
+UA,IE,vf,90,- Holders of biometric passports only.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,164
+UA,IL,et,90,"- ETA-IL is valid for 2 years for the date of issuance. [ 161 ]
+- 90 days within any 180-day period.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,165;166;167
+UA,IN,ev,30,"- e-Visa holders must arrive via 32 designated airports [ Note 5 ] or 5 designated seaports. [ Note 6 ] [ 147 ]
+- An Indian e-Tourist Visa may only be obtained twice within 1 calendar year. [ 148 ]
+- Foreigners of Pakistani origin or who hold a Pakistani Passport are not eligible for an e-Visa. Foreigners who are not Pakistani nationals, but whose parents or grandparents (either paternal or maternal) were born in, or were permanent residents in Pakistan, are also not eligible for an e-Visa. [ 149 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,150;153;154;155;Airports-151;Seaports-152
+UA,IQ,ev,30,- Holders of passports containing an Israeli stamp or visa will be refused entry in Iraq.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,162;163
+UA,IR,ev,30,"- Citizens of Ukraine who have already made an application, at least two days before arrival, at the Iranian Ministry of Foreign Affair's e-Visa website and present the submission notification at the airport's visa desk may obtain a visa on arrival. [ 154 ]
 - Admission will be refused:
   - to women not wearing Islamic head cover, scarf, long sleeves or stockings.
-  - to holders of passports containing an Israeli visa/stamp in the last 12 months. [ 156 ] [ circular reference ]
+  - to holders of passports containing an Israeli visa/stamp in the last 12 months. [ 155 ] [ circular reference ]
 - 14 day visa-free on Kish and Qeshm Islands.
-- Extension of stay is possible twice for 30 days for a total of up to 90 days.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,159;160;161;162
-UA,IS,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,150;biometric-50
-UA,IT,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,169;biometric-50
-UA,JM,vf,30,- For tourist purposes only.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,170
+- Extension of stay is possible twice for 30 days for a total of up to 90 days.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,158;159;160;161
+UA,IS,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,149;biometric-49
+UA,IT,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,168;biometric-49
+UA,JM,vf,30,- For tourist purposes only.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,169
 UA,JO,ev,30,"Also available via this method:
 - Visa on arrival
 
 - Visa may be obtained on arrival, it will cost a total of 40 JOD, obtainable at most international ports of entry and land border crossings. (except King Hussein/Allenby Bridge).
-- Extension of stay is possible for up to 60 days.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,172;173
-UA,JP,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,171
+- Extension of stay is possible for up to 60 days.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,171;172
+UA,JP,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,170
 UA,KE,et,90,"- Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance.
 - eTA fee is 32.50 USD.
 - Proof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable).
-- Yellow fever vaccination certificate is required if coming from endemic countries.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,175;176
-UA,KG,vf,90,- 90 days within any 180-day period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,184
+- Yellow fever vaccination certificate is required if coming from endemic countries.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,174;175
+UA,KG,vf,90,- 90 days within any 180-day period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,183
 UA,KH,ev,30,"Also available via this method:
-- Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,79;80
-UA,KI,vf,30,- The maximum period of stay in Kiribati must not exceed 90 days within any 12-month period. [ 172 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,177;178
-UA,KM,vo,45,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,97
-UA,KN,et,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,272;273
-UA,KP,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,179
-UA,KR,vr,,- Visa not required for 30 days on Jeju Island. [ 175 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,180;181
+- Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,78;79
+UA,KI,vf,30,- The maximum period of stay in Kiribati must not exceed 90 days within any 12-month period. [ 171 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,176;177
+UA,KM,vo,45,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,96
+UA,KN,et,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,271;272
+UA,KP,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,178
+UA,KR,vr,,- Visa not required for 30 days on Jeju Island. [ 174 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,179;180
 UA,KW,ev,90,"Also available via this method:
 - Visa on arrival
 
-- Holders of passports containing an Israeli stamp or visa will be refused entry in Kuwait.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,182;183
+- Holders of passports containing an Israeli stamp or visa will be refused entry in Kuwait.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,181;182
 UA,KY,vr,,,https://gov.ky/web/cbc/travel/visas-extensions/visitors-visas/list-of-countries-visa-required,,unverified,,
-UA,KZ,vf,90,- 90 days within any 180-day period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,174
+UA,KZ,vf,90,- 90 days within any 180-day period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,173
 UA,LA,ev,30,"Also available via this method:
 - Visa on arrival
 
-- 18 [ Note 7 ] of the 33 border crossings are only open to regular visa holders. [ 180 ]
-- e-Visa may be used to enter Laos through the Luang Prabang, Pakse and Vientiane international airports, 3 Thai-Lao Friendship Bridges [ Note 8 ], in Boten (road and railroad), and in Vientiane (at Khamsavath railway station). [ 180 ]
-- Visa on arrival is available at the Luang Prabang, Pakse and Vientiane international airports, 4 Thai-Lao Friendship Bridges [ Note 9 ] and 7 border crossings. [ Note 10 ] [ 180 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,185;Checkpoints-187;Friendship_Bridges-189;VOA_border_crossings._Laos-190;Visa-only_border_crossings-186;eVisa_Friendship_Bridges-188
+- 18 [ Note 7 ] of the 33 border crossings are only open to regular visa holders. [ 179 ]
+- e-Visa may be used to enter Laos through the Luang Prabang, Pakse and Vientiane international airports, 3 Thai-Lao Friendship Bridges [ Note 8 ], in Boten (road and railroad), and in Vientiane (at Khamsavath railway station). [ 179 ]
+- Visa on arrival is available at the Luang Prabang, Pakse and Vientiane international airports, 4 Thai-Lao Friendship Bridges [ Note 9 ] and 7 border crossings. [ Note 10 ] [ 179 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,184;Checkpoints-186;Friendship_Bridges-188;VOA_border_crossings._Laos-189;Visa-only_border_crossings-185;eVisa_Friendship_Bridges-187
 UA,LB,vo,30,"- Free visa on arrival.
 - Extension of stay is possible for an additional 2 months.
-- Holders of passports containing an Israeli stamp or visa will be refused entry in Lebanon.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,192
-UA,LC,vr,,- Cruise ship passengers visiting for 1 day are exempted from obtaining a visa.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,274
-UA,LI,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,201;biometric-50
-UA,LK,et,30,- Sri Lanka introduced an ETA valid for 30 days. [ 297 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,306;307
+- Holders of passports containing an Israeli stamp or visa will be refused entry in Lebanon.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,191
+UA,LC,vr,,- Cruise ship passengers visiting for 1 day are exempted from obtaining a visa.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,273
+UA,LI,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,200;biometric-49
+UA,LK,et,30,- Sri Lanka introduced an ETA valid for 30 days. [ 292 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,301;302
 UA,LR,vo,,"- May apply online and obtain a visa on arrival.
-- Visa on Arrival (VoA) can only be obtained at Roberts International Airport in Monrovia.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,194;195
-UA,LS,vr,,- Pre-arranged visa may be picked up on arrival.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,193
-UA,LT,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,202;biometric-50
-UA,LU,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,203;biometric-50
-UA,LV,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,191;biometric-50
-UA,LY,ev,30,"- Independent travel is not permitted, and visitors must organize their visit through a tour guide. A tourist police escort is required at all times. [ 188 ]
-- An eVisa will not be granted without a sponsor or tour agency. [ 189 ]
-- A security letter issued by the Libyan Immigration Authorities may also be required. [ 190 ]
-- Holders of passports containing an Israeli stamp or visa will be refused entry in Libya.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,196;197;198;199;200
-UA,MA,vr,,"- Citizens of Ukraine may obtain an eVisa if they have a valid visa or permanent residency document issued by one of the following countries: any Schengen Area country, Australia, Canada, Ireland, Japan, New Zealand, the United Arab Emirates, the United Kingdom or the United States. [ 217 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,226;227
-UA,MC,vf,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,222
+- Visa on Arrival (VoA) can only be obtained at Roberts International Airport in Monrovia.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,193;194
+UA,LS,vr,,- Pre-arranged visa may be picked up on arrival.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,192
+UA,LT,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,201;biometric-49
+UA,LU,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,202;biometric-49
+UA,LV,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,190;biometric-49
+UA,LY,ev,30,"- Independent travel is not permitted, and visitors must organize their visit through a tour guide. A tourist police escort is required at all times. [ 187 ]
+- An eVisa will not be granted without a sponsor or tour agency. [ 188 ]
+- A security letter issued by the Libyan Immigration Authorities may also be required. [ 189 ]
+- Holders of passports containing an Israeli stamp or visa will be refused entry in Libya.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,195;196;197;198;199
+UA,MA,vr,,"- Citizens of Ukraine may obtain an eVisa if they have a valid visa or permanent residency document issued by one of the following countries: any Schengen Area country, Australia, Canada, Ireland, Japan, New Zealand, the United Arab Emirates, the United Kingdom or the United States. [ 216 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,225;226
+UA,MC,vf,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,221
 UA,MD,vf,90,"- 90 days within any 180-day period.
-- May enter with an ID card only for 1 entry from Ukraine and 1 exit to Ukraine.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,221
-UA,ME,vf,90,- 90 days within any 180-day period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,225
+- May enter with an ID card only for 1 entry from Ukraine and 1 exit to Ukraine.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,220
+UA,ME,vf,90,- 90 days within any 180-day period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,224
 UA,MG,ev,60,"Also available via this method:
-- Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,204;205
+- Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,203;204
 UA,MH,vo,90,"- Visitors wishing to travel to Kwajalein Atoll are required to hold an Entry Authorization issued by the United States Military.
-- A visa exemption agreement was signed with Marshall Islands on 28 November 2019, but it has not yet ratified. [ 204 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,213;214
-UA,MK,vf,90,- 90 days within any 180-day period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,245
-UA,ML,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,211
+- A visa exemption agreement was signed with Marshall Islands on 28 November 2019, but it has not yet ratified. [ 203 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,212;213
+UA,MK,vf,90,- 90 days within any 180-day period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,244
+UA,ML,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,210
 UA,MM,ev,28,"- e-Visa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports or via land border crossings with Thailand — Tachileik, Myawaddy and Kawthaung or India — Rih Khaw Dar and Tamu.
-- e-Visa available for both tourism or business purposes.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,230;231
+- e-Visa available for both tourism or business purposes.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,229;230
 UA,MN,vr,,"- Citizens of Ukraine do not need a visa for a maximum of 90 days if they have an official invitation issued by the Government of Mongolia or by a private institution in Mongolia.
-- A visa exemption agreement for holders of ordinary passports was signed with Mongolia on 8 November 2019, but it has not yet entered into force. [ 214 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,223;224
-UA,MO,vo,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,374
-UA,MR,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,215;216
-UA,MT,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,212;biometric-50
+- A visa exemption agreement for holders of ordinary passports was signed with Mongolia on 8 November 2019, but it has not yet entered into force. [ 213 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,222;223
+UA,MO,vo,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,369
+UA,MR,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,214;215
+UA,MT,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,211;biometric-49
 UA,MU,vf,180,"- 120 days within any calendar year for business purposes.
-- 180 days within any calendar year for tourist purposes.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,217
-UA,MV,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,210
-UA,MW,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,206;207
+- 180 days within any calendar year for tourist purposes.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,216
+UA,MV,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,209
+UA,MW,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,205;206
 UA,MX,et,180,"- Electronic Authorization (Sistema de Autorización Electrónica, SAE) gives the right to enter the country only by air.
 - A visa is required to travel by land.
-- Visa not required for 180 days for holders of a valid visa from any Schengen area country, Canada, Japan, the United Kingdom or the United States.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,218;219
-UA,MY,vf,30,- The electronic Malaysia Digital Arrival Card must be submitted within three days before the date of arrival in Malaysia. [ 199 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,208;209
+- Visa not required for 180 days for holders of a valid visa from any Schengen area country, Canada, Japan, the United Kingdom or the United States.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,217;218
+UA,MY,vf,30,- The electronic Malaysia Digital Arrival Card must be submitted within three days before the date of arrival in Malaysia. [ 198 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,207;208
 UA,MZ,et,30,"- Travelers must register on the e-Visa platform at least 48 hours prior to travel and pay a processing fee of 650 MT.
-- Extension of stay is possible for 30 days.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,228;229
+- Extension of stay is possible for 30 days.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,227;228
 UA,NA,ev,90,"Also available via this method:
 - Visa on arrival
 
-- May be obtained online or on arrival for a fee of N$1,600 (approximately €82 / US$88).",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,232
-UA,NE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,242
-UA,NG,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,243;244
-UA,NI,ev,,- A tourist card must be obtained on arrival for a fee.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,240;241
-UA,NL,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,236;biometric-50
-UA,NO,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,246;biometric-50
+- May be obtained online or on arrival for a fee of N$1,600 (approximately €82 / US$88).",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,231
+UA,NE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,241
+UA,NG,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,242;243
+UA,NI,ev,,- A tourist card must be obtained on arrival for a fee.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,239;240
+UA,NL,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,235;biometric-49
+UA,NO,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,245;biometric-49
 UA,NP,ev,90,"Also available via this method:
 - Visa on arrival
 
 - Extension of stay is possible for up to 150 days.
-- Business travellers may obtain a visa on arrival for a maximum stay of 5 years, subject to a fee and a license issued by the Ministry of Industry.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,234;235
-UA,NR,vr,,- Pre-arranged visa may be picked up on arrival.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,233
-UA,NZ,ev,,- May apply online (Online Visitor visa). [ 229 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,237;238;239
-UA,OM,vf,14,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,247;248
-UA,PA,vf,90,- Extension of stay is possible.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,253
+- Business travellers may obtain a visa on arrival for a maximum stay of 5 years, subject to a fee and a license issued by the Ministry of Industry.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,233;234
+UA,NR,vr,,- Pre-arranged visa may be picked up on arrival.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,232
+UA,NZ,ev,,- May apply online (Online Visitor visa). [ 228 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,236;237;238
+UA,OM,vf,14,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,246;247
+UA,PA,vf,90,- Extension of stay is possible.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,252
 UA,PE,vf,90,"- 90 days within any 180-day period.
-- For tourist purposes only.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,257
-UA,PG,ev,60,"- Visitors may apply for a visa online under the ""Tourist - Own Itinerary"" category.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,254;255
-UA,PH,vr,,- Citizens of Ukraine may obtain an eVisa through the official Philippine eVisa website if they reside in certain countries where there is a Philippine Embassy. [ 249 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,258;259
-UA,PK,ev,90,"- Online Visa eligible. [ 241 ]
-- Issued in 7-10 business days.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,249;250;251
-UA,PL,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,260;biometric-50
-UA,PT,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,261;biometric-50
+- For tourist purposes only.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,256
+UA,PG,ev,60,"- Visitors may apply for a visa online under the ""Tourist - Own Itinerary"" category.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,253;254
+UA,PH,vr,,- Citizens of Ukraine may obtain an eVisa through the official Philippine eVisa website if they reside in certain countries where there is a Philippine Embassy. [ 248 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,257;258
+UA,PK,ev,90,"- Online Visa eligible. [ 240 ]
+- Issued in 7-10 business days.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,248;249;250
+UA,PL,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,259;biometric-49
+UA,PT,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,260;biometric-49
 UA,PW,vo,30,"- Free visa on arrival.
-- Extension of stay is possible twice for 30 days for a fee.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,252
-UA,PY,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,256
+- Extension of stay is possible twice for 30 days for a fee.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,251
+UA,PY,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,255
 UA,QA,ev,90,"Also available via this method:
 - Visa on arrival
 
-- Hotel reservations in one of the country's hotels made via Discover Qatar [ 254 ] during the visit period must be confirmed.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,262;263;264
-UA,RO,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,265;biometric-50
-UA,RS,vf,90,- 90 days within any 180-day period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,283
+- Hotel reservations in one of the country's hotels made via Discover Qatar [ 253 ] during the visit period must be confirmed.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,261;262;263
+UA,RO,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,264;biometric-49
+UA,RS,vf,90,- 90 days within any 180-day period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,282
 UA,RU,vf,90,"- Due to the Russian invasion of Ukraine, the Government of Ukraine strictly does not recommend its citizens of visiting Russia.
 - Citizens of Ukraine over 14 years old must arrive only through Sheremetyevo International Airport (Moscow). Citizens under 14 years old who are entering Russia alone or with a guardian who is a citizen of Russia are exempt from this requirement.
 - Citizens of Ukraine are interrogated by the Federal Security Service when they enter Russia.
 - 90 days in a calendar year.
 - ID card and some other listed documents are valid.
 - All listed documents that are considered valid for entry into Russia but expired are eligible for entry into Russia.
-- Birth certificate for citizens under 16 years old is valid.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,266;267;publication.pravo.gov.ru-268
+- Birth certificate for citizens under 16 years old is valid.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,265;266;publication.pravo.gov.ru-267
 UA,RW,ev,30,"Also available via this method:
 - Visa on arrival
 
 - A visa on arrival is available for 30 days.
-- May also be entered on an East Africa Tourist Visa issued by Kenya or Uganda. [ 261 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,269;270;migration.gov.rw-271
+- May also be entered on an East Africa Tourist Visa issued by Kenya or Uganda. [ 260 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,268;269;migration.gov.rw-270
 UA,SA,ev,90,"Also available via this method:
-- Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,280;281
-UA,SB,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,293;294
+- Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,279;280
+UA,SB,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,292;293
 UA,SC,ev,90,"- Application can be submitted up to 30 days before travel.
 - Visitors must upload a reservation confirmation(s) for each visitor's location of stay in Seychelles.
 - Yellow fever vaccination certificate is required if coming from endemic countries.
 - Payment of the fee (EUR 10) by credit or debit card.
-- Valid for one journey only and it expires once exit the country.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,284;285
-UA,SD,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,308
-UA,SE,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,313;biometric-50
-UA,SG,ev,,"- May obtain the online e-Service through eligible through authorized travel agencies or through local sponsors (Singapore citizen or permanent residents). [ 280 ]
-- Visa-free transit for 96 hours.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,288;289;290
-UA,SI,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,292;biometric-50
-UA,SK,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,291;biometric-50
-UA,SL,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,286;287
-UA,SM,vf,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,277
+- Valid for one journey only and it expires once exit the country.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,283;284
+UA,SD,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,303
+UA,SE,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,308;biometric-49
+UA,SG,ev,,"- May obtain the online e-Service through eligible through authorized travel agencies or through local sponsors (Singapore citizen or permanent residents). [ 279 ]
+- Visa-free transit for 96 hours.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,287;288;289
+UA,SI,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,291;biometric-49
+UA,SK,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,290;biometric-49
+UA,SL,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,285;286
+UA,SM,vf,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,276
 UA,SN,vo,30,"- Free visa on arrival.
-- Only available at Dakar Airport.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,282
-UA,SO,ev,30,- All visitors must have an approved Electronic Visa (eTAS) before the start of their journey. [ 287 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,295;296;297
-UA,SR,vf,90,"- An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival. [ 301 ]
-- Multiple entry e-Visa is also available. [ 302 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,309;310;311;312
+- Only available at Dakar Airport.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,281
+UA,SO,ev,30,- All visitors must have an approved Electronic Visa (eTAS) before the start of their journey. [ 286 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,294;295;296
+UA,SR,vf,90,"- An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival. [ 296 ]
+- Multiple entry e-Visa is also available. [ 297 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,304;305;306;307
 UA,SS,ev,,"- Obtainable online 30 days single entry for 100 USD, 90 days multiple entry for 200 USD and 180 days multiple entry for 350 USD.
-- Printed visa authorization must be presented at the time of travel.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,303;304
-UA,ST,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,278;279
-UA,SV,vf,180,- A tourist card must be obtained on arrival for a fee.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,117
-UA,SY,vo,15,"- Visa approval (security clearance) is mandatory for those flying directly to Syria. [ 306 ]
-- e-Visa website is not working. [ 307 ]
-- Holders of passports containing an Israeli stamp or visa will be refused entry in Syria.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,315;316;317
-UA,SZ,vf,30,- Extension of stay is possible for an additional 30 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,123
-UA,TD,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,87;88
-UA,TG,ev,15,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,323;324
-UA,TH,vf,60,- Extension of stay is possible for another 30 days for a fee.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,321
-UA,TJ,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,318
+- Printed visa authorization must be presented at the time of travel.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,298;299
+UA,ST,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,277;278
+UA,SV,vf,180,- A tourist card must be obtained on arrival for a fee.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,116
+UA,SY,vo,15,"- Visa approval (security clearance) is mandatory for those flying directly to Syria. [ 301 ]
+- e-Visa website is not working. [ 302 ]
+- Holders of passports containing an Israeli stamp or visa will be refused entry in Syria.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,310;311;312
+UA,SZ,vf,30,- Extension of stay is possible for an additional 30 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,122
+UA,TD,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,86;87
+UA,TG,ev,15,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,318;319
+UA,TH,vf,60,- Extension of stay is possible for another 30 days for a fee.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,316
+UA,TJ,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,313
 UA,TL,vo,30,"- Visa on arrival is only available at the Presidente Nicolau Lobato International Airport or at the Dili Sea Port.
-- Extension of stay is possible for up to 90 days for a fee.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,322
-UA,TM,vr,,"- 10-day visa on arrival if holding a letter of invitation provided by a company registered in Turkmenistan with a prior approval from the Foreign Ministry. Visitors can apply to extend their stay for an additional 10 days. [ 321 ]
-- When transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD. [ 322 ] [ 323 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,330;331;332;333
-UA,TN,vr,,- Visa not required only if part of an organized tourist group.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,328
-UA,TO,vo,31,- Extension of stay is possible for up to 6 months.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,325
+- Extension of stay is possible for up to 90 days for a fee.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,317
+UA,TM,vr,,"- 10-day visa on arrival if holding a letter of invitation provided by a company registered in Turkmenistan with a prior approval from the Foreign Ministry. Visitors can apply to extend their stay for an additional 10 days. [ 316 ]
+- When transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD. [ 317 ] [ 318 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,325;326;327;328
+UA,TN,vr,,- Visa not required only if part of an organized tourist group.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,323
+UA,TO,vo,31,- Extension of stay is possible for up to 6 months.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,320
 UA,TR,vf,90,"- 90 days within any 180-day period.
-- ID card valid.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,329
-UA,TT,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,326;327
-UA,TV,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,334
-UA,TW,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,368
+- ID card valid.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,324
+UA,TT,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,321;322
+UA,TV,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,329
+UA,TW,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,363
 UA,TZ,ev,90,"Also available via this method:
-- Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,319;320
+- Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,314;315
 UA,UG,ev,90,"- May apply online.
-- May also be entered on an East Africa Tourist Visa issued by Kenya or Rwanda. [ 261 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,335;336;migration.gov.rw-271
-UA,US,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,341
-UA,UY,vf,90,- Extension of stay is possible for an additional 90 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,342
-UA,UZ,vf,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,343;344
-UA,VA,vf,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,346
-UA,VC,vf,90,- Extension of stay is possible for a fee.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,275
-UA,VE,ev,,- Introduction of Electronic Visa System for Tourist and Business Travelers. [ 339 ] [ 340 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,347;348;349;350
+- May also be entered on an East Africa Tourist Visa issued by Kenya or Rwanda. [ 260 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,330;331;migration.gov.rw-270
+UA,US,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,336
+UA,UY,vf,90,- Extension of stay is possible for an additional 90 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,337
+UA,UZ,vf,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,338;339
+UA,VA,vf,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,341
+UA,VC,vf,90,- Extension of stay is possible for a fee.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,274
+UA,VE,ev,,- Introduction of Electronic Visa System for Tourist and Business Travelers. [ 334 ] [ 335 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,342;343;344;345
 UA,VG,vr,,,https://www.bvitourism.com/travel/visas,,unverified,,
 UA,VN,ev,90,"- e-Visa is valid for 90 days and multiple entry.
-- Visa not required for 30 days on Phú Quốc Island.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,351;352
-UA,VU,vf,120,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,345
-UA,WS,vo,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,276
-UA,YE,vr,,"- Separately, Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.). [ 345 ]
-- Holders of passports containing an Israeli stamp or visa will be refused entry in Yemen.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,353;354;355
-UA,ZA,et,90,"- ETA must be obtained online in advance via the Department of Home Affairs portal; processing is expected within 24 hours. [ 291 ]
-- The authorisation can be used for entry within 180 days of issuance for tourism or private visits.
-- As of September 2026, entry with an ETA is possible only through O. R. Tambo International Airport, Cape Town International Airport, Lanseria International Airport and King Shaka International Airport. [ 292 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,298;299;300;301;302
+- Visa not required for 30 days on Phú Quốc Island.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,346;347
+UA,VU,vf,120,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,340
+UA,WS,vo,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,275
+UA,YE,vr,,"- Separately, Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.). [ 340 ]
+- Holders of passports containing an Israeli stamp or visa will be refused entry in Yemen.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,348;349;350
+UA,ZA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,297
 UA,ZM,vf,30,"- 30 days within any 12-month period for business trips.
 - 90 days within any 12-month period for tourist trips.
-- Also eligible for a universal visa allowing access to Zimbabwe.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,356;357
+- Also eligible for a universal visa allowing access to Zimbabwe.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,351;352
 UA,ZW,ev,30,"Also available via this method:
 - Visa on arrival
 
 - 30 days for business and tourist trips.
 - Extension of stay is possible for up to 90 days if the purpose is tourism.
-- Also eligible for a universal visa allowing access to Zambia.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,358;359
+- Also eligible for a universal visa allowing access to Zambia.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,353;354
 UG,AD,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ugandan_citizens,,unverified,,9
 UG,AE,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ugandan_citizens,,unverified,,254;255
 UG,AF,ev,30,"- Visa is not required in case born in Afghanistan or can proof that one of their parents is a national of Afghanistan or born in Afghanistan. [ 4 ]
