@@ -19,13 +19,14 @@ type DB struct {
 
 var statusLabels = map[string]string{
 	"vf": "Visa Free",
+	"et": "ETA",
 	"vo": "Visa on Arrival",
 	"ev": "eVisa",
-	"et": "ETA",
 	"vr": "Visa Required",
+	"ar": "Admission Refused",
 }
 
-var statusOrder = []string{"vf", "vo", "ev", "et", "vr"}
+var statusOrder = []string{"vf", "et", "vo", "ev", "vr", "ar"}
 
 func Load() (*DB, error) {
 	matrixData, err := os.ReadFile("./data/passport_matrix.json")

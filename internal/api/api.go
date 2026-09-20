@@ -33,13 +33,14 @@ type RouteMeta struct {
 
 var StatusLabels = map[string]string{
 	"vf": "Visa Free",
+	"et": "ETA",
 	"vo": "Visa on Arrival",
 	"ev": "eVisa",
-	"et": "ETA",
 	"vr": "Visa Required",
+	"ar": "Admission Refused",
 }
 
-var StatusOrder = []string{"vf", "vo", "ev", "et", "vr"}
+var StatusOrder = []string{"vf", "et", "vo", "ev", "vr", "ar"}
 
 func readJSON(path string, target interface{}) error {
 	data, err := os.ReadFile(path)

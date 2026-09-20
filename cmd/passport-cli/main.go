@@ -26,10 +26,11 @@ Examples:
 
 Status codes:
   vf = Visa Free
+  et = ETA
   vo = Visa on Arrival
   ev = eVisa
-  et = ETA
   vr = Visa Required
+  ar = Admission Refused
 `
 
 func main() {

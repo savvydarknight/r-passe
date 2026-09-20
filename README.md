@@ -15,10 +15,11 @@ KE,US,vr,,,,unverified
 
 ```text
 vf = Visa Free
+et = ETA
 vo = Visa on Arrival
 ev = eVisa
-et = ETA
 vr = Visa Required
+ar = Admission Refused
 ```
 
 ## Build Flow

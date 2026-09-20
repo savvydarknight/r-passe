@@ -37,11 +37,12 @@ function cleanNotes(notes: string): string {
 function classifySegmentLabel(text: string): string | null {
   const t = text.toLowerCase();
   if (/not required|freedom of movement(?!.{0,60}\bpermit)|right of abode|free visa(?!\s*on\s*arrival)|visa waiver|id card valid|visa free/.test(t)) return "Visa not required";
+  if (/eta\b|electronic(al)?\s*travel/.test(t)) return "ETA";
   if (/visa on arr\w*|voa\b|visitor[’']?s?\s*permit|permit on arrival/.test(t)) return "Visa on arrival";
-  if (/\beta\b|electronic travel authorization|electronic travel/.test(t)) return "ETA";
-  if (/evisa|e-visa|electronic\s*visa|electronic(al)?\s*travel|electronic\s*authorization|electronic\s*entry|evisitor|e600\b|esta\b|electronic border|online visa|e-tourist card|e\s*tourist\s*card|\bease\b|mainland travel permit/.test(t)) return "eVisa";
-  if (/admission refused|admission restrict\w*|travel restrict\w*|travel banned|travel prohibited|visa restrict\w*|suspended|passport not recognized|particular visit regime/.test(t)) return "Admission restricted";
+  if (/evisa|e-visa|electronic\s*visa|electronic\s*authorization|electronic\s*entry|evisitor|e600\b|esta\b|electronic border|online visa|e-tourist card|e\s*tourist\s*card|\bease\b|mainland travel permit/.test(t)) return "eVisa";
   if (/visa required|vesa required|visa de facto required|tourist card required|permission required|invitation required|special permit required|travel certificate required|affidavit of identity required/.test(t)) return "Visa required";
+  if (/admission refused/.test(t)) return "Admission refused";
+  if (/admission restrict\w*|travel restrict\w*|travel banned|travel prohibited|visa restrict\w*|suspended|passport not recognized|particular visit regime/.test(t)) return "Admission restricted";
   return null;
 }
 
@@ -65,10 +66,11 @@ function extractAllMethods(requirementRaw: string): string[] {
 
 const STATUS_TO_LABEL: Record<string, string> = {
   vf: "Visa not required",
+  et: "ETA",
   vo: "Visa on arrival",
   ev: "eVisa",
-  et: "ETA",
   vr: "Visa required",
+  ar: "Admission refused",
 };
 
 function buildNotes(notes: string, requirementRaw: string, primaryStatus: string): string {
@@ -93,9 +95,12 @@ function normalizeReciprocity(raw: string): string {
 
 function mapStatus(requirement: string, requirementRaw: string): string | null {
   if (requirement === "visa_free") return "vf";
+  if (requirement === "eta") return "et";
   if (requirement === "visa_on_arrival") return "vo";
+  if (requirement === "evisa") return "ev";
   if (requirement === "visa_required") return "vr";
-  if (requirement === "no_admission") return "vr";
+  if (requirement === "admission_refused") return "ar";
+  if (requirement === "no_admission") return /admission refused/i.test(requirementRaw) ? "ar" : "vr";
   if (requirement === "eta_evisa") {
     const raw = requirementRaw.toLowerCase();
     if (/\beta\b|electronic travel/.test(raw)) return "et";

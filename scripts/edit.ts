@@ -12,7 +12,7 @@ import { parseCSV, csvField } from "./csv.ts";
 // ============================================================
 
 const CSV_PATH = "./data/master.csv";
-const VALID_STATUSES = new Set(["vf", "vo", "ev", "et", "vr"]);
+const VALID_STATUSES = new Set(["vf", "et", "vo", "ev", "vr", "ar"]);
 
 interface Row {
   passport: string;
@@ -55,7 +55,7 @@ function validate(passport: string, destination: string, status?: string): void 
   if (passport.length !== 2) throw new Error(`Invalid passport code: ${passport}`);
   if (destination.length !== 2) throw new Error(`Invalid destination code: ${destination}`);
   if (passport === destination) throw new Error(`Passport and destination cannot be the same`);
-  if (status && !VALID_STATUSES.has(status)) throw new Error(`Invalid status: ${status}. Must be one of: vf, vo, ev, et, vr`);
+  if (status && !VALID_STATUSES.has(status)) throw new Error(`Invalid status: ${status}. Must be one of: vf, et, vo, ev, vr, ar`);
 }
 
 const [, , command, ...args] = process.argv;
@@ -138,7 +138,7 @@ switch (command) {
     if (!row) {
       console.log(`No route found: ${p} → ${d}`);
     } else {
-      const labels: Record<string, string> = { vf: "Visa Free", vo: "Visa on Arrival", ev: "eVisa", et: "ETA", vr: "Visa Required" };
+      const labels: Record<string, string> = { vf: "Visa Free", et: "ETA", vo: "Visa on Arrival", ev: "eVisa", vr: "Visa Required", ar: "Admission Refused" };
       console.log(`${p} → ${d}: ${labels[row.status] ?? row.status}${row.days ? ` (${row.days} days)` : ""}`);
       console.log(`  confidence: ${row.confidence || "unverified"}`);
       if (row.lastVerified) console.log(`  last verified: ${row.lastVerified}`);
@@ -160,10 +160,10 @@ switch (command) {
     if (rows.length === 0) {
       console.log(`No routes found for passport: ${p}`);
     } else {
-      const grouped: Record<string, string[]> = { vf: [], vo: [], ev: [], et: [], vr: [] };
+      const grouped: Record<string, string[]> = { vf: [], et: [], vo: [], ev: [], vr: [], ar: [] };
       for (const r of rows) grouped[r.status]?.push(r.destination);
       console.log(`\n${p} passport (${rows.length} destinations)\n`);
-      const labels: Record<string, string> = { vf: "Visa Free", vo: "Visa on Arrival", ev: "eVisa", et: "ETA", vr: "Visa Required" };
+      const labels: Record<string, string> = { vf: "Visa Free", et: "ETA", vo: "Visa on Arrival", ev: "eVisa", vr: "Visa Required", ar: "Admission Refused" };
       for (const [status, dests] of Object.entries(grouped)) {
         if (dests.length) console.log(`  ${labels[status]} (${dests.length}): ${dests.join(", ")}`);
       }
@@ -183,10 +183,10 @@ switch (command) {
     if (rows.length === 0) {
       console.log(`No routes found for destination: ${d}`);
     } else {
-      const grouped: Record<string, string[]> = { vf: [], vo: [], ev: [], et: [], vr: [] };
+      const grouped: Record<string, string[]> = { vf: [], et: [], vo: [], ev: [], vr: [], ar: [] };
       for (const r of rows) grouped[r.status]?.push(r.passport);
       console.log(`\n${d} as destination (${rows.length} passports)\n`);
-      const labels: Record<string, string> = { vf: "Visa Free", vo: "Visa on Arrival", ev: "eVisa", et: "ETA", vr: "Visa Required" };
+      const labels: Record<string, string> = { vf: "Visa Free", et: "ETA", vo: "Visa on Arrival", ev: "eVisa", vr: "Visa Required", ar: "Admission Refused" };
       for (const [status, passports] of Object.entries(grouped)) {
         if (passports.length) console.log(`  ${labels[status]} (${passports.length}): ${passports.join(", ")}`);
       }
@@ -205,7 +205,7 @@ Commands:
   passport <code>                                Show all routes for a passport
   destination <code>                             Show all passports for a destination
 
-Status codes: vf (Visa Free), vo (Visa on Arrival), ev (eVisa), et (ETA), vr (Visa Required)
+Status codes: vf (Visa Free), et (ETA), vo (Visa on Arrival), ev (eVisa), vr (Visa Required), ar (Admission Refused)
 Confidence: verified (checked against an official source), unverified (default), disputed (sources disagree)
 
 Examples:

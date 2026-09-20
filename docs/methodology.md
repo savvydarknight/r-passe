@@ -7,17 +7,18 @@ Passport strength is calculated from destination accessibility, weighted by how 
 ```text
 vf   1.0
 vo   0.7
-ev   0.5
-et   0.3
-vr  -1.0
+et   0.5
+ev   0.3
+vr   0
+ar   0
 ```
 
 ## Formula
 
 ```text
-score = (vf * 1.0) + (vo * 0.7) + (ev * 0.5) + (et * 0.3) + (vr * -1.0)
+score = (vf * 1.0) + (vo * 0.7) + (et * 0.5) + (ev * 0.3)
 ```
 
-`vr` (visa required) counts against the score, symmetric with `vf`: each visa-required destination cancels out one visa-free destination's worth of score.
+`vr` (visa required) and `ar` (admission refused) add nothing to the score.
 
 Rankings are generated automatically from the latest dataset.

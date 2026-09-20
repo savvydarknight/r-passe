@@ -37,7 +37,7 @@ describe("build", () => {
 
   it("all statuses in matrix are valid", () => {
     const matrix = JSON.parse(fs.readFileSync(matrixPath, "utf8"));
-    const valid = new Set(["vf", "vo", "ev", "et", "vr"]);
+    const valid = new Set(["vf", "et", "vo", "ev", "vr", "ar"]);
     for (const [passport, destinations] of Object.entries(matrix)) {
       for (const [dest, value] of Object.entries(destinations as object)) {
         const [status] = value as string[];

@@ -44,7 +44,7 @@ describe("validate", () => {
   });
 
   it("all statuses are valid", () => {
-    const valid = new Set(["vf", "vo", "ev", "et", "vr"]);
+    const valid = new Set(["vf", "et", "vo", "ev", "vr", "ar"]);
     for (const [i, row] of readRows().entries()) {
       const status = row[2];
       assert.ok(valid.has(status), `Invalid status '${status}' at row ${i + 2}`);

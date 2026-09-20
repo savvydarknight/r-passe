@@ -25,7 +25,7 @@ if (header !== "passport,destination,status,days,notes,source_url,last_verified,
 
 const dataRows = rows.slice(1);
 log(`validating ${dataRows.length} data rows`);
-const validStatuses = new Set(["vf", "vo", "ev", "et", "vr"]);
+const validStatuses = new Set(["vf", "et", "vo", "ev", "vr", "ar"]);
 const validConfidence = new Set(["unverified", "verified", "disputed"]);
 const dateRe = /^\d{4}-\d{2}-\d{2}$/;
 const seen = new Set<string>();
