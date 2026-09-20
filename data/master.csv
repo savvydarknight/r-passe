@@ -1267,7 +1267,7 @@ AM,AO,ev,30,"- 30 days per trip, but no more than 90 days within any 1 calendar 
 AM,AR,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens,,unverified,,16
 AM,AT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens,,unverified,,19
 AM,AU,vr,,- May apply online (Online Visitor e600 visa).,https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens,,unverified,,17;18
-AM,AZ,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens,,unverified,,20
+AM,AZ,ar,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens,,unverified,,20
 AM,BA,vr,,- Visa not required for a maximum stay of 7 days for valid visa holders or residents of the European Union member states.,https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens,,unverified,,37
 AM,BB,vf,28,,https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens,,unverified,,25
 AM,BD,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens,,unverified,,24
@@ -3495,7 +3495,7 @@ BD,LS,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Bangladeshi_cit
 BD,LT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Bangladeshi_citizens,,unverified,,Timatic-3
 BD,LU,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Bangladeshi_citizens,,unverified,,Timatic-3
 BD,LV,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Bangladeshi_citizens,,unverified,,Timatic-3
-BD,LY,vr,,- Admission refused since May 2015. [ 47 ] [ 48 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Bangladeshi_citizens,,unverified,,47;48;Timatic-3
+BD,LY,ar,,- Admission refused since May 2015. [ 47 ] [ 48 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Bangladeshi_citizens,,unverified,,47;48;Timatic-3
 BD,MA,vr,,"- e-Visa availability for the Schengen, USA, Canada, UK valid visa or Permanent Resident Card holders. (T-chy)",https://en.wikipedia.org/wiki/Visa_requirements_for_Bangladeshi_citizens,,unverified,,Timatic-3
 BD,MC,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Bangladeshi_citizens,,unverified,,Timatic-3
 BD,MD,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Bangladeshi_citizens,,unverified,,53;Timatic-3
@@ -3558,7 +3558,7 @@ BD,SC,ev,90,"- Application can be submitted up to 30 days before travel.
 - Yellow fever vaccination certificate is required if coming from endemic countries.
 - Payment of the fee (EUR 10) by credit or debit card.
 - Valid for one journey only and it expires once exit the country.",https://en.wikipedia.org/wiki/Visa_requirements_for_Bangladeshi_citizens,,unverified,,69;Timatic-3
-BD,SD,vr,,"- For ordinary passport holders, entry and transit is refused unless arriving for commercial delegations or as students studying at a Sudanese institute of higher education or university and holding a residence permit.",https://en.wikipedia.org/wiki/Visa_requirements_for_Bangladeshi_citizens,,unverified,,Timatic-3
+BD,SD,ar,,"- For ordinary passport holders, entry and transit is refused unless arriving for commercial delegations or as students studying at a Sudanese institute of higher education or university and holding a residence permit.",https://en.wikipedia.org/wiki/Visa_requirements_for_Bangladeshi_citizens,,unverified,,Timatic-3
 BD,SE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Bangladeshi_citizens,,unverified,,Timatic-3
 BD,SG,ev,,"- No visa required for diplomatic and official Passport holders. [ 72 ]
 - An eVisa can only be obtained through a local contact, strategic partner or authorized visa agent. [ 73 ] [ 74 ]
@@ -8207,7 +8207,7 @@ CG,TZ,ev,90,"Also available via this method:
 - Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Republic_of_the_Congo_citizens,,unverified,,236;237
 CG,UA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Republic_of_the_Congo_citizens,,unverified,,253
 CG,UG,ev,,- May apply online. [ 251 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Republic_of_the_Congo_citizens,,unverified,,251;252
-CG,US,vr,,"- Effective June 9, 2025, U.S. visas will no longer be issued to citizens of 12 countries, with certain exemptions. [ 258 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Republic_of_the_Congo_citizens,,unverified,,258;ban2025-259
+CG,US,ar,,"- Effective June 9, 2025, U.S. visas will no longer be issued to citizens of 12 countries, with certain exemptions. [ 258 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Republic_of_the_Congo_citizens,,unverified,,258;ban2025-259
 CG,UY,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Republic_of_the_Congo_citizens,,unverified,,260
 CG,UZ,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Republic_of_the_Congo_citizens,,unverified,,261
 CG,VA,vr,,- Open borders but de facto follows Italian visa policy.,https://en.wikipedia.org/wiki/Visa_requirements_for_Republic_of_the_Congo_citizens,,unverified,,263
@@ -13774,7 +13774,7 @@ ER,TW,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Eritrean_citizens
 ER,TZ,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Eritrean_citizens,,unverified,,229;230
 ER,UA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Eritrean_citizens,,unverified,,243
 ER,UG,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Eritrean_citizens,,unverified,,242
-ER,US,vr,,"- Effective June 9, 2025, U.S. visas will no longer be issued to citizens of 12 countries. [ 243 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Eritrean_citizens,,unverified,,248;ban2025-249
+ER,US,ar,,"- Effective June 9, 2025, U.S. visas will no longer be issued to citizens of 12 countries. [ 243 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Eritrean_citizens,,unverified,,248;ban2025-249
 ER,UY,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Eritrean_citizens,,unverified,,250
 ER,UZ,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Eritrean_citizens,,unverified,,251
 ER,VA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Eritrean_citizens,,unverified,,255
@@ -20220,7 +20220,7 @@ IE,ZW,ev,30,"Also available via this method:
 IL,AD,vf,90,"- There are no visa requirements in Andorra, Entry into the country is possible through France or Spain.
 - 90 days within any 180-day period in the Schengen Area.",https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,16
 IL,AE,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,323;324
-IL,AF,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,,12
+IL,AF,ar,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,,12
 IL,AG,ev,180,- Visa not required for 24 hours if arriving by cruise.,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,No,20;21
 IL,AL,vf,90,- 90 days within 180-day period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,13;14
 IL,AM,ev,120,"Also available via this method:
@@ -20242,7 +20242,7 @@ IL,AZ,ev,30,"Also available via this method:
 - Admission refused to foreign nationals with passport stamps from Nagorno-Karabakh, Armenian citizens and other Armenians [ broken anchor ].",https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,No,29;30
 IL,BA,vf,90,- 90 days within 180-day period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,No,52;53
 IL,BB,vf,180,,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,38;39
-IL,BD,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,,35;Israel-Bangladesh1-36;Israel-Bangladesh2-37
+IL,BD,ar,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,,35;Israel-Bangladesh1-36;Israel-Bangladesh2-37
 IL,BE,vf,90,- 90 days within any 180-day period in the Schengen Area.,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,42;auto4-28
 IL,BF,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,No,60;61
 IL,BG,vf,90,- 90 days within any 180-day period in the Schengen Area.,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,59;auto4-28
@@ -20258,7 +20258,7 @@ IL,BI,ev,30,"Also available via this method:
 - From December 2021, passengers of all countries that required visa, can now obtain visa on arrival at Bujumbura International Airport, and all land borders. [ 64 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,No,62;63;64
 IL,BJ,ev,30,"- Must have an international vaccination certificate.
 - Three types of electronic visa are offered: the e-Visa valid for 30 days for a single entry (50 EUR), the e-Visa valid for 30 days for several (multiple) entries (75 EUR), and the e-Visa valid for 90 days to make several (multiple) entries (100 EUR). [ 47 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,No,45;46;47
-IL,BN,vr,,"- Brunei does not recognise Israel as a state, and hence prohibits entry of Israeli citizens into its territory.",https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,,58
+IL,BN,ar,,"- Brunei does not recognise Israel as a state, and hence prohibits entry of Israeli citizens into its territory.",https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,,58
 IL,BO,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,No,51
 IL,BR,vf,90,- 90 days within 180-day period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,56;57
 IL,BS,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,31;32
@@ -20287,7 +20287,7 @@ IL,DJ,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizen
 IL,DK,vf,90,- 90 days within any 180-day period in the Schengen Area.,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,96;auto4-28
 IL,DM,vf,180,,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,100;99
 IL,DO,vf,30,- Extendable to 120 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,101;102
-IL,DZ,vr,,- Part of the Arab League boycott of Israel.,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,,15
+IL,DZ,ar,,- Part of the Arab League boycott of Israel.,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,,15
 IL,EC,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,103;104
 IL,EE,vf,90,- 90 days within any 180-day period in the Schengen Area.,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,111;auto4-28
 IL,EG,vr,,- Visa not required for visits to Sinai resorts for up to 14 days if entering only through Taba Border Crossing or Sharm El Sheikh International Airport.,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,105
@@ -20328,9 +20328,9 @@ IL,IE,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizen
 IL,IN,ev,30,"- e-Visa holders must arrive via 32 designated airports [ Note 1 ] or 5 designated seaports. [ Note 2 ] [ 146 ]
 - An Indian e-Tourist Visa may only be obtained twice within 1 calendar year. [ 147 ]
 - Foreigners of Pakistani origin or who hold a Pakistani Passport are not eligible for an e-Visa. Foreigners who are not Pakistani nationals, but whose parents or grandparents (either paternal or maternal) were born in, or were permanent residents in Pakistan, are also not eligible for an e-Visa. [ 148 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,144;145;148;149;150;Airports-146;Seaports-147
-IL,IQ,vr,,"- Part of the Arab League boycott of Israel.
+IL,IQ,ar,,"- Part of the Arab League boycott of Israel.
 - Defined as an enemy state under Israeli law.",https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,,153
-IL,IR,vr,,- Defined as an enemy state under Israeli law.,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,,152
+IL,IR,ar,,- Defined as an enemy state under Israeli law.,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,,152
 IL,IS,vf,90,- 90 days within any 180-day period in the Schengen Area.,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,143;auto4-28
 IL,IT,vf,90,- 90 days within any 180-day period in the Schengen Area.,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,155;auto4-28
 IL,JM,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,156;157
@@ -20359,7 +20359,7 @@ IL,KN,et,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizen
 IL,KP,vr,,"- Visitors traveling for tourist purposes must hold an authorization to travel, issued by a travel company in North Korea.
 - Travel to North Korea requires approval of the foreign ministry of Israel. [ 167 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,168;169
 IL,KR,et,90,- The validity period of a K-ETA is 3 years from the date of approval. [ 170 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,170;171;172
-IL,KW,vr,,- Part of the Arab League boycott of Israel.,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,,173
+IL,KW,ar,,- Part of the Arab League boycott of Israel.,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,,173
 IL,KY,vf,,,https://gov.ky/web/cbc/travel/visas-extensions/visitors-visas/list-of-countries-visa-required,,unverified,,
 IL,KZ,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,No,163
 IL,LA,ev,30,"Also available via this method:
@@ -20368,7 +20368,7 @@ IL,LA,ev,30,"Also available via this method:
 - 18 [ Note 3 ] of the 33 border crossings are only open to regular visa holders. [ 175 ]
 - e-Visa may be used to enter Laos through the Luang Prabang, Pakse and Vientiane international airports, 3 Thai-Lao Friendship Bridges [ Note 4 ], in Boten (road and railroad), and in Vientiane (at Khamsavath railway station). [ 175 ]
 - Visa on arrival is available at the Luang Prabang, Pakse and Vientiane international airports, 4 Thai-Lao Friendship Bridges [ Note 5 ] and 7 border crossings. [ Note 6 ] [ 175 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,No,175;176;Checkpoints-178;Friendship_Bridges-180;VOA_border_crossings._Laos-181;Visa-only_border_crossings-177;eVisa_Friendship_Bridges-179
-IL,LB,vr,,"- Part of the Arab League boycott of Israel.
+IL,LB,ar,,"- Part of the Arab League boycott of Israel.
 - Defined as an enemy state under Israeli law.",https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,,183
 IL,LC,vf,6,,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,259;260
 IL,LI,vf,90,- 90 days within any 180-day period in the Schengen Area.,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,188;auto4-28
@@ -20379,7 +20379,7 @@ IL,LS,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizen
 IL,LT,vf,90,- 90 days within any 180-day period in the Schengen Area.,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,189;auto4-28
 IL,LU,vf,90,- 90 days within any 180-day period in the Schengen Area.,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,190;auto4-28
 IL,LV,vf,90,- 90 days within any 180-day period in the Schengen Area.,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,182;auto4-28
-IL,LY,vr,,- Part of the Arab League boycott of Israel.,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,,187
+IL,LY,ar,,- Part of the Arab League boycott of Israel.,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,,187
 IL,MA,ev,30,"- The e-Visa has a duration of 30 days and can be extended up to 6 months with multiple-entry in Morocco.
 - Nationals of Israel born in Morocco can obtain a visa on arrival. They must have a Moroccan national ID card.
 - Nationals of Israel residing in Israel with a letter issued by the Council of Jewish Communities of Morocco can obtain a visa on arrival.
@@ -20404,7 +20404,7 @@ IL,MO,vf,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,
 IL,MR,ev,30,- Available at Nouakchott–Oumtounsy International Airport.,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,No,201;202
 IL,MT,vf,90,- 90 days within any 180-day period in the Schengen Area.,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,198;auto4-28
 IL,MU,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,203;204
-IL,MV,vr,,"- Admission for Israeli passport holders has been refused since 15 April 2025 by the Maldivian government, in response to the Gaza war. [ 10 ] [ 11 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,,196;maldives2-10;maldives3-11
+IL,MV,ar,,"- Admission for Israeli passport holders has been refused since 15 April 2025 by the Maldivian government, in response to the Gaza war. [ 10 ] [ 11 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,,196;maldives2-10;maldives3-11
 IL,MW,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,193
 IL,MX,vf,180,,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,205;206
 IL,MY,vr,,"- Israeli citizens are generally refused entry and transit.
@@ -20432,7 +20432,7 @@ IL,NP,ev,90,"Also available via this method:
 IL,NR,vo,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,222
 IL,NZ,et,90,"- International Visitor Conservation and Tourism Levy must be paid upon requesting an Electronic Travel Authority. [ 221 ]
 - Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. [ 222 ] Such travellers are not required to pay the International Visitor Conservation and Tourism Levy. [ 221 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,226;Australian_Resident_Visa-228;NZ_IVL-227
-IL,OM,vr,,- Except Transit,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,,235
+IL,OM,ar,,- Except Transit,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,,235
 IL,PA,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,239;240
 IL,PE,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,245;246
 IL,PG,ev,60,"Also available via this method:
@@ -20476,7 +20476,7 @@ IL,SS,ev,,"- Obtainable online 30 days single entry for 100 USD, 90 days multipl
 - Printed visa authorization must be presented at the time of travel.",https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,No,285;286
 IL,ST,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,No,265;266
 IL,SV,vf,90,- Central America-4 Border Control Agreement.,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,106;107
-IL,SY,vr,,"- Part of the Arab League boycott of Israel.
+IL,SY,ar,,"- Part of the Arab League boycott of Israel.
 - Defined as an enemy state under Israeli law.",https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,,297
 IL,SZ,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,112;113
 IL,TC,vf,,,https://borderforce.gov.tc/entry-requirements,,unverified,,
@@ -20517,7 +20517,7 @@ IL,VN,ev,,"- e-Visa is valid for 90 days and multiple entry.
 IL,VU,vf,120,,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,335;336
 IL,WS,vo,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,262;263
 IL,XK,vf,,,https://ambasadat.net/visas/,,unverified,,
-IL,YE,vr,,"- Part of the Arab League boycott of Israel.
+IL,YE,ar,,"- Part of the Arab League boycott of Israel.
 - Defined as an enemy state under Israeli law.",https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,,343
 IL,ZA,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,Yes,283;284
 IL,ZM,vf,30,- Also eligible for a universal visa allowing access to Zimbabwe.,https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens,,unverified,No,344
@@ -21065,7 +21065,7 @@ IQ,ZA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens,,u
 IQ,ZM,vf,90,- For tourism purposes only.,https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens,,unverified,,269
 IQ,ZW,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens,,unverified,,270;271
 IR,AD,vr,,"- Although officially no visa is required, at least a Double Entry Schengen visa is required to enter Andorra since it has no own airport facility.",https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens,,unverified,,9
-IR,AE,vr,,"- Following Iranian strikes on the UAE, Iranian passport holders are no longer allowed to enter or transit through the country. [ 265 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens,,unverified,,265;266
+IR,AE,ar,,"- Following Iranian strikes on the UAE, Iranian passport holders are no longer allowed to enter or transit through the country. [ 265 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens,,unverified,,265;266
 IR,AF,vr,,- Not eligible for the e-Visa program available to most nationalities. [ 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens,,unverified,,2;3
 IR,AG,ev,,"- 90 days with a valid visa or PR card for United States, Canada, United Kingdom or an EU Member State. [ citation needed ]
 - e-Visa can be obtained before departure.
@@ -21196,7 +21196,7 @@ IR,LS,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens,
 IR,LT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens,,unverified,,143
 IR,LU,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens,,unverified,,144
 IR,LV,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens,,unverified,,136
-IR,LY,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens,,unverified,,141
+IR,LY,ar,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens,,unverified,,141
 IR,MA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens,,unverified,,165
 IR,MC,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens,,unverified,,162
 IR,MD,vr,,- Citizens holding a residence permit or a valid visa issued by one of the member states of the European Union or one of the parties to the Schengen Agreement can apply for an electronic visa. [ 160 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens,,unverified,,160;161
@@ -21313,7 +21313,7 @@ IR,UA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens,
 IR,UG,ev,90,"- Verified at port of entry.
 - Can also be entered on an East Africa Tourist Visa issued by Kenya or Rwanda.
 - The fee for this visa is 100 USD.",https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens,,unverified,,262;263
-IR,US,vr,,"- Effective June 9, 2025, U.S. visas will no longer be issued to citizens of 12 countries, with certain exemptions. [ 268 ]
+IR,US,ar,,"- Effective June 9, 2025, U.S. visas will no longer be issued to citizens of 12 countries, with certain exemptions. [ 268 ]
 - Iranian citizens can apply for immigrant visas if they face ethnic or religious persecution in their country. [ 268 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens,,unverified,,268;ban2025-269
 IR,UY,vr,,- Prior authorisation required before issuing visa. [ 270 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens,,unverified,,270;271
 IR,UZ,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens,,unverified,,272;273
@@ -24322,7 +24322,7 @@ KP,JO,ev,,"Also available via this method:
 - Visa on arrival
 
 - Visa can be obtained upon arrival, it will cost a total of 40 JOD, obtainable at most international ports of entry and land border crossings. (except King Hussein/Allenby Bridge)",https://en.wikipedia.org/wiki/Visa_requirements_for_North_Korean_citizens,,unverified,,126;127
-KP,JP,vr,,"- Japan has banned North Korean citizens from entering as part of sanctions against North Korea imposed by the Government of Japan, since February 2016. [ 125 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_North_Korean_citizens,,unverified,,124;125
+KP,JP,ar,,"- Japan has banned North Korean citizens from entering as part of sanctions against North Korea imposed by the Government of Japan, since February 2016. [ 125 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_North_Korean_citizens,,unverified,,124;125
 KP,KE,et,90,"- Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance.
 - eTA fee is 32.50 USD.
 - Proof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable).
@@ -30552,7 +30552,7 @@ MM,TZ,ev,90,"Also available via this method:
 - Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Myanmar_citizens,,unverified,,238;239
 MM,UA,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Myanmar_citizens,,unverified,,254;255
 MM,UG,ev,90,- Up to 24-month multiple entry is available for applicants who are able to provide the right documentation.,https://en.wikipedia.org/wiki/Visa_requirements_for_Myanmar_citizens,,unverified,,252;253
-MM,US,vr,,"- Effective June 9, 2025, U.S. visas will no longer be issued to citizens of 12 countries, with certain exemptions. [ 258 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Myanmar_citizens,,unverified,,259;ban2025-260
+MM,US,ar,,"- Effective June 9, 2025, U.S. visas will no longer be issued to citizens of 12 countries, with certain exemptions. [ 258 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Myanmar_citizens,,unverified,,259;ban2025-260
 MM,UY,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Myanmar_citizens,,unverified,,261
 MM,UZ,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Myanmar_citizens,,unverified,,262
 MM,VA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Myanmar_citizens,,unverified,,266
@@ -33518,7 +33518,7 @@ NE,TW,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Nigerien_citizens
 NE,TZ,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Nigerien_citizens,,unverified,,246;247
 NE,UA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Nigerien_citizens,,unverified,,262
 NE,UG,ev,,- May apply online. [ 259 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Nigerien_citizens,,unverified,,260;261
-NE,US,vr,,"- Effective June 9, 2025, U.S. visas will no longer be issued to citizens of 12 countries, with certain exemptions. [ 266 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Nigerien_citizens,,unverified,,267;ban2025-268
+NE,US,ar,,"- Effective June 9, 2025, U.S. visas will no longer be issued to citizens of 12 countries, with certain exemptions. [ 266 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Nigerien_citizens,,unverified,,267;ban2025-268
 NE,UY,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Nigerien_citizens,,unverified,,269
 NE,UZ,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Nigerien_citizens,,unverified,,270
 NE,VA,vr,,- Open borders but de facto follows Italian visa policy.,https://en.wikipedia.org/wiki/Visa_requirements_for_Nigerien_citizens,,unverified,,274
@@ -37360,7 +37360,7 @@ PS,MC,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Palestinian_citiz
 PS,MD,ev,,"- visa not required if holding a valid visa /residence permit that is issued by a European Union member state or Schengen Area, Canada, Ireland, UK, US [ 212 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Palestinian_citizens,,unverified,,217;218;219
 PS,ME,vr,,"- Visa not required for holders of a valid Australia, Japan, Canada, New Zealand, Ireland, US, UK or a Schengen Visa.
 - Holders of residence permit in the United Arab Emirates may enter, in Montenegro for a duration of 10 days [ 217 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Palestinian_citizens,,unverified,,223;224
-PS,MG,vr,,- Although Palestinians can apply online for the eVisa at the platform but holders of a Palestinian Authority passport are not allowed to enter and transit. [ 190 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Palestinian_citizens,,unverified,,196;197;passportindex.org-188
+PS,MG,ar,,- Although Palestinians can apply online for the eVisa at the platform but holders of a Palestinian Authority passport are not allowed to enter and transit. [ 190 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Palestinian_citizens,,unverified,,196;197;passportindex.org-188
 PS,MH,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Palestinian_citizens,,unverified,,207;208;209
 PS,MK,vr,,"- Visa is not required for stays upto 15 days if holding a valid multiple entry visa of Canada, the United States, United Kingdom, Schengen Area member state, or residence permit of Schengen Area member state.",https://en.wikipedia.org/wiki/Visa_requirements_for_Palestinian_citizens,,unverified,,244
 PS,ML,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Palestinian_citizens,,unverified,,205
@@ -39138,7 +39138,7 @@ RU,CU,vf,90,- 90 days within any 180-day period.,https://en.wikipedia.org/wiki/V
 RU,CV,vf,60,"- Must register online at least five days prior to arrival. [ 116 ]
 - Visitors must pay the Airport Security Fee (TSA) before visiting. The cost is 3,400 CVE (approx. 31 EUR) and can be paid via the online platform (EASE).",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,117;118;mid.ru-40
 RU,CY,vr,,- 90 days within any 180-day period for valid Schengen Member State visa holders.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,ReferenceB-146;auto-147
-RU,CZ,vr,,"- From 19 September 2022, Russian citizens are banned from entering Czech Republic for tourism, business, sports or culture",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,148
+RU,CZ,ar,,"- From 19 September 2022, Russian citizens are banned from entering Czech Republic for tourism, business, sports or culture",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,148
 RU,DE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,178
 RU,DJ,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,150;151
 RU,DK,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,149
@@ -39147,7 +39147,7 @@ RU,DO,vf,60,- May extended stay for a fee.,https://en.wikipedia.org/wiki/Visa_re
 RU,DZ,vr,,"- Persons may be denied entry if entering with a passport containing visas or stamps issued by Israel.
 - Visitors on tours organized to some southern regions by an approved travel agency may obtain a visa on arrival for up to 30 days. [ 74 ] [ 75 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,75;76;77
 RU,EC,vf,90,- Extension of stay is possible.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,154
-RU,EE,vr,,"- From 19 September 2022, Russian citizens are banned from entering Estonia for tourism, business, sports or culture. [ 162 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,162;163;164
+RU,EE,ar,,"- From 19 September 2022, Russian citizens are banned from entering Estonia for tourism, business, sports or culture. [ 162 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,162;163;164
 RU,EG,ev,30,"Also available via this method:
 - Visa on arrival
 
@@ -39162,7 +39162,7 @@ RU,ET,ev,90,"Also available via this method:
 - Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 166 ]
 - e-Visa holders must arrive via Addis Ababa Bole International Airport.
 - e-Visa is available for 30 or 90 days. [ 167 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,166;167;168;169
-RU,FI,vr,,"- From 30 September 2022, Russian citizens are banned from entering Finland for tourism.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,171
+RU,FI,ar,,"- From 30 September 2022, Russian citizens are banned from entering Finland for tourism.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,171
 RU,FJ,vf,120,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,170
 RU,FM,vf,30,- Extension of stay is possible up to 60 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,254
 RU,FR,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,172
@@ -39238,9 +39238,9 @@ RU,LK,et,30,"Also available via this method:
 - Electronic Travel Authorization subject to granting/issuing free of charge.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,329;330
 RU,LR,vo,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,232;233
 RU,LS,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,231
-RU,LT,vr,,"- From 19 September 2022, Russian citizens are banned from entering Lithuania for tourism, business, sports or culture.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,237;238
+RU,LT,ar,,"- From 19 September 2022, Russian citizens are banned from entering Lithuania for tourism, business, sports or culture.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,237;238
 RU,LU,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,239
-RU,LV,vr,,"- From 19 September 2022, Russian citizens are banned from entering Latvia for tourism, business, sports or culture.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,228;229
+RU,LV,ar,,"- From 19 September 2022, Russian citizens are banned from entering Latvia for tourism, business, sports or culture.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,228;229
 RU,LY,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,234;235
 RU,MA,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,260
 RU,MC,vr,,- Open border with France.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,256
@@ -39273,7 +39273,7 @@ RU,NG,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizen
 RU,NI,vf,90,"- Tourist card must be obtained on arrival, subject to a fee.
 - Extension of stay is possible for additional 30 days for a fee.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,275
 RU,NL,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,270
-RU,NO,vr,90,"- From 29 May 2024, Russian citizens are banned from entering Norway for tourism.
+RU,NO,ar,90,"- From 29 May 2024, Russian citizens are banned from entering Norway for tourism.
 - Visa-free access to the Kirkenes area for 15 days for holders of border traffic permit.
 - Visa-free access for Schengen Residents including tourism.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,281;282
 RU,NP,ev,90,"Also available via this method:
@@ -39291,7 +39291,7 @@ RU,PG,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizen
 RU,PH,vf,30,"- A visa on arrival is available for a maximum stay of 59 days.
 - Extension of stay is only possible for those who obtained a visa on arrival, to a maximum of 1 year.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,294
 RU,PK,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,286;287
-RU,PL,vr,,"- From 19 September 2022, Russian citizens are banned from entering Poland for tourism, business, sports or culture.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,295
+RU,PL,ar,,"- From 19 September 2022, Russian citizens are banned from entering Poland for tourism, business, sports or culture.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,295
 RU,PT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,296
 RU,PW,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,288
 RU,PY,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,292
@@ -40499,7 +40499,7 @@ SD,LS,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Sudanese_citizens
 SD,LT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Sudanese_citizens,,unverified,,162
 SD,LU,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Sudanese_citizens,,unverified,,163
 SD,LV,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Sudanese_citizens,,unverified,,153
-SD,LY,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Sudanese_citizens,,unverified,,160
+SD,LY,ar,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Sudanese_citizens,,unverified,,160
 SD,MA,vr,,"- May apply for an e-Visa if holding a valid visa or a residency document issued by one of the following countries: Schengen Area, Australia, Canada, Ireland, New Zealand, United Kingdom, United States a residency document issued by Cyprus, Japan, United Arab Emirates. [ 183 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Sudanese_citizens,,unverified,,187;188
 SD,MC,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Sudanese_citizens,,unverified,,183
 SD,MD,vr,,"- visa not required if holding a valid visa /residence permit that is issued by a European Union member state or Schengen Area, Canada, Ireland, UK, US [ 177 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Sudanese_citizens,,unverified,,180;181;182
@@ -40585,7 +40585,7 @@ SD,TZ,ev,,"Also available via this method:
 - Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Sudanese_citizens,,unverified,,273;274
 SD,UA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Sudanese_citizens,,unverified,,291
 SD,UG,ev,,- May apply online. [ 285 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Sudanese_citizens,,unverified,,289;290
-SD,US,vr,,"- Effective June 9, 2025, U.S. visas will no longer be issued to citizens of 12 countries, with certain exemptions. [ 292 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Sudanese_citizens,,unverified,,296;ban2025-297
+SD,US,ar,,"- Effective June 9, 2025, U.S. visas will no longer be issued to citizens of 12 countries, with certain exemptions. [ 292 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Sudanese_citizens,,unverified,,296;ban2025-297
 SD,UY,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Sudanese_citizens,,unverified,,298
 SD,UZ,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Sudanese_citizens,,unverified,,299
 SD,VA,vr,,- Open borders but de facto follows Italian visa policy.,https://en.wikipedia.org/wiki/Visa_requirements_for_Sudanese_citizens,,unverified,,303
@@ -42445,7 +42445,7 @@ SO,AM,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Somali_citizens,,
 SO,AO,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Somali_citizens,,unverified,,9
 SO,AR,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Somali_citizens,,unverified,,12
 SO,AT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Somali_citizens,,unverified,,15
-SO,AU,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Somali_citizens,,unverified,,14
+SO,AU,ar,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Somali_citizens,,unverified,,14
 SO,AZ,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Somali_citizens,,unverified,,16
 SO,BA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Somali_citizens,,unverified,,33
 SO,BB,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Somali_citizens,,unverified,,22
@@ -43089,7 +43089,7 @@ SS,TW,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_South_Sudanese_ci
 SS,TZ,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_South_Sudanese_citizens,,unverified,,221
 SS,UA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_South_Sudanese_citizens,,unverified,,234
 SS,UG,vf,180,,https://en.wikipedia.org/wiki/Visa_requirements_for_South_Sudanese_citizens,,unverified,,232;233
-SS,US,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_South_Sudanese_citizens,,unverified,,238
+SS,US,ar,,,https://en.wikipedia.org/wiki/Visa_requirements_for_South_Sudanese_citizens,,unverified,,238
 SS,UY,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_South_Sudanese_citizens,,unverified,,239
 SS,UZ,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_South_Sudanese_citizens,,unverified,,240
 SS,VA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_South_Sudanese_citizens,,unverified,,242
@@ -43633,7 +43633,7 @@ SY,DO,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens,,
 SY,DZ,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens,,unverified,,8
 SY,EC,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens,,unverified,,76;auto-75
 SY,EE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens,,unverified,,82
-SY,EG,vr,,- Only Syrians holding a resident card for non-tourism purposes are allowed entry,https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens,,unverified,,77
+SY,EG,ar,,- Only Syrians holding a resident card for non-tourism purposes are allowed entry,https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens,,unverified,,77
 SY,ER,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens,,unverified,,81
 SY,ES,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens,,unverified,,227
 SY,ET,vr,,- Credit card payment transactions are not accepted when applying for e-Visa.,https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens,,unverified,,84;85
@@ -43713,7 +43713,7 @@ SY,LS,ev,14,,https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens
 SY,LT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens,,unverified,,141
 SY,LU,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens,,unverified,,142
 SY,LV,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens,,unverified,,133
-SY,LY,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens,,unverified,,139
+SY,LY,ar,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens,,unverified,,139
 SY,MA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens,,unverified,,163;164
 SY,MC,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens,,unverified,,159
 SY,MD,vr,,- Citizens holding a residence permit or a valid visa issued by one of the member states of the European Union or one of the parties to the Schengen Agreement can apply for an electronic visa. [ 157 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens,,unverified,,157;158
@@ -43723,7 +43723,7 @@ SY,MG,ev,60,"Also available via this method:
 - Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens,,unverified,,143;144
 SY,MH,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens,,unverified,,151
 SY,MK,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens,,unverified,,179
-SY,ML,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens,,unverified,,149
+SY,ML,ar,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens,,unverified,,149
 SY,MM,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens,,unverified,,167
 SY,MN,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens,,unverified,,160
 SY,MR,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens,,unverified,,152
@@ -44261,7 +44261,7 @@ TD,TW,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Chadian_citizens,
 TD,TZ,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Chadian_citizens,,unverified,,232;233
 TD,UA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Chadian_citizens,,unverified,,249
 TD,UG,vo,,- May apply online. [ 243 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Chadian_citizens,,unverified,,247;248
-TD,US,vr,,"- Effective June 9, 2025, U.S. visas will no longer be issued to citizens of 12 countries, with certain exemptions. [ 249 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Chadian_citizens,,unverified,,253;ban2025-254
+TD,US,ar,,"- Effective June 9, 2025, U.S. visas will no longer be issued to citizens of 12 countries, with certain exemptions. [ 249 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Chadian_citizens,,unverified,,253;ban2025-254
 TD,UY,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Chadian_citizens,,unverified,,255
 TD,UZ,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Chadian_citizens,,unverified,,256
 TD,VA,vr,,- Open borders but de facto follows Italian visa policy.,https://en.wikipedia.org/wiki/Visa_requirements_for_Chadian_citizens,,unverified,,258
@@ -46846,7 +46846,7 @@ TW,GB,et,180,"- ETA valid for 2 years when issued. [ 343 ]
 - After arriving in the UK, ePassport gates can be used for entry. [ 345 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,348;349;351;uketacountrylist-350
 TW,GD,vr,,"- Beginning on December 1, 2020, all travellers to Grenada will be required to complete an online application in order to receive a Pure Safe Travel Authorization Certificate to enter Grenada. [ 119 ]
 - Cruise ship passengers of all nationalities can visit Grenada for up to 24 hours without a visa.",https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,118;119
-TW,GE,vr,,"- Only those invited to participate in international conferences, sports events, world-class events, etc. held in Georgia can apply for an exception, but they need to obtain a visa based on specific circumstances.",https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,ReferenceC-110
+TW,GE,ar,,"- Only those invited to participate in international conferences, sports events, world-class events, etc. held in Georgia can apply for an exception, but they need to obtain a visa based on specific circumstances.",https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,ReferenceC-110
 TW,GH,ev,,"- Ghana has brought online the official portal that will be used for electronic visa applications starting May 25, 2026.
 - The processing time for the eVisa is 96 hours, costing $260 for a single entry and $468 for a multiple entry visa, making it one of the most expensive eVisas. Fees are higher for faster processing.",https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,114
 TW,GM,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,109
@@ -46898,7 +46898,7 @@ TW,KG,ev,,"- e-Visa holders must arrive via Manas International Airport or Osh A
 - Invitation letter issued by Kyrgyz travel agency or other inviting units.",https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,173;174
 TW,KH,ev,30,"Also available via this method:
 - Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,52;53
-TW,KI,vr,,"- Due to influence of the Chinese government, Kiribati no longer recognizes Taiwanese passports and therefore does not issue visas to Taiwanese citizens (for business and tourism). This means that Taiwanese citizens will not be able to enter Kiribati. [ 164 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,165;166
+TW,KI,ar,,"- Due to influence of the Chinese government, Kiribati no longer recognizes Taiwanese passports and therefore does not issue visas to Taiwanese citizens (for business and tourism). This means that Taiwanese citizens will not be able to enter Kiribati. [ 164 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,165;166
 TW,KM,vo,45,,https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,69
 TW,KN,et,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,277;278
 TW,KP,vr,,"- To enter for tourism purposes, one must first obtain authorization issued by a local travel agency in North Korea.
@@ -46934,7 +46934,7 @@ TW,LV,vf,90,"- 90 days within any 180 day period in the Schengen Area.
 TW,LY,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,187;188
 TW,MA,vr,,"- Late July 2026, Morocco announced through the Moroccan Embassy in Japan that it would temporarily suspend the acceptance of ""Visa Confirmation Letter"" (VCL) entry applications from Taiwanese citizens to Morocco.",https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,217
 TW,MC,vf,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,213
-TW,MD,vr,,- Taiwanese citizens are not allowed to enter and transit. [ 206 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,211;212
+TW,MD,ar,,- Taiwanese citizens are not allowed to enter and transit. [ 206 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,211;212
 TW,ME,vf,90,- Passport with National ID number required.,https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,216
 TW,MG,ev,,"Also available via this method:
 - Visa on arrival",https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,192;193
@@ -47073,7 +47073,7 @@ TW,UY,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizen
 TW,UZ,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,359;360
 TW,VA,vf,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,362
 TW,VC,vf,180,,https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,280
-TW,VE,vr,,"- Due to influence of the Chinese government, Venezuela no longer recognizes Taiwanese passports and therefore does not issue visas to Taiwanese citizens (for business and tourism). This means that Taiwanese citizens will not be able to enter Venezuela. [ 357 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,363
+TW,VE,ar,,"- Due to influence of the Chinese government, Venezuela no longer recognizes Taiwanese passports and therefore does not issue visas to Taiwanese citizens (for business and tourism). This means that Taiwanese citizens will not be able to enter Venezuela. [ 357 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,363
 TW,VG,vr,,,https://www.bvitourism.com/travel/visas,,unverified,,
 TW,VN,ev,,- Direct flight traveling to Phú Quốc can be exempted from a visa for 30 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,364;365
 TW,VU,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,361
@@ -47911,7 +47911,7 @@ US,BD,vo,30,"- Visa on arrival is available at Dhaka, Chittagong, and Sylhet int
 - The VOA fee is 50 USD, excluding processing fees. [ 51 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens,,unverified,No,49;50;51;52;53
 US,BE,vf,90,"- 90 days within any 180-day period in the Schengen Area [ 60 ]
 - Residence permit (Titre de séjour / Verblijfstitel / Aufenthaltstitel) obtainable after arrival for stays longer than 90 days under certain conditions. [ citation needed ]",https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens,,unverified,Yes,61;62
-US,BF,vr,,"- International Certificate of Vaccination or Prophylaxis required. [ 88 ]
+US,BF,ar,,"- International Certificate of Vaccination or Prophylaxis required. [ 88 ]
 - The U.S. government advises its citizens not to visit Burkina Faso for any reason due to terrorism, crime, and kidnapping. [ 89 ]
 - Following Niger's example, Burkina Faso has suspended visa services for U.S. citizens and barred Americans from entering. [ 90 ] [ 91 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens,,unverified,Yes,88;89;90;91;maliandburkina-93;vividvoicenews_com-92
 US,BG,vf,90,- 90 days within any 180-day period in the Schengen Area. [ 85 ],https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens,,unverified,No,85;86;87
@@ -48071,7 +48071,10 @@ US,KH,ev,30,"Also available via this method:
 US,KI,vf,90,- May not exceed 90 days within any 12-month period. [ citation needed ],https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens,,unverified,No,277;278
 US,KM,vo,45,,https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens,,unverified,No,133;134
 US,KN,et,90,- ETA fee is 17 USD. [ 432 ],https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens,,unverified,No,438;439;440;441
-US,KP,vr,,"- U.S. passports holders must obtain a special passport validation from the U.S. federal government before travel. Such validations are only ever issued if travel is in the interests of US national security. [ 277 ]
+US,KP,ar,,"Also available via this method:
+- Admission restricted
+
+- U.S. passports holders must obtain a special passport validation from the U.S. federal government before travel. Such validations are only ever issued if travel is in the interests of US national security. [ 277 ]
 - United States citizens require a visa when traveling to North Korea; as there is no North Korean diplomatic mission in the United States, US citizens must obtain a visa from a diplomatic mission in a third country. [ citation needed ]
 - U.S. secretary of state Rex Tillerson authorized a ban on American travel to North Korea that went into effect in August 2017, following the death of Otto Warmbier, a US student who was detained in North Korea and sentenced to 15 years of hard labor for allegedly stealing a propaganda poster. [ citation needed ]
 - The U.S. government advises its citizens not to visit North Korea for any reason due to the continuing serious risk of arrest, long-term detention, and the threat of wrongful detention of U.S. nationals. [ 279 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens,,unverified,Yes,283;284;DOS_NK-282;auto-279;auto1-280;auto2-281
@@ -48122,7 +48125,7 @@ US,MH,vf,,"- Section 112 of the Immigration Act 2006 provides that a person who 
 - Section 113 of the Immigration Act 2006 exempts citizens of the United States, Palau and the Federated States of Micronesia from the requirement to hold a visa to enter the Republic. [ 334 ]
 - Exempt persons remain subject to immigration clearance procedures upon arrival and departure and may be refused entry if ineligible for an entry permit under section 114. [ 334 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens,,unverified,Yes,RMIImmigrationAct-343
 US,MK,vf,90,- Registration with the local police within 24 hours of arrival is mandatory. [ 387 ],https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens,,unverified,No,395;396
-US,ML,vr,,"- International Certificate of Vaccination or Prophylaxis required. [ 328 ]
+US,ML,ar,,"- International Certificate of Vaccination or Prophylaxis required. [ 328 ]
 - Visas for U.S. citizens are valid for 5 years and are 185 USD. [ 329 ]
 - The U.S. government advises its citizens not to visit Mali due to crime, terrorism, and kidnapping. [ 330 ]
 - Following Niger's example, Mali has suspended visa services for U.S. citizens and barred Americans from entering. [ 90 ] [ 91 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens,,unverified,Yes,335;336;337;338;339;maliandburkina-93;vividvoicenews_com-92
@@ -48150,7 +48153,7 @@ US,NA,ev,90,"Also available via this method:
 
 - Beginning April 1st, 2025, US citizens will have to obtain a visa for Namibia. US citizens will be issued with visas on arrival upon payment of a designated fee. [ 360 ]
 - Can be obtained online or on arrival for a fee of N$1,600 (approximately €82 / US$88). [ 361 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens,,unverified,No,366;367;368;369;370
-US,NE,vr,,"- Holders of a pre-approved confirmation from the National Police may obtain a visa on arrival (flyer visa) upon arrival at Niamey. The passport will be compounded for 1 working day and the traveler is required to appear at the Director General of Immigration the next working day to register and collect their passport.
+US,NE,ar,,"- Holders of a pre-approved confirmation from the National Police may obtain a visa on arrival (flyer visa) upon arrival at Niamey. The passport will be compounded for 1 working day and the traveler is required to appear at the Director General of Immigration the next working day to register and collect their passport.
 - International Certificate of Vaccination or Prophylaxis required. [ 381 ]
 - The U.S. government advises its citizens not to travel to Niger due to crime, unrest, terrorism, health, and kidnapping. [ 382 ]
 - Niger has suspended issuance of visas to U.S. citizens and openly barred Americans from entering. [ 380 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens,,unverified,Yes,387;390;391;auto4-388;thestreetjournal_org-389
@@ -50364,7 +50367,7 @@ XK,CM,ev,,"- Pre-arranged visa can be picked up on arrival. [ 44 ]
 XK,CN,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Kosovar_citizens,,unverified,,55
 XK,CO,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Kosovar_citizens,,unverified,,56;57
 XK,CR,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Kosovar_citizens,,unverified,,63
-XK,CU,vr,,- Nationals of Kosovo (Rep.) are not allowed to enter and transit.,https://en.wikipedia.org/wiki/Visa_requirements_for_Kosovar_citizens,,unverified,,auto-66
+XK,CU,ar,,- Nationals of Kosovo (Rep.) are not allowed to enter and transit.,https://en.wikipedia.org/wiki/Visa_requirements_for_Kosovar_citizens,,unverified,,auto-66
 XK,CV,vo,,"- Visa on arrival may obtain at Sal, Boa Vista, Sao Vicente and Santiago international airports. The visa allows you to stay for 90 days. Passport must is valid for at least another 6 months after the travel date. [ 47 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Kosovar_citizens,,unverified,,47;48
 XK,CY,vf,90,- 90 days within any 180 day period. [ Note 1 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Kosovar_citizens,,unverified,,:0-2;biometric-18
 XK,CZ,vf,90,- 90 days within any 180 day period in the Schengen Area. [ Note 1 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Kosovar_citizens,,unverified,,:0-2;biometric-18
@@ -50682,7 +50685,7 @@ YE,LS,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Yemeni_citizens,,
 YE,LT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Yemeni_citizens,,unverified,,137
 YE,LU,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Yemeni_citizens,,unverified,,138
 YE,LV,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Yemeni_citizens,,unverified,,129
-YE,LY,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Yemeni_citizens,,unverified,,135
+YE,LY,ar,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Yemeni_citizens,,unverified,,135
 YE,MA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Yemeni_citizens,,unverified,,157;158
 YE,MC,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Yemeni_citizens,,unverified,,154
 YE,MD,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Yemeni_citizens,,unverified,,152;153
