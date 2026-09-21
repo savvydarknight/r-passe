@@ -15296,7 +15296,7 @@
     "footnote_ids": "265"
   },
   "AU:RU": {
-    "notes": "- Process in tourist visas for stays with a period of 30 days is acquired.\n- Due to security concerns, the Russian invasion of Ukraine, and arbitrary detentions, the Australian government advises its citizens not to visit Russia. [ 245 ]",
+    "notes": "- Application of an e-Visa for Australian citizens can be submitted online no later than 4 days before the expected date of entry into Russia.\n- Process in tourist visas for stays with a period of 30 days is acquired.\n- Due to security concerns, the Russian invasion of Ukraine, and arbitrary detentions, the Australian government advises its citizens not to visit Russia. [ 245 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -123800,12 +123800,12 @@
     "footnote_ids": "71;72"
   },
   "IN:AE": {
-    "notes": "- May apply using 'Smart service'. [ 401 ]\n- Duration: Generally, visitation visas are granted for 30, 60, or 90 days, contingent upon the particular conditions and the nature of the relationship between the sponsor and the guest\n- Indians holding a valid US or UK or EU visit visa [ 402 ] or residence visa which is valid for a minimum of 6 months can obtain a visa on arrival for a maximum stay of 14 days.\n- Indians holding a residency permit from Singapore, Japan, South Korea, Australia, New Zealand, or Canada are also eligible for a visa on arrival. [ 19 ]\n- Cost for 14 days visa is AED 100 (subject to change). They can apply to extend their stay for an additional 14 days for AED 250 (subject to change). [ 19 ]\n- Visitors normally require a sponsor but visas can also be arranged online through an airline if they are arriving on Air Arabia, Air Astana, Emirates, Etihad (and Air Baltic and Air Serbia), flydubai, Turkish Airlines, and Indigo Airlines.",
+    "notes": "- May apply using 'Smart service'. [ 402 ]\n- Duration: Generally, visitation visas are granted for 30, 60, or 90 days, contingent upon the particular conditions and the nature of the relationship between the sponsor and the guest\n- Indians holding a valid US or UK or EU visit visa [ 403 ] or residence visa which is valid for a minimum of 6 months can obtain a visa on arrival for a maximum stay of 14 days.\n- Indians holding a residency permit from Singapore, Japan, South Korea, Australia, New Zealand, or Canada are also eligible for a visa on arrival. [ 19 ]\n- Cost for 14 days visa is AED 100 (subject to change). They can apply to extend their stay for an additional 14 days for AED 250 (subject to change). [ 19 ]\n- Visitors normally require a sponsor but visas can also be arranged online through an airline if they are arriving on Air Arabia, Air Astana, Emirates, Etihad (and Air Baltic and Air Serbia), flydubai, Turkish Airlines, and Indigo Airlines.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "405;406;407;:7-19"
+    "footnote_ids": "406;407;408;:7-19"
   },
   "IN:AF": {
     "notes": "- e-Visa: Visitors must arrive at Kabul International (KBL).\n- Visitors may apply for an e-Visa in other countries, excluding some countries of residence (include India).",
@@ -123885,7 +123885,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "113"
+    "footnote_ids": "114"
   },
   "IN:BB": {
     "notes": "- Visa requirements lifted on 17 May 2019. [ 46 ]",
@@ -123909,7 +123909,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "102"
+    "footnote_ids": "103"
   },
   "IN:BF": {
     "notes": "",
@@ -123917,7 +123917,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "119;120"
+    "footnote_ids": "120;121"
   },
   "IN:BG": {
     "notes": "",
@@ -123925,7 +123925,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "118"
+    "footnote_ids": "119"
   },
   "IN:BH": {
     "notes": "Also available via this method:\n- eVisa\n\n- 14 days to 1-year multiple-entry visa (max. stay 90 days).\n- Visa on arrival for Gulf Cooperation Council residents with a validity of more than 3 months and occupation should not be labourers.\n- Visa on arrival for holders of valid visit visa to UAE, UK, US, KSA (excluding Hajj & Umrah visa), Schengen or US Green Card [ 97 ] for 2 weeks Single Entry or Three months Multiple Entry.",
@@ -123941,15 +123941,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "121;122"
+    "footnote_ids": "122;123"
   },
   "IN:BJ": {
-    "notes": "- Must have an international vaccination certificate.\n- Three types of electronic visa are offered: the e-Visa valid for 30 days for a single entry (50 EUR), the e-Visa valid for 30 days for several (multiple) entries (75 EUR), and the e-Visa valid for 90 days to make several (multiple) entries (100 EUR). [ 106 ]",
+    "notes": "- Must have an international vaccination certificate.\n- Three types of electronic visa are offered: the e-Visa valid for 30 days for a single entry (50 EUR), the e-Visa valid for 30 days for several (multiple) entries (75 EUR), and the e-Visa valid for 90 days to make several (multiple) entries (100 EUR). [ 107 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "104;105;106"
+    "footnote_ids": "105;106;107"
   },
   "IN:BN": {
     "notes": "",
@@ -123957,15 +123957,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "117"
+    "footnote_ids": "118"
   },
   "IN:BO": {
-    "notes": "- Visitors must complete an online application, but still need to visit the embassy to receive the visa in their passport. [ 111 ] [ 112 ]",
+    "notes": "- Visitors must complete an online application, but still need to visit the embassy to receive the visa in their passport. [ 112 ] [ 113 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "109;110;111;112"
+    "footnote_ids": "110;111;112;113"
   },
   "IN:BR": {
     "notes": "",
@@ -123973,7 +123973,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "116"
+    "footnote_ids": "117"
   },
   "IN:BS": {
     "notes": "- Visa on arrival for all Indian nationals who have valid Schengen, UK, US, and/or Canadian visas.",
@@ -123989,7 +123989,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "107;108"
+    "footnote_ids": "108;109"
   },
   "IN:BW": {
     "notes": "",
@@ -123997,15 +123997,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "114;115"
+    "footnote_ids": "115;116"
   },
   "IN:BY": {
-    "notes": "- Visas are waived if you hold a visa for EU countries and the Schengen area.\n- National visa may be substituted with a Schengen visa or a national visa of country of EU, and if arriving and departing via Minsk International Airport. [ 101 ]",
+    "notes": "- Visas are waived if you hold a visa for EU countries and the Schengen area.\n- National visa may be substituted with a Schengen visa or a national visa of country of EU, and if arriving and departing via Minsk International Airport. [ 101 ]\n- Foreigner shall create a personal account on the website «Е-Pasluga» (including the mobile application «Е-Pasluga») and submit a visa application, choosing a corresponding service – service code 3.04.01, service name «E-visa issuance». An e-visa application is considered within seven calendar days. Entry to the Republic of Belarus with an e-visa is possible through all international checkpoints (road and rail checkpoints, through the checkpoints «Minsk National Airport», «Airport Brest», «Airport Gomel», «Airport Grodno», «Airport Mogilev», «Airport Vitebsk»). [ 102 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "100;101"
+    "footnote_ids": "100;101;102"
   },
   "IN:BZ": {
     "notes": "- Permanent residents and holders of multiple entry visa of the US or Canada may obtain a visa on arrival. Holders of a valid visa issued by a Schengen Member state are visa exempt for a maximum stay of 90 days.",
@@ -124013,15 +124013,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "103"
+    "footnote_ids": "104"
   },
   "IN:CA": {
-    "notes": "- National visa may be substituted with a US permanent resident card. Travelers with a US permanent resident card no longer require an Electronic Travel Authorization (ETA) as of 26 April 2022. [ 129 ]\n- Transit visa: required.",
+    "notes": "- National visa may be substituted with a US permanent resident card. Travelers with a US permanent resident card no longer require an Electronic Travel Authorization (ETA) as of 26 April 2022. [ 130 ]\n- Transit visa: required.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "128;129"
+    "footnote_ids": "129;130"
   },
   "IN:CD": {
     "notes": "- Visa on arrival if a letter (visa volant) issued by the Ministry of Interior and Security is presented.",
@@ -124029,7 +124029,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "146;147"
+    "footnote_ids": "147;148"
   },
   "IN:CF": {
     "notes": "",
@@ -124037,7 +124037,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "131"
+    "footnote_ids": "132"
   },
   "IN:CG": {
     "notes": "- Visa not required if presenting a V.I.P invitation letter.",
@@ -124045,7 +124045,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "145"
+    "footnote_ids": "146"
   },
   "IN:CH": {
     "notes": "- Schengen category A visa (airport transit visa) is not required for Indian passport holders travelling through the international transit area of an airport during a stopover or a change of flights. https://www.eda.admin.ch/countries/india/en/home/visa/entry-ch/transit/do-i-need-an-airport-transit-visa.html",
@@ -124053,7 +124053,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "382"
+    "footnote_ids": "383"
   },
   "IN:CI": {
     "notes": "- e-Visa holders must arrive via Port Bouet Airport.\n- e-Visa must be collected at Félix Houphouët-Boigny Airport in Abidjan.",
@@ -124061,15 +124061,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "149;150"
+    "footnote_ids": "150;151"
   },
   "IN:CL": {
-    "notes": "- Indian nationals, holders of a US visa of any kind (including Green Card) - except for type C (transit) - with at least six months validity at the time of arrival, shall be exempt from obtaining a Temporary Admission Visa (previous Tourist Visa) to enter Chile. [ 135 ]",
+    "notes": "- Indian nationals, holders of a US visa of any kind (including Green Card) - except for type C (transit) - with at least six months validity at the time of arrival, shall be exempt from obtaining a Temporary Admission Visa (previous Tourist Visa) to enter Chile. [ 136 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "134;:6-135"
+    "footnote_ids": "135;:6-136"
   },
   "IN:CM": {
     "notes": "",
@@ -124077,23 +124077,23 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "126;127"
+    "footnote_ids": "127;128"
   },
   "IN:CN": {
-    "notes": "- 24-hour visa-free transit through any international airports of China, allows domestic travel through different airports. [ Note 1 ]\n- Due to border disputes, Chinese embassy and consulate generals only issue stapled visas for Arunachal Pradesh, Jammu and Kashmir and Ladakh citizenships, and prohibit officiers of Arunachal Pradesh to apply visas, however Indian government doesn't recognize stapled visas as valid travel documents for departure, which caused conflicts regarding athletes. [ 138 ] [ 139 ]",
+    "notes": "- 24-hour visa-free transit through any international airports of China, allows domestic travel through different airports. [ Note 1 ]\n- Due to border disputes, Chinese embassy and consulate generals only issue stapled visas for Arunachal Pradesh, Jammu and Kashmir and Ladakh citizenships, and prohibit officiers of Arunachal Pradesh to apply visas, however Indian government doesn't recognize stapled visas as valid travel documents for departure, which caused conflicts regarding athletes. [ 139 ] [ 140 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "136;138;139;140"
+    "footnote_ids": "137;139;140;141"
   },
   "IN:CO": {
-    "notes": "- National visa may be substituted with a valid C or D visa issued by a Schengen Area member state or a valid visa (with 180 days left) issued by the US (except for C1 transit visas). [ 142 ]",
+    "notes": "- National visa may be substituted with a valid C or D visa issued by a Schengen Area member state or a valid visa (with 180 days left) issued by the US (except for C1 transit visas). [ 143 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "141;142;143"
+    "footnote_ids": "142;143;144"
   },
   "IN:CR": {
     "notes": "- National visa may be substituted with a valid visa issued by the US or with a multiple-entry visa issued by Canada or a member state of the European Union.",
@@ -124101,7 +124101,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "148"
+    "footnote_ids": "149"
   },
   "IN:CU": {
     "notes": "",
@@ -124109,7 +124109,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "152;153"
+    "footnote_ids": "153;154"
   },
   "IN:CV": {
     "notes": "- Visa on arrival.See Extract from Order No. 244/GMAI/2026, published in the Official Gazette, 2nd Series, No. 14, of January 23, 2026.",
@@ -124117,7 +124117,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "130"
+    "footnote_ids": "131"
   },
   "IN:CY": {
     "notes": "- National visa may be substituted with a double- or multiple-entry C visa issued by a Schengen Area member state.",
@@ -124125,7 +124125,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "154"
+    "footnote_ids": "155"
   },
   "IN:CZ": {
     "notes": "- Transit Visa: Required",
@@ -124133,7 +124133,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "155"
+    "footnote_ids": "156"
   },
   "IN:DE": {
     "notes": "- A Schengen category A visa (airport transit visa) is not required for stays of up to 24 hours within the international area.",
@@ -124141,7 +124141,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "188"
+    "footnote_ids": "189"
   },
   "IN:DJ": {
     "notes": "",
@@ -124149,7 +124149,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "157;158"
+    "footnote_ids": "158;159"
   },
   "IN:DK": {
     "notes": "",
@@ -124157,7 +124157,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "156"
+    "footnote_ids": "157"
   },
   "IN:DM": {
     "notes": "",
@@ -124165,7 +124165,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "159"
+    "footnote_ids": "160"
   },
   "IN:DO": {
     "notes": "- National visa may be substituted with a valid visa issued by Canada, US or any EU member state.",
@@ -124173,7 +124173,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "160"
+    "footnote_ids": "161"
   },
   "IN:DZ": {
     "notes": "- Persons may be denied entry if entering with a passport containing visas or stamps issued by Israel.\n- Visitors on tours organized to some southern regions by an approved travel agency may obtain a visa on arrival for up to 30 days. [ 69 ] [ 70 ]",
@@ -124189,7 +124189,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "162;163"
+    "footnote_ids": "163;164"
   },
   "IN:EE": {
     "notes": "",
@@ -124197,15 +124197,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "174"
+    "footnote_ids": "175"
   },
   "IN:EG": {
-    "notes": "- Passengers with a residence permit issued by a GCC Member State can obtain a visa on arrival for a maximum stay of 30 days. The residence permit must be valid for a minimum of 6 months from the arrival date. [ 165 ]\n- If travelling as a part of an organized tourist group that consists of at least 10 persons and holding both onward and return flight tickets, booked accommodation and a signed Letter of Guarantee (LG) from an Egyptian travel agency, a visa on arrival in Egypt can be obtained [ 166 ]\n- Air transit passengers with a confirmed onward ticket for a flight to a third country within 48 hours do not need visas. Leaving the airport is permitted for passengers with transit time between 6 and 48 hours. Passengers with transit time of less than 6 hours may leave the transit area but not the airport; however, this exemption does not apply when transiting through Alexandria (HBE).\n- EgyptAir passengers can obtain free 96 hour transit visa at EgyptAir transit visa office at cairo airport.",
+    "notes": "- Passengers with a residence permit issued by a GCC Member State can obtain a visa on arrival for a maximum stay of 30 days. The residence permit must be valid for a minimum of 6 months from the arrival date. [ 166 ]\n- If travelling as a part of an organized tourist group that consists of at least 10 persons and holding both onward and return flight tickets, booked accommodation and a signed Letter of Guarantee (LG) from an Egyptian travel agency, a visa on arrival in Egypt can be obtained [ 167 ]\n- Air transit passengers with a confirmed onward ticket for a flight to a third country within 48 hours do not need visas. Leaving the airport is permitted for passengers with transit time between 6 and 48 hours. Passengers with transit time of less than 6 hours may leave the transit area but not the airport; however, this exemption does not apply when transiting through Alexandria (HBE).\n- EgyptAir passengers can obtain free 96 hour transit visa at EgyptAir transit visa office at cairo airport.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "164;165;166;timaticweb-167"
+    "footnote_ids": "165;166;167;timaticweb-168"
   },
   "IN:ER": {
     "notes": "",
@@ -124213,7 +124213,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "173"
+    "footnote_ids": "174"
   },
   "IN:ES": {
     "notes": "From 4 March 2026 onwards, the need for an airport Transit Visa has been eliminated for Indian nationals transiting through international zones of the airports in Spain. [ 5 ]",
@@ -124221,15 +124221,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "374;:9-5"
+    "footnote_ids": "375;:9-5"
   },
   "IN:ET": {
-    "notes": "Also available via this method:\n- eVisa\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 177 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 178 ]",
+    "notes": "Also available via this method:\n- eVisa\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 178 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 179 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "176;177;178;179"
+    "footnote_ids": "177;178;179;180"
   },
   "IN:FI": {
     "notes": "- Schengen category A visa (airport transit visa) is not required for Indian passport holders travelling through the international transit area of an airport during a stopover or a change of flights. https://um.fi/visa-to-visit-finland#Visa%20types",
@@ -124237,7 +124237,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "181"
+    "footnote_ids": "182"
   },
   "IN:FJ": {
     "notes": "",
@@ -124245,7 +124245,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "180"
+    "footnote_ids": "181"
   },
   "IN:FM": {
     "notes": "",
@@ -124253,7 +124253,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "268"
+    "footnote_ids": "269"
   },
   "IN:FR": {
     "notes": "- Effective 10 Apr 2026, travellers enroute to a third country (outside EU), remaining in the international zone of French airports do not require a transit visa. [ 6 ]",
@@ -124261,7 +124261,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "182;:10-6"
+    "footnote_ids": "183;:10-6"
   },
   "IN:GA": {
     "notes": "- e-Visa holders must arrive via Libreville International Airport.",
@@ -124269,15 +124269,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "183;184"
+    "footnote_ids": "184;185"
   },
   "IN:GB": {
-    "notes": "- Transit visa: Required, unless holding a valid visa or permanent residence in Canada, New Zealand, Australia, EU or the USA. [ 404 ]\n- Visa not required if holding a biometric Irish visa endorsed with \"BC\" or \"BC BIVS\".\n- Other exemptions apply for Visa-free Direct Airside Transit. [ 405 ]",
+    "notes": "- Transit visa: Required, unless holding a valid visa or permanent residence in Canada, New Zealand, Australia, EU or the USA. [ 405 ]\n- Visa not required if holding a biometric Irish visa endorsed with \"BC\" or \"BC BIVS\".\n- Other exemptions apply for Visa-free Direct Airside Transit. [ 406 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "408;409;410"
+    "footnote_ids": "409;410;411"
   },
   "IN:GD": {
     "notes": "",
@@ -124285,7 +124285,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "191"
+    "footnote_ids": "192"
   },
   "IN:GE": {
     "notes": "- Reinstated from May 2023.\n- National visa may be substituted with a valid visa or residence permit issued by US, UK, Japan, Canada, Australia, New Zealand, Israel, South Korea, Ireland, Schengen, and GCC countries, whose holders may be granted visa-free entry for 90 days in any 180 days.",
@@ -124293,7 +124293,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "186;187"
+    "footnote_ids": "187;188"
   },
   "IN:GH": {
     "notes": "",
@@ -124301,7 +124301,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "189"
+    "footnote_ids": "190"
   },
   "IN:GM": {
     "notes": "",
@@ -124309,7 +124309,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "185"
+    "footnote_ids": "186"
   },
   "IN:GN": {
     "notes": "",
@@ -124317,7 +124317,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "193;194"
+    "footnote_ids": "194;195"
   },
   "IN:GQ": {
     "notes": "",
@@ -124325,7 +124325,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "171;172"
+    "footnote_ids": "172;173"
   },
   "IN:GR": {
     "notes": "",
@@ -124333,7 +124333,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "190"
+    "footnote_ids": "191"
   },
   "IN:GT": {
     "notes": "- National visa may be substituted with a valid visa issued by Canada, the US, or a Schengen Area member state.",
@@ -124341,7 +124341,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "192"
+    "footnote_ids": "193"
   },
   "IN:GW": {
     "notes": "",
@@ -124349,7 +124349,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "195"
+    "footnote_ids": "196"
   },
   "IN:GY": {
     "notes": "- Visa on arrival if holding a letter of invitation from sponsor or host.",
@@ -124357,7 +124357,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "196"
+    "footnote_ids": "197"
   },
   "IN:HK": {
     "notes": "",
@@ -124373,7 +124373,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "198"
+    "footnote_ids": "199"
   },
   "IN:HR": {
     "notes": "",
@@ -124381,7 +124381,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "151"
+    "footnote_ids": "152"
   },
   "IN:HT": {
     "notes": "",
@@ -124389,7 +124389,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "197"
+    "footnote_ids": "198"
   },
   "IN:HU": {
     "notes": "",
@@ -124397,7 +124397,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "199"
+    "footnote_ids": "200"
   },
   "IN:ID": {
     "notes": "- 30 days for tourism purposes, IDR 500000 fee.",
@@ -124405,15 +124405,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "201;202"
+    "footnote_ids": "202;203"
   },
   "IN:IE": {
-    "notes": "- National visa may be substituted with a UK C visa holders if they have first entered the United Kingdom and have been granted a stay of 180 days in the United Kingdom. They are visa exempt for a maximum stay of 90 days in Ireland or until the end of the period of stay granted in the United Kingdom, whichever is shorter. Entry permitted only if first point of entry to the Common Travel Area is in the UK. [ 207 ] May transit without a visa. [ 208 ]",
+    "notes": "- National visa may be substituted with a UK C visa holders if they have first entered the United Kingdom and have been granted a stay of 180 days in the United Kingdom. They are visa exempt for a maximum stay of 90 days in Ireland or until the end of the period of stay granted in the United Kingdom, whichever is shorter. Entry permitted only if first point of entry to the Common Travel Area is in the UK. [ 208 ] May transit without a visa. [ 209 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "207;208;209"
+    "footnote_ids": "208;209;210"
   },
   "IN:IL": {
     "notes": "- The Ministry of Tourism of Israel has launched a digital e-visa system for Indian passport holders who are resident in India, effective 1 January 2025.",
@@ -124421,7 +124421,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "210;211"
+    "footnote_ids": "211;212"
   },
   "IN:IQ": {
     "notes": "",
@@ -124429,7 +124429,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "205;206"
+    "footnote_ids": "206;207"
   },
   "IN:IR": {
     "notes": "- As of 18 November 2025, visa free-access is revoked and Indian citizens must have visa prior to arrival.",
@@ -124437,7 +124437,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "203;204"
+    "footnote_ids": "204;205"
   },
   "IN:IS": {
     "notes": "- Schengen category A visa (airport transit visa) is not required for Indian passport holders traveling through the international transit area of an airport during a stopover or a change of flights. https://island.is/en/do-you-need-a-visa/airport-transit-visa",
@@ -124445,7 +124445,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "200"
+    "footnote_ids": "201"
   },
   "IN:IT": {
     "notes": "- Schengen category A visa (airport transit visa) is not required for Indian passport holders traveling through the international transit area of an airport during a stopover or a change of flights. https://www.esteri.it/en/servizi-consolari-e-visti/ingressosoggiornoinitalia/visto_ingresso/paesi_soggetti_visto_transito_aeroportuale/",
@@ -124453,7 +124453,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "212"
+    "footnote_ids": "213"
   },
   "IN:JM": {
     "notes": "",
@@ -124469,47 +124469,47 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "216;217"
+    "footnote_ids": "217;218"
   },
   "IN:JP": {
-    "notes": "- Residents in India, except those exempted from a short-term visa, will need to submit their documents through VFS. [ 213 ] [ 214 ]\n- Residents in Australia, Brazil, Cambodia, Canada, Saudi Arabia, Singapore, South Africa, Taiwan, UK and US can also apply for a single entry e-Visa for Tourism purposes only and travel to Japan by air. [ 30 ]\n- Passengers transiting to a third country may be granted a Shore Pass on arrival, at the discretion of Japanese immigration, allowing visa-free entry for up to 72 hours when no suitable same-day onward connection is available; a confirmed onward ticket and entry documents for the next destination are required.",
+    "notes": "- Residents in India, except those exempted from a short-term visa, will need to submit their documents through VFS. [ 214 ] [ 215 ]\n- Residents in Australia, Brazil, Cambodia, Canada, Saudi Arabia, Singapore, South Africa, Taiwan, UK and US can also apply for a single entry e-Visa for Tourism purposes only and travel to Japan by air. [ 30 ]\n- Passengers transiting to a third country may be granted a Shore Pass on arrival, at the discretion of Japanese immigration, allowing visa-free entry for up to 72 hours when no suitable same-day onward connection is available; a confirmed onward ticket and entry documents for the next destination are required.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "213;214;215;JAPAN_eVISA-30;auto2-26"
+    "footnote_ids": "214;215;216;JAPAN_eVISA-30;auto2-26"
   },
   "IN:KE": {
-    "notes": "- Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance.\n- eTA fee is 32.50 USD.\n- Proof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable).\n- Yellow fever vaccination certificate is required if coming from endemic countries.\n- Can also be entered on an East Africa tourist visa issued by Rwanda or Uganda. [ 221 ]",
+    "notes": "- Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance.\n- eTA fee is 32.50 USD.\n- Proof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable).\n- Yellow fever vaccination certificate is required if coming from endemic countries.\n- Can also be entered on an East Africa tourist visa issued by Rwanda or Uganda. [ 222 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "220;221;migration.gov.rw-222"
+    "footnote_ids": "221;222;migration.gov.rw-223"
   },
   "IN:KG": {
-    "notes": "- [CAUTION - they send an email after the e-visa application requiring a letter of invitation from a tour company which costs at least USD 50] Electronic visa holders must arrive via Manas International Airport or Osh Airport or through land crossings with China (at Irkeshtam and Torugart), Kazakhstan (at Ak-jol, Ak-Tilek, Chaldybar, Chon-Kapka), Tajikistan (at Bor-Dobo, Kulundu, Kyzyl-Bel) and Uzbekistan (at Dostuk). [ 231 ]\n- Citizens of India arriving through the checkpoint at Manas International Airport can stay visa-free for up to 7 days if they have a voucher (which can be purchased upon arrival at Manas International Airport) with a value of at least 500 USD and a return air ticket to their country of citizenship or to a third country with the right to re-enter visa-free after 21 days from the date of departure;\n  - or with long-term visas (for a period of more than 3 years) of the United States of America, the Kingdom of Great Britain and Northern Ireland, the Schengen zone, where they can stay visa-free for 7 days with the right to re-enter visa-free after 21 days from the date of departure. [ 232 ]",
+    "notes": "- [CAUTION - they send an email after the e-visa application requiring a letter of invitation from a tour company which costs at least USD 50] Electronic visa holders must arrive via Manas International Airport or Osh Airport or through land crossings with China (at Irkeshtam and Torugart), Kazakhstan (at Ak-jol, Ak-Tilek, Chaldybar, Chon-Kapka), Tajikistan (at Bor-Dobo, Kulundu, Kyzyl-Bel) and Uzbekistan (at Dostuk). [ 232 ]\n- Citizens of India arriving through the checkpoint at Manas International Airport can stay visa-free for up to 7 days if they have a voucher (which can be purchased upon arrival at Manas International Airport) with a value of at least 500 USD and a return air ticket to their country of citizenship or to a third country with the right to re-enter visa-free after 21 days from the date of departure;\n  - or with long-term visas (for a period of more than 3 years) of the United States of America, the Kingdom of Great Britain and Northern Ireland, the Schengen zone, where they can stay visa-free for 7 days with the right to re-enter visa-free after 21 days from the date of departure. [ 233 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "230;231;232;233"
+    "footnote_ids": "231;232;233;234"
   },
   "IN:KH": {
-    "notes": "Also available via this method:\n- eVisa\n\n- Fee of 36 USD applicable. [ 125 ]",
+    "notes": "Also available via this method:\n- eVisa\n\n- Fee of 36 USD applicable. [ 126 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "123;124;125"
+    "footnote_ids": "124;125;126"
   },
   "IN:KI": {
-    "notes": "- Maximum period of stay may not exceed 90 days in any given 12-month period. [ 223 ]",
+    "notes": "- Maximum period of stay may not exceed 90 days in any given 12-month period. [ 224 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "223;224"
+    "footnote_ids": "224;225"
   },
   "IN:KM": {
     "notes": "",
@@ -124517,7 +124517,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "144"
+    "footnote_ids": "145"
   },
   "IN:KN": {
     "notes": "",
@@ -124525,7 +124525,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "335;336"
+    "footnote_ids": "336;337"
   },
   "IN:KP": {
     "notes": "",
@@ -124533,39 +124533,39 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "225"
+    "footnote_ids": "226"
   },
   "IN:KR": {
-    "notes": "- Tourist / Transit visa for 30 days may be granted to permanent residents or valid visa holders of US, Australia, Canada, New Zealand or Schengen countries when they are traveling from or traveling to any of these countries and satisfy the conditions mentioned here https://overseas.mofa.go.kr/in-en/brd/m_20446/view.do?seq=748786&page=1. [ 226 ]",
+    "notes": "- Tourist / Transit visa for 30 days may be granted to permanent residents or valid visa holders of US, Australia, Canada, New Zealand or Schengen countries when they are traveling from or traveling to any of these countries and satisfy the conditions mentioned here https://overseas.mofa.go.kr/in-en/brd/m_20446/view.do?seq=748786&page=1. [ 227 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "226;227"
+    "footnote_ids": "227;228"
   },
   "IN:KW": {
-    "notes": "- UK, US, SCHENGEN Visa or Residence Permit Holders can apply for evisa including tourism purposes at https://kuwaitvisa.moi.gov.kw/\n- Residents of Gulf Cooperation Council in certain professions can apply e-Visa for a fee of 3 KWD. [ 228 ]",
+    "notes": "- UK, US, SCHENGEN Visa or Residence Permit Holders can apply for evisa including tourism purposes at https://kuwaitvisa.moi.gov.kw/\n- Residents of Gulf Cooperation Council in certain professions can apply e-Visa for a fee of 3 KWD. [ 229 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "228;229"
+    "footnote_ids": "229;230"
   },
   "IN:KZ": {
-    "notes": "[ 218 ]",
+    "notes": "[ 219 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "218;219"
+    "footnote_ids": "219;220"
   },
   "IN:LA": {
-    "notes": "Also available via this method:\n- eVisa\n\n- 18 [ Note 2 ] of the 33 border crossings are only open to regular visa holders. [ 235 ]\n- e-Visa may be used to enter Laos through the Luang Prabang, Pakse and Vientiane international airports, 3 Thai-Lao Friendship Bridges [ Note 3 ], in Boten (road and railroad), and in Vientiane (at Khamsavath railway station). [ 235 ]\n- Visa on arrival is available at the Luang Prabang, Pakse and Vientiane international airports, 4 Thai-Lao Friendship Bridges [ Note 4 ] and 7 border crossings. [ Note 5 ] [ 235 ]",
+    "notes": "Also available via this method:\n- eVisa\n\n- 18 [ Note 2 ] of the 33 border crossings are only open to regular visa holders. [ 236 ]\n- e-Visa may be used to enter Laos through the Luang Prabang, Pakse and Vientiane international airports, 3 Thai-Lao Friendship Bridges [ Note 3 ], in Boten (road and railroad), and in Vientiane (at Khamsavath railway station). [ 236 ]\n- Visa on arrival is available at the Luang Prabang, Pakse and Vientiane international airports, 4 Thai-Lao Friendship Bridges [ Note 4 ] and 7 border crossings. [ Note 5 ] [ 236 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "234;235;Checkpoints-237;Friendship_Bridges-239;VOA_border_crossings._Laos-240;Visa-only_border_crossings-236;eVisa_Friendship_Bridges-238"
+    "footnote_ids": "235;236;Checkpoints-238;Friendship_Bridges-240;VOA_border_crossings._Laos-241;Visa-only_border_crossings-237;eVisa_Friendship_Bridges-239"
   },
   "IN:LB": {
     "notes": "- In addition to a visa, an approval should be obtained from the immigration department of the General Directorate of General Security (Diréction Générale de la Sûreté Générale).",
@@ -124573,7 +124573,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "242"
+    "footnote_ids": "243"
   },
   "IN:LC": {
     "notes": "",
@@ -124581,7 +124581,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "337"
+    "footnote_ids": "338"
   },
   "IN:LI": {
     "notes": "",
@@ -124589,7 +124589,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "248"
+    "footnote_ids": "249"
   },
   "IN:LK": {
     "notes": "Also available via this method:\n- Visa on arrival",
@@ -124597,7 +124597,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "375;376;377"
+    "footnote_ids": "376;377;378"
   },
   "IN:LR": {
     "notes": "",
@@ -124605,7 +124605,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "244;245"
+    "footnote_ids": "245;246"
   },
   "IN:LS": {
     "notes": "",
@@ -124613,7 +124613,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "243"
+    "footnote_ids": "244"
   },
   "IN:LT": {
     "notes": "",
@@ -124621,7 +124621,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "249"
+    "footnote_ids": "250"
   },
   "IN:LU": {
     "notes": "",
@@ -124629,7 +124629,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "250"
+    "footnote_ids": "251"
   },
   "IN:LV": {
     "notes": "",
@@ -124637,7 +124637,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "241"
+    "footnote_ids": "242"
   },
   "IN:LY": {
     "notes": "",
@@ -124645,7 +124645,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "246;247"
+    "footnote_ids": "247;248"
   },
   "IN:MA": {
     "notes": "",
@@ -124653,7 +124653,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "280;281"
+    "footnote_ids": "281;282"
   },
   "IN:MC": {
     "notes": "",
@@ -124661,23 +124661,23 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "274"
+    "footnote_ids": "275"
   },
   "IN:MD": {
-    "notes": "- National visa may be substituted with a valid ('C' or 'D') visa or a valid residence permit issued by the United Kingdom, Schengen Area or European Union member state for visits up to 90 days. [ 266 ]\n- Exempt for Indians holding a valid residence permit or valid visas (excluding transit visas) of US, Canada. [ 267 ]\n- Indian citizens can apply for a visa online without needing an invitation letter. [ 268 ]\n- e-Visa is issued for a maximum of 90 days in the previous 180-day period plus forthcoming 90-day period (effectively, maximum 90 days in any 270-day period).",
+    "notes": "- National visa may be substituted with a valid ('C' or 'D') visa or a valid residence permit issued by the United Kingdom, Schengen Area or European Union member state for visits up to 90 days. [ 267 ]\n- Exempt for Indians holding a valid residence permit or valid visas (excluding transit visas) of US, Canada. [ 268 ]\n- Indian citizens can apply for a visa online without needing an invitation letter. [ 269 ]\n- e-Visa is issued for a maximum of 90 days in the previous 180-day period plus forthcoming 90-day period (effectively, maximum 90 days in any 270-day period).",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "269;270;271;272;273"
+    "footnote_ids": "270;271;272;273;274"
   },
   "IN:ME": {
-    "notes": "- National visa may be substituted with a valid visa or residence permit issued by a Schengen Area member state, UK, Ireland, the US, Japan, Canada, New Zealand, or Australia. [ 274 ]\n- Holder of Asia-Pacific Economic Cooperation Business Travel card (APEC).",
+    "notes": "- National visa may be substituted with a valid visa or residence permit issued by a Schengen Area member state, UK, Ireland, the US, Japan, Canada, New Zealand, or Australia. [ 275 ]\n- Holder of Asia-Pacific Economic Cooperation Business Travel card (APEC).",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "278;279"
+    "footnote_ids": "279;280"
   },
   "IN:MG": {
     "notes": "Also available via this method:\n- eVisa\n\n- For stays of 61 to 90 days, the visa fee is 59 USD.",
@@ -124685,7 +124685,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "251;252"
+    "footnote_ids": "252;253"
   },
   "IN:MH": {
     "notes": "",
@@ -124693,7 +124693,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "262"
+    "footnote_ids": "263"
   },
   "IN:MK": {
     "notes": "- National visa may be substituted with a valid double- or multiple-entry C visa issued by a Schengen Area member state or by a British, Canadian, or U.S. visa for maximum stay of 15 days. Proof of onward travel required. Note that the visa must be 'inserted in the passport' precluding digital and card resident permits.",
@@ -124701,7 +124701,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "mfa-301"
+    "footnote_ids": "mfa-302"
   },
   "IN:ML": {
     "notes": "",
@@ -124709,15 +124709,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "260"
+    "footnote_ids": "261"
   },
   "IN:MM": {
-    "notes": "Also available via this method:\n- eVisa\n\n- e-Visa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports or via land border crossings with Thailand — Tachileik, Myawaddy and Kawthaung or India — Rih Khaw Dar and Tamu.\n- e-Visa available for both tourism (allowed stay is 28 days) or business (allowed stay is 70 days) purposes.\n- Visa on arrival can be issued for tourism at Yangon, Nay Pyi Taw or Mandalay airport and is valid for 30 days (1 year from 30 August 2023) [ 283 ]",
+    "notes": "Also available via this method:\n- eVisa\n\n- e-Visa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports or via land border crossings with Thailand — Tachileik, Myawaddy and Kawthaung or India — Rih Khaw Dar and Tamu.\n- e-Visa available for both tourism (allowed stay is 28 days) or business (allowed stay is 70 days) purposes.\n- Visa on arrival can be issued for tourism at Yangon, Nay Pyi Taw or Mandalay airport and is valid for 30 days (1 year from 30 August 2023) [ 284 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "285;286;287;288"
+    "footnote_ids": "286;287;288;289"
   },
   "IN:MN": {
     "notes": "Also available via this method:\n- eVisa",
@@ -124725,7 +124725,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "275;276;277"
+    "footnote_ids": "276;277;278"
   },
   "IN:MO": {
     "notes": "",
@@ -124733,7 +124733,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "444"
+    "footnote_ids": "445"
   },
   "IN:MR": {
     "notes": "",
@@ -124741,7 +124741,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "263;264"
+    "footnote_ids": "264;265"
   },
   "IN:MT": {
     "notes": "",
@@ -124749,7 +124749,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "261"
+    "footnote_ids": "262"
   },
   "IN:MU": {
     "notes": "",
@@ -124757,7 +124757,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "265"
+    "footnote_ids": "266"
   },
   "IN:MV": {
     "notes": "",
@@ -124765,7 +124765,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "259"
+    "footnote_ids": "260"
   },
   "IN:MW": {
     "notes": "",
@@ -124773,31 +124773,31 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "253;254"
+    "footnote_ids": "254;255"
   },
   "IN:MX": {
-    "notes": "- National visa may be substituted with a valid visa or permanent residence documents issued by the US, Canada, Japan, UK, or Schengen Area member state to enter Mexico for tourism, transit, or business purposes. [ 262 ]\n- Transit Visa: required.",
+    "notes": "- National visa may be substituted with a valid visa or permanent residence documents issued by the US, Canada, Japan, UK, or Schengen Area member state to enter Mexico for tourism, transit, or business purposes. [ 263 ]\n- Transit Visa: required.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "266;267"
+    "footnote_ids": "267;268"
   },
   "IN:MY": {
-    "notes": "- Until 31 December 2026, visa-free for Indians for 30 days for tourist purposes only. [ 252 ] [ 253 ]\n- Submission of the Malaysia Digital Arrival Card (MDAC) within 3 days is mandatory. The online MDAC form is available- https://imigresen-online.imi.gov.my/mdac/main?registerMain",
+    "notes": "- Until 31 December 2026, visa-free for Indians for 30 days for tourist purposes only. [ 253 ] [ 254 ]\n- Submission of the Malaysia Digital Arrival Card (MDAC) within 3 days is mandatory. The online MDAC form is available- https://imigresen-online.imi.gov.my/mdac/main?registerMain",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "255;256;257;258"
+    "footnote_ids": "256;257;258;259"
   },
   "IN:MZ": {
-    "notes": "- Visa on arrival if holding a printed confirmation from the Immigration Authority (SENAMI) Headquarters in Maputo, indicating that a visa has been approved before departure. [ 279 ]",
+    "notes": "- Visa on arrival if holding a printed confirmation from the Immigration Authority (SENAMI) Headquarters in Maputo, indicating that a visa has been approved before departure. [ 280 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "282;283;284"
+    "footnote_ids": "283;284;285"
   },
   "IN:NA": {
     "notes": "",
@@ -124805,7 +124805,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "289;290"
+    "footnote_ids": "290;291"
   },
   "IN:NE": {
     "notes": "",
@@ -124813,7 +124813,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "298"
+    "footnote_ids": "299"
   },
   "IN:NG": {
     "notes": "",
@@ -124821,7 +124821,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "299;300"
+    "footnote_ids": "300;301"
   },
   "IN:NI": {
     "notes": "- Passengers must have a valid visa issued by Nicaragua. Passengers with a passport that states El Salvador, Guatemala, Honduras or Nicaragua as their place of birth do not need a visa. Passengers can obtain an e-visa before departure at https://tramitesconsulares.mint.gob.ni, which can be verified at https://evisa-verifica.mint.gob.ni/public/verificar_visa",
@@ -124829,7 +124829,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "297"
+    "footnote_ids": "298"
   },
   "IN:NL": {
     "notes": "- Schengen category A visa (airport transit visa) is not required for Indian passport holders travelling through the international transit area of an airport during a stopover or a change of flights. https://www.netherlandsworldwide.nl/visa-the-netherlands/visa-required",
@@ -124837,7 +124837,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "294"
+    "footnote_ids": "295"
   },
   "IN:NO": {
     "notes": "- Schengen category A visa (airport transit visa) is not required for Indian passport holders travelling through the international transit area of an airport during a stopover or a change of flights.",
@@ -124845,15 +124845,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "302"
+    "footnote_ids": "303"
   },
   "IN:NP": {
-    "notes": "- Indian nationals may also use their Voter ID card with photograph or Indian Passport to enter Nepal by air and land.\n- Indian citizens may live and work freely in Nepal under the terms of the 1950 Indo-Nepal Treaty of Peace and Friendship. This treaty is implemented in law through section 14 of the Nepal Immigration Act 1992, regulations 3, 20 and 44A of the Nepal Immigration Regulation 1994, and section 8.4 the Nepal Immigration Procedures 2008. [ 288 ]",
+    "notes": "- Indian nationals may also use their Voter ID card with photograph or Indian Passport to enter Nepal by air and land.\n- Indian citizens may live and work freely in Nepal under the terms of the 1950 Indo-Nepal Treaty of Peace and Friendship. This treaty is implemented in law through section 14 of the Nepal Immigration Act 1992, regulations 3, 20 and 44A of the Nepal Immigration Regulation 1994, and section 8.4 the Nepal Immigration Procedures 2008. [ 289 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "292;293"
+    "footnote_ids": "293;294"
   },
   "IN:NR": {
     "notes": "",
@@ -124861,15 +124861,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "291"
+    "footnote_ids": "292"
   },
   "IN:NZ": {
-    "notes": "- Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. [ 291 ]",
+    "notes": "- Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. [ 292 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "295;Australian_Resident_Visa-296"
+    "footnote_ids": "296;Australian_Resident_Visa-297"
   },
   "IN:OM": {
     "notes": "- 14-days Visa on arrival for Indians holding a valid Australia, Canada, Japan, UK, US or Schengen visa or residence permit. Also for Gulf Cooperation Council residents.",
@@ -124877,23 +124877,23 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "303;oman-visa-free-38"
+    "footnote_ids": "304;oman-visa-free-38"
   },
   "IN:PA": {
-    "notes": "- National visa may be substituted with a valid multiple entry visa issued by the US (including permanent residents [ 305 ]), UK, Canada, Australia, Japan, South Korea, Singapore, or an EU member state, [ 306 ] which has been used at least once to enter those countries and with at least one year validity remaining at the time of entry into Panama. [ clarification needed ] [ 307 ] [ 308 ]",
+    "notes": "- National visa may be substituted with a valid multiple entry visa issued by the US (including permanent residents [ 306 ]), UK, Canada, Australia, Japan, South Korea, Singapore, or an EU member state, [ 307 ] which has been used at least once to enter those countries and with at least one year validity remaining at the time of entry into Panama. [ clarification needed ] [ 308 ] [ 309 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "309;310;311;312;313"
+    "footnote_ids": "310;311;312;313;314"
   },
   "IN:PE": {
-    "notes": "- Nationals of India who have a valid Australia, Canada, UK, US or Schengen Area visa or permanent resident permit can stay a visa-free up to 180 days within any 365-day period for tourist or business purposes. The visa must be valid for a minimum of 6 months from the arrival date. [ 313 ]",
+    "notes": "- Nationals of India who have a valid Australia, Canada, UK, US or Schengen Area visa or permanent resident permit can stay a visa-free up to 180 days within any 365-day period for tourist or business purposes. The visa must be valid for a minimum of 6 months from the arrival date. [ 314 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "317;318"
+    "footnote_ids": "318;319"
   },
   "IN:PG": {
     "notes": "",
@@ -124901,39 +124901,39 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "314;315"
+    "footnote_ids": "315;316"
   },
   "IN:PH": {
-    "notes": "Also available via this method:\n- eVisa\n\n- 14-day visa-free for tourism only. [ 316 ]\n- Visa-free for holders of a valid Australia, Canada, Japan, Schengen, Singapore, UK or US visa or resident visa for 30 days (only for tourism). [ 317 ]\n- Visa required for other travel purposes, including transit. [ 318 ]\n- A single or multiple entry eVisa for stays of up to 59 days is also available. [ 319 ]",
+    "notes": "Also available via this method:\n- eVisa\n\n- 14-day visa-free for tourism only. [ 317 ]\n- Visa-free for holders of a valid Australia, Canada, Japan, Schengen, Singapore, UK or US visa or resident visa for 30 days (only for tourism). [ 318 ]\n- Visa required for other travel purposes, including transit. [ 319 ]\n- A single or multiple entry eVisa for stays of up to 59 days is also available. [ 320 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "319;320;322;323;324;:8-321"
+    "footnote_ids": "320;321;323;324;325;:8-322"
   },
   "IN:PK": {
-    "notes": "- Visa issuance and travel heavily restricted after 2025 Pahalgam Attack.\n- Visa not required for Pilgrims visiting Shri Kartarpur Sahib (since 2019, closed after the Pahalgam attack). [ 300 ] [ 301 ]\n- Sikhs (Indian passport holders) living outside India and holding a right to live in a 3rd country can apply for e-visa under special Pilgrim category on Nadra website. [ 302 ]",
+    "notes": "- Visa issuance and travel heavily restricted after 2025 Pahalgam Attack.\n- Visa not required for Pilgrims visiting Shri Kartarpur Sahib (since 2019, closed after the Pahalgam attack). [ 301 ] [ 302 ]\n- Sikhs (Indian passport holders) living outside India and holding a right to live in a 3rd country can apply for e-visa under special Pilgrim category on Nadra website. [ 303 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "304;305;306;307"
+    "footnote_ids": "305;306;307;308"
   },
   "IN:PL": {
-    "notes": "- Schengen category A visa (airport transit visa) is not required for Indian passport holders travelling through the international transit area of an airport during a stopover or a change of flights. [ 321 ]",
+    "notes": "- Schengen category A visa (airport transit visa) is not required for Indian passport holders travelling through the international transit area of an airport during a stopover or a change of flights. [ 322 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "325;326"
+    "footnote_ids": "326;327"
   },
   "IN:PT": {
-    "notes": "- Schengen category A visa (airport transit visa) is not required for Indian passport holders travelling through the international transit area of an airport during a stopover or a change of flights. [ 323 ]",
+    "notes": "- Schengen category A visa (airport transit visa) is not required for Indian passport holders travelling through the international transit area of an airport during a stopover or a change of flights. [ 324 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "327;328"
+    "footnote_ids": "328;329"
   },
   "IN:PW": {
     "notes": "",
@@ -124941,7 +124941,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "308"
+    "footnote_ids": "309"
   },
   "IN:PY": {
     "notes": "",
@@ -124949,7 +124949,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "316"
+    "footnote_ids": "317"
   },
   "IN:QA": {
     "notes": "- A visa waiver for 30 days can be granted on arrival, given the following conditions:\n  - Must have a confirmed return ticket.\n  - Must provide a confirmed hotel reservation booked through the Discover Qatar website for the entire stay, subject to a minimum of a two-night booking.",
@@ -124957,7 +124957,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "329;330"
+    "footnote_ids": "330;331"
   },
   "IN:RO": {
     "notes": "",
@@ -124965,15 +124965,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "331"
+    "footnote_ids": "332"
   },
   "IN:RS": {
-    "notes": "- 90 days within any 180-day period. Transfers allowed.\n- Invitation letter in the case of a private visit, i.e. proof of accommodation or proof of itinerary from the travel agency in the case of a tourist visit. Even if you intend NOT to use a travel agency the embassy will insist on an invitation letter.\n- National visa may be substituted by a valid visa OR residence permit issued by any EU member state, Schengen Area member state, UK, or US, for a period not exceeding 90 days in a 180-day period and within the validity of the visa or residence permit. [ 347 ]",
+    "notes": "- 90 days within any 180-day period. Transfers allowed.\n- Invitation letter in the case of a private visit, i.e. proof of accommodation or proof of itinerary from the travel agency in the case of a tourist visit. Even if you intend NOT to use a travel agency the embassy will insist on an invitation letter.\n- National visa may be substituted by a valid visa OR residence permit issued by any EU member state, Schengen Area member state, UK, or US, for a period not exceeding 90 days in a 180-day period and within the validity of the visa or residence permit. [ 348 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "350;351;352"
+    "footnote_ids": "351;352;353"
   },
   "IN:RU": {
     "notes": "- An application must be made 40 to 4 days before the intended entry date.",
@@ -124981,7 +124981,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "332;333"
+    "footnote_ids": "333;334"
   },
   "IN:RW": {
     "notes": "- May enter with East Africa Tourist Visa (100 USD), valid for 90 days and multiple entries in Kenya, Rwanda, and Uganda.",
@@ -124989,15 +124989,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "334"
+    "footnote_ids": "335"
   },
   "IN:SA": {
-    "notes": "- Tourist visa on arrival for holders of valid Schengen, UK and US visa. Visitors must arrive through national carrier of Saudi Arabia. [ 339 ]\n- Visa on arrival if holding two or multiple entry short-stay valid visa issued by UK, US or a Schengen member state for stays of no more than 90 days.\n- Saudi Arabia announced 96 hour free transit visa for passengers of saudia or flynas when stopover the country valid for 90 days. [ 340 ]\n- Visitors can get visa on arrival at any international airport in Saudi Arabia but they must have a credit card to pay a fee amounting to SR 440 (Dh 431) as cash is not accepted. They will be allowed to stay for 90 days at a stretch and can enter the Kingdom of Saudi Arabia multiple times during the validity period of their visit visa. [ 341 ]\n- Eligible visitors may obtain a tourist visa through the Package Visa programme by purchasing an integrated travel package from approved travel and tourism service providers via visitsaudi.com. The package combines an e visa, flights and licensed hotel accommodation into a single digital booking.The package must meet a minimum value of SAR 4,000 (around Rs 1.01 lakh) for the first two days, with an additional SAR 1,000 (around Rs 25,400) for every extra day. The programme was launched as a pilot in selected markets including India, Bangladesh, Egypt, Indonesia, Jordan and Mexico. [ 342 ] [ 343 ]",
+    "notes": "- Tourist visa on arrival for holders of valid Schengen, UK and US visa. Visitors must arrive through national carrier of Saudi Arabia. [ 340 ]\n- Visa on arrival if holding two or multiple entry short-stay valid visa issued by UK, US or a Schengen member state for stays of no more than 90 days.\n- Saudi Arabia announced 96 hour free transit visa for passengers of saudia or flynas when stopover the country valid for 90 days. [ 341 ]\n- Visitors can get visa on arrival at any international airport in Saudi Arabia but they must have a credit card to pay a fee amounting to SR 440 (Dh 431) as cash is not accepted. They will be allowed to stay for 90 days at a stretch and can enter the Kingdom of Saudi Arabia multiple times during the validity period of their visit visa. [ 342 ]\n- Eligible visitors may obtain a tourist visa through the Package Visa programme by purchasing an integrated travel package from approved travel and tourism service providers via visitsaudi.com. The package combines an e visa, flights and licensed hotel accommodation into a single digital booking.The package must meet a minimum value of SAR 4,000 (around Rs 1.01 lakh) for the first two days, with an additional SAR 1,000 (around Rs 25,400) for every extra day. The programme was launched as a pilot in selected markets including India, Bangladesh, Egypt, Indonesia, Jordan and Mexico. [ 343 ] [ 344 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "343;344;345;346;347;348"
+    "footnote_ids": "344;345;346;347;348;349"
   },
   "IN:SB": {
     "notes": "",
@@ -125005,7 +125005,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "365"
+    "footnote_ids": "366"
   },
   "IN:SC": {
     "notes": "- Application can be submitted up to 30 days before travel.\n- Visitors must upload a reservation confirmation(s) for each visitor's location of stay in Seychelles.\n- Yellow fever vaccination certificate is required if coming from endemic countries.\n- Payment of the fee (EUR 10) by credit or debit card.\n- Valid for one journey only and it expires once exit the country.",
@@ -125013,7 +125013,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "353;354"
+    "footnote_ids": "354;355"
   },
   "IN:SD": {
     "notes": "",
@@ -125021,7 +125021,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "378"
+    "footnote_ids": "379"
   },
   "IN:SE": {
     "notes": "",
@@ -125029,23 +125029,23 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "381"
+    "footnote_ids": "382"
   },
   "IN:SG": {
-    "notes": "- May obtain online e-Service through eligible authorized travel agencies. [ 353 ] or through local sponsors (Singapore citizen or permanent residents). [ 354 ]\n- Indian nationals who are entering Singapore by any mode of transport but departing only via air or sea and having a valid visa or long-term pass with validity at least 1 month from entry date from countries such as Australia, Canada, Germany, Japan, New Zealand, UK, US and Switzerland who are in transit to or from any third country may be conditionally eligible for 96-hours Visa-Free Transit Facility (VFTF). [ 355 ]",
+    "notes": "- May obtain online e-Service through eligible authorized travel agencies. [ 354 ] or through local sponsors (Singapore citizen or permanent residents). [ 355 ]\n- Indian nationals who are entering Singapore by any mode of transport but departing only via air or sea and having a valid visa or long-term pass with validity at least 1 month from entry date from countries such as Australia, Canada, Germany, Japan, New Zealand, UK, US and Switzerland who are in transit to or from any third country may be conditionally eligible for 96-hours Visa-Free Transit Facility (VFTF). [ 356 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "357;358;359;360"
+    "footnote_ids": "358;359;360;361"
   },
   "IN:SI": {
-    "notes": "- Visa application can be obtained. [ 358 ]\n- Need to submit the application at Slovenian Embassy/consulate in New Delhi. [ 359 ]",
+    "notes": "- Visa application can be obtained. [ 359 ]\n- Need to submit the application at Slovenian Embassy/consulate in New Delhi. [ 360 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "362;363;364"
+    "footnote_ids": "363;364;365"
   },
   "IN:SK": {
     "notes": "",
@@ -125053,7 +125053,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "361"
+    "footnote_ids": "362"
   },
   "IN:SL": {
     "notes": "Also available via this method:\n- eVisa",
@@ -125061,7 +125061,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "355;356"
+    "footnote_ids": "356;357"
   },
   "IN:SM": {
     "notes": "- No border control but accessible only via Italy; thus, Italian visa rules apply.",
@@ -125069,7 +125069,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "340"
+    "footnote_ids": "341"
   },
   "IN:SN": {
     "notes": "",
@@ -125077,15 +125077,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "349"
+    "footnote_ids": "350"
   },
   "IN:SO": {
-    "notes": "- All visitors must have an approved Electronic Visa (eTAS) before the start of their journey. [ 363 ]",
+    "notes": "- All visitors must have an approved Electronic Visa (eTAS) before the start of their journey. [ 364 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "366;367;368"
+    "footnote_ids": "367;368;369"
   },
   "IN:SR": {
     "notes": "",
@@ -125093,7 +125093,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "379;380"
+    "footnote_ids": "380;381"
   },
   "IN:SS": {
     "notes": "- Obtainable online 30 days single entry for 100 USD, 90 days multiple entry for 200 USD and 180 days multiple entry for 350 USD.\n- Printed visa authorization must be presented at the time of travel.",
@@ -125101,7 +125101,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "372;373"
+    "footnote_ids": "373;374"
   },
   "IN:ST": {
     "notes": "",
@@ -125109,15 +125109,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "341;342"
+    "footnote_ids": "342;343"
   },
   "IN:SV": {
-    "notes": "- Since October 2023, El Salvador imposes a 1000 USD transit visa fee for Indian nationals. [ 169 ]",
+    "notes": "- Since October 2023, El Salvador imposes a 1000 USD transit visa fee for Indian nationals. [ 170 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "168;169;170"
+    "footnote_ids": "169;170;171"
   },
   "IN:SY": {
     "notes": "",
@@ -125125,7 +125125,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "383;384"
+    "footnote_ids": "384;385"
   },
   "IN:SZ": {
     "notes": "",
@@ -125133,7 +125133,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "175"
+    "footnote_ids": "176"
   },
   "IN:TD": {
     "notes": "",
@@ -125141,7 +125141,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "132;133"
+    "footnote_ids": "133;134"
   },
   "IN:TG": {
     "notes": "",
@@ -125149,7 +125149,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "390;391"
+    "footnote_ids": "391;392"
   },
   "IN:TH": {
     "notes": "- Visa-free for a stay of up to 30 days (reduced to 30 days from 60 days effective 15 Sep 2026. [ 25 ]\n- From 1 May 2025, a digital arrival card must be filled, up to three days before arrival (TDAC).",
@@ -125157,7 +125157,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "389;:11-25"
+    "footnote_ids": "390;:11-25"
   },
   "IN:TJ": {
     "notes": "- e-Visa holders can enter through all border points.\n- A color scan of the passport must be uploaded; photographs taken with a phone are not accepted.\n- A letter of invitation may be requested at the discretion of the consulate. If required, the applicant will be notified by email with instructions to upload the document. In cases of solo travel, a cover letter explaining that the applicant is independently organizing their itinerary without assistance from a travel agency—and is therefore unable to provide an invitation letter—may be accepted at the consulate’s discretion.",
@@ -125165,7 +125165,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "385;386"
+    "footnote_ids": "386;387"
   },
   "IN:TL": {
     "notes": "",
@@ -125173,15 +125173,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "161"
+    "footnote_ids": "162"
   },
   "IN:TM": {
-    "notes": "- 10-day visa on arrival if holding a letter of invitation provided by a company registered in Turkmenistan with a prior approval from the Foreign Ministry. Visitors can apply to extend their stay for an additional 10 days. [ 393 ]\n- When transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD. [ 394 ] [ 395 ]",
+    "notes": "- 10-day visa on arrival if holding a letter of invitation provided by a company registered in Turkmenistan with a prior approval from the Foreign Ministry. Visitors can apply to extend their stay for an additional 10 days. [ 394 ]\n- When transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD. [ 395 ] [ 396 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "397;398;399;400"
+    "footnote_ids": "398;399;400;401"
   },
   "IN:TN": {
     "notes": "- Groups of five or more people booking through a travel agency may enter without a visa. They must have a return ticket and a confirmed hotel reservation.",
@@ -125189,7 +125189,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "394"
+    "footnote_ids": "395"
   },
   "IN:TO": {
     "notes": "",
@@ -125197,15 +125197,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "392"
+    "footnote_ids": "393"
   },
   "IN:TR": {
-    "notes": "- Conditional single-entry eVisa issued for the period of 30 days to holders of a valid visa or residence permit issued by one of the Schengen member countries, US, UK, or Ireland. [ 391 ]",
+    "notes": "- Conditional single-entry eVisa issued for the period of 30 days to holders of a valid visa or residence permit issued by one of the Schengen member countries, US, UK, or Ireland. [ 392 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "395;396"
+    "footnote_ids": "396;397"
   },
   "IN:TT": {
     "notes": "",
@@ -125213,7 +125213,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "393"
+    "footnote_ids": "394"
   },
   "IN:TV": {
     "notes": "",
@@ -125221,7 +125221,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "401"
+    "footnote_ids": "402"
   },
   "IN:TW": {
     "notes": "",
@@ -125229,7 +125229,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "440;441"
+    "footnote_ids": "441;442"
   },
   "IN:TZ": {
     "notes": "Also available via this method:\n- eVisa",
@@ -125237,7 +125237,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "387;388"
+    "footnote_ids": "388;389"
   },
   "IN:UA": {
     "notes": "- Reintroduces e-Visa system for Indian travelers from 17 February 2025 which was suspended due to the Russia-Ukraine Conflict.",
@@ -125245,7 +125245,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "404"
+    "footnote_ids": "405"
   },
   "IN:UG": {
     "notes": "- May enter with East Africa Tourist Visa, valid in Rwanda, Uganda, and Kenya for stays of up to 90 days (fee: USD 100).\n- e-Visa must be obtained prior to arrival.",
@@ -125253,7 +125253,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "402;403"
+    "footnote_ids": "403;404"
   },
   "IN:US": {
     "notes": "- Transit visa required.",
@@ -125261,23 +125261,23 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "411"
+    "footnote_ids": "412"
   },
   "IN:UY": {
-    "notes": "- Visa issued free of cost. [ 408 ]\n- No visa required for diplomatic passports. [ 409 ]\n- (5) Prior authorization required [ 409 ]",
+    "notes": "- Visa issued free of cost. [ 409 ]\n- No visa required for diplomatic passports. [ 410 ]\n- (5) Prior authorization required [ 410 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "412;413;:5-414"
+    "footnote_ids": "413;414;:5-415"
   },
   "IN:UZ": {
-    "notes": "- 5-day visa-free transit at the international airports if holding a confirmed onward ticket for a flight to a third country. [ 412 ]",
+    "notes": "- 5-day visa-free transit at the international airports if holding a confirmed onward ticket for a flight to a third country. [ 413 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "415;416;417"
+    "footnote_ids": "416;417;418"
   },
   "IN:VA": {
     "notes": "- Schengen visa required. Entry can be made only from Italy; thus, Italian visa rules apply.",
@@ -125285,7 +125285,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "419"
+    "footnote_ids": "420"
   },
   "IN:VC": {
     "notes": "",
@@ -125293,7 +125293,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "338"
+    "footnote_ids": "339"
   },
   "IN:VE": {
     "notes": "",
@@ -125301,15 +125301,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "420;421"
+    "footnote_ids": "421;422"
   },
   "IN:VN": {
-    "notes": "- e-Visa is valid for 90 days and multiple entry.\n- In November 2023, the authorities in Vietnam has proposed to waive visas for citizens of India. [ 419 ]",
+    "notes": "- e-Visa is valid for 90 days and multiple entry.\n- In November 2023, the authorities in Vietnam has proposed to waive visas for citizens of India. [ 420 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "422;423;424"
+    "footnote_ids": "423;424;425"
   },
   "IN:VU": {
     "notes": "",
@@ -125317,7 +125317,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "418"
+    "footnote_ids": "419"
   },
   "IN:WS": {
     "notes": "",
@@ -125325,23 +125325,23 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "339"
+    "footnote_ids": "340"
   },
   "IN:YE": {
-    "notes": "- Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.). [ 421 ]",
+    "notes": "- Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.). [ 422 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "425;426"
+    "footnote_ids": "426;427"
   },
   "IN:ZA": {
-    "notes": "- Who are entering South Africa through either OR Tambo International Airport, Cape Town International Airport and Lanseria International Airport. [ 366 ]",
+    "notes": "- Who are entering South Africa through either OR Tambo International Airport, Cape Town International Airport and Lanseria International Airport. [ 367 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "369;370;371"
+    "footnote_ids": "370;371;372"
   },
   "IN:ZM": {
     "notes": "",
@@ -125349,7 +125349,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "427;428"
+    "footnote_ids": "428;429"
   },
   "IN:ZW": {
     "notes": "Also available via this method:\n- eVisa",
@@ -125357,7 +125357,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "429;430"
+    "footnote_ids": "430;431"
   },
   "IQ:AD": {
     "notes": "- Visa free for a maximum stay of 90 days within 180 days for valid visa holders or residents of the Schengen Area member states.",
@@ -233608,7 +233608,7 @@
     "footnote_ids": "60;61"
   },
   "RS:BI": {
-    "notes": "Also available via this method:\n- eVisa\n\n- Citizens of all countries that needed visas can now apply for an visa on arrival at Bujumbura International Airport, or at all land borders.",
+    "notes": "Also available via this method:\n- eVisa\n\n- Citizens of all countries that needed visas can now apply for a visa on arrival at Bujumbura International Airport, or at all land borders.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Serbian_citizens",
     "last_verified": "",
     "confidence": "unverified",
