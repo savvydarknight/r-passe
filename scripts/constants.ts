@@ -15,3 +15,5 @@ export const SCORE_WEIGHTS: Record<string, number> = {
   vr: 0,
   ar: 0,
 };
+
+export const USE_OFFICIAL_POLICY = false;

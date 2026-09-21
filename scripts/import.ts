@@ -4,6 +4,7 @@ import { CODE_MAP } from "./code-map.ts";
 import { NAME_MAP } from "./name-map.ts";
 import { parseCSV, csvField } from "./csv.ts";
 import { log, group } from "./log.ts";
+import { USE_OFFICIAL_POLICY } from "./constants.ts";
 
 const R_DATA_DIR = process.env.R_DATA_DIR ?? "../r-data";
 
@@ -217,6 +218,10 @@ function main() {
   let backfilled = 0;
   const policyPath = path.join(R_DATA_DIR, "destination_policy.csv");
   group("import: destination-policy backfill", () => {
+    if (!USE_OFFICIAL_POLICY) {
+      log("official policy backfill disabled, skipping");
+      return;
+    }
     log(`checking for ${policyPath}`);
     if (!fs.existsSync(policyPath)) {
       log(`${policyPath} does not exist, skipping backfill`);
