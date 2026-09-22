@@ -90,7 +90,7 @@ switch (command) {
     const confidence = flagValue("confidence") || old?.confidence || "unverified";
 
     if (old) {
-      rows[existing] = { passport: p, destination: d, status, days, notes: old.notes, sourceUrl, lastVerified, confidence, reciprocity: old.reciprocity || "", footnoteIds: old.footnoteIds || "" };
+      rows[existing] = { passport: p, destination: d, status, days, notes: old.notes, sourceUrl, lastVerified, confidence, reciprocity: old.reciprocity || "", footnoteIds: old.footnoteIds || "", display: old.display || "" };
       writeCSV(rows);
       console.log(`✓ Updated ${p} → ${d}: ${old.status} → ${status}`);
     } else {
