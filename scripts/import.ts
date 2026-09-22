@@ -87,6 +87,13 @@ function buildNotes(notes: string, requirementRaw: string, primaryStatus: string
   return cleaned ? `${methodLines}\n\n${cleaned}` : methodLines;
 }
 
+function joinNotes(methodNotes: string, notes: string): string {
+  const method = methodNotes.trim();
+  const cleaned = cleanNotes(notes);
+  if (method && cleaned) return `${method}\n\n${cleaned}`;
+  return method || cleaned;
+}
+
 function normalizeReciprocity(raw: string): string {
   const v = raw.trim().toLowerCase();
   if (["✓", "✔️", "✔", "yes", "y"].includes(v)) return "Yes";
@@ -142,6 +149,8 @@ function main() {
   const iUrl = idx("source_url");
   const iReciprocity = idx("reciprocity");
   const iFootnoteIds = idx("footnote_ids");
+  const iStayPrimary = idx("stay_primary");
+  const iMethodNotes = idx("method_notes");
   log(`column indices: passport_code=${iPassport} destination_name=${iDest} requirement=${iReq} requirement_raw=${iReqRaw} allowed_stay=${iStay} notes=${iNotes} source_url=${iUrl} reciprocity=${iReciprocity}`);
 
   const seen = new Set<string>();
@@ -203,8 +212,8 @@ function main() {
         passport,
         destination,
         status,
-        days: parseDays(allowedStay),
-        notes: buildNotes(notes, requirementRaw, status),
+        days: parseDays(iStayPrimary >= 0 ? r[iStayPrimary] || "" : allowedStay),
+        notes: iMethodNotes >= 0 ? joinNotes(r[iMethodNotes] || "", notes) : buildNotes(notes, requirementRaw, status),
         source_url: sourceUrl,
         last_verified: "",
         confidence: "unverified",
