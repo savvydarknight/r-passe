@@ -128,6 +128,7 @@ type MasterRow = {
   confidence: string;
   reciprocity: string;
   footnote_ids: string;
+  display: string;
 };
 
 function main() {
@@ -151,6 +152,7 @@ function main() {
   const iFootnoteIds = idx("footnote_ids");
   const iStayPrimary = idx("stay_primary");
   const iMethodNotes = idx("method_notes");
+  const iDisplayOverride = idx("display_override");
   log(`column indices: passport_code=${iPassport} destination_name=${iDest} requirement=${iReq} requirement_raw=${iReqRaw} allowed_stay=${iStay} notes=${iNotes} source_url=${iUrl} reciprocity=${iReciprocity}`);
 
   const seen = new Set<string>();
@@ -219,6 +221,7 @@ function main() {
         confidence: "unverified",
         reciprocity: reciprocity || "",
         footnote_ids: footnoteIds,
+        display: iDisplayOverride >= 0 ? r[iDisplayOverride] || "" : "",
       });
     }
     log(`wikipedia pass done: ${out.length} accepted, ${skippedUnmapped} unmapped, ${skippedUnknown} unknown, ${skippedDuplicate} duplicate`);
@@ -293,6 +296,7 @@ function main() {
         confidence: "unverified",
         reciprocity: "",
         footnote_ids: "",
+        display: "",
       });
     }
     log(`backfill done: ${backfilled} rows added`);
@@ -306,7 +310,7 @@ function main() {
     );
     log(`sorted ${out.length} rows`);
 
-    const lines = ["passport,destination,status,days,notes,source_url,last_verified,confidence,reciprocity,footnote_ids"];
+    const lines = ["passport,destination,status,days,notes,source_url,last_verified,confidence,reciprocity,footnote_ids,display"];
     for (const [i, row] of out.entries()) {
       log(`writing row ${i + 1}/${out.length}: ${JSON.stringify(row)}`);
       lines.push(
@@ -321,6 +325,7 @@ function main() {
           row.confidence,
           csvField(row.reciprocity),
           csvField(row.footnote_ids),
+          csvField(row.display),
         ].join(",")
       );
     }

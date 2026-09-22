@@ -19,7 +19,7 @@ const rows = parseCSV(csv);
 const header = rows[0].join(",");
 log(`header: ${header}`);
 
-if (header !== "passport,destination,status,days,notes,source_url,last_verified,confidence,reciprocity,footnote_ids") {
+if (header !== "passport,destination,status,days,notes,source_url,last_verified,confidence,reciprocity,footnote_ids,display") {
   throw new Error("Invalid CSV header");
 }
 

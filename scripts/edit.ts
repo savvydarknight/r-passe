@@ -25,14 +25,15 @@ interface Row {
   confidence: string;
   reciprocity: string;
   footnoteIds: string;
+  display: string;
 }
 
 function readCSV(): Row[] {
   const content = fs.readFileSync(CSV_PATH, "utf8");
   const rows = parseCSV(content).slice(1); // skip header
   return rows.map((r) => {
-    const [passport, destination, status, days = "", notes = "", sourceUrl = "", lastVerified = "", confidence = "unverified", reciprocity = "", footnoteIds = ""] = r;
-    return { passport, destination, status, days, notes, sourceUrl, lastVerified, confidence, reciprocity, footnoteIds };
+    const [passport, destination, status, days = "", notes = "", sourceUrl = "", lastVerified = "", confidence = "unverified", reciprocity = "", footnoteIds = "", display = ""] = r;
+    return { passport, destination, status, days, notes, sourceUrl, lastVerified, confidence, reciprocity, footnoteIds, display };
   });
 }
 
@@ -43,11 +44,11 @@ function writeCSV(rows: Row[]): void {
       : a.destination.localeCompare(b.destination)
   );
   const lines = sorted.map((r) =>
-    [r.passport, r.destination, r.status, r.days, csvField(r.notes), csvField(r.sourceUrl), r.lastVerified, r.confidence || "unverified", csvField(r.reciprocity || ""), csvField(r.footnoteIds || "")].join(",")
+    [r.passport, r.destination, r.status, r.days, csvField(r.notes), csvField(r.sourceUrl), r.lastVerified, r.confidence || "unverified", csvField(r.reciprocity || ""), csvField(r.footnoteIds || ""), csvField(r.display || "")].join(",")
   );
   fs.writeFileSync(
     CSV_PATH,
-    ["passport,destination,status,days,notes,source_url,last_verified,confidence,reciprocity,footnote_ids", ...lines].join("\n") + "\n"
+    ["passport,destination,status,days,notes,source_url,last_verified,confidence,reciprocity,footnote_ids,display", ...lines].join("\n") + "\n"
   );
 }
 
@@ -93,7 +94,7 @@ switch (command) {
       writeCSV(rows);
       console.log(`✓ Updated ${p} → ${d}: ${old.status} → ${status}`);
     } else {
-      rows.push({ passport: p, destination: d, status, days, notes: "", sourceUrl, lastVerified, confidence, reciprocity: "", footnoteIds: "" });
+      rows.push({ passport: p, destination: d, status, days, notes: "", sourceUrl, lastVerified, confidence, reciprocity: "", footnoteIds: "", display: "" });
       writeCSV(rows);
       console.log(`✓ Added ${p} → ${d}: ${status}`);
     }
