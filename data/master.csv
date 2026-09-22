@@ -1397,7 +1397,7 @@ AM,VE,ev,,- Introduction of Electronic Visa System for Tourist and Business Trav
 AM,VN,ev,,- e-Visa is valid for 90 days and multiple entry.,https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens,,unverified,,282;283,
 AM,VU,ev,120,,https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens,,unverified,,275;276,
 AM,WS,vf,60,,https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens,,unverified,,216,
-AM,XK,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens,,unverified,,137,
+AM,XK,vr,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens,,unverified,,137;291;292,
 AM,YE,vr,,"- Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.). [ 279 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens,,unverified,,284;285,
 AM,ZA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens,,unverified,,234,
 AM,ZM,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens,,unverified,,286;287,
@@ -14386,7 +14386,7 @@ FR,VE,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_French_citizens
 FR,VN,vf,45,- A single entry e-Visa valid for 90 days is also available.,https://en.wikipedia.org/wiki/Visa_requirements_for_French_citizens,,unverified,No,161;index-5,
 FR,VU,vf,90,- 90 days within any 180 day period. [ citation needed ],https://en.wikipedia.org/wiki/Visa_requirements_for_French_citizens,,unverified,No,index-5,
 FR,WS,vf,90,- 90 days within any 180 day period. [ citation needed ],https://en.wikipedia.org/wiki/Visa_requirements_for_French_citizens,,unverified,Yes,index-5,
-FR,XK,vf,90,- Passport-free entry with valid ID card,https://en.wikipedia.org/wiki/Visa_requirements_for_French_citizens,,unverified,Yes,index-5,
+FR,XK,vf,90,- Passport-free entry with valid ID card,https://en.wikipedia.org/wiki/Visa_requirements_for_French_citizens,,unverified,Yes,179;auto1-178;index-5,
 FR,YE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_French_citizens,,unverified,Yes,index-5,
 FR,ZA,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_French_citizens,,unverified,No,index-5,
 FR,ZM,vf,90,- Also eligible for a universal visa.,https://en.wikipedia.org/wiki/Visa_requirements_for_French_citizens,,unverified,No,index-5,
@@ -17203,7 +17203,7 @@ HK,CL,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizen
 HK,CM,ev,,"- Your chosen embassy will examine your file and make a decision. If the file is accepted, there are two options:
   - The visa is granted at our embassy. Such applicants will receive an electronic message for an appointment. The Applicant(s) must bring the original documents used in the pre-enrolment together with the passport, which mush have at least a minimum of 6 months validity. The visa will be affixed inside your passport.
   - An electronic authorization with a QR code will be provided to collect electronic parameters of those who cannot come to the embassy. Such people would be able to travel to Cameroon with a printed authorization. They will also have to bring along the original documents used for the pre-enrolment. Their parameters will be collected at the entry check point into Cameroon e.g. Airport or Sea port or any border post, and a six- month validity visa will be stamped into your passport.",https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong,,unverified,,53;54,
-HK,CN,ev,,"Entry to mainland China cannot be on a HKSAR passport. However, all eligible for a HKSAR passport are also eligible to apply for a separate Mainland Travel Permit for Hong Kong and Macao Residents, otherwise and previously known as a Home Return Permit, or a Chinese Travel Document if the HKSAR passport holder does not reside in Greater China and is not in possession of a current MTP, allowing the holder to enter and stay in mainland China for indefinite period until its expiry for any purpose. Issuance of the MTP, however, is not guaranteed for all Chinese citizens of Hong Kong and is at the sole discretion of the National Immigration Administration of the Ministry of Public Security of China.",https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong,,unverified,,护照/旅行证简介-6,
+HK,CN,ev,,"Entry to mainland China cannot be on a HKSAR passport. However, all eligible for a HKSAR passport are also eligible to apply for a separate Mainland Travel Permit for Hong Kong and Macao Residents, otherwise and previously known as a Home Return Permit, or a Chinese Travel Document if the HKSAR passport holder does not reside in Greater China and is not in possession of a current MTP, allowing the holder to enter and stay in mainland China for indefinite period until its expiry for any purpose. Issuance of the MTP, however, is not guaranteed for all Chinese citizens of Hong Kong and is at the sole discretion of the National Immigration Administration of the Ministry of Public Security of China.",https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong,,unverified,,护照/旅行证简介-6,Travel Permit
 HK,CO,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong,,unverified,,63,
 HK,CR,vf,180,,https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong,,unverified,,68,
 HK,CU,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong,,unverified,,72,
@@ -18704,8 +18704,8 @@ ID,VN,vf,14,- 90 days e-Visa also available. [ 330 ],https://en.wikipedia.org/wi
 ID,VU,ev,120,,https://en.wikipedia.org/wiki/Visa_requirements_for_Indonesian_citizens,,unverified,,326;327,
 ID,WS,vo,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Indonesian_citizens,,unverified,,252,
 ID,XK,vr,,"- No visa needed for holders of a multi-entry Schengen visa, or a biometric valid residency permit from a Schengen member states. [ 339 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Indonesian_citizens,,unverified,,340;341,
-ID,YE,vr,,"- As of April 2024, due to safety concerns, Indonesian government advises its citizens not to visit Yemen. [ 103 ]
-- Separately, Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.). [ 332 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Indonesian_citizens,,unverified,,333;334;April_2024-103,
+ID,YE,vr,,"- Separately, Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.). [ 332 ]
+- As of April 2024, due to safety concerns, Indonesian government advises its citizens not to visit Yemen. [ 103 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Indonesian_citizens,,unverified,,333;334;April_2024-103,
 ID,ZA,et,90,"- Indonesian passport holders may apply for instant South African electronic travel authorisation (ETA), provided the entry is via O.R. Tambo International Airport, Cape Town International Airport or Lanseria International Airport.",https://en.wikipedia.org/wiki/Visa_requirements_for_Indonesian_citizens,,unverified,,272;273,
 ID,ZM,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Indonesian_citizens,,unverified,,335;336,
 ID,ZW,vo,30,eVisa may also be applied for stays up to 1 month.,https://en.wikipedia.org/wiki/Visa_requirements_for_Indonesian_citizens,,unverified,,337;338,
@@ -28989,7 +28989,10 @@ MO,CH,vf,90,- 90 days within any 180 day period in the Schengen Area.,https://en
 MO,CI,ev,90,- e-Visa holders must arrive via Port Bouet Airport.,https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau,,unverified,,57;58,
 MO,CL,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau,,unverified,,49,
 MO,CM,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau,,unverified,,43;44,
-MO,CN,vf,,"Holders of Mainland Travel Permit for Hong Kong and Macao Residents are able to freely enter Mainland China for all purposes within the validity of their travel document. Most permits for adults are valid for 10 years; minors under 18 years old are issued permits valid for five years. Not required if holding an MSAR Passport for transit through Beijing, Shanghai, or Guangzhou within 24 hours without leaving the sterile area of the airports.",https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau,,unverified,,2,
+MO,CN,vf,,"- Holders of Mainland Travel Permit for Hong Kong and Macao Residents are able to freely enter mainland China for all purposes within the validity of their travel document. Most permits for adults are valid for 10 years; minors under 18 years old are issued permits valid for five years.
+- Entry to Mainland China cannot be on a Macau SAR passport. However, all eligible for Macau SAR passport is also able to apply for a Home Return Permit, allowing the holder to enter and stay in mainland China until its expiry. Issuance of the Home Return Permit is not automatic for all MSAR passport holders and is at the sole discretion of the Bureau of Exit and Entry Administration of the Ministry of Public Security.
+- Those residing in the Mainland for more than six months may apply for the Residence Permit for Hong Kong, Macao, and Taiwan Residents.
+- Home Return Permit not required for MSAR Passport holders when transiting through Beijing, Shanghai or Guangzhou Airports within 24 hours without leaving the sterile area.",https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau,,unverified,,,Travel Permit
 MO,CO,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau,,unverified,,50;51,
 MO,CR,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau,,unverified,,56,
 MO,CU,vr,90,- Can be extended up to 90 days with a fee.,https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau,,unverified,,60,
@@ -44056,6 +44059,7 @@ TW,CH,vf,90,"- 90 days within any 180 day period in the Schengen Area.
 TW,CI,ev,90,- e-Visa holders must arrive via Port Bouet Airport.,https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,75;76,
 TW,CL,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,64,
 TW,CM,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,54;55,
+TW,CN,ev,,- Holders of Mainland Travel Permit for Taiwan Resident can enter China via E-channel upon arrival. [ 66 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,66;ReferenceA-65,Travel Permit
 TW,CO,ev,,"- The fee varies depending on the visa type. If the country option is displayed in Spanish when filling out the form, please select 'Other Cases and TERRITORIES'.
 - Taiwanese citizens holding ROC passports or valid visas to the Schengen Area or the United States are eligible for visa-free entry.
 - San Andrés and Leticia - Visitors arriving at Gustavo Rojas Pinilla International Airport and Alfredo Vásquez Cobo International Airport must buy tourist cards on arrival.",https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,67;68,
@@ -44776,7 +44780,7 @@ UA,PA,vf,90,- Extension of stay is possible.,https://en.wikipedia.org/wiki/Visa_
 UA,PE,vf,90,"- 90 days within any 180-day period.
 - For tourist purposes only.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,257,
 UA,PG,ev,60,"- Visitors may apply for a visa online under the ""Tourist - Own Itinerary"" category.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,254;255,
-UA,PH,vr,,- Citizens of Ukraine may obtain an eVisa through the official Philippine eVisa website if they reside in certain countries where there is a Philippine Embassy. [ 249 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,258;259,
+UA,PH,ev,,"- Citizens of Ukraine must select ""Poland"" in order to apply for an e-Visa if they are permanently residing in Ukraine, while those permanently residing abroad may apply for an e-Visa only if they reside in an eligible country where a Philippine Foreign Service Post is located.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,258;259,
 UA,PK,ev,90,"- Online Visa eligible. [ 241 ]
 - Issued in 7-10 business days.",https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,249;250;251,
 UA,PL,vf,90,- 90 days within any 180-day period in the Schengen Area. [ Note 3 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens,,unverified,,260;biometric-50,
@@ -45079,7 +45083,7 @@ UG,TO,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ugandan_citizens,
 UG,TR,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ugandan_citizens,,unverified,,248;249,
 UG,TT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ugandan_citizens,,unverified,,246,
 UG,TV,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ugandan_citizens,,unverified,,252,
-UG,TW,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ugandan_citizens,,unverified,,237,
+UG,TW,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ugandan_citizens,,unverified,,237;282;283,
 UG,TZ,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ugandan_citizens,,unverified,,239,
 UG,UA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ugandan_citizens,,unverified,,253,
 UG,US,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ugandan_citizens,,unverified,,257,

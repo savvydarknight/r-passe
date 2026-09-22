@@ -10598,7 +10598,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "137",
+    "footnote_ids": "137;291;292",
     "display": ""
   },
   "AM:YE": {
@@ -104459,7 +104459,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "index-5",
+    "footnote_ids": "179;auto1-178;index-5",
     "display": ""
   },
   "FR:YE": {
@@ -126078,7 +126078,7 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "护照/旅行证简介-6",
-    "display": ""
+    "display": "Travel Permit"
   },
   "HK:CO": {
     "notes": "",
@@ -136341,7 +136341,7 @@
     "display": ""
   },
   "ID:YE": {
-    "notes": "- As of April 2024, due to safety concerns, Indonesian government advises its citizens not to visit Yemen. [ 103 ]\n- Separately, Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.). [ 332 ]",
+    "notes": "- Separately, Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.). [ 332 ]\n- As of April 2024, due to safety concerns, Indonesian government advises its citizens not to visit Yemen. [ 103 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indonesian_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -209277,13 +209277,13 @@
     "display": ""
   },
   "MO:CN": {
-    "notes": "Holders of Mainland Travel Permit for Hong Kong and Macao Residents are able to freely enter Mainland China for all purposes within the validity of their travel document. Most permits for adults are valid for 10 years; minors under 18 years old are issued permits valid for five years. Not required if holding an MSAR Passport for transit through Beijing, Shanghai, or Guangzhou within 24 hours without leaving the sterile area of the airports.",
+    "notes": "- Holders of Mainland Travel Permit for Hong Kong and Macao Residents are able to freely enter mainland China for all purposes within the validity of their travel document. Most permits for adults are valid for 10 years; minors under 18 years old are issued permits valid for five years.\n- Entry to Mainland China cannot be on a Macau SAR passport. However, all eligible for Macau SAR passport is also able to apply for a Home Return Permit, allowing the holder to enter and stay in mainland China until its expiry. Issuance of the Home Return Permit is not automatic for all MSAR passport holders and is at the sole discretion of the Bureau of Exit and Entry Administration of the Ministry of Public Security.\n- Those residing in the Mainland for more than six months may apply for the Residence Permit for Hong Kong, Macao, and Taiwan Residents.\n- Home Return Permit not required for MSAR Passport holders when transiting through Beijing, Shanghai or Guangzhou Airports within 24 hours without leaving the sterile area.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "2",
-    "display": ""
+    "footnote_ids": "",
+    "display": "Travel Permit"
   },
   "MO:CO": {
     "notes": "",
@@ -320840,6 +320840,15 @@
     "footnote_ids": "54;55",
     "display": ""
   },
+  "TW:CN": {
+    "notes": "- Holders of Mainland Travel Permit for Taiwan Resident can enter China via E-channel upon arrival. [ 66 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "66;ReferenceA-65",
+    "display": "Travel Permit"
+  },
   "TW:CO": {
     "notes": "- The fee varies depending on the visa type. If the country option is displayed in Spanish when filling out the form, please select 'Other Cases and TERRITORIES'.\n- Taiwanese citizens holding ROC passports or valid visas to the Schengen Area or the United States are eligible for visa-free entry.\n- San Andrés and Leticia - Visitors arriving at Gustavo Rojas Pinilla International Airport and Alfredo Vásquez Cobo International Airport must buy tourist cards on arrival.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
@@ -325296,7 +325305,7 @@
     "display": ""
   },
   "UA:PH": {
-    "notes": "- Citizens of Ukraine may obtain an eVisa through the official Philippine eVisa website if they reside in certain countries where there is a Philippine Embassy. [ 249 ]",
+    "notes": "- Citizens of Ukraine must select \"Poland\" in order to apply for an e-Visa if they are permanently residing in Ukraine, while those permanently residing abroad may apply for an e-Visa only if they reside in an eligible country where a Philippine Foreign Service Post is located.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -327434,7 +327443,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "237",
+    "footnote_ids": "237;282;283",
     "display": ""
   },
   "UG:TZ": {

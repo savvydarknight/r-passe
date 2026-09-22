@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-22T09:06:45.023Z",
+  "generated_at": "2026-09-22T09:11:43.752Z",
   "universe_size": 199,
   "total_expected_pairs": 39402,
-  "total_missing_pairs": 255,
+  "total_missing_pairs": 254,
   "by_passport": [
     {
       "code": "BT",
@@ -100,16 +100,6 @@
       ]
     },
     {
-      "code": "TW",
-      "name": "Taiwan",
-      "missing": [
-        "CN",
-        "HK",
-        "MO",
-        "PS"
-      ]
-    },
-    {
       "code": "VA",
       "name": "Holy See",
       "missing": [
@@ -158,6 +148,15 @@
     {
       "code": "SY",
       "name": "Syria",
+      "missing": [
+        "HK",
+        "MO",
+        "PS"
+      ]
+    },
+    {
+      "code": "TW",
+      "name": "Taiwan",
       "missing": [
         "HK",
         "MO",
@@ -1745,13 +1744,6 @@
       ]
     },
     {
-      "code": "CN",
-      "name": "China",
-      "missing": [
-        "TW"
-      ]
-    },
-    {
       "code": "US",
       "name": "United States of America",
       "missing": [
@@ -1931,6 +1923,11 @@
     {
       "code": "CM",
       "name": "Cameroon",
+      "missing": []
+    },
+    {
+      "code": "CN",
+      "name": "China",
       "missing": []
     },
     {
