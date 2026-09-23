@@ -44059,7 +44059,13 @@ TW,CH,vf,90,"- 90 days within any 180 day period in the Schengen Area.
 TW,CI,ev,90,- e-Visa holders must arrive via Port Bouet Airport.,https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,75;76,
 TW,CL,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,64,
 TW,CM,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,54;55,
-TW,CN,ev,,- Holders of Mainland Travel Permit for Taiwan Resident can enter China via E-channel upon arrival. [ 66 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,66;ReferenceA-65,Travel Permit
+TW,CN,ev,,"- Holders of Mainland Travel Permit for Taiwan Resident can enter China via E-channel upon arrival. [ 66 ]
+
+By document type:
+- Hong Kong SAR - with Taiwanese passport only: eVisa, 30 days free of charge. A printed authorization letter for Pre-arrival Registration for Taiwan Residents and a Taiwanese passport with a national ID number and a validity not less than 6 months are required upon arrival. Registration is not required for airside transit in Hong Kong International Airport. [ 371 ] [ 372 ]; with Mainland Travel Permit: 30 days; with Chinese Travel Document: Hong Kong SAR Entry Permit required except for airside transit in Hong Kong International Airport.
+- Macao SAR - with Taiwanese passport only: 30 days [ 373 ]; with Mainland Travel Permit: 30 days [ 374 ]; with Chinese Travel Document: 7 days, transit only (the country or region traveled before and after Macao must be different). [ 375 ]
+- Tibet AR - with Taiwanese passport only: Admission refused. Airside transit refused.; with Mainland Travel Permit: Tibet Travel Permit required; with Chinese Travel Document: Tibet Travel Permit required
+- All other provinces, municipalities, and ARs - with Taiwanese passport only: Admission refused. Airside transit refused.; with Mainland Travel Permit: May stay through the duration of the Travel Permit (5 years for a regular permit issued before travel, 3 months for a single-entry permit issued upon arrival at port of entry); with Chinese Travel Document: May stay through the duration of the Travel Document (2 years)",https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,66;ReferenceA-65,Travel Permit
 TW,CO,ev,,"- The fee varies depending on the visa type. If the country option is displayed in Spanish when filling out the form, please select 'Other Cases and TERRITORIES'.
 - Taiwanese citizens holding ROC passports or valid visas to the Schengen Area or the United States are eligible for visa-free entry.
 - San Andrés and Leticia - Visitors arriving at Gustavo Rojas Pinilla International Airport and Alfredo Vásquez Cobo International Airport must buy tourist cards on arrival.",https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens,,unverified,,67;68,
