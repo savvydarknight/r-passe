@@ -22,10 +22,11 @@ const iReciprocity = idx("reciprocity");
 const iFootnoteIds = idx("footnote_ids");
 const iDisplay = idx("display");
 const iStayDisplay = idx("stay_display");
-log(`column indices: passport=${iPassport} destination=${iDest} status=${iStatus} days=${iDays} notes=${iNotes} source_url=${iUrl} last_verified=${iVerified} confidence=${iConfidence} reciprocity=${iReciprocity} footnote_ids=${iFootnoteIds} display=${iDisplay} stay_display=${iStayDisplay}`);
+const iTravelAdvisory = idx("travel_advisory");
+log(`column indices: passport=${iPassport} destination=${iDest} status=${iStatus} days=${iDays} notes=${iNotes} source_url=${iUrl} last_verified=${iVerified} confidence=${iConfidence} reciprocity=${iReciprocity} footnote_ids=${iFootnoteIds} display=${iDisplay} stay_display=${iStayDisplay} travel_advisory=${iTravelAdvisory}`);
 
 const matrix: Record<string, Record<string, any>> = {};
-const metadata: Record<string, { notes: string; source_url: string; last_verified: string; confidence: string; reciprocity: string; footnote_ids: string; display: string; stay_display: string }> = {};
+const metadata: Record<string, { notes: string; source_url: string; last_verified: string; confidence: string; reciprocity: string; footnote_ids: string; display: string; stay_display: string; travel_advisory: string }> = {};
 
 group("build: matrix + metadata", () => {
   for (const [i, row] of dataRows.entries()) {
@@ -46,6 +47,7 @@ group("build: matrix + metadata", () => {
       footnote_ids: (iFootnoteIds >= 0 ? row[iFootnoteIds] : "") || "",
       display: (iDisplay >= 0 ? row[iDisplay] : "") || "",
       stay_display: (iStayDisplay >= 0 ? row[iStayDisplay] : "") || "",
+      travel_advisory: (iTravelAdvisory >= 0 ? row[iTravelAdvisory] : "") || "",
     };
 
     log(`row ${i + 2}: ${passport}->${destination} = ${JSON.stringify(matrix[passport][destination])}`);

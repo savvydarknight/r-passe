@@ -134,6 +134,7 @@ type MasterRow = {
   footnote_ids: string;
   display: string;
   stay_display: string;
+  travel_advisory: string;
 };
 
 function main() {
@@ -158,6 +159,7 @@ function main() {
   const iStayPrimary = idx("stay_primary");
   const iMethodNotes = idx("method_notes");
   const iDisplayOverride = idx("display_override");
+  const iTravelAdvisory = idx("travel_advisory");
   log(`column indices: passport_code=${iPassport} destination_name=${iDest} requirement=${iReq} requirement_raw=${iReqRaw} allowed_stay=${iStay} notes=${iNotes} source_url=${iUrl} reciprocity=${iReciprocity}`);
 
   const seen = new Set<string>();
@@ -228,6 +230,7 @@ function main() {
         reciprocity: reciprocity || "",
         footnote_ids: footnoteIds,
         display: iDisplayOverride >= 0 ? r[iDisplayOverride] || "" : "",
+        travel_advisory: iTravelAdvisory >= 0 ? r[iTravelAdvisory] || "" : "",
       });
     }
     log(`wikipedia pass done: ${out.length} accepted, ${skippedUnmapped} unmapped, ${skippedUnknown} unknown, ${skippedDuplicate} duplicate`);
@@ -297,6 +300,7 @@ function main() {
         status,
         days: parseDays(r[iPStay]),
         stay_display: stayDisplay(r[iPStay]),
+        travel_advisory: "",
         notes: cleanNotes(r[iPNotes]),
         source_url: r[iPUrl],
         last_verified: "",
@@ -317,7 +321,7 @@ function main() {
     );
     log(`sorted ${out.length} rows`);
 
-    const lines = ["passport,destination,status,days,notes,source_url,last_verified,confidence,reciprocity,footnote_ids,display,stay_display"];
+    const lines = ["passport,destination,status,days,notes,source_url,last_verified,confidence,reciprocity,footnote_ids,display,stay_display,travel_advisory"];
     for (const [i, row] of out.entries()) {
       log(`writing row ${i + 1}/${out.length}: ${JSON.stringify(row)}`);
       lines.push(
@@ -334,6 +338,7 @@ function main() {
           csvField(row.footnote_ids),
           csvField(row.display),
           csvField(row.stay_display),
+          csvField(row.travel_advisory),
         ].join(",")
       );
     }
