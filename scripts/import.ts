@@ -304,7 +304,6 @@ function main() {
         reciprocity: "",
         footnote_ids: "",
         display: "",
-        stay_display: "",
       });
     }
     log(`backfill done: ${backfilled} rows added`);
