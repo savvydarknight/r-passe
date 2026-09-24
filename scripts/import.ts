@@ -31,6 +31,10 @@ function parseDays(allowedStay: string): string {
   return String(n);
 }
 
+function stayDisplay(allowedStay: string): string {
+  return /unlimited|indefinite|permanent|lifetime|forever/i.test(allowedStay) ? "Unlimited" : "";
+}
+
 function cleanNotes(notes: string): string {
   return notes.trim();
 }
@@ -129,6 +133,7 @@ type MasterRow = {
   reciprocity: string;
   footnote_ids: string;
   display: string;
+  stay_display: string;
 };
 
 function main() {
@@ -215,6 +220,7 @@ function main() {
         destination,
         status,
         days: parseDays(iStayPrimary >= 0 ? r[iStayPrimary] || "" : allowedStay),
+        stay_display: stayDisplay(iStayPrimary >= 0 ? r[iStayPrimary] || "" : allowedStay),
         notes: iMethodNotes >= 0 ? joinNotes(r[iMethodNotes] || "", notes) : buildNotes(notes, requirementRaw, status),
         source_url: sourceUrl,
         last_verified: "",
@@ -290,6 +296,7 @@ function main() {
         destination,
         status,
         days: parseDays(r[iPStay]),
+        stay_display: stayDisplay(r[iPStay]),
         notes: cleanNotes(r[iPNotes]),
         source_url: r[iPUrl],
         last_verified: "",
@@ -297,6 +304,7 @@ function main() {
         reciprocity: "",
         footnote_ids: "",
         display: "",
+        stay_display: "",
       });
     }
     log(`backfill done: ${backfilled} rows added`);
@@ -310,7 +318,7 @@ function main() {
     );
     log(`sorted ${out.length} rows`);
 
-    const lines = ["passport,destination,status,days,notes,source_url,last_verified,confidence,reciprocity,footnote_ids,display"];
+    const lines = ["passport,destination,status,days,notes,source_url,last_verified,confidence,reciprocity,footnote_ids,display,stay_display"];
     for (const [i, row] of out.entries()) {
       log(`writing row ${i + 1}/${out.length}: ${JSON.stringify(row)}`);
       lines.push(
@@ -326,6 +334,7 @@ function main() {
           csvField(row.reciprocity),
           csvField(row.footnote_ids),
           csvField(row.display),
+          csvField(row.stay_display),
         ].join(",")
       );
     }

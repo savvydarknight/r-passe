@@ -26,14 +26,15 @@ interface Row {
   reciprocity: string;
   footnoteIds: string;
   display: string;
+  stayDisplay: string;
 }
 
 function readCSV(): Row[] {
   const content = fs.readFileSync(CSV_PATH, "utf8");
   const rows = parseCSV(content).slice(1); // skip header
   return rows.map((r) => {
-    const [passport, destination, status, days = "", notes = "", sourceUrl = "", lastVerified = "", confidence = "unverified", reciprocity = "", footnoteIds = "", display = ""] = r;
-    return { passport, destination, status, days, notes, sourceUrl, lastVerified, confidence, reciprocity, footnoteIds, display };
+    const [passport, destination, status, days = "", notes = "", sourceUrl = "", lastVerified = "", confidence = "unverified", reciprocity = "", footnoteIds = "", display = "", stayDisplay = ""] = r;
+    return { passport, destination, status, days, notes, sourceUrl, lastVerified, confidence, reciprocity, footnoteIds, display, stayDisplay };
   });
 }
 
@@ -44,11 +45,11 @@ function writeCSV(rows: Row[]): void {
       : a.destination.localeCompare(b.destination)
   );
   const lines = sorted.map((r) =>
-    [r.passport, r.destination, r.status, r.days, csvField(r.notes), csvField(r.sourceUrl), r.lastVerified, r.confidence || "unverified", csvField(r.reciprocity || ""), csvField(r.footnoteIds || ""), csvField(r.display || "")].join(",")
+    [r.passport, r.destination, r.status, r.days, csvField(r.notes), csvField(r.sourceUrl), r.lastVerified, r.confidence || "unverified", csvField(r.reciprocity || ""), csvField(r.footnoteIds || ""), csvField(r.display || ""), csvField(r.stayDisplay || "")].join(",")
   );
   fs.writeFileSync(
     CSV_PATH,
-    ["passport,destination,status,days,notes,source_url,last_verified,confidence,reciprocity,footnote_ids,display", ...lines].join("\n") + "\n"
+    ["passport,destination,status,days,notes,source_url,last_verified,confidence,reciprocity,footnote_ids,display,stay_display", ...lines].join("\n") + "\n"
   );
 }
 
@@ -90,11 +91,11 @@ switch (command) {
     const confidence = flagValue("confidence") || old?.confidence || "unverified";
 
     if (old) {
-      rows[existing] = { passport: p, destination: d, status, days, notes: old.notes, sourceUrl, lastVerified, confidence, reciprocity: old.reciprocity || "", footnoteIds: old.footnoteIds || "", display: old.display || "" };
+      rows[existing] = { passport: p, destination: d, status, days, notes: old.notes, sourceUrl, lastVerified, confidence, reciprocity: old.reciprocity || "", footnoteIds: old.footnoteIds || "", display: old.display || "", stayDisplay: old.stayDisplay || "" };
       writeCSV(rows);
       console.log(`✓ Updated ${p} → ${d}: ${old.status} → ${status}`);
     } else {
-      rows.push({ passport: p, destination: d, status, days, notes: "", sourceUrl, lastVerified, confidence, reciprocity: "", footnoteIds: "", display: "" });
+      rows.push({ passport: p, destination: d, status, days, notes: "", sourceUrl, lastVerified, confidence, reciprocity: "", footnoteIds: "", display: "", stayDisplay: "" });
       writeCSV(rows);
       console.log(`✓ Added ${p} → ${d}: ${status}`);
     }

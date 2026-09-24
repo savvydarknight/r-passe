@@ -8,7 +8,7 @@ describe("validate", () => {
   const countriesPath = "./data/countries.json";
   const territoriesPath = "./data/territories.json";
 
-  const HEADER = "passport,destination,status,days,notes,source_url,last_verified,confidence,reciprocity,footnote_ids,display";
+  const HEADER = "passport,destination,status,days,notes,source_url,last_verified,confidence,reciprocity,footnote_ids,display,stay_display";
 
   function readRows() {
     const rows = parseCSV(fs.readFileSync(csvPath, "utf8"));
