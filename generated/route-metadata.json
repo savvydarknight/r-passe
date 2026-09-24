@@ -174017,7 +174017,7 @@
     "footnote_ids": "112;113",
     "display": "",
     "stay_display": "",
-    "travel_advisory": ""
+    "travel_advisory": "Travel banned"
   },
   "IQ:IN": {
     "notes": "",
@@ -203464,7 +203464,7 @@
     "footnote_ids": "4;5",
     "display": "",
     "stay_display": "",
-    "travel_advisory": ""
+    "travel_advisory": "Travel banned"
   },
   "KR:AG": {
     "notes": "",
@@ -204256,7 +204256,7 @@
     "footnote_ids": "121;122",
     "display": "",
     "stay_display": "",
-    "travel_advisory": ""
+    "travel_advisory": "Travel banned"
   },
   "KR:HU": {
     "notes": "- 90 days within any 180-day period in the Schengen Area.",
@@ -204322,7 +204322,7 @@
     "footnote_ids": "139;140",
     "display": "",
     "stay_display": "",
-    "travel_advisory": ""
+    "travel_advisory": "Travel banned"
   },
   "KR:IR": {
     "notes": "- As of March 5, 2026, the South Korean government bans its citizens from traveling to Iran due to the worsening situation in the Middle East. [ 134 ]",
@@ -204333,7 +204333,7 @@
     "footnote_ids": "136;137;Iran_notice-138",
     "display": "",
     "stay_display": "",
-    "travel_advisory": ""
+    "travel_advisory": "Travel banned"
   },
   "KR:IS": {
     "notes": "- 90 days within any 180-day period in the Schengen Area.",
@@ -204608,7 +204608,7 @@
     "footnote_ids": "171;172",
     "display": "",
     "stay_display": "",
-    "travel_advisory": ""
+    "travel_advisory": "Travel banned"
   },
   "KR:MA": {
     "notes": "",
@@ -204696,7 +204696,7 @@
     "footnote_ids": "182;183;184",
     "display": "",
     "stay_display": "",
-    "travel_advisory": ""
+    "travel_advisory": "Travel banned"
   },
   "KR:MM": {
     "notes": "eVisa may also be applied for stays up to 28 days.\n\n- Visa on arrival - from October 21, 2025 for 1 year.\n- Must arrive via Yangon, Nay Pyi Taw or Mandalay airports or via land border crossings with Thailand — Tachileik, Myawaddy and Kawthaung.\n- As of 1 May 2024, due to safety concerns, the South Korean government bans its citizens from visiting Rakhine State. [ 197 ]",
@@ -204839,7 +204839,7 @@
     "footnote_ids": "213;214;215",
     "display": "",
     "stay_display": "",
-    "travel_advisory": ""
+    "travel_advisory": "Travel banned in most areas"
   },
   "KR:NG": {
     "notes": "",
@@ -205125,7 +205125,7 @@
     "footnote_ids": "272",
     "display": "",
     "stay_display": "",
-    "travel_advisory": ""
+    "travel_advisory": "Travel banned"
   },
   "KR:SE": {
     "notes": "- 90 days within any 180-day period in the Schengen Area.",
@@ -205213,7 +205213,7 @@
     "footnote_ids": "264;265",
     "display": "",
     "stay_display": "",
-    "travel_advisory": ""
+    "travel_advisory": "Travel banned"
   },
   "KR:SR": {
     "notes": "- An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival. [ 271 ]\n- Multiple entry e-Visa is also available. [ 272 ]",
@@ -205268,7 +205268,7 @@
     "footnote_ids": "280;281",
     "display": "",
     "stay_display": "",
-    "travel_advisory": ""
+    "travel_advisory": "Travel banned"
   },
   "KR:SZ": {
     "notes": "",
@@ -205433,7 +205433,7 @@
     "footnote_ids": "302",
     "display": "",
     "stay_display": "",
-    "travel_advisory": ""
+    "travel_advisory": "Travel banned"
   },
   "KR:UG": {
     "notes": "- Can also be entered on an East Africa Tourist Visa issued by Kenya or Rwanda. [ 150 ]\n- International Certificate of Vaccination required.",
@@ -205565,7 +205565,7 @@
     "footnote_ids": "318;319",
     "display": "",
     "stay_display": "",
-    "travel_advisory": ""
+    "travel_advisory": "Travel banned"
   },
   "KR:ZA": {
     "notes": "",
@@ -419853,7 +419853,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "222",
+    "footnote_ids": "223",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -420425,7 +420425,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ":0-2;biometric-18;telegrafi-194",
+    "footnote_ids": ":0-2;biometric-18;telegrafi-195",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -420502,7 +420502,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "223",
+    "footnote_ids": "224",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -420623,7 +420623,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "264",
+    "footnote_ids": "265",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -420953,7 +420953,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "195;LK-196",
+    "footnote_ids": "196;LK-197",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -421135,12 +421135,12 @@
     "travel_advisory": ""
   },
   "XK:MO": {
-    "notes": "[ 267 ]",
+    "notes": "[ 268 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kosovar_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "273",
+    "footnote_ids": "274",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -421498,12 +421498,12 @@
     "travel_advisory": ""
   },
   "XK:SA": {
-    "notes": "",
+    "notes": "eVisa may also be applied for stays up to 90 days.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kosovar_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "180",
+    "footnote_ids": "180;181",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -421514,7 +421514,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "187",
+    "footnote_ids": "188",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -421525,7 +421525,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "182;183",
+    "footnote_ids": "183;184",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -421536,7 +421536,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "197",
+    "footnote_ids": "198",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -421558,7 +421558,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "186",
+    "footnote_ids": "187",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -421591,7 +421591,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "184;185",
+    "footnote_ids": "185;186",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -421613,29 +421613,29 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "181",
+    "footnote_ids": "182",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
   },
   "XK:SO": {
-    "notes": "- All visitors must have an approved Electronic Visa (eTAS) before the start of their journey. [ 185 ]",
+    "notes": "- All visitors must have an approved Electronic Visa (eTAS) before the start of their journey. [ 186 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kosovar_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "188;189;190",
+    "footnote_ids": "189;190;191",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
   },
   "XK:SR": {
-    "notes": "- An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival. [ 195 ]\n- Multiple entry e-Visa is also available. [ 196 ]",
+    "notes": "- An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival. [ 196 ]\n- Multiple entry e-Visa is also available. [ 197 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kosovar_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "198;199;200;201",
+    "footnote_ids": "199;200;201;202",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -421646,7 +421646,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "192;193",
+    "footnote_ids": "193;194",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -421679,7 +421679,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "202;203",
+    "footnote_ids": "203;204",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -421712,7 +421712,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "211;212",
+    "footnote_ids": "212;213",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -421723,7 +421723,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "208;209",
+    "footnote_ids": "209;210",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -421734,7 +421734,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "205",
+    "footnote_ids": "206",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -421745,7 +421745,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "210",
+    "footnote_ids": "211",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -421756,7 +421756,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "ReferenceC-216",
+    "footnote_ids": "ReferenceC-217",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -421767,7 +421767,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "ReferenceC-216",
+    "footnote_ids": "ReferenceC-217",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -421778,7 +421778,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "213",
+    "footnote_ids": "214",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -421789,7 +421789,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "217",
+    "footnote_ids": "218",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -421800,7 +421800,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "214;215",
+    "footnote_ids": "215;216",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -421811,7 +421811,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "218",
+    "footnote_ids": "219",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -421822,7 +421822,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "204",
+    "footnote_ids": "205",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -421833,7 +421833,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "206;207",
+    "footnote_ids": "207;208",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -421844,7 +421844,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "221",
+    "footnote_ids": "222",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -421855,7 +421855,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "219;220",
+    "footnote_ids": "220;221",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -421877,7 +421877,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "224",
+    "footnote_ids": "225",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -421888,7 +421888,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "225",
+    "footnote_ids": "226",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -421899,7 +421899,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "228;:0-2;biometric-18",
+    "footnote_ids": "229;:0-2;biometric-18",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -421921,18 +421921,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "229",
+    "footnote_ids": "230",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
   },
   "XK:VN": {
-    "notes": "- e-Visa is valid for 90 days and multiple entry.\n- Phú Quốc Visa exemption for up to 30 days. [ 227 ] [ 228 ]",
+    "notes": "- e-Visa is valid for 90 days and multiple entry.\n- Phú Quốc Visa exemption for up to 30 days. [ 228 ] [ 229 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kosovar_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "230;231;232;233",
+    "footnote_ids": "231;232;233;234",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -421943,7 +421943,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "226;227",
+    "footnote_ids": "227;228",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -421960,12 +421960,12 @@
     "travel_advisory": ""
   },
   "XK:YE": {
-    "notes": "- Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.). [ 230 ]",
+    "notes": "- Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.). [ 231 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kosovar_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "234;auto2-235",
+    "footnote_ids": "235;auto2-236",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -421976,7 +421976,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "191",
+    "footnote_ids": "192",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -421987,7 +421987,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "236;237",
+    "footnote_ids": "237;238",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -421998,7 +421998,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "238;239",
+    "footnote_ids": "239;240",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
