@@ -36,8 +36,9 @@ function stayDisplay(allowedStay: string): string {
 }
 
 function stayAlternativeNote(allowedStay: string): string {
-  const m = allowedStay.match(/^(.+?)\s+or\s+(unlimited|indefinite|permanent|lifetime|forever)/i);
-  return m ? `${m[1].trim()} may also apply.` : "";
+  return /unlimited|indefinite|permanent|lifetime|forever/i.test(allowedStay) && /\d/.test(allowedStay)
+    ? allowedStay.trim()
+    : "";
 }
 
 function cleanNotes(notes: string): string {
