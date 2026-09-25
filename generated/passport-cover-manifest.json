@@ -87,9 +87,9 @@
     "icon": "images/passport-covers/BR-40.webp",
     "hero": "images/passport-covers/BR-192.webp"
   },
-  "BT": {
-    "icon": "images/passport-covers/BT-40.webp",
-    "hero": "images/passport-covers/BT-192.webp"
+  "BS": {
+    "icon": "images/passport-covers/BS-40.webp",
+    "hero": "images/passport-covers/BS-192.webp"
   },
   "BW": {
     "icon": "images/passport-covers/BW-40.webp",
@@ -123,10 +123,6 @@
     "icon": "images/passport-covers/CH-40.webp",
     "hero": "images/passport-covers/CH-192.webp"
   },
-  "CI": {
-    "icon": "images/passport-covers/CI-40.webp",
-    "hero": "images/passport-covers/CI-192.webp"
-  },
   "CM": {
     "icon": "images/passport-covers/CM-40.webp",
     "hero": "images/passport-covers/CM-192.webp"
@@ -159,10 +155,6 @@
     "icon": "images/passport-covers/CZ-40.webp",
     "hero": "images/passport-covers/CZ-192.webp"
   },
-  "DE": {
-    "icon": "images/passport-covers/DE-40.webp",
-    "hero": "images/passport-covers/DE-192.webp"
-  },
   "DK": {
     "icon": "images/passport-covers/DK-40.webp",
     "hero": "images/passport-covers/DK-192.webp"
@@ -190,10 +182,6 @@
   "EG": {
     "icon": "images/passport-covers/EG-40.webp",
     "hero": "images/passport-covers/EG-192.webp"
-  },
-  "EH": {
-    "icon": "images/passport-covers/EH-40.webp",
-    "hero": "images/passport-covers/EH-192.webp"
   },
   "ER": {
     "icon": "images/passport-covers/ER-40.webp",
@@ -259,9 +247,9 @@
     "icon": "images/passport-covers/GW-40.webp",
     "hero": "images/passport-covers/GW-192.webp"
   },
-  "GY": {
-    "icon": "images/passport-covers/GY-40.webp",
-    "hero": "images/passport-covers/GY-192.webp"
+  "HK": {
+    "icon": "images/passport-covers/HK-40.webp",
+    "hero": "images/passport-covers/HK-192.webp"
   },
   "HK": {
     "icon": "images/passport-covers/HK-40.webp",
@@ -327,9 +315,9 @@
     "icon": "images/passport-covers/KH-40.webp",
     "hero": "images/passport-covers/KH-192.webp"
   },
-  "KI": {
-    "icon": "images/passport-covers/KI-40.webp",
-    "hero": "images/passport-covers/KI-192.webp"
+  "KM": {
+    "icon": "images/passport-covers/KM-40.webp",
+    "hero": "images/passport-covers/KM-192.webp"
   },
   "KM": {
     "icon": "images/passport-covers/KM-40.webp",
@@ -371,10 +359,6 @@
     "icon": "images/passport-covers/LK-40.webp",
     "hero": "images/passport-covers/LK-192.webp"
   },
-  "LR": {
-    "icon": "images/passport-covers/LR-40.webp",
-    "hero": "images/passport-covers/LR-192.webp"
-  },
   "LS": {
     "icon": "images/passport-covers/LS-40.webp",
     "hero": "images/passport-covers/LS-192.webp"
@@ -402,10 +386,6 @@
   "MD": {
     "icon": "images/passport-covers/MD-40.webp",
     "hero": "images/passport-covers/MD-192.webp"
-  },
-  "ME": {
-    "icon": "images/passport-covers/ME-40.webp",
-    "hero": "images/passport-covers/ME-192.webp"
   },
   "MG": {
     "icon": "images/passport-covers/MG-40.webp",
@@ -447,10 +427,6 @@
     "icon": "images/passport-covers/MW-40.webp",
     "hero": "images/passport-covers/MW-192.webp"
   },
-  "MX": {
-    "icon": "images/passport-covers/MX-40.webp",
-    "hero": "images/passport-covers/MX-192.webp"
-  },
   "MY": {
     "icon": "images/passport-covers/MY-40.webp",
     "hero": "images/passport-covers/MY-192.webp"
@@ -467,6 +443,10 @@
     "icon": "images/passport-covers/NE-40.webp",
     "hero": "images/passport-covers/NE-192.webp"
   },
+  "NG": {
+    "icon": "images/passport-covers/NG-40.webp",
+    "hero": "images/passport-covers/NG-192.webp"
+  },
   "NL": {
     "icon": "images/passport-covers/NL-40.webp",
     "hero": "images/passport-covers/NL-192.webp"
@@ -478,10 +458,6 @@
   "NP": {
     "icon": "images/passport-covers/NP-40.webp",
     "hero": "images/passport-covers/NP-192.webp"
-  },
-  "NR": {
-    "icon": "images/passport-covers/NR-40.webp",
-    "hero": "images/passport-covers/NR-192.webp"
   },
   "NZ": {
     "icon": "images/passport-covers/NZ-40.webp",
@@ -519,10 +495,6 @@
     "icon": "images/passport-covers/PT-40.webp",
     "hero": "images/passport-covers/PT-192.webp"
   },
-  "PW": {
-    "icon": "images/passport-covers/PW-40.webp",
-    "hero": "images/passport-covers/PW-192.webp"
-  },
   "PY": {
     "icon": "images/passport-covers/PY-40.webp",
     "hero": "images/passport-covers/PY-192.webp"
@@ -543,6 +515,10 @@
     "icon": "images/passport-covers/RU-40.webp",
     "hero": "images/passport-covers/RU-192.webp"
   },
+  "RW": {
+    "icon": "images/passport-covers/RW-40.webp",
+    "hero": "images/passport-covers/RW-192.webp"
+  },
   "SA": {
     "icon": "images/passport-covers/SA-40.webp",
     "hero": "images/passport-covers/SA-192.webp"
@@ -550,10 +526,6 @@
   "SB": {
     "icon": "images/passport-covers/SB-40.webp",
     "hero": "images/passport-covers/SB-192.webp"
-  },
-  "SC": {
-    "icon": "images/passport-covers/SC-40.webp",
-    "hero": "images/passport-covers/SC-192.webp"
   },
   "SD": {
     "icon": "images/passport-covers/SD-40.webp",
@@ -575,6 +547,10 @@
     "icon": "images/passport-covers/SK-40.webp",
     "hero": "images/passport-covers/SK-192.webp"
   },
+  "SL": {
+    "icon": "images/passport-covers/SL-40.webp",
+    "hero": "images/passport-covers/SL-192.webp"
+  },
   "SM": {
     "icon": "images/passport-covers/SM-40.webp",
     "hero": "images/passport-covers/SM-192.webp"
@@ -582,10 +558,6 @@
   "SN": {
     "icon": "images/passport-covers/SN-40.webp",
     "hero": "images/passport-covers/SN-192.webp"
-  },
-  "SO": {
-    "icon": "images/passport-covers/SO-40.webp",
-    "hero": "images/passport-covers/SO-192.webp"
   },
   "SR": {
     "icon": "images/passport-covers/SR-40.webp",
@@ -623,9 +595,9 @@
     "icon": "images/passport-covers/TH-40.webp",
     "hero": "images/passport-covers/TH-192.webp"
   },
-  "TL": {
-    "icon": "images/passport-covers/TL-40.webp",
-    "hero": "images/passport-covers/TL-192.webp"
+  "TJ": {
+    "icon": "images/passport-covers/TJ-40.webp",
+    "hero": "images/passport-covers/TJ-192.webp"
   },
   "TM": {
     "icon": "images/passport-covers/TM-40.webp",
@@ -655,9 +627,9 @@
     "icon": "images/passport-covers/TW-40.webp",
     "hero": "images/passport-covers/TW-192.webp"
   },
-  "UA": {
-    "icon": "images/passport-covers/UA-40.webp",
-    "hero": "images/passport-covers/UA-192.webp"
+  "TZ": {
+    "icon": "images/passport-covers/TZ-40.webp",
+    "hero": "images/passport-covers/TZ-192.webp"
   },
   "UG": {
     "icon": "images/passport-covers/UG-40.webp",
@@ -687,13 +659,13 @@
     "icon": "images/passport-covers/VE-40.webp",
     "hero": "images/passport-covers/VE-192.webp"
   },
+  "VN": {
+    "icon": "images/passport-covers/VN-40.webp",
+    "hero": "images/passport-covers/VN-192.webp"
+  },
   "VU": {
     "icon": "images/passport-covers/VU-40.webp",
     "hero": "images/passport-covers/VU-192.webp"
-  },
-  "WS": {
-    "icon": "images/passport-covers/WS-40.webp",
-    "hero": "images/passport-covers/WS-192.webp"
   },
   "XK": {
     "icon": "images/passport-covers/XK-40.webp",
