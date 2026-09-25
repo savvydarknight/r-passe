@@ -35,6 +35,11 @@ function stayDisplay(allowedStay: string): string {
   return /unlimited|indefinite|permanent|lifetime|forever/i.test(allowedStay) ? "Unlimited" : "";
 }
 
+function stayAlternativeNote(allowedStay: string): string {
+  const m = allowedStay.match(/^(.+?)\s+or\s+(unlimited|indefinite|permanent|lifetime|forever)/i);
+  return m ? `${m[1].trim()} may also apply.` : "";
+}
+
 function cleanNotes(notes: string): string {
   return notes.trim();
 }
@@ -217,13 +222,15 @@ function main() {
       seen.add(key);
 
       log(`row ${i + 2}: accepted ${key} status=${status} days_raw='${allowedStay}' notes='${notes}' source_url='${sourceUrl}' reciprocity='${reciprocity}'`);
+      const stayText = iStayPrimary >= 0 ? r[iStayPrimary] || "" : allowedStay;
+      const methodText = [r[iMethodNotes] || "", stayAlternativeNote(stayText)].filter(Boolean).join("\n");
       out.push({
         passport,
         destination,
         status,
-        days: parseDays(iStayPrimary >= 0 ? r[iStayPrimary] || "" : allowedStay),
-        stay_display: stayDisplay(iStayPrimary >= 0 ? r[iStayPrimary] || "" : allowedStay),
-        notes: iMethodNotes >= 0 ? joinNotes(r[iMethodNotes] || "", notes) : buildNotes(notes, requirementRaw, status),
+        days: parseDays(stayText),
+        stay_display: stayDisplay(stayText),
+        notes: iMethodNotes >= 0 ? joinNotes(methodText, notes) : buildNotes(notes, requirementRaw, status),
         source_url: sourceUrl,
         last_verified: "",
         confidence: "unverified",
