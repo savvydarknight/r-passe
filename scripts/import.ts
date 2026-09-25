@@ -21,8 +21,17 @@ function resolveName(name: string): string | undefined {
   return NAME_MAP[name] ?? NAME_MAP_CI[name.trim().toLowerCase()];
 }
 
+function firstStaySegment(allowedStay: string): string {
+  const parts = allowedStay.split(/\s+or\s+|\s*\/\s*/i).map((s) => s.replace(/\[[^\]]*\]/g, "").trim()).filter(Boolean);
+  return parts[0] || allowedStay.trim();
+}
+
+function hasStayAlternative(allowedStay: string): boolean {
+  return allowedStay.split(/\s+or\s+|\s*\/\s*/i).map((s) => s.trim()).filter(Boolean).length > 1;
+}
+
 function parseDays(allowedStay: string): string {
-  const s = allowedStay.toLowerCase();
+  const s = firstStaySegment(allowedStay).toLowerCase();
   const num = s.match(/\d+/);
   if (!num) return "";
   const n = parseInt(num[0], 10);
@@ -32,13 +41,13 @@ function parseDays(allowedStay: string): string {
 }
 
 function stayDisplay(allowedStay: string): string {
-  return /unlimited|indefinite|permanent|lifetime|forever/i.test(allowedStay) ? "Unlimited" : "";
+  const first = firstStaySegment(allowedStay);
+  if (hasStayAlternative(allowedStay)) return first;
+  return /\d/.test(first) ? "" : first;
 }
 
 function stayAlternativeNote(allowedStay: string): string {
-  return /unlimited|indefinite|permanent|lifetime|forever/i.test(allowedStay) && /\d/.test(allowedStay)
-    ? allowedStay.trim()
-    : "";
+  return hasStayAlternative(allowedStay) ? allowedStay.replace(/\[[^\]]*\]/g, "").trim() : "";
 }
 
 function cleanNotes(notes: string): string {
