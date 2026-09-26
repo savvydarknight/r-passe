@@ -41,9 +41,7 @@ function parseDays(allowedStay: string): string {
 }
 
 function stayDisplay(allowedStay: string): string {
-  const first = firstStaySegment(allowedStay);
-  if (hasStayAlternative(allowedStay)) return first;
-  return /\d/.test(first) ? "" : first;
+  return firstStaySegment(allowedStay);
 }
 
 function stayAlternativeNote(allowedStay: string): string {
