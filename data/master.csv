@@ -238,7 +238,7 @@ AD,ZW,vo,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Andorran_citize
 AE,AD,vf,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens,,unverified,,61,,,
 AE,AF,ev,,"- e-Visa: Visitors must arrive at Kabul International (KBL).
 - Visitors may apply for an e-Visa in other countries, excluding some countries of residence (include United Arab Emirates).
-- The Emirati government restricts Emirati citizens from travelling to Afghanistan except for diplomats, emergency treatment cases and pre-authorized official, scientific and economic delegations. [ 55 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens,,unverified,,54;55;56,,,
+- The Emirati government restricts Emirati citizens from travelling to Afghanistan except for diplomats, emergency treatment cases and pre-authorized official, scientific and economic delegations. [ 55 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens,,unverified,,54;55;56,,,Travel restricted
 AE,AG,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens,,unverified,,65,,30 days,
 AE,AL,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens,,unverified,,57,,90 days,
 AE,AM,vf,180,,https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens,,unverified,,67,,180 days,
@@ -23527,7 +23527,7 @@ KW,VU,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Kuwaiti_citizen
 KW,WS,vo,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Kuwaiti_citizens,,unverified,,217,,90 days,
 KW,XK,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Kuwaiti_citizens,,unverified,,282,,90 days,
 KW,YE,vo,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Kuwaiti_citizens,,unverified,,278,,3 months,
-KW,ZA,vr,,- Visas issued free of charge.,https://en.wikipedia.org/wiki/Visa_requirements_for_Kuwaiti_citizens,,unverified,,234,,,
+KW,ZA,et,,- Visas issued free of charge.,https://en.wikipedia.org/wiki/Visa_requirements_for_Kuwaiti_citizens,,unverified,,234,,,
 KW,ZM,vf,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Kuwaiti_citizens,,unverified,,279,,,
 KW,ZW,vo,90,eVisa may also be applied for stays up to 3 months.,https://en.wikipedia.org/wiki/Visa_requirements_for_Kuwaiti_citizens,,unverified,,280;281,,3 months,
 KZ,AD,vf,90,"- 90 days within any 365-day period.
@@ -24468,7 +24468,7 @@ LB,WS,vo,90,- Extensions of stay is possible up to a maximum stay of 1 month for
 LB,XK,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Lebanese_citizens,,unverified,,406,,,
 LB,YE,vr,,"- Visa not required for a maximum stay of 3 months within 6 months for holders of Diplomatic, Service, and Official passports. [ citation needed ]
 - Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.). [ 383 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Lebanese_citizens,,unverified,,382;383,,,
-LB,ZA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Lebanese_citizens,,unverified,,311,,,
+LB,ZA,et,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Lebanese_citizens,,unverified,,311,,,
 LB,ZM,ev,90,"- Printed visa authorization must be presented at the time of travel. [ citation needed ]
 - Holders of passports without 2 blank pages may be refused entry. [ citation needed ]
 - All visitors are fingerprinted upon entry. [ citation needed ]
@@ -45314,7 +45314,7 @@ US,KN,et,90,- ETA fee is 17 USD. [ 432 ],https://en.wikipedia.org/wiki/Visa_requ
 US,KP,ar,,"- U.S. passports holders must obtain a special passport validation from the U.S. federal government before travel. Such validations are only ever issued if travel is in the interests of US national security. [ 277 ]
 - United States citizens require a visa when traveling to North Korea; as there is no North Korean diplomatic mission in the United States, US citizens must obtain a visa from a diplomatic mission in a third country. [ citation needed ]
 - U.S. secretary of state Rex Tillerson authorized a ban on American travel to North Korea that went into effect in August 2017, following the death of Otto Warmbier, a US student who was detained in North Korea and sentenced to 15 years of hard labor for allegedly stealing a propaganda poster. [ citation needed ]
-- The U.S. government advises its citizens not to visit North Korea for any reason due to the continuing serious risk of arrest, long-term detention, and the threat of wrongful detention of U.S. nationals. [ 279 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens,,unverified,Yes,283;284;DOS_NK-282;auto-279;auto1-280;auto2-281,,,
+- The U.S. government advises its citizens not to visit North Korea for any reason due to the continuing serious risk of arrest, long-term detention, and the threat of wrongful detention of U.S. nationals. [ 279 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens,,unverified,Yes,283;284;DOS_NK-282;auto-279;auto1-280;auto2-281,,,Travel restricted by U.S. government
 US,KR,vf,90,"- From September 2021, travelers require the Korean Electronic Travel Authorization (K-ETA). The validity period is 3 years from the date of approval. [ 282 ] [ 283 ]
 - The government of the Republic of Korea announced that from April 1, 2023, to December 31, 2026, a K-ETA is not required for 27 countries citizens visiting Korea for 90 days or less for business or tourism. [ 284 ] [ 285 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens,,unverified,Yes,285;286;287;288;289;290,,90 days,
 US,KW,vo,90,"eVisa may also be applied for stays up to 3 months.
