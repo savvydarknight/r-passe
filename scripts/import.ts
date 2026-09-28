@@ -21,13 +21,15 @@ function resolveName(name: string): string | undefined {
   return NAME_MAP[name] ?? NAME_MAP_CI[name.trim().toLowerCase()];
 }
 
+const STAY_SPLIT = /\s+or\s+|\s*(?<!\bN)\/(?!A\b)\s*/i;
+
 function firstStaySegment(allowedStay: string): string {
-  const parts = allowedStay.split(/\s+or\s+|\s*\/\s*/i).map((s) => s.replace(/\[[^\]]*\]/g, "").trim()).filter(Boolean);
+  const parts = allowedStay.split(STAY_SPLIT).map((s) => s.replace(/\[[^\]]*\]/g, "").trim()).filter(Boolean);
   return parts[0] || allowedStay.trim();
 }
 
 function hasStayAlternative(allowedStay: string): boolean {
-  return allowedStay.split(/\s+or\s+|\s*\/\s*/i).map((s) => s.trim()).filter(Boolean).length > 1;
+  return allowedStay.split(STAY_SPLIT).map((s) => s.trim()).filter(Boolean).length > 1;
 }
 
 function parseDays(allowedStay: string): string {
