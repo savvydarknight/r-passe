@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-28T06:08:27.248Z",
+  "generated_at": "2026-09-28T06:15:45.619Z",
   "universe_size": 199,
   "total_expected_pairs": 39402,
-  "total_missing_pairs": 254,
+  "total_missing_pairs": 253,
   "by_passport": [
     {
       "code": "BT",
@@ -173,14 +173,6 @@
       ]
     },
     {
-      "code": "AO",
-      "name": "Angola",
-      "missing": [
-        "CI",
-        "PS"
-      ]
-    },
-    {
       "code": "CL",
       "name": "Chile",
       "missing": [
@@ -258,6 +250,13 @@
     {
       "code": "AM",
       "name": "Armenia",
+      "missing": [
+        "PS"
+      ]
+    },
+    {
+      "code": "AO",
+      "name": "Angola",
       "missing": [
         "PS"
       ]
@@ -1737,13 +1736,6 @@
       ]
     },
     {
-      "code": "CI",
-      "name": "Côte d'Ivoire",
-      "missing": [
-        "AO"
-      ]
-    },
-    {
       "code": "US",
       "name": "United States of America",
       "missing": [
@@ -1913,6 +1905,11 @@
     {
       "code": "CH",
       "name": "Switzerland",
+      "missing": []
+    },
+    {
+      "code": "CI",
+      "name": "Côte d'Ivoire",
       "missing": []
     },
     {

@@ -590,7 +590,7 @@
     "reciprocity": "",
     "footnote_ids": "78",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "AD:FI": {
@@ -880,14 +880,14 @@
     "travel_advisory": ""
   },
   "AD:IR": {
-    "notes": "eVisa may also be applied for stays up to 15 days..",
+    "notes": "eVisa may also be applied for stays up to 15 days.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Andorran_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "106;107",
     "display": "",
-    "stay_display": "15 days.",
+    "stay_display": "15 days",
     "travel_advisory": ""
   },
   "AD:IS": {
@@ -7091,7 +7091,7 @@
     "reciprocity": "",
     "footnote_ids": "74",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "AG:FI": {
@@ -7535,7 +7535,7 @@
     "travel_advisory": ""
   },
   "AG:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 121 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Antigua_and_Barbuda_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -13353,6 +13353,17 @@
     "stay_display": "",
     "travel_advisory": ""
   },
+  "AO:CI": {
+    "notes": "",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Angolan_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "61;62",
+    "display": "Pre-enrollment",
+    "stay_display": "90 days",
+    "travel_advisory": ""
+  },
   "AO:CL": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Angolan_citizens",
@@ -13574,14 +13585,14 @@
     "travel_advisory": ""
   },
   "AO:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 81 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 82 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 81 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 82 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Angolan_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "81;82",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "AO:FI": {
@@ -15741,14 +15752,14 @@
     "travel_advisory": ""
   },
   "AR:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 127 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 128 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 127 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 128 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Argentine_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
     "footnote_ids": "128;129;130",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "AR:FI": {
@@ -17908,14 +17919,14 @@
     "travel_advisory": ""
   },
   "AT:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 84 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 85 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 84 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 85 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Austrian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "86;87;88",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "AT:FI": {
@@ -24409,14 +24420,14 @@
     "travel_advisory": ""
   },
   "BA:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bosnia_and_Herzegovina_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "91;92",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "BA:FI": {
@@ -26583,7 +26594,7 @@
     "reciprocity": "",
     "footnote_ids": "74",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "BB:FI": {
@@ -26620,7 +26631,7 @@
     "travel_advisory": ""
   },
   "BB:FR": {
-    "notes": "- 90 days during a 180 days period following the date of first entry in the Schengen Area [ 14 ]",
+    "notes": "- 90 days during a 180 days period following the date of first entry in the Schengen Area [ 14 ]\n(See also: French Caribbean Departments)",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -30877,14 +30888,14 @@
     "travel_advisory": ""
   },
   "BE:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 84 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 85 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 84 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 85 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Belgian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "86;87;88",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "BE:FI": {
@@ -33044,14 +33055,14 @@
     "travel_advisory": ""
   },
   "BF:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 80 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 81 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 80 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 81 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Burkinabe_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "79;80;81",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "BF:FI": {
@@ -35211,14 +35222,14 @@
     "travel_advisory": ""
   },
   "BG:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 92 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 93 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 92 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 93 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bulgarian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "94;95;96",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "BG:FI": {
@@ -36637,7 +36648,7 @@
     "reciprocity": "",
     "footnote_ids": "291;292;293",
     "display": "",
-    "stay_display": "up to 24 months",
+    "stay_display": "24 months",
     "travel_advisory": ""
   },
   "BG:US": {
@@ -37385,7 +37396,7 @@
     "reciprocity": "",
     "footnote_ids": "83",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "BH:FI": {
@@ -39545,14 +39556,14 @@
     "travel_advisory": ""
   },
   "BI:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 81 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 82 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 81 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 82 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Burundian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "81;82",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "BI:FI": {
@@ -39996,7 +40007,7 @@
     "travel_advisory": ""
   },
   "BI:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 127 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Burundian_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -41712,14 +41723,14 @@
     "travel_advisory": ""
   },
   "BJ:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 77 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 78 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 77 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 78 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Beninese_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "77;78",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "BJ:FI": {
@@ -42163,7 +42174,7 @@
     "travel_advisory": ""
   },
   "BJ:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 124 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Beninese_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -43886,7 +43897,7 @@
     "reciprocity": "",
     "footnote_ids": "78;79",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "BN:FI": {
@@ -48213,14 +48224,14 @@
     "travel_advisory": ""
   },
   "BR:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 99 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 100 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 99 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 100 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Brazilian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
     "footnote_ids": "100;101;99",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "BR:FI": {
@@ -50387,7 +50398,7 @@
     "reciprocity": "",
     "footnote_ids": "82",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "BS:FI": {
@@ -52554,7 +52565,7 @@
     "reciprocity": "",
     "footnote_ids": "84",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "BT:FI": {
@@ -53053,7 +53064,7 @@
     "travel_advisory": ""
   },
   "BT:LK": {
-    "notes": "Visa on arrival may also be available.\n\n- Visa fees (for Standard visitor visa):\n  - SAARC - USD 35\n  - Non SAARC - USD 75\n- e-Visa categories will be charged an additional USD 18.50 service fee.\n- If transiting from any of the Sri Lankan airports, An e-Visa is exempted (2 day transit period)",
+    "notes": "Visa on arrival may also be available.\n\n* The standard visitor visa allows a stay of 60 days within any 6-month period.\n- Visa fees (for Standard visitor visa):\n  - SAARC - USD 35\n  - Non SAARC - USD 75\n- e-Visa categories will be charged an additional USD 18.50 service fee.\n- If transiting from any of the Sri Lankan airports, An e-Visa is exempted (2 day transit period)",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bhutanese_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -54670,14 +54681,14 @@
     "travel_advisory": ""
   },
   "BW:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 82 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 83 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 82 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 83 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "82;83",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "BW:FI": {
@@ -55121,7 +55132,7 @@
     "travel_advisory": ""
   },
   "BW:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 126 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -55407,14 +55418,14 @@
     "travel_advisory": ""
   },
   "BW:MU": {
-    "notes": "",
+    "notes": "Allowed stay: 180 days for tourism, 120 days for business.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "157",
     "display": "",
-    "stay_display": "180 days for tourism, 120 days for business",
+    "stay_display": "180 days",
     "travel_advisory": ""
   },
   "BW:MV": {
@@ -57926,7 +57937,7 @@
     "travel_advisory": ""
   },
   "BY:SC": {
-    "notes": "- Passengers can obtain a \"Visitor's Permit\" upon arrival for a maximum of 3 months. They must have:",
+    "notes": "- Passengers can obtain a \"Visitor's Permit\" upon arrival for a maximum of 3 months. They must have:\n- a return/onward ticket; and - sufficient funds (minimum of US$150.- or equivalent per day); and - proof of accommodation for the duration of stay. Extension of stay possible for additional 3 months with a maximum stay of 12 months.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Belarusian_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -59011,7 +59022,7 @@
     "reciprocity": "",
     "footnote_ids": "75",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "BZ:FI": {
@@ -65505,14 +65516,14 @@
     "travel_advisory": ""
   },
   "CF:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 78 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 79 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 78 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 79 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Central_African_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "79;80",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "CF:FI": {
@@ -65956,7 +65967,7 @@
     "travel_advisory": ""
   },
   "CF:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 120 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Central_African_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -67672,14 +67683,14 @@
     "travel_advisory": ""
   },
   "CG:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 80 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 81 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 80 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 81 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Republic_of_the_Congo_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "81;82",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "CG:FI": {
@@ -68112,7 +68123,7 @@
     "travel_advisory": ""
   },
   "CG:KR": {
-    "notes": "- May apply online [ 125 ]",
+    "notes": "* Multiple-Entry Visa may be granted to who entered South Korea 4 or more times within the last 2 years, or 10 or more visits in total (one of those 10 visits should be within the last 2 years).\n- May apply online [ 125 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Republic_of_the_Congo_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -68123,7 +68134,7 @@
     "travel_advisory": ""
   },
   "CG:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 127 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Republic_of_the_Congo_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -72006,14 +72017,14 @@
     "travel_advisory": ""
   },
   "CI:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 77 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 78 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 77 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 78 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ivorian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "77;78",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "CI:FI": {
@@ -72457,7 +72468,7 @@
     "travel_advisory": ""
   },
   "CI:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 121 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ivorian_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -75104,7 +75115,7 @@
     "reciprocity": "",
     "footnote_ids": "240",
     "display": "",
-    "stay_display": "up to 183 days",
+    "stay_display": "183 days",
     "travel_advisory": ""
   },
   "CL:PG": {
@@ -76329,14 +76340,14 @@
     "travel_advisory": ""
   },
   "CM:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 83 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 84 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 83 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 84 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Cameroonian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "84;85",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "CM:FI": {
@@ -76780,7 +76791,7 @@
     "travel_advisory": ""
   },
   "CM:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 133 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Cameroonian_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -78837,7 +78848,7 @@
     "travel_advisory": ""
   },
   "CN:JP": {
-    "notes": "- Passengers transiting through Narita or Haneda airport may apply for a shore pass to enter Japan for no more than 72 hours without a visa, subject to the discretion of immigration authorities and certain conditions.\n- Passengers of approved cruise ships do not require a visa if they stay no longer than 15 days. [ 67 ] [ 68 ]\n- e-Visa is available if residing in Brazil, Cambodia, Canada, Saudi Arabia, Singapore, South Africa, Taiwan, United Arab Emirates, the United Kingdom and the United States. It is a single entry visa for tourism purpose only with a duration of 15, 30 or 90 days depending on the traveller's itinerary. [ 4 ]\n- e-Visa is available if residing in Mongolia. It is a single entry visa for tourism purpose only with a duration of 15, 30 or 90 days depending on the traveller's itinerary. e-Visa application must be made through the travel agencies accredited by the Japanese overseas establishment from 15 December 2023.\n- e-Visa is also available for Chinese passport holder who resides in Mainland China (except Hong Kong and Macau) only, it is a single entry visa and its duration of stay is 15 or 30 days. e-Visa application must be made through the travel agencies accredited by the Japanese overseas establishment from 19 June 2023. The electronic visa will be issued when the agencies are ready to apply through JAPAN e-Visa. [ 69 ]\n- For Chinese citizens residing in other territories, a vignette style visa is required. Multi-entry vignette style visas are also obtainable in all territories for 3 or 5 year validity.",
+    "notes": "- Japanese oversea missions in mainland China request all visa applications guaranteed and submitted by authorized travel agencies and do not accept direct submission. See details.\n- Passengers transiting through Narita or Haneda airport may apply for a shore pass to enter Japan for no more than 72 hours without a visa, subject to the discretion of immigration authorities and certain conditions.\n- Passengers of approved cruise ships do not require a visa if they stay no longer than 15 days. [ 67 ] [ 68 ]\n- e-Visa is available if residing in Brazil, Cambodia, Canada, Saudi Arabia, Singapore, South Africa, Taiwan, United Arab Emirates, the United Kingdom and the United States. It is a single entry visa for tourism purpose only with a duration of 15, 30 or 90 days depending on the traveller's itinerary. [ 4 ]\n- e-Visa is available if residing in Mongolia. It is a single entry visa for tourism purpose only with a duration of 15, 30 or 90 days depending on the traveller's itinerary. e-Visa application must be made through the travel agencies accredited by the Japanese overseas establishment from 15 December 2023.\n- e-Visa is also available for Chinese passport holder who resides in Mainland China (except Hong Kong and Macau) only, it is a single entry visa and its duration of stay is 15 or 30 days. e-Visa application must be made through the travel agencies accredited by the Japanese overseas establishment from 19 June 2023. The electronic visa will be issued when the agencies are ready to apply through JAPAN e-Visa. [ 69 ]\n- For Chinese citizens residing in other territories, a vignette style visa is required. Multi-entry vignette style visas are also obtainable in all territories for 3 or 5 year validity.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -82804,7 +82815,7 @@
     "reciprocity": "",
     "footnote_ids": "77",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "CR:FI": {
@@ -83248,7 +83259,7 @@
     "travel_advisory": ""
   },
   "CR:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 123 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Costa_Rican_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -87131,14 +87142,14 @@
     "travel_advisory": ""
   },
   "CV:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 77 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 78 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 77 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 78 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Cape_Verdean_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "77;78",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "CV:FI": {
@@ -87582,7 +87593,7 @@
     "travel_advisory": ""
   },
   "CV:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 124 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Cape_Verdean_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -89298,14 +89309,14 @@
     "travel_advisory": ""
   },
   "CY:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- eVisa holders must arrive via Addis Ababa Bole International Airport",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- eVisa holders must arrive via Addis Ababa Bole International Airport",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Cypriot_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "88",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "CY:FI": {
@@ -91465,14 +91476,14 @@
     "travel_advisory": ""
   },
   "CZ:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 113 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 114 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 113 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 114 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Czech_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "112;113;114",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "CZ:FI": {
@@ -96250,7 +96261,7 @@
     "travel_advisory": ""
   },
   "DJ:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 126 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Djiboutian_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -97966,14 +97977,14 @@
     "travel_advisory": ""
   },
   "DK:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 86 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 87 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 86 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 87 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Danish_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "86;87;88",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "DK:FI": {
@@ -100140,7 +100151,7 @@
     "reciprocity": "",
     "footnote_ids": "86",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "DM:FI": {
@@ -101827,7 +101838,7 @@
     "travel_advisory": ""
   },
   "DO:AZ": {
-    "notes": "- Visa on arrival is available providing an official invitation letter.",
+    "notes": "- September 2026 Dominican republic and Azerbaijan signed a mutual visa exemption agreement for tourist purposes, 90 days in 180 days period.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -102307,7 +102318,7 @@
     "reciprocity": "",
     "footnote_ids": "83",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "DO:FI": {
@@ -103517,7 +103528,7 @@
     "reciprocity": "",
     "footnote_ids": "231;evisa.gov.ss-232",
     "display": "",
-    "stay_display": "up to 6 months",
+    "stay_display": "6 months",
     "travel_advisory": ""
   },
   "DO:ST": {
@@ -104467,14 +104478,14 @@
     "travel_advisory": ""
   },
   "DZ:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 86 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 87 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 86 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 87 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
     "footnote_ids": "85;86;87",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "DZ:FI": {
@@ -104918,7 +104929,7 @@
     "travel_advisory": ""
   },
   "DZ:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 133 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -108808,7 +108819,7 @@
     "reciprocity": "",
     "footnote_ids": "77",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "EE:FI": {
@@ -113135,14 +113146,14 @@
     "travel_advisory": ""
   },
   "ER:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 80 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 81 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 80 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 81 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Eritrean_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "80;81",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "ER:FI": {
@@ -115302,14 +115313,14 @@
     "travel_advisory": ""
   },
   "ES:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 86 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 87 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 86 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 87 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Spanish_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
     "footnote_ids": "88;89;90",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "ES:FI": {
@@ -116149,7 +116160,7 @@
     "travel_advisory": ""
   },
   "ES:NL": {
-    "notes": "- ID card valid.",
+    "notes": "(European Netherlands)\n- ID card valid.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Spanish_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -119548,7 +119559,7 @@
     "travel_advisory": ""
   },
   "FI:DK": {
-    "notes": "- Freedom of movement (including Faroe Islands and Greenland).\n- Any travel document not required.",
+    "notes": "(Nordic Passport Union)\n- Freedom of movement (including Faroe Islands and Greenland).\n- Any travel document not required.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Finnish_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -119647,14 +119658,14 @@
     "travel_advisory": ""
   },
   "FI:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 85 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 86 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 85 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 86 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Finnish_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "84;85;86",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "FI:FJ": {
@@ -119944,7 +119955,7 @@
     "travel_advisory": ""
   },
   "FI:IS": {
-    "notes": "- Freedom of movement.\n- Any travel document not required.",
+    "notes": "(Nordic Passport Union)\n- Freedom of movement.\n- Any travel document not required.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Finnish_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -120494,7 +120505,7 @@
     "travel_advisory": ""
   },
   "FI:NO": {
-    "notes": "- Freedom of movement.\n- Any travel document not required.",
+    "notes": "(Nordic Passport Union)\n- Freedom of movement.\n- Any travel document not required.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Finnish_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -120747,7 +120758,7 @@
     "travel_advisory": ""
   },
   "FI:SE": {
-    "notes": "- Freedom of movement.\n- Any travel document not required.",
+    "notes": "(Nordic Passport Union)\n- Freedom of movement.\n- Any travel document not required.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Finnish_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -121821,7 +121832,7 @@
     "reciprocity": "",
     "footnote_ids": "78",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "FJ:FI": {
@@ -122254,7 +122265,7 @@
     "travel_advisory": ""
   },
   "FJ:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 124 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Fijian_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -123988,7 +123999,7 @@
     "reciprocity": "",
     "footnote_ids": "78",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "FM:FI": {
@@ -124421,7 +124432,7 @@
     "travel_advisory": ""
   },
   "FM:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 127 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Micronesian_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -128315,14 +128326,14 @@
     "travel_advisory": ""
   },
   "GA:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 77 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 78 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 77 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 78 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Gabonese_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "78;79",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "GA:FI": {
@@ -130724,14 +130735,14 @@
     "travel_advisory": ""
   },
   "GB:IE": {
-    "notes": "- British citizens have many of the same rights and entitlements as Irish citizens [ 204 ]",
+    "notes": "Freedom of movement (Common Travel Area).\n\n- British citizens have many of the same rights and entitlements as Irish citizens [ 204 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "204;205;206",
     "display": "",
-    "stay_display": "Freedom of movement (Common Travel Area).",
+    "stay_display": "",
     "travel_advisory": ""
   },
   "GB:IL": {
@@ -132656,7 +132667,7 @@
     "reciprocity": "",
     "footnote_ids": "82",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "GD:FI": {
@@ -133569,7 +133580,7 @@
     "reciprocity": "",
     "footnote_ids": "195",
     "display": "",
-    "stay_display": "up to 183 days",
+    "stay_display": "183 days",
     "travel_advisory": ""
   },
   "GD:PG": {
@@ -134823,7 +134834,7 @@
     "reciprocity": "",
     "footnote_ids": "79;80",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "GE:FI": {
@@ -135850,7 +135861,7 @@
     "travel_advisory": ""
   },
   "GE:RU": {
-    "notes": "Unlimited for the duration of study or work.",
+    "notes": "Unlimited for the duration of study or work",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Georgian_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -136983,14 +136994,14 @@
     "travel_advisory": ""
   },
   "GH:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 78 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 79 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 78 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 79 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "78;79",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "GH:FI": {
@@ -137423,7 +137434,7 @@
     "travel_advisory": ""
   },
   "GH:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 124 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -139150,14 +139161,14 @@
     "travel_advisory": ""
   },
   "GM:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 69 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 70 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 69 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 70 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Gambian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "69;70",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "GM:FI": {
@@ -141317,14 +141328,14 @@
     "travel_advisory": ""
   },
   "GN:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 83 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 84 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 83 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 84 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Guinean_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "83;84",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "GN:FI": {
@@ -141757,7 +141768,7 @@
     "travel_advisory": ""
   },
   "GN:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 132 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Guinean_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -141823,7 +141834,7 @@
     "travel_advisory": ""
   },
   "GN:LK": {
-    "notes": "Visa on arrival may also be available for stays up to 30 days.\n\n- 30 days extendable to 6 months. [ 229 ]\n- The standard visitor visa allows a stay of 60 days within any 6-month period.\n- Visa fees (for Standard visitor visa):\n  - SAARC - USD 35\n  - Non SAARC - USD 75\n- e-Visa categories will be charged an additional USD 18.50 service fee.\n- If transiting from any of the Sri Lankan airports, An e-Visa is exempted (2 day transit period).",
+    "notes": "Visa on arrival may also be available for stays up to 30 days.\n\n*Electronic Travel Authorization can also be obtained on arrival. [ 228 ]\n- 30 days extendable to 6 months. [ 229 ]\n- The standard visitor visa allows a stay of 60 days within any 6-month period.\n- Visa fees (for Standard visitor visa):\n  - SAARC - USD 35\n  - Non SAARC - USD 75\n- e-Visa categories will be charged an additional USD 18.50 service fee.\n- If transiting from any of the Sri Lankan airports, An e-Visa is exempted (2 day transit period).",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Guinean_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -143484,14 +143495,14 @@
     "travel_advisory": ""
   },
   "GQ:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 85 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 86 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 85 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 86 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Equatorial_Guinean_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "86;87",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "GQ:FI": {
@@ -143924,7 +143935,7 @@
     "travel_advisory": ""
   },
   "GQ:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 134 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Equatorial_Guinean_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -145651,14 +145662,14 @@
     "travel_advisory": ""
   },
   "GR:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 90 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 91 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 90 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 91 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Greek_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "92;93;94",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "GR:FI": {
@@ -147825,7 +147836,7 @@
     "reciprocity": "",
     "footnote_ids": "78",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "GT:FI": {
@@ -149974,14 +149985,14 @@
     "travel_advisory": ""
   },
   "GW:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 82 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 83 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 82 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 83 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Guinea-Bissauan_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "82;83",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "GW:FI": {
@@ -150414,7 +150425,7 @@
     "travel_advisory": ""
   },
   "GW:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 126 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Guinea-Bissauan_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -152148,7 +152159,7 @@
     "reciprocity": "",
     "footnote_ids": "77;78",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "GY:FI": {
@@ -152581,7 +152592,7 @@
     "travel_advisory": ""
   },
   "GY:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 127 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Guyanese_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -154286,14 +154297,14 @@
     "travel_advisory": ""
   },
   "HK:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 91 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 92 ]\n- The Government of Hong Kong advises its citizens not to travel to Ethiopia due to the security situation in the country. [ 93 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 91 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 92 ]\n- The Government of Hong Kong advises its citizens not to travel to Ethiopia due to the security situation in the country. [ 93 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "90;91;92;93",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "HK:FI": {
@@ -155661,7 +155672,7 @@
     "travel_advisory": ""
   },
   "HK:TW": {
-    "notes": "eVisa may also be applied for stays up to 30 days.\n\neVisa (Online Entry Permit):\n- Born in Hong Kong/Macao\n- Not born in Hong Kong/Macao but has travelled to Taiwan as a permanent resident of Hong Kong or Macao after 1983\n- Bearer of a valid Entry and Exit Permit\n\nSingle-entry eVisa (Entry and Exit Permit):\n- Non-Household Registration Declaration\n- Mainland Travel Permit for Hong Kong and Macao Residents\n- Certificate of Renunciation of Mainland Household Registration\n\nMultiple-entry eVisa (Entry and Exit Permit):\n- Non-Household Registration Declaration\n- Mainland Travel Permit for Hong Kong and Macao Residents\n- Certificate of Renunciation of Mainland Household Registration\n\nVisa on arrival:\n- Born in Hong Kong/Macao\n- Not born in Hong Kong/Macao but has travelled to Taiwan as a permanent resident of Hong Kong or Macao after 1983\n- Bearer of a valid Entry and Exit Permit",
+    "notes": "eVisa may also be applied for stays up to 30 days.\n\neVisa (Online Entry Permit):\nOne of the below must apply to the applicant:\n- Born in Hong Kong/Macao\n- Not born in Hong Kong/Macao but has travelled to Taiwan as a permanent resident of Hong Kong or Macao after 1983\n- Bearer of a valid Entry and Exit Permit\nPermit is good for one entry to Taiwan within 3 months of the successful application. Confirmation letter must be printed and presented to Taiwan authorities upon arrival. Free of charge.\n\nSingle-entry eVisa (Entry and Exit Permit):\nApplicant must not have any passports other than the Hong Kong passport, the Macao passport or the British National (Overseas) passport. Issuance of the permit is not guaranteed for all Hong Kong citizens and is determined on a case-by-case basis.\nAdditionally, if the applicant was born in the Chinese mainland, he/she must prove renunciation of mainland Chinese household registration by providing one the following documents:\n- Non-Household Registration Declaration\n- Mainland Travel Permit for Hong Kong and Macao Residents\n- Certificate of Renunciation of Mainland Household Registration\nFee: NT$600\n\nMultiple-entry eVisa (Entry and Exit Permit):\nApplicant must not have any passports other than the Hong Kong passport, the Macao passport or the British National (Overseas) passport.\nAdditionally, if the applicant was born in the Chinese mainland, he/she must prove renunciation of mainland Chinese household registration by providing one the following documents:\n- Non-Household Registration Declaration\n- Mainland Travel Permit for Hong Kong and Macao Residents\n- Certificate of Renunciation of Mainland Household Registration\nFee: NT$1000 (1 year) NT$2000 (3 years)\n\nVisa on arrival:\nOne of the below must apply to the applicant:\n- Born in Hong Kong/Macao\n- Not born in Hong Kong/Macao but has travelled to Taiwan as a permanent resident of Hong Kong or Macao after 1983\n- Bearer of a valid Entry and Exit Permit\nPassport must be valid for 3 months or above, with proof of return ticket for within 30 days of arrival. Fee: NT$300",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
     "last_verified": "",
     "confidence": "unverified",
@@ -156053,7 +156064,7 @@
     "reciprocity": "",
     "footnote_ids": "21",
     "display": "",
-    "stay_display": "Up to 3 Months",
+    "stay_display": "3 Months",
     "travel_advisory": ""
   },
   "HN:BI": {
@@ -156460,7 +156471,7 @@
     "reciprocity": "",
     "footnote_ids": "77",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "HN:FI": {
@@ -156581,7 +156592,7 @@
     "reciprocity": "",
     "footnote_ids": "89;90",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "HN:GQ": {
@@ -160794,7 +160805,7 @@
     "reciprocity": "",
     "footnote_ids": "86",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "HT:FI": {
@@ -162943,14 +162954,14 @@
     "travel_advisory": ""
   },
   "HU:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- e-Visa holders must arrive via Addis Ababa Bole International Airport",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- e-Visa holders must arrive via Addis Ababa Bole International Airport",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Hungarian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "158;159",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "HU:FI": {
@@ -167277,14 +167288,14 @@
     "travel_advisory": ""
   },
   "IE:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 94 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 95 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 94 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 95 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
     "footnote_ids": "93;94;95",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "IE:FI": {
@@ -178057,14 +178068,14 @@
     "travel_advisory": ""
   },
   "IS:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Icelandic_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "84;85",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "IS:FI": {
@@ -182398,7 +182409,7 @@
     "reciprocity": "",
     "footnote_ids": "79",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "JM:FI": {
@@ -182831,7 +182842,7 @@
     "travel_advisory": ""
   },
   "JM:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 126 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Jamaican_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -184998,7 +185009,7 @@
     "travel_advisory": ""
   },
   "JO:KW": {
-    "notes": "- visa not required for diplomatic passport 30 days.\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "- visa not required for diplomatic passport 30 days.\ne-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 193 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -186083,7 +186094,7 @@
     "reciprocity": "",
     "footnote_ids": "441",
     "display": "",
-    "stay_display": "90 days within any 6-month period in the Republic of Kosovo.",
+    "stay_display": "90 days within any 6-month period in the Republic of Kosovo",
     "travel_advisory": ""
   },
   "JO:YE": {
@@ -189332,7 +189343,7 @@
     "travel_advisory": ""
   },
   "KE:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 128 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kenyan_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -191066,7 +191077,7 @@
     "reciprocity": "",
     "footnote_ids": "92",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "KG:FI": {
@@ -191499,7 +191510,7 @@
     "travel_advisory": ""
   },
   "KG:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 137 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kyrgyzstani_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -193233,7 +193244,7 @@
     "reciprocity": "",
     "footnote_ids": "86;87",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "KH:FI": {
@@ -195400,7 +195411,7 @@
     "reciprocity": "",
     "footnote_ids": "83",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "KI:FI": {
@@ -195833,7 +195844,7 @@
     "travel_advisory": ""
   },
   "KI:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 128 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kiribati_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -197560,14 +197571,14 @@
     "travel_advisory": ""
   },
   "KM:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 83 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 84 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 83 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 84 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Comorian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "82;83;84",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "KM:FI": {
@@ -198000,7 +198011,7 @@
     "travel_advisory": ""
   },
   "KM:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 132 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Comorian_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -199734,7 +199745,7 @@
     "reciprocity": "No",
     "footnote_ids": "76",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "KN:FI": {
@@ -206195,14 +206206,14 @@
     "travel_advisory": ""
   },
   "KW:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 83 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 84 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 83 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 84 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kuwaiti_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "82;83;84",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "KW:FI": {
@@ -207218,7 +207229,7 @@
     "travel_advisory": ""
   },
   "KW:RS": {
-    "notes": "",
+    "notes": "90 days visa free if holders of valid visa or residents of the Cyprus, Ireland, Schengen Area member states, United Kingdom or the United States",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kuwaiti_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -209440,7 +209451,7 @@
     "travel_advisory": ""
   },
   "KZ:SC": {
-    "notes": "- Application can be submitted up to 30 days before travel.\n- Visitors must upload a reservation confirmation(s) for each visitor's location of stay in Seychelles.\n- Yellow fever vaccination certificate is required if coming from endemic countries.\n- Payment of the fee (EUR 10) by credit or debit card.\n- Valid for one journey only and it expires once exit the country.",
+    "notes": "±\n- Application can be submitted up to 30 days before travel.\n- Visitors must upload a reservation confirmation(s) for each visitor's location of stay in Seychelles.\n- Yellow fever vaccination certificate is required if coming from endemic countries.\n- Payment of the fee (EUR 10) by credit or debit card.\n- Valid for one journey only and it expires once exit the country.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kazakhstani_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -210536,7 +210547,7 @@
     "reciprocity": "",
     "footnote_ids": "84;85",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "LA:FI": {
@@ -212652,14 +212663,14 @@
     "travel_advisory": ""
   },
   "LB:ET": {
-    "notes": "eVisa may also be applied for stays up to Up to 90 days.\n\n- Printed visa authorization must be presented at the time of travel. [ citation needed ]\n- e-Visa holders must arrive at Addis Ababa Bole International Airport.\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport.\n- Visa on arrival for holders of diplomatic, service, and official passports. [ citation needed ]\n- Visa on arrival at Addis Ababa Bole International Airport if attending meetings, seminars, or workshops organized by the African Union, provided they present an invitation letter stating the purpose of travel. [ 124 ]\n- Visa on arrival at Addis Ababa Bole International Airport, provided they present an invitation letter issued to participants of the UNECA (United Nations Economic Commission for Africa) conferences and meetings held at the U.N conference centre in Addis Ababa.\n- All visitors are fingerprinted upon entry. [ 125 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Printed visa authorization must be presented at the time of travel. [ citation needed ]\n- e-Visa holders must arrive at Addis Ababa Bole International Airport.\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport.\n- Visa on arrival for holders of diplomatic, service, and official passports. [ citation needed ]\n- Visa on arrival at Addis Ababa Bole International Airport if attending meetings, seminars, or workshops organized by the African Union, provided they present an invitation letter stating the purpose of travel. [ 124 ]\n- Visa on arrival at Addis Ababa Bole International Airport, provided they present an invitation letter issued to participants of the UNECA (United Nations Economic Commission for Africa) conferences and meetings held at the U.N conference centre in Addis Ababa.\n- All visitors are fingerprinted upon entry. [ 125 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Lebanese_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "122;123;125;Visa_Information_-_Destination-124",
     "display": "",
-    "stay_display": "Up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "LB:FI": {
@@ -213092,7 +213103,7 @@
     "travel_advisory": ""
   },
   "LB:KR": {
-    "notes": "- Printed visa authorization and an Electronic Visa Issuance Confirmation issued by the Ministry of Justice must be presented at the time of travel. [ citation needed ]\n- Visa not required if arriving at and departing from Jeju (CJU) Airport. [ citation needed ]\n- Visa not required for passengers who have previously entered Korea (Rep.) at least 4 times within the last 2 years or at least 10 visits in total. [ 185 ] [ 186 ]\n- Visa Exemption for 30 days for those who are in transit through South Korea, provided they present a physical visa or a residence permit issued by the following countries and are arriving at South Korea from one of these countries and continuing to a third country, or arriving from a third country and continuing to one of these countries.\n  - Australia 1\n  - Canada\n  - European Union\n  - New Zealand\n  - United States\n- All visitors are fingerprinted upon entry. [ 187 ]",
+    "notes": "- Printed visa authorization and an Electronic Visa Issuance Confirmation issued by the Ministry of Justice must be presented at the time of travel. [ citation needed ]\n- Visa not required if arriving at and departing from Jeju (CJU) Airport. [ citation needed ]\n- Visa not required for passengers who have previously entered Korea (Rep.) at least 4 times within the last 2 years or at least 10 visits in total. [ 185 ] [ 186 ]\n- Visa Exemption for 30 days for those who are in transit through South Korea, provided they present a physical visa or a residence permit issued by the following countries and are arriving at South Korea from one of these countries and continuing to a third country, or arriving from a third country and continuing to one of these countries.\n  - Australia 1\n  - Canada\n  - European Union\n  - New Zealand\n  - United States\n1 - Holders of e-Visas or e-resident permits are only permitted visa-free entry if they depart from Australia.\n- All visitors are fingerprinted upon entry. [ 187 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Lebanese_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -214826,7 +214837,7 @@
     "reciprocity": "",
     "footnote_ids": "80",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "LC:FI": {
@@ -216047,7 +216058,7 @@
     "reciprocity": "",
     "footnote_ids": "73;74",
     "display": "",
-    "stay_display": "180 days.",
+    "stay_display": "180 days",
     "travel_advisory": ""
   },
   "LC:SY": {
@@ -216993,7 +217004,7 @@
     "reciprocity": "",
     "footnote_ids": "77",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "LI:FI": {
@@ -217943,14 +217954,14 @@
     "travel_advisory": ""
   },
   "LI:PL": {
-    "notes": "",
+    "notes": "Freedom of movement ID card valid",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Liechtenstein_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "185",
     "display": "",
-    "stay_display": "Freedom of movement ID card valid",
+    "stay_display": "",
     "travel_advisory": ""
   },
   "LI:PT": {
@@ -221320,14 +221331,14 @@
     "travel_advisory": ""
   },
   "LR:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 79 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 80 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 79 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 80 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Liberian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "79;80",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "LR:FI": {
@@ -221771,7 +221782,7 @@
     "travel_advisory": ""
   },
   "LR:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 126 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Liberian_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -222959,7 +222970,7 @@
     "travel_advisory": ""
   },
   "LS:AO": {
-    "notes": "- 30 days per trip, but no more than 90 days within any 1 calendar year for tourism purposes only. [ 11 ]\n- Visitors must have a return/onward ticket and a hotel reservation confirmation. [ 12 ]\n- An International Certificate of Vaccination is required.",
+    "notes": "Maximum 3 entries per calendar year\n- 30 days per trip, but no more than 90 days within any 1 calendar year for tourism purposes only. [ 11 ]\n- Visitors must have a return/onward ticket and a hotel reservation confirmation. [ 12 ]\n- An International Certificate of Vaccination is required.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Lesotho_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -223487,14 +223498,14 @@
     "travel_advisory": ""
   },
   "LS:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 84 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 85 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 84 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 85 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Lesotho_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "83;84;85",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "LS:FI": {
@@ -223938,7 +223949,7 @@
     "travel_advisory": ""
   },
   "LS:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 133 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Lesotho_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -227821,14 +227832,14 @@
     "travel_advisory": ""
   },
   "LU:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 82 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 83 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 82 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 83 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Luxembourgish_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "81;82;83",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "LU:FI": {
@@ -229995,7 +230006,7 @@
     "reciprocity": "",
     "footnote_ids": "81",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "LV:FI": {
@@ -232155,14 +232166,14 @@
     "travel_advisory": ""
   },
   "LY:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 88 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 89 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 88 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 89 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "88;89",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "LY:FI": {
@@ -236496,7 +236507,7 @@
     "reciprocity": "",
     "footnote_ids": "79",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "MC:FI": {
@@ -238663,7 +238674,7 @@
     "reciprocity": "",
     "footnote_ids": "83;84",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "MD:FI": {
@@ -240823,14 +240834,14 @@
     "travel_advisory": ""
   },
   "ME:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Montenegrin_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
     "footnote_ids": "85;86",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "ME:FI": {
@@ -245164,7 +245175,7 @@
     "reciprocity": "",
     "footnote_ids": "83",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "MH:FI": {
@@ -245608,7 +245619,7 @@
     "travel_advisory": ""
   },
   "MH:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 132 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Marshall_Islands_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -247324,14 +247335,14 @@
     "travel_advisory": ""
   },
   "MK:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- e-Visa holders must arrive via Addis Ababa Bole International Airport",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- e-Visa holders must arrive via Addis Ababa Bole International Airport",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_citizens_of_North_Macedonia",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
     "footnote_ids": "87;88",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "MK:FI": {
@@ -249491,14 +249502,14 @@
     "travel_advisory": ""
   },
   "ML:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 74 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 75 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 74 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 75 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Malian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "74;75",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "ML:FI": {
@@ -249942,7 +249953,7 @@
     "travel_advisory": ""
   },
   "ML:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 121 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Malian_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -251665,7 +251676,7 @@
     "reciprocity": "",
     "footnote_ids": "81;82",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "MM:FI": {
@@ -253033,7 +253044,7 @@
     "travel_advisory": ""
   },
   "MM:TW": {
-    "notes": "- Can apply online for an R.O.C (Taiwan) Travel Authorization Certificate eligibility criteria:",
+    "notes": "- Can apply online for an R.O.C (Taiwan) Travel Authorization Certificate eligibility criteria:\nThe applicant possesses at least one of the following documents issued by the United States, Canada, the United Kingdom, any of EU and Schengen countries, New Zealand, Australia, Japan or Korea. A valid resident or permanent resident certificate. A valid entry visa (including electronic visa). A resident certificate or visa that has expired less than 10 years prior to the date of arrival in Taiwan; however, applicants who use an electronic visa issued by Australia or New Zealand as the required document must present the valid Australia or New Zealand electronic visa as entering Taiwan.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Myanmar_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -255789,7 +255800,7 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "",
-    "display": "Travel Permit",
+    "display": "Home Return Permit",
     "stay_display": "Until permit expiry",
     "travel_advisory": ""
   },
@@ -255988,7 +255999,7 @@
     "reciprocity": "",
     "footnote_ids": "76;77;78",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "MO:FI": {
@@ -258148,14 +258159,14 @@
     "travel_advisory": ""
   },
   "MR:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 80 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 81 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 80 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 81 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Mauritanian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "80;81",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "MR:FI": {
@@ -258599,7 +258610,7 @@
     "travel_advisory": ""
   },
   "MR:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 128 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Mauritanian_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -260315,14 +260326,14 @@
     "travel_advisory": ""
   },
   "MT:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- eVisa holders must arrive via Addis Ababa Bole International Airport",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- eVisa holders must arrive via Addis Ababa Bole International Airport",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Maltese_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "90",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "MT:FI": {
@@ -266816,14 +266827,14 @@
     "travel_advisory": ""
   },
   "MW:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 84 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 85 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 84 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 85 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Malawian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "84;85",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "MW:FI": {
@@ -267267,7 +267278,7 @@
     "travel_advisory": ""
   },
   "MW:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 135 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Malawian_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -275484,14 +275495,14 @@
     "travel_advisory": ""
   },
   "NA:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 84 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 85 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 84 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 85 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Namibian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "83;84;85",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "NA:FI": {
@@ -277651,14 +277662,14 @@
     "travel_advisory": ""
   },
   "NE:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 82 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 83 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 82 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 83 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Nigerien_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "82;83",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "NE:FI": {
@@ -278102,7 +278113,7 @@
     "travel_advisory": ""
   },
   "NE:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 133 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Nigerien_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -278663,7 +278674,7 @@
     "travel_advisory": ""
   },
   "NE:RO": {
-    "notes": "- May Apply Online. [ 202 ]",
+    "notes": "* Visa is not required for holders of a valid Schengen Member State Visa.\n- May Apply Online. [ 202 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Nigerien_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -279279,7 +279290,7 @@
     "travel_advisory": ""
   },
   "NG:AM": {
-    "notes": "- Nationals of Nigeria with ordinary passports are required to hold a visa when travelling to the Republic of Armenia.",
+    "notes": "- Nationals of Nigeria with ordinary passports are required to hold a visa when travelling to the Republic of Armenia.\nThe visa must be obtained in advance at the Embassies (Consulates) of the Republic of Armenia by invitation only.\nInvitations can be submitted to the Ministry of Foreign Affairs by:\na) a legal entity registered in the Republic of Armenia,\nb) authorities of the Republic of Armenia and foreign diplomatic representations, international organizations or their representatives accredited in the Republic of Armenia.\nIndividuals must submit an invitation to the Migration and Citizenship Service of the Ministry of Internal Affairs of the Republic of Armenia. [ 18 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Nigerian_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -279818,14 +279829,14 @@
     "travel_advisory": ""
   },
   "NG:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 80 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 81 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 80 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 81 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Nigerian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "81;82",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "NG:FI": {
@@ -281992,7 +282003,7 @@
     "reciprocity": "",
     "footnote_ids": "81",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "NI:FI": {
@@ -282425,7 +282436,7 @@
     "travel_advisory": ""
   },
   "NI:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 131 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Nicaraguan_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -284130,14 +284141,14 @@
     "travel_advisory": ""
   },
   "NL:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 95 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 96 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 95 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 96 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "94;95;96",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "NL:FI": {
@@ -290638,7 +290649,7 @@
     "reciprocity": "",
     "footnote_ids": "83",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "NR:FI": {
@@ -291082,7 +291093,7 @@
     "travel_advisory": ""
   },
   "NR:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 131 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Nauruan_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -297139,7 +297150,7 @@
     "reciprocity": "",
     "footnote_ids": "74",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "PA:FI": {
@@ -306669,14 +306680,14 @@
     "travel_advisory": ""
   },
   "PK:NP": {
-    "notes": "May apply for online visa for stays up to up to 150 days.\n\n- Visa on arrival is only available at Tribhuvan International Airport, or at land border checkpoints. [ 226 ]\n- Online Visa and Visa on arrival authorization can be obtained in advance at https://nepaliport.immigration.gov.np/",
+    "notes": "May apply for online visa for stays up to 150 days.\n\n- Visa on arrival is only available at Tribhuvan International Airport, or at land border checkpoints. [ 226 ]\n- Online Visa and Visa on arrival authorization can be obtained in advance at https://nepaliport.immigration.gov.np/",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Pakistani_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "225;226;227",
     "display": "",
-    "stay_display": "up to 150 days",
+    "stay_display": "150 days",
     "travel_advisory": ""
   },
   "PK:NR": {
@@ -310141,7 +310152,7 @@
     "reciprocity": "",
     "footnote_ids": "109",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "PS:FI": {
@@ -310574,7 +310585,7 @@
     "travel_advisory": ""
   },
   "PS:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 171 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Palestinian_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -312279,14 +312290,14 @@
     "travel_advisory": ""
   },
   "PT:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 93 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 94 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 93 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 94 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Portuguese_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
     "footnote_ids": "95;96;97",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "PT:FI": {
@@ -316609,7 +316620,7 @@
     "reciprocity": "",
     "footnote_ids": "86;87",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "PY:FI": {
@@ -317053,7 +317064,7 @@
     "travel_advisory": ""
   },
   "PY:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 141 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Paraguayan_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -320936,14 +320947,14 @@
     "travel_advisory": ""
   },
   "RO:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 127 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 128 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 127 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 128 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
     "footnote_ids": "129;130;131",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "RO:FI": {
@@ -327437,14 +327448,14 @@
     "travel_advisory": ""
   },
   "RW:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 82 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 83 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 82 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 83 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Rwandan_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "82;83",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "RW:FI": {
@@ -327877,7 +327888,7 @@
     "travel_advisory": ""
   },
   "RW:KR": {
-    "notes": "- May apply online [ 129 ]",
+    "notes": "* Multiple-Entry Visa may be granted to who entered South Korea 4 or more times within the last 2 years, or 10 or more visits in total (one of those 10 visits should be within the last 2 years).\n- May apply online [ 129 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Rwandan_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -327888,7 +327899,7 @@
     "travel_advisory": ""
   },
   "RW:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 131 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Rwandan_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -331778,7 +331789,7 @@
     "reciprocity": "",
     "footnote_ids": "85",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "SB:FI": {
@@ -332222,7 +332233,7 @@
     "travel_advisory": ""
   },
   "SB:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 134 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Solomon_Islands_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -333938,14 +333949,14 @@
     "travel_advisory": ""
   },
   "SC:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 71 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 72 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 71 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 72 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "71;72",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "SC:FI": {
@@ -336072,7 +336083,7 @@
     "travel_advisory": ""
   },
   "SD:EG": {
-    "notes": "- Visa Exemptions:",
+    "notes": "- Visa Exemptions:\nSons and daughters born to an Egyptian father.\nAccepted proof of Egyptian nationality is: (copy of) a birth certificate, passport or national ID card of the relative.\nVisa Issuance: Passengers with a valid and used visa issued by Australia, Canada, Japan, New Zealand, USA, United Kingdom or a Schengen Member State can obtain a visa on arrival for a maximum stay of 30 days.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Sudanese_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -336105,14 +336116,14 @@
     "travel_advisory": ""
   },
   "SD:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 93 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 94 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 93 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 94 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Sudanese_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "93;94;95",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "SD:FI": {
@@ -336556,7 +336567,7 @@
     "travel_advisory": ""
   },
   "SD:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 143 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Sudanese_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -338272,14 +338283,14 @@
     "travel_advisory": ""
   },
   "SE:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 86 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 87 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 86 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 87 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "85;86;87",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "SE:FI": {
@@ -339955,7 +339966,7 @@
     "travel_advisory": ""
   },
   "SG:AZ": {
-    "notes": "- Singaporeans of Armenian origin are permanently banned from entering Azerbaijan and are included into the \"list of persona non grata \".",
+    "notes": "- Singaporeans of Armenian origin are permanently banned from entering Azerbaijan and are included on the \"list of persona non grata \".",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Singapore_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -342613,7 +342624,7 @@
     "reciprocity": "",
     "footnote_ids": "78",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "SI:FI": {
@@ -343834,7 +343845,7 @@
     "reciprocity": "",
     "footnote_ids": "72;73",
     "display": "",
-    "stay_display": "180 days.",
+    "stay_display": "180 days",
     "travel_advisory": ""
   },
   "SI:SY": {
@@ -344773,14 +344784,14 @@
     "travel_advisory": ""
   },
   "SK:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 78 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 79 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 78 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 79 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Slovak_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "77;78;79",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "SK:FI": {
@@ -346940,14 +346951,14 @@
     "travel_advisory": ""
   },
   "SL:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 77 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 78 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 77 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 78 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Sierra_Leonean_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "77;78",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "SL:FI": {
@@ -347391,7 +347402,7 @@
     "travel_advisory": ""
   },
   "SL:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 124 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Sierra_Leonean_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -349114,7 +349125,7 @@
     "reciprocity": "",
     "footnote_ids": "79",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "SM:FI": {
@@ -351274,14 +351285,14 @@
     "travel_advisory": ""
   },
   "SN:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 77 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 78 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 77 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 78 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Senegalese_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "76;77;78",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "SN:FI": {
@@ -353892,7 +353903,7 @@
     "travel_advisory": ""
   },
   "SO:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 125 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Somali_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -355615,7 +355626,7 @@
     "reciprocity": "",
     "footnote_ids": "77;78",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "SR:FI": {
@@ -359942,14 +359953,14 @@
     "travel_advisory": ""
   },
   "ST:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 83 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 84 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 83 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 84 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Santomean_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "83;84",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "ST:FI": {
@@ -362116,7 +362127,7 @@
     "reciprocity": "",
     "footnote_ids": "72;73",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "SV:FI": {
@@ -364364,7 +364375,7 @@
     "travel_advisory": ""
   },
   "SY:GE": {
-    "notes": "- Visa Exemptions:\n  - Holders of valid visa or residence permit of:\n  - Additional Information:\n    - Nationals of Syria must have health insurance.\n  - Visitors not holding return/onward tickets could be refused entry.\n  - Passengers with Arabic residence permit must have an official English translation of the residence permit.",
+    "notes": "- Visa Exemptions:\n  - Holders of valid visa or residence permit of:\n\"Australia, Austria, Bahrain, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Japan, South Korea, Kuwait, Latvia, Lichtenstein, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Norway, Oman, Poland, Portugal, Qatar, Romania, Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, Switzerland, UAE, UK, USA.\" are exempted from visa. You can enter Georgia without a visa for 90 days in any 180-day period. Please, note that you must present relevant valid visa or residence permit along with your travel document/passport at arrival.\n  - Additional Information:\n    - Nationals of Syria must have health insurance.\n  - Visitors not holding return/onward tickets could be refused entry.\n  - Passengers with Arabic residence permit must have an official English translation of the residence permit.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -364606,7 +364617,7 @@
     "travel_advisory": ""
   },
   "SY:JO": {
-    "notes": "- A Syrian visitor of the following categories does not need prior approval (entry visa) and can come to the Kingdom directly:",
+    "notes": "- A Syrian visitor of the following categories does not need prior approval (entry visa) and can come to the Kingdom directly:\n- Those who have never visited Jordan and who have residency for a period of not less than 6 months in one of the following countries (Gulf Cooperation Council countries, European countries, North American countries, South American countries, Canada, Australia, Japan, South Korea) - Those who have previously been in Jordan on a regular basis and left Jordan on a regular basis and on the Syrian passport with which they entered Jordan and who have residency for a period of not less than 4 months in one of the following countries (Gulf Cooperation Council countries, European countries, North American countries, South American countries, Canada, Australia, Japan, South Korea) - Those who have not been issued a deportation decision and who have residency in one of the following countries (Gulf Cooperation Council countries, the United States of America, Canada, Australia, Japan, South Korea - Investors who hold investor cards (A, B) issued by the Ministry of Investment, and their family members who hold investor family cards - Investors in the Jordanian free zones who hold an investor card from the Jordanian free zones and the family members who hold an investor family card - Children and husbands of Jordanian women and wives of Jordanians - Owners of companies and investing partners, and the amount of the partnership share is 50,000 Jordanian Dinars or more, and their family members (husband / wife / son / daughter), provided that the son/daughter is not married",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -364716,7 +364727,7 @@
     "travel_advisory": ""
   },
   "SY:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Vis",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 128 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Vis",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -364749,7 +364760,7 @@
     "travel_advisory": ""
   },
   "SY:LB": {
-    "notes": "- Passengers with a residence permit issued by a GCC Member State on which the profession of businessmen, managers, company owners, doctors, engineers and lawyers is stated, can obtain a visa on arrival at Beirut (BEY) for a period not exceeding the validity of their passport.\n- Nationals of Syria passing through Lebanon on their way to Syria can obtain a visa on arrival at Beirut (BEY) for maximum stay of 48 hours.\n- Nationals of Syria traveling as tourists can obtain a visa on arrival at Beirut (BEY) for the duration of the pre-arranged accommodation if they have:\n- Nationals of Syria traveling on business can obtain a visa on arrival at Beirut (BEY) for maximum stay of 1 month. They must have:\n- Spouses and children of Lebanese nationals can obtain a visa on arrival at Beirut (BEY) for a maximum stay of 6 months. They must have an official marriage certificate, a family book or other valid proof of relationship.",
+    "notes": "Visa Issuance:\n- Passengers with a residence permit issued by a GCC Member State on which the profession of businessmen, managers, company owners, doctors, engineers and lawyers is stated, can obtain a visa on arrival at Beirut (BEY) for a period not exceeding the validity of their passport.\n- Nationals of Syria passing through Lebanon on their way to Syria can obtain a visa on arrival at Beirut (BEY) for maximum stay of 48 hours.\n- Nationals of Syria traveling as tourists can obtain a visa on arrival at Beirut (BEY) for the duration of the pre-arranged accommodation if they have:\n- USD 1,000.- or equivalent; and\n- a proof of accommodation during their stay; and\n- a return/onward ticket.\n- Nationals of Syria traveling on business can obtain a visa on arrival at Beirut (BEY) for maximum stay of 1 month. They must have:\n- a proof of business/occupation; and\n- a letter of invitation/guarantee issued by the inviting party.\n- Spouses and children of Lebanese nationals can obtain a visa on arrival at Beirut (BEY) for a maximum stay of 6 months. They must have an official marriage certificate, a family book or other valid proof of relationship.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -366421,14 +366432,14 @@
     "travel_advisory": ""
   },
   "SZ:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 82 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 83 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 82 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 83 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swazi_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "82;83",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "SZ:FI": {
@@ -366872,7 +366883,7 @@
     "travel_advisory": ""
   },
   "SZ:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 130 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swazi_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -368588,14 +368599,14 @@
     "travel_advisory": ""
   },
   "TD:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 77 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 78 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 77 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 78 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chadian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "78;79",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "TD:FI": {
@@ -369039,7 +369050,7 @@
     "travel_advisory": ""
   },
   "TD:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 121 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chadian_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -370755,14 +370766,14 @@
     "travel_advisory": ""
   },
   "TG:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 79 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 80 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 79 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 80 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Togolese_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "79;80",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "TG:FI": {
@@ -371206,7 +371217,7 @@
     "travel_advisory": ""
   },
   "TG:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 126 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Togolese_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -375096,7 +375107,7 @@
     "reciprocity": "",
     "footnote_ids": "80",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "TJ:FI": {
@@ -375529,7 +375540,7 @@
     "travel_advisory": ""
   },
   "TJ:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 125 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Tajikistani_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -377219,7 +377230,7 @@
     "reciprocity": "",
     "footnote_ids": "84;85",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "TL:FI": {
@@ -377663,7 +377674,7 @@
     "travel_advisory": ""
   },
   "TL:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 134 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_East_Timorese_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -379386,7 +379397,7 @@
     "reciprocity": "",
     "footnote_ids": "126",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "TM:FI": {
@@ -379441,7 +379452,7 @@
     "reciprocity": "",
     "footnote_ids": "131;132;133;134",
     "display": "",
-    "stay_display": "up to 6 month",
+    "stay_display": "6 month",
     "travel_advisory": ""
   },
   "TM:GB": {
@@ -380193,7 +380204,7 @@
     "travel_advisory": ""
   },
   "TM:NI": {
-    "notes": "- Transit without a visa is generally allowed for travelers who normally require a visa but are transiting within 24 hours and hold onward tickets.",
+    "notes": "*Citizens of Turkmenistan are eligible to obtain an electronic visa in advance. [ 227 ]\n- Transit without a visa is generally allowed for travelers who normally require a visa but are transiting within 24 hours and hold onward tickets.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkmenistani_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -383676,7 +383687,7 @@
     "reciprocity": "",
     "footnote_ids": "90",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "TO:FI": {
@@ -384120,7 +384131,7 @@
     "travel_advisory": ""
   },
   "TO:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 139 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Tongan_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -388010,7 +388021,7 @@
     "reciprocity": "",
     "footnote_ids": "77",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "TT:FI": {
@@ -390177,7 +390188,7 @@
     "reciprocity": "",
     "footnote_ids": "84",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "TV:FI": {
@@ -390621,7 +390632,7 @@
     "travel_advisory": ""
   },
   "TV:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 132 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Tuvaluan_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -392337,14 +392348,14 @@
     "travel_advisory": ""
   },
   "TW:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 99 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 100 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 99 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 100 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "100;98;99",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "TW:FI": {
@@ -394335,7 +394346,7 @@
     "reciprocity": "",
     "footnote_ids": "45;46",
     "display": "",
-    "stay_display": "up to 3 months",
+    "stay_display": "3 months",
     "travel_advisory": ""
   },
   "TZ:CY": {
@@ -394482,14 +394493,14 @@
     "travel_advisory": ""
   },
   "TZ:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 79 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 80 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 79 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 80 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Tanzanian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "79;80",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "TZ:FI": {
@@ -394933,7 +394944,7 @@
     "travel_advisory": ""
   },
   "TZ:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 127 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Tanzanian_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -398816,14 +398827,14 @@
     "travel_advisory": ""
   },
   "UG:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 78 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 79 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 78 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 79 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ugandan_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "78;79",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "UG:FI": {
@@ -399267,7 +399278,7 @@
     "travel_advisory": ""
   },
   "UG:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 126 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ugandan_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -400785,7 +400796,7 @@
     "travel_advisory": ""
   },
   "US:CN": {
-    "notes": "- 30-day visa‑free entry to Hainan Province [ 123 ] if arriving at the island from outside Mainland China. [ 124 ]\n- 240-hour (10-day) visa-free transit to a third country or region (including Hong Kong, Macau or Taiwan) using any mode of transport. Must have a confirmed onward ticket/itinerary, and enter through 1 of 64 approved ports.\n  - During which, may freely travel within the 24 provinces permitted for visa-free transit and engage in tourism, business, and visits. [ 125 ]\n- 24-hour visa-free transit to a third country or region (including Hong Kong, Macau, and Taiwan), is available at most international airports, without leaving the airport. [ 125 ]\n  - Travellers who need to leave the airport may obtain a temporary entry permit from immigration. [ 125 ]\n- 5-day port visa (Visa on Arrival) for Shenzhen if arriving at designated ports of entry from Hong Kong by land or sea, for stays within Shenzhen.\n- 3-day port visa (Visa on Arrival) if arriving in Zhuhai or Xiamen at designated ports of entry, for stays within the respective city.\n- 15-day visa-free entry for cruise ship passengers in tour groups, if arriving at any cruise port along China's coastline, including but not limited to Tianjin; Dalian; Shanghai; Lianyungang; Wenzhou; Zhoushan; Xiamen; Qingdao; Guangzhou; Shenzhen; Beihai; Haikou; Sanya. May further travel inland to all regions of coastal provinces (and equivalents) and Beijing. [ 126 ]\n- May apply for a port visa (Visa on Arrival) if travelling for an urgent, qualified reason. Prior clearance for port visa is highly recommended or may be denied boarding by airlines. [ 127 ]\n- Visas for U.S. citizens are valid for up to 10 years.\n- U.S. citizens arriving via cruise ports as part of tour groups are visa exempt for stays of up to 15 days. [ citation needed ]",
+    "notes": "This entry is about formal laws. A China visa travel guide from Wikivoyage is available for more practical guidance.\nRaised on talk page, keeping in compliance with WP:NOTTRAVELGUIDE re technically unsanctioned entry advice/workarounds\n- 30-day visa‑free entry to Hainan Province [ 123 ] if arriving at the island from outside Mainland China. [ 124 ]\n- 240-hour (10-day) visa-free transit to a third country or region (including Hong Kong, Macau or Taiwan) using any mode of transport. Must have a confirmed onward ticket/itinerary, and enter through 1 of 64 approved ports.\n  - During which, may freely travel within the 24 provinces permitted for visa-free transit and engage in tourism, business, and visits. [ 125 ]\n- 24-hour visa-free transit to a third country or region (including Hong Kong, Macau, and Taiwan), is available at most international airports, without leaving the airport. [ 125 ]\n  - Travellers who need to leave the airport may obtain a temporary entry permit from immigration. [ 125 ]\n- 5-day port visa (Visa on Arrival) for Shenzhen if arriving at designated ports of entry from Hong Kong by land or sea, for stays within Shenzhen.\n- 3-day port visa (Visa on Arrival) if arriving in Zhuhai or Xiamen at designated ports of entry, for stays within the respective city.\n- 15-day visa-free entry for cruise ship passengers in tour groups, if arriving at any cruise port along China's coastline, including but not limited to Tianjin; Dalian; Shanghai; Lianyungang; Wenzhou; Zhoushan; Xiamen; Qingdao; Guangzhou; Shenzhen; Beihai; Haikou; Sanya. May further travel inland to all regions of coastal provinces (and equivalents) and Beijing. [ 126 ]\n- May apply for a port visa (Visa on Arrival) if travelling for an urgent, qualified reason. Prior clearance for port visa is highly recommended or may be denied boarding by airlines. [ 127 ]\n- Visas for U.S. citizens are valid for up to 10 years.\n- U.S. citizens arriving via cruise ports as part of tour groups are visa exempt for stays of up to 15 days. [ citation needed ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -401038,7 +401049,7 @@
     "travel_advisory": ""
   },
   "US:GA": {
-    "notes": "- US Embassy in Libreville announced that effective January 1, 2026, Gabon has issued a reciprocal visa ban for U.S. Citizens. [ 200 ]\n- e-Visas are available for one to six months. [ citation needed ]\n- e-Visa holders must arrive via Libreville International Airport. [ citation needed ]\n- International Certificate of Vaccination or Prophylaxis required. [ 201 ]\n- Embassy visas are valid for 5 years and multiple entries for US citizens [ citation needed ]",
+    "notes": "Visa Issuance Suspended\n\n- US Embassy in Libreville announced that effective January 1, 2026, Gabon has issued a reciprocal visa ban for U.S. Citizens. [ 200 ]\n- e-Visas are available for one to six months. [ citation needed ]\n- e-Visa holders must arrive via Libreville International Airport. [ citation needed ]\n- International Certificate of Vaccination or Prophylaxis required. [ 201 ]\n- Embassy visas are valid for 5 years and multiple entries for US citizens [ citation needed ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -401046,7 +401057,7 @@
     "footnote_ids": "201;202;203;204",
     "display": "",
     "stay_display": "90 days",
-    "travel_advisory": ""
+    "travel_advisory": "Suspended"
   },
   "US:GB": {
     "notes": "- An ETA is required to travel to the United Kingdom, including Northern Ireland. [ 532 ]\n- eTA fee is £16 [ 533 ]\n- 6 months on each visit in 2-year period if granted.\n- Up to 90 days if arriving from Ireland (Common Travel Area)",
@@ -401412,7 +401423,7 @@
     "travel_advisory": ""
   },
   "US:KP": {
-    "notes": "- U.S. passports holders must obtain a special passport validation from the U.S. federal government before travel. Such validations are only ever issued if travel is in the interests of US national security. [ 277 ]\n- United States citizens require a visa when traveling to North Korea; as there is no North Korean diplomatic mission in the United States, US citizens must obtain a visa from a diplomatic mission in a third country. [ citation needed ]\n- U.S. secretary of state Rex Tillerson authorized a ban on American travel to North Korea that went into effect in August 2017, following the death of Otto Warmbier, a US student who was detained in North Korea and sentenced to 15 years of hard labor for allegedly stealing a propaganda poster. [ citation needed ]\n- The U.S. government advises its citizens not to visit North Korea for any reason due to the continuing serious risk of arrest, long-term detention, and the threat of wrongful detention of U.S. nationals. [ 279 ]",
+    "notes": "Travel restricted by U.S. government / Admission refused for U.S. citizens with foreign nationality\n\n- U.S. passports holders must obtain a special passport validation from the U.S. federal government before travel. Such validations are only ever issued if travel is in the interests of US national security. [ 277 ]\n- United States citizens require a visa when traveling to North Korea; as there is no North Korean diplomatic mission in the United States, US citizens must obtain a visa from a diplomatic mission in a third country. [ citation needed ]\n- U.S. secretary of state Rex Tillerson authorized a ban on American travel to North Korea that went into effect in August 2017, following the death of Otto Warmbier, a US student who was detained in North Korea and sentenced to 15 years of hard labor for allegedly stealing a propaganda poster. [ citation needed ]\n- The U.S. government advises its citizens not to visit North Korea for any reason due to the continuing serious risk of arrest, long-term detention, and the threat of wrongful detention of U.S. nationals. [ 279 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -401420,7 +401431,7 @@
     "footnote_ids": "283;284;DOS_NK-282;auto-279;auto1-280;auto2-281",
     "display": "",
     "stay_display": "",
-    "travel_advisory": "Travel restricted by U.S. government"
+    "travel_advisory": "Travel restricted"
   },
   "US:KR": {
     "notes": "- From September 2021, travelers require the Korean Electronic Travel Authorization (K-ETA). The validity period is 3 years from the date of approval. [ 282 ] [ 283 ]\n- The government of the Republic of Korea announced that from April 1, 2023, to December 31, 2026, a K-ETA is not required for 27 countries citizens visiting Korea for 90 days or less for business or tourism. [ 284 ] [ 285 ]",
@@ -402248,7 +402259,7 @@
     "travel_advisory": ""
   },
   "US:TD": {
-    "notes": "- On June 5, 2025, Chad suspended visa issuances to U.S. citizens in response to Donald Trump's travel ban; visas issued on or prior to June 5, 2025 will still be honored until their expiration. [ 116 ]\n- Dual-citizens of Chad can still travel to Chad but can only travel with a valid Chad passport.\n- Passengers with an entry authorisation issued by the authorities of Chad can obtain a visa on arrival.\n- International Certificate of Vaccination or Prophylaxis required only if arriving from a high risk country as defined by the WHO. [ 117 ]\n- Registration within 72 hours is mandatory prior to arrival. [ 118 ]",
+    "notes": "Visa Issuance Suspended\n\n- On June 5, 2025, Chad suspended visa issuances to U.S. citizens in response to Donald Trump's travel ban; visas issued on or prior to June 5, 2025 will still be honored until their expiration. [ 116 ]\n- Dual-citizens of Chad can still travel to Chad but can only travel with a valid Chad passport.\n- Passengers with an entry authorisation issued by the authorities of Chad can obtain a visa on arrival.\n- International Certificate of Vaccination or Prophylaxis required only if arriving from a high risk country as defined by the WHO. [ 117 ]\n- Registration within 72 hours is mandatory prior to arrival. [ 118 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -402256,7 +402267,7 @@
     "footnote_ids": "116;117;120;:1-119;chadsuspendsvisa-118",
     "display": "",
     "stay_display": "",
-    "travel_advisory": ""
+    "travel_advisory": "Suspended"
   },
   "US:TG": {
     "notes": "",
@@ -402442,7 +402453,7 @@
     "reciprocity": "No",
     "footnote_ids": "552;553",
     "display": "",
-    "stay_display": "N",
+    "stay_display": "N/A",
     "travel_advisory": ""
   },
   "US:VC": {
@@ -403157,7 +403168,7 @@
     "reciprocity": "",
     "footnote_ids": "85;86",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "UY:FI": {
@@ -405768,7 +405779,7 @@
     "travel_advisory": ""
   },
   "UZ:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 152 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Uzbekistan_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -407469,7 +407480,7 @@
     "reciprocity": "",
     "footnote_ids": "78",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "VA:FI": {
@@ -409603,7 +409614,7 @@
     "reciprocity": "",
     "footnote_ids": "82",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "VC:FI": {
@@ -411770,7 +411781,7 @@
     "reciprocity": "",
     "footnote_ids": "100;99",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "VE:FI": {
@@ -412676,7 +412687,7 @@
     "travel_advisory": ""
   },
   "VE:PA": {
-    "notes": "- Visa requirement effective on 1 October 2017.\n- No Visa Required for 30 days if Exception applies as follows:",
+    "notes": "- Visa requirement effective on 1 October 2017.\n- No Visa Required for 30 days if Exception applies as follows:\nHolding a Visa or Permanent Resident Permit duly issued by the United States of America, Commonwealth of Australia, Canada, Republic of Korea (South Korea), State of Japan, the United Kingdom of Great Britain and Northern Ireland, Republic of Singapore, or a Schengen Visa from any member state of the European Union, (i) granted for multiple entries and exits; (ii) that has been used at least once to enter the territory of the granting State; and (iii) with a validity of at least one (1) year, may enter the national territory without the requirement of a Stamped Visa (Executive Decree No. 521 6 August 2018, replacing Executive Decree No. 591 28 December 2016 and Executive Decree No. 114 4 April 2018). [ 216 ] Transit visa is not required if connection time is under 12 hours.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Venezuelan_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -416104,7 +416115,7 @@
     "reciprocity": "",
     "footnote_ids": "87",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "VU:FI": {
@@ -416548,7 +416559,7 @@
     "travel_advisory": ""
   },
   "VU:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 138 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vanuatu_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -418271,7 +418282,7 @@
     "reciprocity": "",
     "footnote_ids": "82",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "WS:FI": {
@@ -418715,7 +418726,7 @@
     "travel_advisory": ""
   },
   "WS:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 122 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -422290,7 +422301,7 @@
     "travel_advisory": ""
   },
   "YE:BY": {
-    "notes": "- Passengers can obtain a visa on arrival at Minsk (MSQ). They must have:",
+    "notes": "- Passengers can obtain a visa on arrival at Minsk (MSQ). They must have:\n- documents used during visa application. These documents must have been submitted to the Consular Division at Minsk (MSQ) at least 3 (for short-term visas) or 5 working days (for long-term visas) before departure. Or - a service contract issued according the laws of Belarus; or - an original invitation letter issued by a Belarusian tourist company or a medical/health organization. The letter must be written on official headed paper; and must have: - the passenger's name, passport details, purpose and duration of stay; and - the original signature and official seal of the head of the inviting organization. Exception: This does not apply to passengers arriving from or transiting through the Russian Fed.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Yemeni_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -422686,7 +422697,7 @@
     "travel_advisory": ""
   },
   "YE:GE": {
-    "notes": "- Visa Exemptions:",
+    "notes": "- Visa Exemptions:\nPassengers with a visa issued by an EEA Member State, Bahrain, Bermuda, Canada, Cayman Isl., Falkland Isl. (Malvinas), Gibraltar, Israel, Japan, Korea (Rep.), Kuwait, New Zealand, Oman, Qatar, Saudi Arabia, Switzerland, Turks and Caicos Isl., USA, United Arab Emirates or Virgin Isl. (British) for a maximum stay of 90 days. This does not apply to passengers with an e-visa. Information: The maximum stay is granted within 180 days.\nPassengers with a visa issued by Australia or United Kingdom for a maximum stay of 90 days. Information: The maximum stay is granted within 180 days.\nPassengers with a visa issued by Australia or United Kingdom for a maximum stay of 90 days. Information: The maximum stay is granted within 180 days.\nPassengers with Georgian origins for a maximum stay of 30 days.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Yemeni_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -422862,7 +422873,7 @@
     "travel_advisory": ""
   },
   "YE:IN": {
-    "notes": "- Visa Exemptions:",
+    "notes": "- Visa Exemptions:\nPassengers with a Person of Indian Origin (PIO) card.\nPassengers with an Overseas Citizen of India (OCI) card or booklet.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Yemeni_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -422939,7 +422950,7 @@
     "travel_advisory": ""
   },
   "YE:JP": {
-    "notes": "- Passengers with a passport transiting through Narita (NRT), Tokyo (HND) or Osaka (KIX) with a confirmed onward ticket for a flight to a third country within 72 hours can obtain a Shore Pass on arrival. They must not be subject to entry restrictions and they must:",
+    "notes": "- Passengers with a passport transiting through Narita (NRT), Tokyo (HND) or Osaka (KIX) with a confirmed onward ticket for a flight to a third country within 72 hours can obtain a Shore Pass on arrival. They must not be subject to entry restrictions and they must:\n- have documents required for the next destination; and - have proof of sufficient funds to cover their stay; and - arrive at and depart from the same airport.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Yemeni_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -423038,7 +423049,7 @@
     "travel_advisory": ""
   },
   "YE:KW": {
-    "notes": "- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
+    "notes": "e-Visa can be obtained for holders of a Residence Permit issued by a GCC member state under the following conditions: [ 119 ]\n- To be 18 years old and over.\n- The residence permit for a GCC state must be valid for at least another 3 months.\n- To be accompanied by the sponsor of the residence permit if the sponsor is an individual.\n- Does not apply to holders of a GCC Student Visa and Non-Skilled Worker Visa",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Yemeni_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -423071,7 +423082,7 @@
     "travel_advisory": ""
   },
   "YE:LB": {
-    "notes": "- Visa Exemptions:",
+    "notes": "- Visa Exemptions:\nPassengers of Lebanese descent with a foreign passport and a national ID card, expired passport or a civil extract issued by Lebanon.\nVisa Issuance: Nationals of Yemen can obtain a visa on arrival at Beirut (BEY) for a maximum stay of 1 month. They must have: - at least USD 2,000.- in cash; and - a non-refundable return or circle trip ticket; and - a copy of a hotel reservation confirmation or a private residential address with a telephone number in Lebanon. They can apply to extend their stay for an additional 2 months.\nPassengers with a confirmation that a visa has been approved before departure issued to businessmen, bankers, directors and investors by the Lebanese Immigration Directorate can obtain a visa on arrival at Beirut (BEY) for a maximum stay of 6 months.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Yemeni_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -423214,7 +423225,7 @@
     "travel_advisory": ""
   },
   "YE:ME": {
-    "notes": "- Visa Exemptions:",
+    "notes": "- Visa Exemptions:\nPassengers with a visa, valid for the period of stay, issued by Australia, Bulgaria, Canada, Ireland (Rep.), Japan, New Zealand, Romania, USA, United Kingdom or a Schengen Member State for a maximum stay of 30 days.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Yemeni_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -423346,7 +423357,7 @@
     "travel_advisory": ""
   },
   "YE:MX": {
-    "notes": "- Visa Exemptions:",
+    "notes": "- Visa Exemptions:\nPassengers with a multiple-entry visa issued by Canada, Japan, United Kingdom or a Schengen Member State for a maximum stay of 180 days.\nEntry may be refused by immigration officials for individuals who were previously denied a US visa, even if holding a valid Mexican visa.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Yemeni_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -423610,7 +423621,7 @@
     "travel_advisory": ""
   },
   "YE:RS": {
-    "notes": "- Visa Exemptions:",
+    "notes": "- Visa Exemptions:\nPassengers with a visa issued by Switzerland, United Kingdom, USA or an EEA Member State for a maximum stay of 90 days. The visa must be multiple entry and valid for the period of intended stay. Information: The maximum stay of 90 days is granted within a 6 month period.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Yemeni_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -424061,7 +424072,7 @@
     "travel_advisory": ""
   },
   "YE:VN": {
-    "notes": "- Nationals of Yemen arriving at Phu Quoc (PQC) for a maximum stay of 30 days.\n- Nationals of Yemen arriving at any international airport in Viet Nam with a connecting flight to Phu Quoc (PQC) on the same calendar day. A maximum stay of 30 days will be granted for Phu Quoc (PQC).",
+    "notes": "Visa Exemptions:\n- Nationals of Yemen arriving at Phu Quoc (PQC) for a maximum stay of 30 days.\n- Nationals of Yemen arriving at any international airport in Viet Nam with a connecting flight to Phu Quoc (PQC) on the same calendar day. A maximum stay of 30 days will be granted for Phu Quoc (PQC).",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Yemeni_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -424783,7 +424794,7 @@
     "reciprocity": "Yes",
     "footnote_ids": "95",
     "display": "",
-    "stay_display": "30 days.",
+    "stay_display": "30 days",
     "travel_advisory": ""
   },
   "ZA:GB": {
@@ -426888,14 +426899,14 @@
     "travel_advisory": ""
   },
   "ZM:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 79 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 80 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 79 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 80 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Zambian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "78;79;80",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "ZM:FI": {
@@ -429055,14 +429066,14 @@
     "travel_advisory": ""
   },
   "ZW:ET": {
-    "notes": "eVisa may also be applied for stays up to up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 82 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 83 ]",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 82 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 83 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Zimbabwean_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "82;83",
     "display": "",
-    "stay_display": "up to 90 days",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "ZW:FI": {
