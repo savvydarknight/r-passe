@@ -90,7 +90,6 @@ const STATUS_TO_LABEL: Record<string, string> = {
   vo: "Visa on arrival",
   ev: "eVisa",
   vr: "Visa required",
-  ar: "Admission refused",
 };
 
 function buildNotes(notes: string, requirementRaw: string, primaryStatus: string): string {
@@ -126,8 +125,8 @@ function mapStatus(requirement: string, requirementRaw: string): string | null {
   if (requirement === "visa_on_arrival") return "vo";
   if (requirement === "evisa") return "ev";
   if (requirement === "visa_required") return "vr";
-  if (requirement === "admission_refused") return "ar";
-  if (requirement === "no_admission") return /admission refused/i.test(requirementRaw) ? "ar" : "vr";
+  if (requirement === "admission_refused") return "vr";
+  if (requirement === "no_admission") return "vr";
   if (requirement === "eta_evisa") {
     const raw = requirementRaw.toLowerCase();
     if (/\beta\b|electronic travel/.test(raw)) return "et";
@@ -246,7 +245,9 @@ function main() {
         confidence: "unverified",
         reciprocity: reciprocity || "",
         footnote_ids: footnoteIds,
-        display: iDisplayOverride >= 0 ? r[iDisplayOverride] || "" : "",
+        display:
+          (iDisplayOverride >= 0 ? r[iDisplayOverride] || "" : "") ||
+          (/admission refused/i.test(requirementRaw) ? "Admission refused" : ""),
         travel_advisory: iTravelAdvisory >= 0 ? r[iTravelAdvisory] || "" : "",
       });
     }

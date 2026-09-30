@@ -3,8 +3,7 @@ export const VALID_STATUSES = [
   "et",
   "vo",
   "ev",
-  "vr",
-  "ar"
+  "vr"
 ] as const;
 
 export const SCORE_WEIGHTS: Record<string, number> = {
@@ -13,7 +12,6 @@ export const SCORE_WEIGHTS: Record<string, number> = {
   et: 0.5,
   ev: 0.3,
   vr: 0,
-  ar: 0,
 };
 
 export const USE_OFFICIAL_POLICY = false;

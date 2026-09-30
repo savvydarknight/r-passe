@@ -37,10 +37,9 @@ var StatusLabels = map[string]string{
 	"vo": "Visa on Arrival",
 	"ev": "eVisa",
 	"vr": "Visa Required",
-	"ar": "Admission Refused",
 }
 
-var StatusOrder = []string{"vf", "et", "vo", "ev", "vr", "ar"}
+var StatusOrder = []string{"vf", "et", "vo", "ev", "vr"}
 
 func readJSON(path string, target interface{}) error {
 	data, err := os.ReadFile(path)

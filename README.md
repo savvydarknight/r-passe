@@ -19,7 +19,6 @@ et = ETA
 vo = Visa on Arrival
 ev = eVisa
 vr = Visa Required
-ar = Admission Refused
 ```
 
 ## Build Flow

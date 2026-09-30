@@ -23,10 +23,9 @@ var statusLabels = map[string]string{
 	"vo": "Visa on Arrival",
 	"ev": "eVisa",
 	"vr": "Visa Required",
-	"ar": "Admission Refused",
 }
 
-var statusOrder = []string{"vf", "et", "vo", "ev", "vr", "ar"}
+var statusOrder = []string{"vf", "et", "vo", "ev", "vr"}
 
 func Load() (*DB, error) {
 	matrixData, err := os.ReadFile("./data/passport_matrix.json")

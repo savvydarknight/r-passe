@@ -30,7 +30,6 @@ Status codes:
   vo = Visa on Arrival
   ev = eVisa
   vr = Visa Required
-  ar = Admission Refused
 `
 
 func main() {

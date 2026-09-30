@@ -7,11 +7,10 @@
 | vo   | Visa On Arrival                       |
 | ev   | eVisa                                 |
 | vr   | Visa Required                         |
-| ar   | Admission Refused                     |
 
 ## Notes
 
 * Codes are listed from least hassle to most restrictive.
-* `ar` is scored exactly as `vr`; it differs only in how it is presented.
+* Rows once coded `ar` (admission refused) are now `vr`; they display as "Admission refused" but score and count as Visa Required.
 * `days` represents maximum permitted stay.
 * Empty `days` means not applicable or unknown.
