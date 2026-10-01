@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T17:52:30.714Z",
+  "generated_at": "2026-10-01T18:07:07.403Z",
   "universe_size": 200,
-  "total_expected_pairs": 39800,
-  "total_missing_pairs": 651,
+  "total_expected_pairs": 39402,
+  "total_missing_pairs": 253,
   "by_passport": [
     {
       "code": "EH",
@@ -151,7 +151,6 @@
         "PH",
         "PK",
         "PL",
-        "PS",
         "PT",
         "PW",
         "PY",
@@ -213,10 +212,8 @@
       "code": "BT",
       "name": "Bhutan",
       "missing": [
-        "EH",
         "HK",
         "MO",
-        "PS",
         "TW",
         "XK"
       ]
@@ -225,10 +222,8 @@
       "code": "LA",
       "name": "Laos",
       "missing": [
-        "EH",
         "HK",
         "MO",
-        "PS",
         "TW",
         "XK"
       ]
@@ -237,10 +232,8 @@
       "code": "TJ",
       "name": "Tajikistan",
       "missing": [
-        "EH",
         "HK",
         "MO",
-        "PS",
         "TW",
         "XK"
       ]
@@ -249,10 +242,8 @@
       "code": "TM",
       "name": "Turkmenistan",
       "missing": [
-        "EH",
         "HK",
         "MO",
-        "PS",
         "TW",
         "XK"
       ]
@@ -261,10 +252,8 @@
       "code": "YE",
       "name": "Yemen",
       "missing": [
-        "EH",
         "HK",
         "MO",
-        "PS",
         "TW",
         "XK"
       ]
@@ -273,10 +262,8 @@
       "code": "BD",
       "name": "Bangladesh",
       "missing": [
-        "EH",
         "HK",
         "MO",
-        "PS",
         "TW"
       ]
     },
@@ -284,10 +271,8 @@
       "code": "CN",
       "name": "China",
       "missing": [
-        "EH",
         "HK",
         "MO",
-        "PS",
         "TW"
       ]
     },
@@ -295,10 +280,8 @@
       "code": "IQ",
       "name": "Iraq",
       "missing": [
-        "EH",
         "HK",
         "MO",
-        "PS",
         "XK"
       ]
     },
@@ -306,21 +289,26 @@
       "code": "KP",
       "name": "North Korea",
       "missing": [
-        "EH",
         "HK",
         "MO",
-        "PS",
         "TW"
+      ]
+    },
+    {
+      "code": "PS",
+      "name": "Palestine",
+      "missing": [
+        "HK",
+        "MO",
+        "XK"
       ]
     },
     {
       "code": "VA",
       "name": "Holy See",
       "missing": [
-        "EH",
         "HK",
         "MO",
-        "PS",
         "XK"
       ]
     },
@@ -328,8 +316,6 @@
       "code": "GY",
       "name": "Guyana",
       "missing": [
-        "EH",
-        "PS",
         "TW",
         "XK"
       ]
@@ -338,8 +324,6 @@
       "code": "IL",
       "name": "Israel",
       "missing": [
-        "EH",
-        "PS",
         "TW",
         "XK"
       ]
@@ -348,48 +332,30 @@
       "code": "NI",
       "name": "Nicaragua",
       "missing": [
-        "EH",
         "HK",
-        "MO",
-        "PS"
-      ]
-    },
-    {
-      "code": "PS",
-      "name": "Palestine",
-      "missing": [
-        "EH",
-        "HK",
-        "MO",
-        "XK"
+        "MO"
       ]
     },
     {
       "code": "SY",
       "name": "Syria",
       "missing": [
-        "EH",
         "HK",
-        "MO",
-        "PS"
+        "MO"
       ]
     },
     {
       "code": "TW",
       "name": "Taiwan",
       "missing": [
-        "EH",
         "HK",
-        "MO",
-        "PS"
+        "MO"
       ]
     },
     {
       "code": "UZ",
       "name": "Uzbekistan",
       "missing": [
-        "EH",
-        "PS",
         "TW",
         "XK"
       ]
@@ -398,8 +364,6 @@
       "code": "CL",
       "name": "Chile",
       "missing": [
-        "EH",
-        "PS",
         "XK"
       ]
     },
@@ -407,8 +371,6 @@
       "code": "GT",
       "name": "Guatemala",
       "missing": [
-        "EH",
-        "PS",
         "XK"
       ]
     },
@@ -416,17 +378,13 @@
       "code": "HT",
       "name": "Haiti",
       "missing": [
-        "EH",
-        "MO",
-        "PS"
+        "MO"
       ]
     },
     {
       "code": "MM",
       "name": "Myanmar",
       "missing": [
-        "EH",
-        "PS",
         "XK"
       ]
     },
@@ -434,1839 +392,896 @@
       "code": "PW",
       "name": "Palau",
       "missing": [
-        "EH",
-        "PS",
         "US"
       ]
     },
     {
       "code": "AD",
       "name": "Andorra",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "AE",
       "name": "United Arab Emirates",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "AF",
       "name": "Afghanistan",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "AG",
       "name": "Antigua and Barbuda",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "AL",
       "name": "Albania",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "AM",
       "name": "Armenia",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "AO",
       "name": "Angola",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "AR",
       "name": "Argentina",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "AT",
       "name": "Austria",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "AU",
       "name": "Australia",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "AZ",
       "name": "Azerbaijan",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "BA",
       "name": "Bosnia and Herzegovina",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "BB",
       "name": "Barbados",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "BE",
       "name": "Belgium",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "BF",
       "name": "Burkina Faso",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "BG",
       "name": "Bulgaria",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "BH",
       "name": "Bahrain",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "BI",
       "name": "Burundi",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "BJ",
       "name": "Benin",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "BN",
       "name": "Brunei Darussalam",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "BO",
       "name": "Bolivia",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "BR",
       "name": "Brazil",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "BS",
       "name": "Bahamas",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "BW",
       "name": "Botswana",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "BY",
       "name": "Belarus",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "BZ",
       "name": "Belize",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "CA",
       "name": "Canada",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "CD",
       "name": "DR Congo",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "CF",
       "name": "Central African Republic",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "CG",
       "name": "Congo",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "CH",
       "name": "Switzerland",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "CI",
       "name": "Côte d'Ivoire",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "CM",
       "name": "Cameroon",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "CO",
       "name": "Colombia",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "CR",
       "name": "Costa Rica",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "CU",
       "name": "Cuba",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "CV",
       "name": "Cape Verde",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "CY",
       "name": "Cyprus",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "CZ",
       "name": "Czechia",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "DE",
       "name": "Germany",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "DJ",
       "name": "Djibouti",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "DK",
       "name": "Denmark",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "DM",
       "name": "Dominica",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "DO",
       "name": "Dominican Republic",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "DZ",
       "name": "Algeria",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "EC",
       "name": "Ecuador",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "EE",
       "name": "Estonia",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "EG",
       "name": "Egypt",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "ER",
       "name": "Eritrea",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "ES",
       "name": "Spain",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "ET",
       "name": "Ethiopia",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "FI",
       "name": "Finland",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "FJ",
       "name": "Fiji",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "FM",
       "name": "Micronesia",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "FR",
       "name": "France",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "GA",
       "name": "Gabon",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "GB",
       "name": "United Kingdom",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "GD",
       "name": "Grenada",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "GE",
       "name": "Georgia",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "GH",
       "name": "Ghana",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "GM",
       "name": "Gambia",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "GN",
       "name": "Guinea",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "GQ",
       "name": "Equatorial Guinea",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "GR",
       "name": "Greece",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "GW",
       "name": "Guinea-Bissau",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "HK",
       "name": "Hong Kong",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "HN",
       "name": "Honduras",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "HR",
       "name": "Croatia",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "HU",
       "name": "Hungary",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "ID",
       "name": "Indonesia",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "IE",
       "name": "Ireland",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "IN",
       "name": "India",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "IR",
       "name": "Iran",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "IS",
       "name": "Iceland",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "IT",
       "name": "Italy",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "JM",
       "name": "Jamaica",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "JO",
       "name": "Jordan",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "JP",
       "name": "Japan",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "KE",
       "name": "Kenya",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "KG",
       "name": "Kyrgyzstan",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "KH",
       "name": "Cambodia",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "KI",
       "name": "Kiribati",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "KM",
       "name": "Comoros",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "KN",
       "name": "Saint Kitts and Nevis",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "KR",
       "name": "South Korea",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "KW",
       "name": "Kuwait",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "KZ",
       "name": "Kazakhstan",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "LB",
       "name": "Lebanon",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "LC",
       "name": "Saint Lucia",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "LI",
       "name": "Liechtenstein",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "LK",
       "name": "Sri Lanka",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "LR",
       "name": "Liberia",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "LS",
       "name": "Lesotho",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "LT",
       "name": "Lithuania",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "LU",
       "name": "Luxembourg",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "LV",
       "name": "Latvia",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "LY",
       "name": "Libya",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "MA",
       "name": "Morocco",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "MC",
       "name": "Monaco",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "MD",
       "name": "Moldova",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "ME",
       "name": "Montenegro",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "MG",
       "name": "Madagascar",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "MH",
       "name": "Marshall Islands",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "MK",
       "name": "North Macedonia",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "ML",
       "name": "Mali",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "MN",
       "name": "Mongolia",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "MO",
       "name": "Macao",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "MR",
       "name": "Mauritania",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "MT",
       "name": "Malta",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "MU",
       "name": "Mauritius",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "MV",
       "name": "Maldives",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "MW",
       "name": "Malawi",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "MX",
       "name": "Mexico",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "MY",
       "name": "Malaysia",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "MZ",
       "name": "Mozambique",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "NA",
       "name": "Namibia",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "NE",
       "name": "Niger",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "NG",
       "name": "Nigeria",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "NL",
       "name": "Netherlands",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "NO",
       "name": "Norway",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "NP",
       "name": "Nepal",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "NR",
       "name": "Nauru",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "NZ",
       "name": "New Zealand",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "OM",
       "name": "Oman",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "PA",
       "name": "Panama",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "PE",
       "name": "Peru",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "PG",
       "name": "Papua New Guinea",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "PH",
       "name": "Philippines",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "PK",
       "name": "Pakistan",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "PL",
       "name": "Poland",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "PT",
       "name": "Portugal",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "PY",
       "name": "Paraguay",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "QA",
       "name": "Qatar",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "RO",
       "name": "Romania",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "RS",
       "name": "Serbia",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "RU",
       "name": "Russia",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "RW",
       "name": "Rwanda",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "SA",
       "name": "Saudi Arabia",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "SB",
       "name": "Solomon Islands",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "SC",
       "name": "Seychelles",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "SD",
       "name": "Sudan",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "SE",
       "name": "Sweden",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "SG",
       "name": "Singapore",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "SI",
       "name": "Slovenia",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "SK",
       "name": "Slovakia",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "SL",
       "name": "Sierra Leone",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "SM",
       "name": "San Marino",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "SN",
       "name": "Senegal",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "SO",
       "name": "Somalia",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "SR",
       "name": "Suriname",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "SS",
       "name": "South Sudan",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "ST",
       "name": "Sao Tome and Principe",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "SV",
       "name": "El Salvador",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "SZ",
       "name": "Eswatini",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "TD",
       "name": "Chad",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "TG",
       "name": "Togo",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "TH",
       "name": "Thailand",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "TL",
       "name": "Timor-Leste",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "TN",
       "name": "Tunisia",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "TO",
       "name": "Tonga",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "TR",
       "name": "Türkiye",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "TT",
       "name": "Trinidad and Tobago",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "TV",
       "name": "Tuvalu",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "TZ",
       "name": "Tanzania",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "UA",
       "name": "Ukraine",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "UG",
       "name": "Uganda",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "US",
       "name": "United States of America",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "UY",
       "name": "Uruguay",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "VC",
       "name": "Saint Vincent and the Grenadines",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "VE",
       "name": "Venezuela",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "VN",
       "name": "Viet Nam",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "VU",
       "name": "Vanuatu",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "WS",
       "name": "Samoa",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "XK",
       "name": "Kosovo",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "ZA",
       "name": "South Africa",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "ZM",
       "name": "Zambia",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     },
     {
       "code": "ZW",
       "name": "Zimbabwe",
-      "missing": [
-        "EH",
-        "PS"
-      ]
+      "missing": []
     }
   ],
   "by_destination": [
-    {
-      "code": "EH",
-      "name": "Western Sahara",
-      "missing": [
-        "AD",
-        "AE",
-        "AF",
-        "AG",
-        "AL",
-        "AM",
-        "AO",
-        "AR",
-        "AT",
-        "AU",
-        "AZ",
-        "BA",
-        "BB",
-        "BD",
-        "BE",
-        "BF",
-        "BG",
-        "BH",
-        "BI",
-        "BJ",
-        "BN",
-        "BO",
-        "BR",
-        "BS",
-        "BT",
-        "BW",
-        "BY",
-        "BZ",
-        "CA",
-        "CD",
-        "CF",
-        "CG",
-        "CH",
-        "CI",
-        "CL",
-        "CM",
-        "CN",
-        "CO",
-        "CR",
-        "CU",
-        "CV",
-        "CY",
-        "CZ",
-        "DE",
-        "DJ",
-        "DK",
-        "DM",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ER",
-        "ES",
-        "ET",
-        "FI",
-        "FJ",
-        "FM",
-        "FR",
-        "GA",
-        "GB",
-        "GD",
-        "GE",
-        "GH",
-        "GM",
-        "GN",
-        "GQ",
-        "GR",
-        "GT",
-        "GW",
-        "GY",
-        "HK",
-        "HN",
-        "HR",
-        "HT",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IQ",
-        "IR",
-        "IS",
-        "IT",
-        "JM",
-        "JO",
-        "JP",
-        "KE",
-        "KG",
-        "KH",
-        "KI",
-        "KM",
-        "KN",
-        "KP",
-        "KR",
-        "KW",
-        "KZ",
-        "LA",
-        "LB",
-        "LC",
-        "LI",
-        "LK",
-        "LR",
-        "LS",
-        "LT",
-        "LU",
-        "LV",
-        "LY",
-        "MA",
-        "MC",
-        "MD",
-        "ME",
-        "MG",
-        "MH",
-        "MK",
-        "ML",
-        "MM",
-        "MN",
-        "MO",
-        "MR",
-        "MT",
-        "MU",
-        "MV",
-        "MW",
-        "MX",
-        "MY",
-        "MZ",
-        "NA",
-        "NE",
-        "NG",
-        "NI",
-        "NL",
-        "NO",
-        "NP",
-        "NR",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PG",
-        "PH",
-        "PK",
-        "PL",
-        "PS",
-        "PT",
-        "PW",
-        "PY",
-        "QA",
-        "RO",
-        "RS",
-        "RU",
-        "RW",
-        "SA",
-        "SB",
-        "SC",
-        "SD",
-        "SE",
-        "SG",
-        "SI",
-        "SK",
-        "SL",
-        "SM",
-        "SN",
-        "SO",
-        "SR",
-        "SS",
-        "ST",
-        "SV",
-        "SY",
-        "SZ",
-        "TD",
-        "TG",
-        "TH",
-        "TJ",
-        "TL",
-        "TM",
-        "TN",
-        "TO",
-        "TR",
-        "TT",
-        "TV",
-        "TW",
-        "TZ",
-        "UA",
-        "UG",
-        "US",
-        "UY",
-        "UZ",
-        "VA",
-        "VC",
-        "VE",
-        "VN",
-        "VU",
-        "WS",
-        "XK",
-        "YE",
-        "ZA",
-        "ZM",
-        "ZW"
-      ]
-    },
-    {
-      "code": "PS",
-      "name": "Palestine",
-      "missing": [
-        "AD",
-        "AE",
-        "AF",
-        "AG",
-        "AL",
-        "AM",
-        "AO",
-        "AR",
-        "AT",
-        "AU",
-        "AZ",
-        "BA",
-        "BB",
-        "BD",
-        "BE",
-        "BF",
-        "BG",
-        "BH",
-        "BI",
-        "BJ",
-        "BN",
-        "BO",
-        "BR",
-        "BS",
-        "BT",
-        "BW",
-        "BY",
-        "BZ",
-        "CA",
-        "CD",
-        "CF",
-        "CG",
-        "CH",
-        "CI",
-        "CL",
-        "CM",
-        "CN",
-        "CO",
-        "CR",
-        "CU",
-        "CV",
-        "CY",
-        "CZ",
-        "DE",
-        "DJ",
-        "DK",
-        "DM",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "EH",
-        "ER",
-        "ES",
-        "ET",
-        "FI",
-        "FJ",
-        "FM",
-        "FR",
-        "GA",
-        "GB",
-        "GD",
-        "GE",
-        "GH",
-        "GM",
-        "GN",
-        "GQ",
-        "GR",
-        "GT",
-        "GW",
-        "GY",
-        "HK",
-        "HN",
-        "HR",
-        "HT",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IQ",
-        "IR",
-        "IS",
-        "IT",
-        "JM",
-        "JO",
-        "JP",
-        "KE",
-        "KG",
-        "KH",
-        "KI",
-        "KM",
-        "KN",
-        "KP",
-        "KR",
-        "KW",
-        "KZ",
-        "LA",
-        "LB",
-        "LC",
-        "LI",
-        "LK",
-        "LR",
-        "LS",
-        "LT",
-        "LU",
-        "LV",
-        "LY",
-        "MA",
-        "MC",
-        "MD",
-        "ME",
-        "MG",
-        "MH",
-        "MK",
-        "ML",
-        "MM",
-        "MN",
-        "MO",
-        "MR",
-        "MT",
-        "MU",
-        "MV",
-        "MW",
-        "MX",
-        "MY",
-        "MZ",
-        "NA",
-        "NE",
-        "NG",
-        "NI",
-        "NL",
-        "NO",
-        "NP",
-        "NR",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PG",
-        "PH",
-        "PK",
-        "PL",
-        "PT",
-        "PW",
-        "PY",
-        "QA",
-        "RO",
-        "RS",
-        "RU",
-        "RW",
-        "SA",
-        "SB",
-        "SC",
-        "SD",
-        "SE",
-        "SG",
-        "SI",
-        "SK",
-        "SL",
-        "SM",
-        "SN",
-        "SO",
-        "SR",
-        "SS",
-        "ST",
-        "SV",
-        "SY",
-        "SZ",
-        "TD",
-        "TG",
-        "TH",
-        "TJ",
-        "TL",
-        "TM",
-        "TN",
-        "TO",
-        "TR",
-        "TT",
-        "TV",
-        "TW",
-        "TZ",
-        "UA",
-        "UG",
-        "US",
-        "UY",
-        "UZ",
-        "VA",
-        "VC",
-        "VE",
-        "VN",
-        "VU",
-        "WS",
-        "XK",
-        "YE",
-        "ZA",
-        "ZM",
-        "ZW"
-      ]
-    },
     {
       "code": "MO",
       "name": "Macao",
