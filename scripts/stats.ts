@@ -13,11 +13,17 @@ const { codes: territoryCodes } = JSON.parse(
 );
 const territories = new Set<string>(territoryCodes);
 
+log("reading generated/unscored-destinations.json");
+const { codes: unscoredCodes } = JSON.parse(
+  fs.readFileSync("./generated/unscored-destinations.json", "utf8")
+);
+const unscoredDestinations = new Set<string>(unscoredCodes);
+
 let scores: Record<string, number> = {};
 let visaFreeCounts: Record<string, number> = {};
 
 group("stats: score each passport", () => {
-  ({ scores, visaFreeCounts } = computeScores(matrix, territories));
+  ({ scores, visaFreeCounts } = computeScores(matrix, territories, unscoredDestinations));
 });
 
 let rankings: RankingEntry[] = [];

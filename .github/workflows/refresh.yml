@@ -47,6 +47,7 @@ jobs:
           cp generated/scores.json ../r-ui/data/scores.json
           cp generated/visa-free-counts.json ../r-ui/data/visa-free-counts.json
           cp generated/route-metadata.json ../r-ui/data/route-metadata.json
+          cp generated/unscored-destinations.json ../r-ui/data/unscored-destinations.json
           cp generated/territory-notes.json ../r-ui/data/territory-notes.json
           cp generated/references.json ../r-ui/data/references.json
           cp generated/investment-migration.json ../r-ui/data/investment-migration.json

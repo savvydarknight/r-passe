@@ -23,9 +23,11 @@ const iFootnoteIds = idx("footnote_ids");
 const iDisplay = idx("display");
 const iStayDisplay = idx("stay_display");
 const iTravelAdvisory = idx("travel_advisory");
-log(`column indices: passport=${iPassport} destination=${iDest} status=${iStatus} days=${iDays} notes=${iNotes} source_url=${iUrl} last_verified=${iVerified} confidence=${iConfidence} reciprocity=${iReciprocity} footnote_ids=${iFootnoteIds} display=${iDisplay} stay_display=${iStayDisplay} travel_advisory=${iTravelAdvisory}`);
+const iScored = idx("scored");
+log(`column indices: passport=${iPassport} destination=${iDest} status=${iStatus} days=${iDays} notes=${iNotes} source_url=${iUrl} last_verified=${iVerified} confidence=${iConfidence} reciprocity=${iReciprocity} footnote_ids=${iFootnoteIds} display=${iDisplay} stay_display=${iStayDisplay} travel_advisory=${iTravelAdvisory} scored=${iScored}`);
 
 const matrix: Record<string, Record<string, any>> = {};
+const unscoredDestinations = new Set<string>();
 const metadata: Record<string, { notes: string; source_url: string; last_verified: string; confidence: string; reciprocity: string; footnote_ids: string; display: string; stay_display: string; travel_advisory: string }> = {};
 
 group("build: matrix + metadata", () => {
@@ -37,6 +39,7 @@ group("build: matrix + metadata", () => {
 
     matrix[passport] ??= {};
     matrix[passport][destination] = days && days.length > 0 ? [status, Number(days)] : [status];
+    if (iScored >= 0 && row[iScored] === "false") unscoredDestinations.add(destination);
 
     metadata[`${passport}:${destination}`] = {
       notes: row[iNotes] || "",
@@ -60,7 +63,10 @@ group("build: write files", () => {
   log("wrote ./data/passport_matrix.json");
   fs.writeFileSync("./generated/route-metadata.json", JSON.stringify(metadata, null, 2));
   log(`wrote ./generated/route-metadata.json, ${Object.keys(metadata).length} entries`);
+  fs.writeFileSync("./generated/unscored-destinations.json", JSON.stringify({ codes: [...unscoredDestinations].sort() }, null, 2));
+  log(`wrote ./generated/unscored-destinations.json, ${unscoredDestinations.size} destination(s): ${[...unscoredDestinations].join(", ")}`);
 });
 
 console.log("✓ passport_matrix.json generated");
 console.log("✓ route-metadata.json generated");
+console.log("✓ unscored-destinations.json generated");

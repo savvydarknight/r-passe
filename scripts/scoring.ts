@@ -9,7 +9,8 @@ export interface RankingEntry {
 
 export function computeScores(
   matrix: Record<string, Record<string, string[]>>,
-  territories: Set<string>
+  territories: Set<string>,
+  unscoredDestinations: Set<string> = new Set()
 ): { scores: Record<string, number>; visaFreeCounts: Record<string, number> } {
   const scores: Record<string, number> = {};
   const visaFreeCounts: Record<string, number> = {};
@@ -26,6 +27,10 @@ export function computeScores(
     for (const destination of Object.keys(matrix[passport])) {
       if (territories.has(destination)) {
         log(`${passport}->${destination}: skipped, destination is a territory`);
+        continue;
+      }
+      if (unscoredDestinations.has(destination)) {
+        log(`${passport}->${destination}: skipped, destination is display-only (unscored)`);
         continue;
       }
 

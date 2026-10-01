@@ -149,6 +149,7 @@ type MasterRow = {
   display: string;
   stay_display: string;
   travel_advisory: string;
+  scored: string;
 };
 
 function main() {
@@ -174,6 +175,7 @@ function main() {
   const iMethodNotes = idx("method_notes");
   const iDisplayOverride = idx("display_override");
   const iTravelAdvisory = idx("travel_advisory");
+  const iScored = idx("scored");
   log(`column indices: passport_code=${iPassport} destination_name=${iDest} requirement=${iReq} requirement_raw=${iReqRaw} allowed_stay=${iStay} notes=${iNotes} source_url=${iUrl} reciprocity=${iReciprocity}`);
 
   const seen = new Set<string>();
@@ -249,6 +251,7 @@ function main() {
           (iDisplayOverride >= 0 ? r[iDisplayOverride] || "" : "") ||
           (/admission refused/i.test(requirementRaw) ? "Admission refused" : ""),
         travel_advisory: iTravelAdvisory >= 0 ? r[iTravelAdvisory] || "" : "",
+        scored: iScored >= 0 && r[iScored] === "false" ? "false" : "true",
       });
     }
     log(`wikipedia pass done: ${out.length} accepted, ${skippedUnmapped} unmapped, ${skippedUnknown} unknown, ${skippedDuplicate} duplicate`);
@@ -339,7 +342,7 @@ function main() {
     );
     log(`sorted ${out.length} rows`);
 
-    const lines = ["passport,destination,status,days,notes,source_url,last_verified,confidence,reciprocity,footnote_ids,display,stay_display,travel_advisory"];
+    const lines = ["passport,destination,status,days,notes,source_url,last_verified,confidence,reciprocity,footnote_ids,display,stay_display,travel_advisory,scored"];
     for (const [i, row] of out.entries()) {
       log(`writing row ${i + 1}/${out.length}: ${JSON.stringify(row)}`);
       lines.push(
@@ -357,6 +360,7 @@ function main() {
           csvField(row.display),
           csvField(row.stay_display),
           csvField(row.travel_advisory),
+          row.scored,
         ].join(",")
       );
     }

@@ -226,6 +226,7 @@ export const NAME_MAP: Record<string, string> = {
   Venezuela: "VE",
   Vietnam: "VN",
   "Vietnam[294][295]": "VN",
+  "Western Sahara": "EH",
   Yemen: "YE",
   Zambia: "ZM",
   Zimbabwe: "ZW",

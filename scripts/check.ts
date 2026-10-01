@@ -18,6 +18,12 @@ const { codes: territoryCodes } = JSON.parse(
 );
 const territories = new Set<string>(territoryCodes);
 
+log("reading generated/unscored-destinations.json");
+const { codes: unscoredCodes } = JSON.parse(
+  fs.readFileSync("./generated/unscored-destinations.json", "utf8")
+);
+const unscoredDestinations = new Set<string>(unscoredCodes);
+
 log("reading generated/scores.json, generated/visa-free-counts.json, generated/rankings.json, generated/route-metadata.json");
 const scores: Record<string, number> = JSON.parse(
   fs.readFileSync("./generated/scores.json", "utf8")
@@ -33,7 +39,7 @@ const routeMetadata: Record<string, unknown> = JSON.parse(
 );
 
 group("check: recompute and diff against shipped output", () => {
-  const recomputed = computeScores(matrix, territories);
+  const recomputed = computeScores(matrix, territories, unscoredDestinations);
 
   for (const passport of Object.keys(recomputed.scores)) {
     log(`${passport}: shipped score=${scores[passport]} recomputed=${recomputed.scores[passport]}`);
