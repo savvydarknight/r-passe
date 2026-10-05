@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T18:07:07.403Z",
+  "generated_at": "2026-10-05T12:59:47.226Z",
   "universe_size": 200,
   "total_expected_pairs": 39402,
-  "total_missing_pairs": 253,
+  "total_missing_pairs": 254,
   "by_passport": [
     {
       "code": "EH",
@@ -379,6 +379,13 @@
       "name": "Haiti",
       "missing": [
         "MO"
+      ]
+    },
+    {
+      "code": "MD",
+      "name": "Moldova",
+      "missing": [
+        "SV"
       ]
     },
     {
@@ -891,11 +898,6 @@
       "missing": []
     },
     {
-      "code": "MD",
-      "name": "Moldova",
-      "missing": []
-    },
-    {
       "code": "ME",
       "name": "Montenegro",
       "missing": []
@@ -1362,6 +1364,14 @@
         "TM",
         "UZ",
         "YE"
+      ]
+    },
+    {
+      "code": "SV",
+      "name": "El Salvador",
+      "missing": [
+        "EH",
+        "MD"
       ]
     },
     {
@@ -2516,13 +2526,6 @@
     {
       "code": "ST",
       "name": "Sao Tome and Principe",
-      "missing": [
-        "EH"
-      ]
-    },
-    {
-      "code": "SV",
-      "name": "El Salvador",
       "missing": [
         "EH"
       ]
