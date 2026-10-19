@@ -12804,14 +12804,14 @@
     "travel_advisory": ""
   },
   "AM:TH": {
-    "notes": "eVisa may also be applied for stays up to 60 days.",
+    "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "252;253",
     "display": "",
-    "stay_display": "15 days",
+    "stay_display": "",
     "travel_advisory": ""
   },
   "AM:TJ": {
@@ -75768,7 +75768,7 @@
     "travel_advisory": ""
   },
   "CL:PL": {
-    "notes": "- 90 days within any 180 day period in the Schengen Area.\n- 90 days within any 180-day period in the Schengen Area.\n- Dual nationals must use their Polish passport.",
+    "notes": "- 90 days within any 180 day period in the Schengen Area.\n- Dual nationals must use their Polish passport.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chilean_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -102602,29 +102602,29 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "8",
+    "footnote_ids": "9",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
   },
   "DO:AE": {
-    "notes": "- E-visas can be obtained. [ 258 ]\n- May apply also using 'Smart service'. [ 259 ]\n- A 96-hour transit visa can be obtained on arrival at Dubai (DXB).",
+    "notes": "- E-visas can be obtained. [ 259 ]\n- May apply also using 'Smart service'. [ 260 ]\n- A 96-hour transit visa can be obtained on arrival at Dubai (DXB).",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "263;264;265",
+    "footnote_ids": "264;265;266",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
   },
   "DO:AF": {
-    "notes": "- Visa is not required in case born in Afghanistan or can proof that one of their parents is a national of Afghanistan or born in Afghanistan. [ 3 ]\n- e-Visa: Visitors must arrive at Kabul International (KBL).",
+    "notes": "- Visa is not required in case born in Afghanistan or can proof that one of their parents is a national of Afghanistan or born in Afghanistan. [ 4 ]\n- e-Visa: Visitors must arrive at Kabul International (KBL).",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "1;2;3",
+    "footnote_ids": "2;3;4",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -102635,29 +102635,29 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "10;11",
+    "footnote_ids": "11;12",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
   },
   "DO:AL": {
-    "notes": "- Visa is not required for holders of Schengen, US or UK visa or residence permits (max stay 90 days) [ 6 ]",
+    "notes": "- Visa is not required for holders of Schengen, US or UK visa or residence permits (max stay 90 days) [ 7 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "4;5;:0-6",
+    "footnote_ids": "5;6;:0-7",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
   },
   "DO:AM": {
-    "notes": "eVisa may also be applied for stays up to 120 days.\n\n- Obtainable on arrival at Zvartnots International Airport or prior to travel online. [ 16 ]",
+    "notes": "eVisa may also be applied for stays up to 120 days.\n\n- Obtainable on arrival at Zvartnots International Airport or prior to travel online. [ 17 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "14;15;16",
+    "footnote_ids": "15;16;17",
     "display": "",
     "stay_display": "120 days",
     "travel_advisory": ""
@@ -102668,18 +102668,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "9",
+    "footnote_ids": "10",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
   },
   "DO:AR": {
-    "notes": "- Visa waiver for passengers with a valid visa issued by the US, or Schengen Member State. Visa fee: USD-60, for max. of 90 days. To be obtained online at the DNM Migraciones Argentina. [ 13 ]",
+    "notes": "- Visa waiver for passengers with a valid visa issued by the US, or Schengen Member State. Visa fee: USD-60, for max. of 90 days. To be obtained online at the DNM Migraciones Argentina. [ 14 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "12;13",
+    "footnote_ids": "13;14",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -102690,18 +102690,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "19",
+    "footnote_ids": "20",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
   },
   "DO:AU": {
-    "notes": "- May apply online (Online Visitor e600 visa). [ 18 ]",
+    "notes": "- May apply online (Online Visitor e600 visa). [ 19 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "17;18",
+    "footnote_ids": "18;19",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -102712,7 +102712,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "20",
+    "footnote_ids": "21",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -102723,7 +102723,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "37",
+    "footnote_ids": "38",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -102734,18 +102734,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "27",
+    "footnote_ids": "28",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
   },
   "DO:BD": {
-    "notes": "- Not available at all entry points. [ 26 ]",
+    "notes": "- Not available at all entry points. [ 27 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "25;26",
+    "footnote_ids": "26;27",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -102756,7 +102756,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "30",
+    "footnote_ids": "31",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -102767,7 +102767,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "42;43",
+    "footnote_ids": "43;44",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -102778,7 +102778,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "41",
+    "footnote_ids": "42",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -102789,7 +102789,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "23;24",
+    "footnote_ids": "24;25",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -102800,7 +102800,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "44",
+    "footnote_ids": "45",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -102811,7 +102811,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "32;33",
+    "footnote_ids": "33;34",
     "display": "",
     "stay_display": "8 days",
     "travel_advisory": ""
@@ -102822,7 +102822,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "40",
+    "footnote_ids": "41",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -102833,7 +102833,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "36",
+    "footnote_ids": "37",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -102844,18 +102844,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "39",
+    "footnote_ids": "40",
     "display": "",
     "stay_display": "60 days",
     "travel_advisory": ""
   },
   "DO:BS": {
-    "notes": "- Bahamas tourist visa is not required for US or Canada Resident card holder for a stay up to 30 days. [ 22 ]",
+    "notes": "- Bahamas tourist visa is not required for US or Canada Resident card holder for a stay up to 30 days. [ 23 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "21;22",
+    "footnote_ids": "22;23",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -102866,7 +102866,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "34;35",
+    "footnote_ids": "35;36",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -102877,18 +102877,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "38",
+    "footnote_ids": "39",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
   },
   "DO:BY": {
-    "notes": "- Visas are issued on arrival at the Minsk International Airport if the support documents were submitted not later than 3 business days before expected date of arrival. [ 29 ]",
+    "notes": "- Visas are issued on arrival at the Minsk International Airport if the support documents were submitted not later than 3 business days before expected date of arrival. [ 30 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "28;29",
+    "footnote_ids": "29;30",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -102899,18 +102899,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "31",
+    "footnote_ids": "32",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
   },
   "DO:CA": {
-    "notes": "- Visa not required for US permanent resident card Holders. [ 50 ]",
+    "notes": "- Visa not required for US permanent resident card Holders. [ 51 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "49;50",
+    "footnote_ids": "50;51",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -102921,7 +102921,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "61;62",
+    "footnote_ids": "62;63",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -102932,7 +102932,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "53",
+    "footnote_ids": "54",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -102943,7 +102943,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "60",
+    "footnote_ids": "61",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -102954,7 +102954,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "240",
+    "footnote_ids": "241",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -102965,7 +102965,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "64;65",
+    "footnote_ids": "65;66",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -102976,7 +102976,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "56",
+    "footnote_ids": "57",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -102987,7 +102987,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "47;48",
+    "footnote_ids": "48;49",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -102998,7 +102998,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "57",
+    "footnote_ids": "58",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103009,7 +103009,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "58",
+    "footnote_ids": "59",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -103020,7 +103020,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "63",
+    "footnote_ids": "64",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103031,18 +103031,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "67;68",
+    "footnote_ids": "68;69",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
   },
   "DO:CV": {
-    "notes": "- Not available at all entry points. [ 52 ]",
+    "notes": "- Not available at all entry points. [ 53 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "51;52",
+    "footnote_ids": "52;53",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103053,7 +103053,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "69",
+    "footnote_ids": "70",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103064,7 +103064,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "70",
+    "footnote_ids": "71",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103075,7 +103075,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "91",
+    "footnote_ids": "92",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103086,7 +103086,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "72",
+    "footnote_ids": "73",
     "display": "",
     "stay_display": "31 days",
     "travel_advisory": ""
@@ -103097,7 +103097,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "71",
+    "footnote_ids": "72",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103108,7 +103108,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "73",
+    "footnote_ids": "74",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103119,7 +103119,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "7",
+    "footnote_ids": "8",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103130,7 +103130,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "74;A-75",
+    "footnote_ids": "75;A-76",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -103141,7 +103141,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "81",
+    "footnote_ids": "82",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103152,7 +103152,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "76",
+    "footnote_ids": "77",
     "display": "",
     "stay_display": "15 days",
     "travel_advisory": ""
@@ -103163,7 +103163,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "80",
+    "footnote_ids": "81",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103174,7 +103174,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "233",
+    "footnote_ids": "234",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103185,7 +103185,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "83",
+    "footnote_ids": "84",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -103196,7 +103196,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "85",
+    "footnote_ids": "86",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103207,7 +103207,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "84",
+    "footnote_ids": "85",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103218,7 +103218,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "167",
+    "footnote_ids": "168",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -103229,7 +103229,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "86",
+    "footnote_ids": "87",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103240,7 +103240,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "87",
+    "footnote_ids": "88",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103251,7 +103251,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "266",
+    "footnote_ids": "267",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103262,7 +103262,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "94",
+    "footnote_ids": "95",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -103273,7 +103273,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "90",
+    "footnote_ids": "91",
     "display": "",
     "stay_display": "1 year",
     "travel_advisory": ""
@@ -103284,18 +103284,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "92",
+    "footnote_ids": "93",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
   },
   "DO:GM": {
-    "notes": "- Dominicans will need a clearance to enter into Gambia.\n- Must obtain an entry clearance from the Gambian Immigration prior to travel [ 89 ]",
+    "notes": "- Dominicans will need a clearance to enter into Gambia.\n- Must obtain an entry clearance from the Gambian Immigration prior to travel [ 90 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "88;89",
+    "footnote_ids": "89;90",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103306,7 +103306,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "96;97",
+    "footnote_ids": "97;98",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -103317,7 +103317,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "78;79",
+    "footnote_ids": "79;80",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103328,7 +103328,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "93",
+    "footnote_ids": "94",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103339,7 +103339,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "95",
+    "footnote_ids": "96",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103350,7 +103350,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "98",
+    "footnote_ids": "99",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -103361,7 +103361,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "100;auto-99",
+    "footnote_ids": "101;auto-100",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -103372,7 +103372,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "292",
+    "footnote_ids": "293",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -103383,7 +103383,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "102;auto-99",
+    "footnote_ids": "103;auto-100",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -103394,7 +103394,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "66",
+    "footnote_ids": "67",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103405,7 +103405,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "101",
+    "footnote_ids": "102",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103416,7 +103416,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "103",
+    "footnote_ids": "104",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103427,7 +103427,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "111",
+    "footnote_ids": "112",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103438,7 +103438,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "116",
+    "footnote_ids": "117",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103449,18 +103449,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "117;118",
+    "footnote_ids": "118;119",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
   },
   "DO:IN": {
-    "notes": "- e-Visa holders must arrive via 32 designated airports [ Note 1 ] or 5 designated seaports. [ Note 2 ] [ 106 ]\n- An Indian e-Tourist Visa may only be obtained twice within 1 calendar year. [ 107 ]\n- Foreigners of Pakistani origin or who hold a Pakistani Passport are not eligible for an e-Visa. Foreigners who are not Pakistani nationals, but whose parents or grandparents (either paternal or maternal) were born in, or were permanent residents in Pakistan, are also not eligible for an e-Visa. [ 108 ]",
+    "notes": "- e-Visa holders must arrive via 32 designated airports [ Note 1 ] or 5 designated seaports. [ Note 2 ] [ 107 ]\n- An Indian e-Tourist Visa may only be obtained twice within 1 calendar year. [ 108 ]\n- Foreigners of Pakistani origin or who hold a Pakistani Passport are not eligible for an e-Visa. Foreigners who are not Pakistani nationals, but whose parents or grandparents (either paternal or maternal) were born in, or were permanent residents in Pakistan, are also not eligible for an e-Visa. [ 109 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "105;108;109;110;Airports-106;Seaports-107",
+    "footnote_ids": "106;109;110;111;Airports-107;Seaports-108",
     "display": "",
     "stay_display": "60 days",
     "travel_advisory": ""
@@ -103471,7 +103471,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "114;115",
+    "footnote_ids": "115;116",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -103482,7 +103482,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "112;113",
+    "footnote_ids": "113;114",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -103493,7 +103493,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "104",
+    "footnote_ids": "105",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103504,7 +103504,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "119",
+    "footnote_ids": "120",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103515,18 +103515,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "120;121",
+    "footnote_ids": "121;122",
     "display": "",
     "stay_display": "180 days",
     "travel_advisory": ""
   },
   "DO:JO": {
-    "notes": "eVisa may also be applied for stays up to 30 days.\n\n- Conditions apply. [ 123 ] Not available at all entry points. [ 124 ]",
+    "notes": "eVisa may also be applied for stays up to 30 days.\n\n- Conditions apply. [ 124 ] Not available at all entry points. [ 125 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "123;124;125;126",
+    "footnote_ids": "124;125;126;127",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -103537,7 +103537,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "122",
+    "footnote_ids": "123",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -103548,7 +103548,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "130",
+    "footnote_ids": "131",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -103559,7 +103559,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "135;136",
+    "footnote_ids": "136;137",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103570,7 +103570,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "45;46",
+    "footnote_ids": "46;47",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -103581,7 +103581,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "131",
+    "footnote_ids": "132",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -103592,7 +103592,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "59",
+    "footnote_ids": "60",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103603,7 +103603,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "211;212",
+    "footnote_ids": "212;213",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103614,7 +103614,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "132",
+    "footnote_ids": "133",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103625,7 +103625,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "133",
+    "footnote_ids": "134",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -103636,29 +103636,29 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "134",
+    "footnote_ids": "135",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
   },
   "DO:KZ": {
-    "notes": "- National Congress of The Dominican Republic Approves 60 days visa free agreement with Kazakhstan. [ 127 ]",
+    "notes": "- National Congress of The Dominican Republic Approves 60 days visa free agreement with Kazakhstan. [ 128 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "127;128;129",
+    "footnote_ids": "128;129;130",
     "display": "",
     "stay_display": "60 days",
     "travel_advisory": ""
   },
   "DO:LA": {
-    "notes": "eVisa may also be applied for stays up to 30 days.\n\n- 18 [ Note 3 ] of the 33 border crossings are only open to regular visa holders. [ 136 ]\n- e-Visa may be used to enter Laos through the Luang Prabang, Pakse and Vientiane international airports, 3 Thai-Lao Friendship Bridges [ Note 4 ], in Boten (road and railroad), and in Vientiane (at Khamsavath railway station). [ 136 ]\n- Visa on arrival is available at the Luang Prabang, Pakse and Vientiane international airports, 4 Thai-Lao Friendship Bridges [ Note 5 ] and 7 border crossings. [ Note 6 ] [ 136 ]",
+    "notes": "eVisa may also be applied for stays up to 30 days.\n\n- 18 [ Note 3 ] of the 33 border crossings are only open to regular visa holders. [ 137 ]\n- e-Visa may be used to enter Laos through the Luang Prabang, Pakse and Vientiane international airports, 3 Thai-Lao Friendship Bridges [ Note 4 ], in Boten (road and railroad), and in Vientiane (at Khamsavath railway station). [ 137 ]\n- Visa on arrival is available at the Luang Prabang, Pakse and Vientiane international airports, 4 Thai-Lao Friendship Bridges [ Note 5 ] and 7 border crossings. [ Note 6 ] [ 137 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "137;Checkpoints-139;Friendship_Bridges-141;VOA_border_crossings._Laos-142;Visa-only_border_crossings-138;eVisa_Friendship_Bridges-140",
+    "footnote_ids": "138;Checkpoints-140;Friendship_Bridges-142;VOA_border_crossings._Laos-143;Visa-only_border_crossings-139;eVisa_Friendship_Bridges-141",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -103669,7 +103669,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "144",
+    "footnote_ids": "145",
     "display": "",
     "stay_display": "1 month",
     "travel_advisory": ""
@@ -103680,7 +103680,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "213",
+    "footnote_ids": "214",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103691,18 +103691,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "151",
+    "footnote_ids": "152",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
   },
   "DO:LK": {
-    "notes": "Visa on arrival may also be available for stays up to 30 days.\n\n- 30 days extendable to 6 months. [ 229 ]\n- The standard visitor visa allows a stay of 60 days within any 6-month period.\n- Visa fees (for Standard visitor visa):\n  - SAARC – US$35\n  - Non SAARC – US$75\n- e-Visa categories will be charged an additional US$18.50 service fee.\n- If transiting from any of the Sri Lankan airports, An e-Visa is exempted (2 day transit period).",
+    "notes": "Visa on arrival may also be available for stays up to 30 days.\n\n- 30 days extendable to 6 months. [ 230 ]\n- The standard visitor visa allows a stay of 60 days within any 6-month period.\n- Visa fees (for Standard visitor visa):\n  - SAARC – US$35\n  - Non SAARC – US$75\n- e-Visa categories will be charged an additional US$18.50 service fee.\n- If transiting from any of the Sri Lankan airports, An e-Visa is exempted (2 day transit period).",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "234;LK-235",
+    "footnote_ids": "235;LK-236",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -103713,7 +103713,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "147;148",
+    "footnote_ids": "148;149",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -103724,7 +103724,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "145;146",
+    "footnote_ids": "146;147",
     "display": "",
     "stay_display": "14 days",
     "travel_advisory": ""
@@ -103735,7 +103735,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "152",
+    "footnote_ids": "153",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103746,7 +103746,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "153",
+    "footnote_ids": "154",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103757,7 +103757,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "143",
+    "footnote_ids": "144",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103768,7 +103768,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "149;150",
+    "footnote_ids": "150;151",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -103779,7 +103779,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "174",
+    "footnote_ids": "175",
     "display": "",
     "stay_display": "60 days",
     "travel_advisory": ""
@@ -103790,7 +103790,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "170",
+    "footnote_ids": "171",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103801,7 +103801,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "168;169",
+    "footnote_ids": "169;170",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103812,7 +103812,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "173",
+    "footnote_ids": "174",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103823,7 +103823,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "154;155",
+    "footnote_ids": "155;156",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -103834,7 +103834,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "162",
+    "footnote_ids": "163",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103845,7 +103845,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "190",
+    "footnote_ids": "191",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103856,7 +103856,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "160",
+    "footnote_ids": "161",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103867,18 +103867,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "177",
+    "footnote_ids": "178",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
   },
   "DO:MN": {
-    "notes": "- Dominican Republic and Mongolia Sign Visa Exemption Agreement. Not in effect yet [ 166 ]",
+    "notes": "- Dominican Republic and Mongolia Sign Visa Exemption Agreement. Not in effect yet [ 167 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "171;172",
+    "footnote_ids": "172;173",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103889,7 +103889,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "295",
+    "footnote_ids": "296",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103900,7 +103900,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "163;164",
+    "footnote_ids": "164;165",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103911,7 +103911,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "161",
+    "footnote_ids": "162",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103922,7 +103922,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "165",
+    "footnote_ids": "166",
     "display": "",
     "stay_display": "60 days",
     "travel_advisory": ""
@@ -103933,7 +103933,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "159;A-75",
+    "footnote_ids": "160;A-76",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -103944,7 +103944,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "156;157",
+    "footnote_ids": "157;158",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -103955,7 +103955,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "166",
+    "footnote_ids": "167",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103966,7 +103966,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "158",
+    "footnote_ids": "159",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -103977,7 +103977,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "175;176",
+    "footnote_ids": "176;177",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -103988,7 +103988,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "178;179",
+    "footnote_ids": "179;180",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -103999,7 +103999,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "187",
+    "footnote_ids": "188",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -104010,7 +104010,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "188;189",
+    "footnote_ids": "189;190",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -104021,7 +104021,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "186",
+    "footnote_ids": "187",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -104032,7 +104032,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "183",
+    "footnote_ids": "184",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -104043,7 +104043,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "191",
+    "footnote_ids": "192",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -104054,7 +104054,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "181;182",
+    "footnote_ids": "182;183",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -104065,18 +104065,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "180",
+    "footnote_ids": "181",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
   },
   "DO:NZ": {
-    "notes": "- Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. [ 179 ]",
+    "notes": "- Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. [ 180 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "184;Australian_Resident_Visa-185",
+    "footnote_ids": "185;Australian_Resident_Visa-186",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -104087,7 +104087,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "192",
+    "footnote_ids": "193",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -104098,7 +104098,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "195",
+    "footnote_ids": "196",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -104109,7 +104109,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "200",
+    "footnote_ids": "201",
     "display": "",
     "stay_display": "60 days",
     "travel_advisory": ""
@@ -104120,7 +104120,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "196;197",
+    "footnote_ids": "197;198",
     "display": "",
     "stay_display": "60 days",
     "travel_advisory": ""
@@ -104131,7 +104131,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "201",
+    "footnote_ids": "202",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -104142,7 +104142,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "193",
+    "footnote_ids": "194",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -104153,18 +104153,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "202",
+    "footnote_ids": "203",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
   },
   "DO:PS": {
-    "notes": "Arrival by sea to Gaza Strip not allowed. [ 293 ]",
+    "notes": "Arrival by sea to Gaza Strip not allowed. [ 294 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "298;299",
+    "footnote_ids": "299;300",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -104175,7 +104175,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "203",
+    "footnote_ids": "204",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -104186,7 +104186,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "194",
+    "footnote_ids": "195",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -104197,7 +104197,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "198;199",
+    "footnote_ids": "199;200",
     "display": "",
     "stay_display": "60 days",
     "travel_advisory": ""
@@ -104208,7 +104208,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "204",
+    "footnote_ids": "205",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -104219,40 +104219,40 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "205",
+    "footnote_ids": "206",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
   },
   "DO:RS": {
-    "notes": "- Visa not required for holders of Schengen, US or UK visa or residence permits (max stay 90 days) [ 6 ]",
+    "notes": "- Visa not required for holders of Schengen, US or UK visa or residence permits (max stay 90 days) [ 7 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "220;:0-6",
+    "footnote_ids": "221;:0-7",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
   },
   "DO:RU": {
-    "notes": "- 60 days within any 180 day period [ 201 ]",
+    "notes": "- 60 days within any 180 day period [ 202 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "206;207",
+    "footnote_ids": "207;208",
     "display": "",
     "stay_display": "60 days",
     "travel_advisory": ""
   },
   "DO:RW": {
-    "notes": "eVisa may also be applied for stays up to 30 days.\n\n- May apply online. [ 203 ]\n- Can also be entered on an East Africa tourist visa issued by Kenya or Uganda [ 204 ]",
+    "notes": "eVisa may also be applied for stays up to 30 days.\n\n- May apply online. [ 204 ]\n- Can also be entered on an East Africa tourist visa issued by Kenya or Uganda [ 205 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "208;209;210",
+    "footnote_ids": "209;210;211",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -104263,7 +104263,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "218",
+    "footnote_ids": "219",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -104274,7 +104274,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "227",
+    "footnote_ids": "228",
     "display": "",
     "stay_display": "3 months",
     "travel_advisory": ""
@@ -104285,7 +104285,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "221;A-75",
+    "footnote_ids": "222;A-76",
     "display": "",
     "stay_display": "3 months",
     "travel_advisory": ""
@@ -104296,7 +104296,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "236",
+    "footnote_ids": "237",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -104307,7 +104307,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "239",
+    "footnote_ids": "240",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -104318,7 +104318,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "224",
+    "footnote_ids": "225",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -104329,7 +104329,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "226",
+    "footnote_ids": "227",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -104340,7 +104340,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "225",
+    "footnote_ids": "226",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -104351,7 +104351,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "222;223",
+    "footnote_ids": "223;224",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -104362,7 +104362,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "216",
+    "footnote_ids": "217",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -104373,7 +104373,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "219",
+    "footnote_ids": "220",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -104384,29 +104384,29 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "228;229",
+    "footnote_ids": "229;230",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
   },
   "DO:SR": {
-    "notes": "- Multiple entry eVisa is also available. [ 232 ]",
+    "notes": "- Multiple entry eVisa is also available. [ 233 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "237;238",
+    "footnote_ids": "238;239",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
   },
   "DO:SS": {
-    "notes": "- Obtainable online [ 226 ]\n- Visa fee: Single entry visa (US$100), 3 months multiple entry visa (US$200), 6 months multiple entry visa (US$350).\n- Printed visa authorization must be presented at the time of travel [ 226 ]",
+    "notes": "- Obtainable online [ 227 ]\n- Visa fee: Single entry visa (US$100), 3 months multiple entry visa (US$200), 6 months multiple entry visa (US$350).\n- Printed visa authorization must be presented at the time of travel [ 227 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "231;evisa.gov.ss-232",
+    "footnote_ids": "232;evisa.gov.ss-233",
     "display": "",
     "stay_display": "6 months",
     "travel_advisory": ""
@@ -104417,7 +104417,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "217",
+    "footnote_ids": "218",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -104428,7 +104428,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "77",
+    "footnote_ids": "78",
     "display": "",
     "stay_display": "6 months",
     "travel_advisory": ""
@@ -104439,7 +104439,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "241;242",
+    "footnote_ids": "242;243",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -104450,7 +104450,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "82",
+    "footnote_ids": "83",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -104461,7 +104461,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "54;55",
+    "footnote_ids": "55;56",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -104472,7 +104472,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "251;252",
+    "footnote_ids": "252;253",
     "display": "",
     "stay_display": "15 days",
     "travel_advisory": ""
@@ -104483,7 +104483,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "247;248",
+    "footnote_ids": "248;249",
     "display": "",
     "stay_display": "60 days",
     "travel_advisory": ""
@@ -104494,18 +104494,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "243;244",
+    "footnote_ids": "244;245",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
   },
   "DO:TL": {
-    "notes": "- Not available at all entry points. [ 244 ]",
+    "notes": "- Not available at all entry points. [ 245 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "249;250",
+    "footnote_ids": "250;251",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -104516,7 +104516,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "258",
+    "footnote_ids": "259",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -104527,7 +104527,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "255",
+    "footnote_ids": "256",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -104538,7 +104538,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "253",
+    "footnote_ids": "254",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -104549,7 +104549,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "256;257",
+    "footnote_ids": "257;258",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -104560,7 +104560,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "254",
+    "footnote_ids": "255",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -104571,7 +104571,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "259",
+    "footnote_ids": "260",
     "display": "",
     "stay_display": "1 month",
     "travel_advisory": ""
@@ -104582,7 +104582,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "300",
+    "footnote_ids": "301",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -104593,7 +104593,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "245;246",
+    "footnote_ids": "246;247",
     "display": "",
     "stay_display": "3 months",
     "travel_advisory": ""
@@ -104604,7 +104604,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "261;262",
+    "footnote_ids": "262;263",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -104615,7 +104615,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "260",
+    "footnote_ids": "261",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -104626,7 +104626,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "267",
+    "footnote_ids": "268",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -104637,7 +104637,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "268",
+    "footnote_ids": "269",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -104648,7 +104648,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "269",
+    "footnote_ids": "270",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -104659,7 +104659,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "271",
+    "footnote_ids": "272",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -104670,7 +104670,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "214",
+    "footnote_ids": "215",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -104681,18 +104681,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "272",
+    "footnote_ids": "273",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
   },
   "DO:VN": {
-    "notes": "- Phú Quốc without a visa for up to 30 days. [ 270 ]",
+    "notes": "- Phú Quốc without a visa for up to 30 days. [ 271 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "273;274;275;276",
+    "footnote_ids": "274;275;276;277",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -104703,7 +104703,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "270",
+    "footnote_ids": "271",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -104714,7 +104714,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "215",
+    "footnote_ids": "216",
     "display": "",
     "stay_display": "60 days",
     "travel_advisory": ""
@@ -104725,7 +104725,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "337",
+    "footnote_ids": "338",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -104736,7 +104736,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "277",
+    "footnote_ids": "278",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -104747,18 +104747,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "230",
+    "footnote_ids": "231",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
   },
   "DO:ZM": {
-    "notes": "- Visa free Starting on January 1, 2025 [ 273 ]",
+    "notes": "- Visa free Starting on January 1, 2025 [ 274 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "278;279",
+    "footnote_ids": "279;280",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -104769,7 +104769,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "280;281",
+    "footnote_ids": "281;282",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -119790,14 +119790,14 @@
     "travel_advisory": ""
   },
   "ET:TH": {
-    "notes": "eVisa may also be applied for stays up to 15 days.",
+    "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ethiopian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "234;235",
     "display": "",
-    "stay_display": "15 days",
+    "stay_display": "",
     "travel_advisory": ""
   },
   "ET:TJ": {
@@ -173118,7 +173118,7 @@
     "travel_advisory": ""
   },
   "IN:GB": {
-    "notes": "- Transit visa: Required, unless holding a valid visa or permanent residence in Canada, New Zealand, Australia, EU or the USA. [ 410 ]\n- Visa not required if holding a biometric Irish visa endorsed with \"BC\" or \"BC BIVS\".\n- Other exemptions apply for Visa-free Direct Airside Transit. [ 411 ]",
+    "notes": "- Transit visa: Required, unless holding a valid visa or permanent residence in Canada, New Zealand, Australia, EU or the USA. [ 410 ]\n- Visa not required if holding a biometric Irish visa endorsed with \"BC\" or \"BC BIVS\".\n- eVisa can be applied through gov portal [ ]\n- Other exemptions apply for Visa-free Direct Airside Transit. [ 411 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -234712,7 +234712,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "182",
+    "footnote_ids": "183",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -234866,7 +234866,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "179",
+    "footnote_ids": "180",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -234877,20 +234877,20 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "180;181",
+    "footnote_ids": "181;182",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
   },
   "LY:NI": {
-    "notes": "- VoA with valid visas of US, Canada, and Schengen",
+    "notes": "- VoA with valid visas of US, Canada, and Schengen.\n- maximum allowed stay with extensions for eVisa is 120 days",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "178",
+    "footnote_ids": "178;179",
     "display": "",
-    "stay_display": "",
+    "stay_display": "30 days",
     "travel_advisory": ""
   },
   "LY:NL": {
@@ -234910,7 +234910,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "183",
+    "footnote_ids": "184",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -234954,7 +234954,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "184;185",
+    "footnote_ids": "185;186",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -234965,7 +234965,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "189",
+    "footnote_ids": "190",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -234976,7 +234976,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "193",
+    "footnote_ids": "194",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -234987,20 +234987,20 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "190;191",
+    "footnote_ids": "191;192",
     "display": "",
     "stay_display": "60 days",
     "travel_advisory": ""
   },
   "LY:PH": {
-    "notes": "- Residents of the United Arab Emirates may obtain an eVisa through the official Philippine eVisa website. A valid Emirati residence visa must be shown upon an eVisa application. [ 195 ] [ 196 ]",
+    "notes": "valid for 3 months for single entry, and 6 months or 1 year for multiple entry",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "194;195;196",
+    "footnote_ids": "195;196",
     "display": "",
-    "stay_display": "",
+    "stay_display": "59 days",
     "travel_advisory": ""
   },
   "LY:PK": {
@@ -235009,7 +235009,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "186;187",
+    "footnote_ids": "187;188",
     "display": "",
     "stay_display": "3 months",
     "travel_advisory": ""
@@ -235053,7 +235053,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "188",
+    "footnote_ids": "189",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -235064,7 +235064,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "192",
+    "footnote_ids": "193",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -295438,12 +295438,12 @@
     "travel_advisory": ""
   },
   "NZ:IL": {
-    "notes": "- The New Zealand government advises its citizens not to travel to Israel due to the ongoing conflict in the middle east. [ 139 ]\n- Entry refused to anyone who \"knowingly issues a public call for boycotting Israel.\" [ 140 ]",
+    "notes": "- Entry refused to anyone who \"knowingly issues a public call for boycotting Israel.\" [ 139 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "139;140;141;142",
+    "footnote_ids": "139;140;141",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -295498,7 +295498,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "143",
+    "footnote_ids": "142",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -295509,7 +295509,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "144",
+    "footnote_ids": "143",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -295520,7 +295520,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "146;147",
+    "footnote_ids": "145;146",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -295531,18 +295531,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "145",
+    "footnote_ids": "144",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
   },
   "NZ:KE": {
-    "notes": "- Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance.\n- eTA fee is 32.50 USD.\n- Proof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable).\n- Yellow fever vaccination certificate is required if coming from endemic countries.\n- Can also be entered on an East Africa tourist visa issued by Rwanda or Uganda. [ 149 ]",
+    "notes": "- Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance.\n- eTA fee is 32.50 USD.\n- Proof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable).\n- Yellow fever vaccination certificate is required if coming from endemic countries.\n- Can also be entered on an East Africa tourist visa issued by Rwanda or Uganda. [ 148 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "149;150;migration.gov.rw-151",
+    "footnote_ids": "148;149;migration.gov.rw-150",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -295575,7 +295575,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "152",
+    "footnote_ids": "151",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -295603,34 +295603,34 @@
     "travel_advisory": ""
   },
   "NZ:KP": {
-    "notes": "- The New Zealand government advises its citizens not to travel to North Korea due to extensive restrictions placed on foreigners and an uncertain security situation that can change with little warning. [ 152 ]",
+    "notes": "- The New Zealand government advises its citizens not to travel to North Korea due to extensive restrictions placed on foreigners and an uncertain security situation that can change with little warning. [ 151 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "153;154",
+    "footnote_ids": "152;153",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
   },
   "NZ:KR": {
-    "notes": "- The validity period of a K-ETA is 3 years from the date of approval. [ 155 ]\n- Exempted from the K-ETA requirement until 31 December 2026. [ 156 ]",
+    "notes": "- The validity period of a K-ETA is 3 years from the date of approval. [ 154 ]\n- Exempted from the K-ETA requirement until 31 December 2026. [ 155 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "155;156;157;158",
+    "footnote_ids": "154;155;156;157",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
   },
   "NZ:KW": {
-    "notes": "eVisa may also be applied for stays up to 3 months.",
+    "notes": "eVisa may also be applied for stays up to 3 months.\n\n- The New Zealand government advises its citizens not to travel to Kuwait due to the ongoing conflict in the middle east. [ 158 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "159;160",
+    "footnote_ids": "158;159;middle_east_security_situation-160",
     "display": "",
     "stay_display": "3 months",
     "travel_advisory": ""
@@ -295641,7 +295641,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "148",
+    "footnote_ids": "147",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -296230,23 +296230,23 @@
     "travel_advisory": ""
   },
   "NZ:RW": {
-    "notes": "- Can also be entered on an East Africa Tourist Visa issued by Kenya or Uganda. [ 149 ]",
+    "notes": "- Can also be entered on an East Africa Tourist Visa issued by Kenya or Uganda. [ 148 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "239;migration.gov.rw-151",
+    "footnote_ids": "239;migration.gov.rw-150",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
   },
   "NZ:SA": {
-    "notes": "eVisa may also be applied for stays up to 90 days.",
+    "notes": "eVisa may also be applied for stays up to 90 days.\n\n- The New Zealand government advises its citizens not to travel to Saudi Arabia due to the ongoing conflict in the middle east. [ 158 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "248;249",
+    "footnote_ids": "248;249;middle_east_security_situation-160",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -296593,12 +296593,12 @@
     "travel_advisory": ""
   },
   "NZ:UG": {
-    "notes": "- Can also be entered on an East Africa Tourist Visa issued by Kenya or Rwanda. [ 149 ]",
+    "notes": "- Can also be entered on an East Africa Tourist Visa issued by Kenya or Rwanda. [ 148 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "301;302;migration.gov.rw-151",
+    "footnote_ids": "301;302;migration.gov.rw-150",
     "display": "",
     "stay_display": "3 months",
     "travel_advisory": ""
@@ -327343,7 +327343,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "363",
+    "footnote_ids": "368",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -327684,7 +327684,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "339",
+    "footnote_ids": "344",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -327805,7 +327805,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "180",
+    "footnote_ids": "181",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -327926,7 +327926,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "330",
+    "footnote_ids": "335",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -327970,7 +327970,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "256",
+    "footnote_ids": "258",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -327998,12 +327998,12 @@
     "travel_advisory": ""
   },
   "RU:GB": {
-    "notes": "- 24-hours visa-free visit:\n  - When in transit to/from Australia, Canada, New Zealand or USA, or\n  - If holder of residence permit issued by Australia, Canada, New Zealand or USA, or\n  - If holder of certain EEA or Switzerland visas, or\n  - If holder of certain Irish visas. [ 361 ]",
+    "notes": "- 24-hours visa-free visit:\n  - When in transit to/from Australia, Canada, New Zealand or USA, or\n  - If holder of residence permit issued by Australia, Canada, New Zealand or USA, or\n  - If holder of certain EEA or Switzerland visas, or\n  - If holder of certain Irish visas. [ 366 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "364;365",
+    "footnote_ids": "369;370",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -328014,7 +328014,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "183",
+    "footnote_ids": "184",
     "display": "",
     "stay_display": "3 months",
     "travel_advisory": ""
@@ -328025,7 +328025,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "178;179",
+    "footnote_ids": "179;180",
     "display": "",
     "stay_display": "1 year",
     "travel_advisory": ""
@@ -328036,18 +328036,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "181",
+    "footnote_ids": "182",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
   },
   "RU:GM": {
-    "notes": "- Visa required according to Timatic [ 175 ]",
+    "notes": "- Listed under \"Countries With Visa Exemption Agreement\" by Gambia Immigration Department [ 175 ].\n- However, visa exemption agreement signed in 2017 only covers service and diplomatic passports [ 176 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "176;177",
+    "footnote_ids": "176;177;178",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -328058,7 +328058,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "185;186",
+    "footnote_ids": "186;187",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -328080,7 +328080,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "182",
+    "footnote_ids": "183",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -328091,7 +328091,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "184",
+    "footnote_ids": "185",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -328102,7 +328102,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "187",
+    "footnote_ids": "188",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -328113,7 +328113,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "188",
+    "footnote_ids": "189",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -328124,7 +328124,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "396",
+    "footnote_ids": "401",
     "display": "",
     "stay_display": "14 days",
     "travel_advisory": ""
@@ -328135,7 +328135,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "190",
+    "footnote_ids": "191",
     "display": "",
     "stay_display": "3 months",
     "travel_advisory": ""
@@ -328157,7 +328157,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "189",
+    "footnote_ids": "190",
     "display": "",
     "stay_display": "3 months",
     "travel_advisory": ""
@@ -328168,7 +328168,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "191",
+    "footnote_ids": "192",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -328179,7 +328179,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "200;201",
+    "footnote_ids": "201;202",
     "display": "e-VOA",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -328190,7 +328190,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "210",
+    "footnote_ids": "211",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -328201,40 +328201,40 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "211;212",
+    "footnote_ids": "212;213",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
   },
   "RU:IN": {
-    "notes": "- e-Visa holders must arrive via 32 designated airports [ Note 3 ] or 5 designated seaports. [ Note 4 ] [ 193 ]\n- An Indian e-Tourist Visa may only be obtained twice within 1 calendar year. [ 194 ]\n- Foreigners of Pakistani origin or who hold a Pakistani Passport are not eligible for an e-Visa. Foreigners who are not Pakistani nationals, but whose parents or grandparents (either paternal or maternal) were born in, or were permanent residents in Pakistan, are also not eligible for an e-Visa. [ 195 ]",
+    "notes": "- e-Visa holders must arrive via 32 designated airports [ Note 3 ] or 5 designated seaports. [ Note 4 ] [ 194 ]\n- An Indian e-Tourist Visa may only be obtained twice within 1 calendar year. [ 195 ]\n- Foreigners of Pakistani origin or who hold a Pakistani Passport are not eligible for an e-Visa. Foreigners who are not Pakistani nationals, but whose parents or grandparents (either paternal or maternal) were born in, or were permanent residents in Pakistan, are also not eligible for an e-Visa. [ 196 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "193;194;197;198;199;Airports-195;Seaports-196",
+    "footnote_ids": "194;195;198;199;200;Airports-196;Seaports-197",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
   },
   "RU:IQ": {
-    "notes": "- Due to safety concerns, the Russian government advises its citizens not to visit Iraq. [ 205 ]",
+    "notes": "- Due to safety concerns, the Russian government advises its citizens not to visit Iraq. [ 206 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "207;208;209",
+    "footnote_ids": "208;209;210",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
   },
   "RU:IR": {
-    "notes": "Visa is not required under certain conditions and allows for stays up to 15 days.\n\n- Visa not required for 15 days for travelling as part of an accredited tour group (5 ~ 50 people).\n- Citizens of Russia who have already made an application, at least two days before arrival, at the Iranian Ministry of Foreign Affair's e-Visa website and present the submission notification at the airport's visa desk may obtain a visa on arrival. [ 200 ]\n- Admission will be refused:\n  - to women not wearing Islamic head cover, scarf, long sleeves or stockings.\n  - to holders of passports containing an Israeli visa/stamp in the last 12 months. [ 201 ] [ circular reference ]\n- 14 day visa-free on Kish and Qeshm Islands. [ 202 ]\n- Extension of stay is possible twice for 30 days for a total of up to 90 days.",
+    "notes": "Visa is not required under certain conditions and allows for stays up to 15 days.\n\n- Visa not required for 15 days for travelling as part of an accredited tour group (5 ~ 50 people).\n- Citizens of Russia who have already made an application, at least two days before arrival, at the Iranian Ministry of Foreign Affair's e-Visa website and present the submission notification at the airport's visa desk may obtain a visa on arrival. [ 201 ]\n- Admission will be refused:\n  - to women not wearing Islamic head cover, scarf, long sleeves or stockings.\n  - to holders of passports containing an Israeli visa/stamp in the last 12 months. [ 202 ] [ circular reference ]\n- 14 day visa-free on Kish and Qeshm Islands. [ 203 ]\n- Extension of stay is possible twice for 30 days for a total of up to 90 days.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "202;203;204;206;Visa_Iran-205",
+    "footnote_ids": "203;204;205;207;Visa_Iran-206",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -328245,7 +328245,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "192",
+    "footnote_ids": "193",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -328256,7 +328256,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "213",
+    "footnote_ids": "214",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -328267,7 +328267,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "214",
+    "footnote_ids": "215",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -328278,7 +328278,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "216;217;jordan-46",
+    "footnote_ids": "217;218;jordan-46",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -328289,18 +328289,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "215",
+    "footnote_ids": "216",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
   },
   "RU:KE": {
-    "notes": "- Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance.\n- eTA fee is 32.50 USD.\n- Proof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable).\n- Yellow fever vaccination certificate is required if coming from endemic countries.\n- Can also be entered on an East Africa tourist visa issued by Rwanda or Uganda. [ 217 ]",
+    "notes": "- Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance.\n- eTA fee is 32.50 USD.\n- Proof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable).\n- Yellow fever vaccination certificate is required if coming from endemic countries.\n- Can also be entered on an East Africa tourist visa issued by Rwanda or Uganda. [ 218 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "219;220;migration.gov.rw-221",
+    "footnote_ids": "220;221;migration.gov.rw-222",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -328311,7 +328311,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "228",
+    "footnote_ids": "229",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -328333,7 +328333,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "222",
+    "footnote_ids": "223",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -328355,7 +328355,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "303;304",
+    "footnote_ids": "305;306",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -328366,18 +328366,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "223",
+    "footnote_ids": "224",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
   },
   "RU:KR": {
-    "notes": "- A maximum total stay of 90 days within any 180-day period.\n- The validity period of a K-ETA is 3 years from the date of approval. [ 222 ]",
+    "notes": "- A maximum total stay of 90 days within any 180-day period.\n- The validity period of a K-ETA is 3 years from the date of approval. [ 223 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "224;225;226",
+    "footnote_ids": "225;226;227",
     "display": "",
     "stay_display": "60 days",
     "travel_advisory": ""
@@ -328388,7 +328388,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "227",
+    "footnote_ids": "228",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -328399,7 +328399,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "218",
+    "footnote_ids": "219",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -328410,7 +328410,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "229",
+    "footnote_ids": "230",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -328421,7 +328421,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "232",
+    "footnote_ids": "233",
     "display": "",
     "stay_display": "1 month",
     "travel_advisory": ""
@@ -328432,7 +328432,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "305",
+    "footnote_ids": "307",
     "display": "",
     "stay_display": "6 weeks",
     "travel_advisory": ""
@@ -328443,7 +328443,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "238",
+    "footnote_ids": "240",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -328454,7 +328454,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "331;332",
+    "footnote_ids": "336;337",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -328465,18 +328465,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "234;235",
+    "footnote_ids": "236;237",
     "display": "e-VOA",
     "stay_display": "3 months",
     "travel_advisory": ""
   },
   "RU:LS": {
-    "notes": "",
+    "notes": "- Obtaining a visa online via email might be possible [ 231 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "233",
+    "footnote_ids": "234;235",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -328487,7 +328487,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "239;240",
+    "footnote_ids": "241;242",
     "display": "Admission refused",
     "stay_display": "",
     "travel_advisory": ""
@@ -328498,7 +328498,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "241",
+    "footnote_ids": "243",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -328509,7 +328509,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "230;231",
+    "footnote_ids": "231;232",
     "display": "Admission refused",
     "stay_display": "",
     "travel_advisory": ""
@@ -328520,7 +328520,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "236;237",
+    "footnote_ids": "238;239",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -328531,7 +328531,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "262",
+    "footnote_ids": "264",
     "display": "",
     "stay_display": "3 months",
     "travel_advisory": ""
@@ -328542,7 +328542,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "258",
+    "footnote_ids": "260",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -328553,18 +328553,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "257",
+    "footnote_ids": "259",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
   },
   "RU:ME": {
-    "notes": "- Visa not required until November 1, 2026. [ 257 ]",
+    "notes": "- Visa not required until November 1, 2026. [ 259 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "260;261",
+    "footnote_ids": "262;263",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -328575,7 +328575,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "242;243",
+    "footnote_ids": "244;245",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -328586,7 +328586,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "250",
+    "footnote_ids": "252",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -328597,7 +328597,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "281;282",
+    "footnote_ids": "283;284",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -328608,7 +328608,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "248",
+    "footnote_ids": "250",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -328619,7 +328619,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "265;266",
+    "footnote_ids": "267;268",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -328630,7 +328630,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "259",
+    "footnote_ids": "261",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -328641,7 +328641,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "397",
+    "footnote_ids": "402",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -328652,7 +328652,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "251;252",
+    "footnote_ids": "253;254",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -328663,7 +328663,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "249",
+    "footnote_ids": "251",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -328674,7 +328674,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "253",
+    "footnote_ids": "255",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -328685,7 +328685,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "247",
+    "footnote_ids": "249",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -328696,7 +328696,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "244;245",
+    "footnote_ids": "246;247",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -328707,7 +328707,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "255;ReferenceC-254",
+    "footnote_ids": "257;ReferenceC-256",
     "display": "",
     "stay_display": "180 days",
     "travel_advisory": ""
@@ -328718,7 +328718,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "246",
+    "footnote_ids": "248",
     "display": "",
     "stay_display": "1 month",
     "travel_advisory": ""
@@ -328729,7 +328729,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "263;264",
+    "footnote_ids": "265;266",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -328740,7 +328740,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "267",
+    "footnote_ids": "269",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -328751,7 +328751,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "278",
+    "footnote_ids": "280",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -328762,7 +328762,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "279;280",
+    "footnote_ids": "281;282",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -328773,7 +328773,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "277",
+    "footnote_ids": "279",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -328784,7 +328784,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "272",
+    "footnote_ids": "274",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -328795,7 +328795,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "283;284",
+    "footnote_ids": "285;286",
     "display": "Admission refused",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -328806,7 +328806,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "270;271",
+    "footnote_ids": "272;273",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -328817,18 +328817,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "268;269",
+    "footnote_ids": "270;271",
     "display": "",
     "stay_display": "14 days",
     "travel_advisory": ""
   },
   "RU:NZ": {
-    "notes": "- May apply online (Online Visitor Visa). [ 270 ] [ 271 ]\n- Also referred to as eVisa [ 272 ]",
+    "notes": "- May apply online (Online Visitor Visa). [ 272 ] [ 273 ]\n- Also referred to as eVisa [ 274 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "273;274;275;276",
+    "footnote_ids": "275;276;277;278",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -328839,7 +328839,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "285;286;287",
+    "footnote_ids": "287;288;289",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -328850,7 +328850,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "291",
+    "footnote_ids": "293",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -328861,7 +328861,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "295",
+    "footnote_ids": "297",
     "display": "",
     "stay_display": "183 days",
     "travel_advisory": ""
@@ -328872,7 +328872,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "292;293",
+    "footnote_ids": "294;295",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -328883,7 +328883,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "296",
+    "footnote_ids": "298",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -328894,7 +328894,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "288;289",
+    "footnote_ids": "290;291",
     "display": "",
     "stay_display": "3 months",
     "travel_advisory": ""
@@ -328905,18 +328905,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "297",
+    "footnote_ids": "299",
     "display": "Admission refused",
     "stay_display": "",
     "travel_advisory": ""
   },
   "RU:PS": {
-    "notes": "Arrival by sea to Gaza Strip not allowed. [ 384 ]",
+    "notes": "Arrival by sea to Gaza Strip not allowed. [ 389 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "387;388",
+    "footnote_ids": "392;393",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -328927,7 +328927,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "298",
+    "footnote_ids": "300",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -328938,7 +328938,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "290",
+    "footnote_ids": "292",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -328949,7 +328949,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "294",
+    "footnote_ids": "296",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -328960,7 +328960,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "299",
+    "footnote_ids": "301",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -328971,7 +328971,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "ReferenceD-300",
+    "footnote_ids": "ReferenceD-302",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -328982,18 +328982,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "313",
+    "footnote_ids": "318",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
   },
   "RU:RW": {
-    "notes": "eVisa may also be applied for stays up to 30 days.\n\n- A visa on arrival is available for 30 days.\n- Can also be entered on an East Africa Tourist Visa issued by Kenya or Uganda. [ 217 ]",
+    "notes": "eVisa may also be applied for stays up to 30 days.\n\n- A visa on arrival is available for 30 days.\n- Can also be entered on an East Africa Tourist Visa issued by Kenya or Uganda. [ 218 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "301;302;migration.gov.rw-221",
+    "footnote_ids": "303;304;migration.gov.rw-222",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -329004,7 +329004,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "311",
+    "footnote_ids": "316",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -329015,7 +329015,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "323",
+    "footnote_ids": "328",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -329026,7 +329026,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "314;315",
+    "footnote_ids": "319;320",
     "display": "",
     "stay_display": "3 months",
     "travel_advisory": ""
@@ -329037,7 +329037,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "333",
+    "footnote_ids": "338",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -329048,18 +329048,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "338",
+    "footnote_ids": "343",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
   },
   "RU:SG": {
-    "notes": "- May obtain online e-Service through eligible through authorized travel agencies or through local sponsors (Singapore citizen or permanent residents). [ 315 ] [ 316 ]\n- Allowed visa-free transit for 96 hours.",
+    "notes": "- May obtain online e-Service through eligible through authorized travel agencies or through local sponsors (Singapore citizen or permanent residents). [ 320 ] [ 321 ]\n- Allowed visa-free transit for 96 hours.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "318;319;320",
+    "footnote_ids": "323;324;325",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -329070,7 +329070,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "322",
+    "footnote_ids": "327",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -329081,7 +329081,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "321",
+    "footnote_ids": "326",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -329092,20 +329092,20 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "316;317",
+    "footnote_ids": "321;322",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
   },
   "RU:SM": {
-    "notes": "- Although officially no visa is required, at least a Double Entry Schengen visa is required to enter San Marino since it has no own airport facility.",
+    "notes": "- In late 2021, visa abolishing agreement was signed [ 307 ]\n- Both Timatic and Russian Ministry of Foreign Affairs however still state that visa is required [ 308 ]\n- Nonetheless, San Marino carries out no border formalities [ 309 ] and maintains an open border with Italy",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "308",
+    "footnote_ids": "310;311;312;313",
     "display": "",
-    "stay_display": "90 days",
+    "stay_display": "",
     "travel_advisory": ""
   },
   "RU:SN": {
@@ -329114,29 +329114,29 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "312",
+    "footnote_ids": "317",
     "display": "",
     "stay_display": "1 month",
     "travel_advisory": ""
   },
   "RU:SO": {
-    "notes": "- Due to safety concerns, the Russian government advises its citizens not to visit Somalia. [ 322 ]",
+    "notes": "- Due to safety concerns, the Russian government advises its citizens not to visit Somalia. [ 327 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "324;325;326",
+    "footnote_ids": "329;330;331",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
   },
   "RU:SR": {
-    "notes": "- An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival. [ 332 ]\n- Multiple entry e-Visa is also available. [ 333 ]",
+    "notes": "- An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival. [ 337 ]\n- Multiple entry e-Visa is also available. [ 338 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "334;335;336;337",
+    "footnote_ids": "339;340;341;342",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -329147,7 +329147,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "328;329",
+    "footnote_ids": "333;334",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -329158,7 +329158,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "309;310",
+    "footnote_ids": "314;315",
     "display": "",
     "stay_display": "15 days",
     "travel_advisory": ""
@@ -329175,12 +329175,12 @@
     "travel_advisory": ""
   },
   "RU:SY": {
-    "notes": "- Due to safety concerns, the Russian government advises its citizens not to visit Syria. [ 338 ]",
+    "notes": "- Due to safety concerns, the Russian government advises its citizens not to visit Syria. [ 343 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "340;341;342",
+    "footnote_ids": "345;346;347",
     "display": "",
     "stay_display": "15 days",
     "travel_advisory": ""
@@ -329213,7 +329213,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "348;349",
+    "footnote_ids": "353;354",
     "display": "",
     "stay_display": "15 days",
     "travel_advisory": ""
@@ -329224,7 +329224,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "346",
+    "footnote_ids": "351",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -329235,7 +329235,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "343",
+    "footnote_ids": "348",
     "display": "",
     "stay_display": "Unlimited",
     "travel_advisory": ""
@@ -329246,18 +329246,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "347",
+    "footnote_ids": "352",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
   },
   "RU:TM": {
-    "notes": "- 10-day visa on arrival if holding a letter of invitation provided by a company registered in Turkmenistan with a prior approval from the Foreign Ministry. Visitors can apply to extend their stay for an additional 10 days. [ 351 ]\n- When transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD. [ 352 ] [ 353 ]",
+    "notes": "- 10-day visa on arrival if holding a letter of invitation provided by a company registered in Turkmenistan with a prior approval from the Foreign Ministry. Visitors can apply to extend their stay for an additional 10 days. [ 356 ]\n- When transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD. [ 357 ] [ 358 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "354;355;356;357",
+    "footnote_ids": "359;360;361;362",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -329268,7 +329268,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "352",
+    "footnote_ids": "357",
     "display": "",
     "stay_display": "3 months",
     "travel_advisory": ""
@@ -329279,7 +329279,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "350",
+    "footnote_ids": "355",
     "display": "",
     "stay_display": "31 days",
     "travel_advisory": ""
@@ -329290,7 +329290,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "353",
+    "footnote_ids": "358",
     "display": "",
     "stay_display": "60 days",
     "travel_advisory": ""
@@ -329301,7 +329301,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "351",
+    "footnote_ids": "356",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -329312,18 +329312,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "358",
+    "footnote_ids": "363",
     "display": "",
     "stay_display": "1 month",
     "travel_advisory": ""
   },
   "RU:TW": {
-    "notes": "- Temporary regime until July 6, 2027 [ 388 ]\n- Earlier visa-free regime was suspended in 2022",
+    "notes": "- Temporary regime until July 6, 2027 [ 393 ]\n- Earlier visa-free regime was suspended in 2022",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "392",
+    "footnote_ids": "397",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -329334,7 +329334,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "344;345",
+    "footnote_ids": "349;350",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -329345,29 +329345,29 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "361;362;7380531UkrainebgBfr-65",
+    "footnote_ids": "366;367;7380531UkrainebgBfr-65",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
   },
   "RU:UG": {
-    "notes": "- Can also be entered on an East Africa Tourist Visa issued by Kenya or Rwanda. [ 217 ]",
+    "notes": "- Can also be entered on an East Africa Tourist Visa issued by Kenya or Rwanda. [ 218 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "359;360;migration.gov.rw-221",
+    "footnote_ids": "364;365;migration.gov.rw-222",
     "display": "",
     "stay_display": "3 months",
     "travel_advisory": ""
   },
   "RU:US": {
-    "notes": "- Residents of the Chukotka Autonomous Okrug in Russia who are members of the indigenous population do not need a visa to visit Alaska if they have relatives (blood relatives, members of the same tribe, native people who have similar language and cultural heritage) in Alaska. Entry points are in Gambell and Nome. Individuals must be invited by a relative in Alaska, must notify local authorities at least ten days before traveling to Alaska, and must leave Alaska within 90 days. [ 363 ] [ 364 ]",
+    "notes": "- Residents of the Chukotka Autonomous Okrug in Russia who are members of the indigenous population do not need a visa to visit Alaska if they have relatives (blood relatives, members of the same tribe, native people who have similar language and cultural heritage) in Alaska. Entry points are in Gambell and Nome. Individuals must be invited by a relative in Alaska, must notify local authorities at least ten days before traveling to Alaska, and must leave Alaska within 90 days. [ 368 ] [ 369 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "366;367;368",
+    "footnote_ids": "371;372;373",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -329378,7 +329378,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "369",
+    "footnote_ids": "374",
     "display": "",
     "stay_display": "3 months",
     "travel_advisory": ""
@@ -329389,7 +329389,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "370;371",
+    "footnote_ids": "375;376",
     "display": "",
     "stay_display": "Unlimited",
     "travel_advisory": ""
@@ -329400,7 +329400,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "373",
+    "footnote_ids": "378",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -329411,7 +329411,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "306",
+    "footnote_ids": "308",
     "display": "",
     "stay_display": "3 months",
     "travel_advisory": ""
@@ -329422,18 +329422,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "374",
+    "footnote_ids": "379",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
   },
   "RU:VN": {
-    "notes": "- 30 day visa-free on Phú Quốc. [ 372 ]\n- A single entry e-Visa is available for 90 days. [ 373 ]",
+    "notes": "- 30 day visa-free on Phú Quốc. [ 377 ]\n- A single entry e-Visa is available for 90 days. [ 378 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "375;376;377",
+    "footnote_ids": "380;381;382",
     "display": "",
     "stay_display": "45 days",
     "travel_advisory": ""
@@ -329444,7 +329444,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "372",
+    "footnote_ids": "377",
     "display": "",
     "stay_display": "120 days",
     "travel_advisory": ""
@@ -329455,29 +329455,29 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "307",
+    "footnote_ids": "309",
     "display": "",
     "stay_display": "60 days",
     "travel_advisory": ""
   },
   "RU:XK": {
-    "notes": "Visa is not required (in theory) for holders of a valid Laissez-Passer issued by United Nations Organizations, NATO, OSCE, Council of Europe or European Union, holders of valid travel documents issued by EU Member and Schengen States, United States of America, Canada, Australia and Japan based on the 1951 Convention on Refugee Status or the 1954 Convention on the Status of Stateless Persons, as well as holders of valid travel documents for foreigners (max. 15 days stay). [ 381 ]",
+    "notes": "Visa is not required (in theory) for holders of a valid Laissez-Passer issued by United Nations Organizations, NATO, OSCE, Council of Europe or European Union, holders of valid travel documents issued by EU Member and Schengen States, United States of America, Canada, Australia and Japan based on the 1951 Convention on Refugee Status or the 1954 Convention on the Status of Stateless Persons, as well as holders of valid travel documents for foreigners (max. 15 days stay). [ 386 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "384;385",
+    "footnote_ids": "389;390",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
   },
   "RU:YE": {
-    "notes": "- Due to safety concerns, the Russian government advises its citizens not to visit Yemen.\n- Separately, Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.). [ 375 ]",
+    "notes": "- Due to safety concerns, the Russian government advises its citizens not to visit Yemen.\n- Separately, Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.). [ 380 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "378;379",
+    "footnote_ids": "383;384",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -329488,7 +329488,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "327",
+    "footnote_ids": "332",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -329499,7 +329499,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "380;381",
+    "footnote_ids": "385;386",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -329510,7 +329510,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "382;383",
+    "footnote_ids": "387;388",
     "display": "",
     "stay_display": "1 month",
     "travel_advisory": ""
@@ -416669,12 +416669,12 @@
     "travel_advisory": ""
   },
   "VN:AE": {
-    "notes": "- May apply using 'Smart service'. [ 281 ]",
+    "notes": "- May apply using 'Smart service'. [ 278 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "283;284",
+    "footnote_ids": "280;281",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -417015,7 +417015,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "259",
+    "footnote_ids": "256",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -417257,7 +417257,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "251",
+    "footnote_ids": "248",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -417329,12 +417329,12 @@
     "travel_advisory": ""
   },
   "VN:GB": {
-    "notes": "- Direct Airside Transit visa (DATV) and Visitor in Transit visa (TWOV) may not be required under certain conditions. [ 283 ]",
+    "notes": "- Direct Airside Transit visa (DATV) and Visitor in Transit visa (TWOV) may not be required under certain conditions. [ 280 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "285;286",
+    "footnote_ids": "282;283",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -417455,7 +417455,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "308;309",
+    "footnote_ids": "305;306",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -417686,7 +417686,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "225;226",
+    "footnote_ids": "223;224",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -417763,7 +417763,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "227",
+    "footnote_ids": "225",
     "display": "",
     "stay_display": "6 weeks",
     "travel_advisory": ""
@@ -417785,7 +417785,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "252;253",
+    "footnote_ids": "249;250",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -417967,12 +417967,12 @@
     "travel_advisory": ""
   },
   "VN:MO": {
-    "notes": "- Visitors must obtain a visa in advance through the Chinese diplomatic mission. [ 310 ]",
+    "notes": "- Visitors must obtain a visa in advance through the Chinese diplomatic mission. [ 307 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "312;313",
+    "footnote_ids": "309;310",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -418313,18 +418313,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "235;236",
+    "footnote_ids": "233;234",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
   },
   "VN:RU": {
-    "notes": "",
+    "notes": "- Visa not required from 15 October 2026 to 15 October 2027",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "222;223",
+    "footnote_ids": "",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -418335,7 +418335,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "224",
+    "footnote_ids": "222",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -418346,7 +418346,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "233",
+    "footnote_ids": "231",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -418357,7 +418357,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "244",
+    "footnote_ids": "242",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -418368,7 +418368,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "237;238",
+    "footnote_ids": "235;236",
     "display": "",
     "stay_display": "3 months",
     "travel_advisory": ""
@@ -418379,7 +418379,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "254",
+    "footnote_ids": "251",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -418390,7 +418390,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "258",
+    "footnote_ids": "255",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -418401,7 +418401,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "241",
+    "footnote_ids": "239",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -418412,7 +418412,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "243",
+    "footnote_ids": "241",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -418423,7 +418423,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "242",
+    "footnote_ids": "240",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -418434,7 +418434,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "239;240",
+    "footnote_ids": "237;238",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -418445,7 +418445,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "230",
+    "footnote_ids": "228",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -418456,29 +418456,29 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "234",
+    "footnote_ids": "232",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
   },
   "VN:SO": {
-    "notes": "- All visitors must have an approved Electronic Visa (eTAS) before the start of their journey. [ 244 ]",
+    "notes": "- All visitors must have an approved Electronic Visa (eTAS) before the start of their journey. [ 242 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "245;246;247",
+    "footnote_ids": "243;244;245",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
   },
   "VN:SR": {
-    "notes": "- An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival. [ 253 ]\n- Multiple entry e-Visa is also available. [ 254 ]",
+    "notes": "- An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival. [ 250 ]\n- Multiple entry e-Visa is also available. [ 251 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "255;256;257",
+    "footnote_ids": "252;253;254",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -418489,7 +418489,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "249;250",
+    "footnote_ids": "246;247",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -418500,7 +418500,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "231;232",
+    "footnote_ids": "229;230",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -418522,7 +418522,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "260;261",
+    "footnote_ids": "257;258",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -418555,7 +418555,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "268;269",
+    "footnote_ids": "265;266",
     "display": "",
     "stay_display": "15 days",
     "travel_advisory": ""
@@ -418566,7 +418566,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "266",
+    "footnote_ids": "263",
     "display": "",
     "stay_display": "60 days",
     "travel_advisory": ""
@@ -418577,7 +418577,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "262;263",
+    "footnote_ids": "259;260",
     "display": "",
     "stay_display": "60 days",
     "travel_advisory": ""
@@ -418588,18 +418588,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "267",
+    "footnote_ids": "264",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
   },
   "VN:TM": {
-    "notes": "- When transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD. [ 274 ] [ 275 ]",
+    "notes": "- When transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD. [ 271 ] [ 272 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "276;277;278",
+    "footnote_ids": "273;274;275",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -418610,7 +418610,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "273",
+    "footnote_ids": "270",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -418621,7 +418621,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "270",
+    "footnote_ids": "267",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -418632,7 +418632,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "274;275",
+    "footnote_ids": "271;272",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -418643,7 +418643,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "271;272",
+    "footnote_ids": "268;269",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -418654,7 +418654,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "279",
+    "footnote_ids": "276",
     "display": "",
     "stay_display": "1 month",
     "travel_advisory": ""
@@ -418665,7 +418665,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "314;315",
+    "footnote_ids": "311;312",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -418676,7 +418676,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "264;265",
+    "footnote_ids": "261;262",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -418687,7 +418687,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "282",
+    "footnote_ids": "279",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -418698,7 +418698,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "280;281",
+    "footnote_ids": "277;278",
     "display": "",
     "stay_display": "3 months",
     "travel_advisory": ""
@@ -418709,7 +418709,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "287",
+    "footnote_ids": "284",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -418720,18 +418720,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "288",
+    "footnote_ids": "285",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
   },
   "VN:UZ": {
-    "notes": "Visa is not required under certain conditions and allows for stays up to 30 days.\n\n- Visa not required for citizens over the age of 55 and they can stay for up to 30 days.\n- 5-day visa-free transit at the international airports if holding a confirmed onward ticket for a flight to a third country. [ 288 ]",
+    "notes": "Visa is not required under certain conditions and allows for stays up to 30 days.\n\n- Visa not required for citizens over the age of 55 and they can stay for up to 30 days.\n- 5-day visa-free transit at the international airports if holding a confirmed onward ticket for a flight to a third country. [ 285 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "289;290;291",
+    "footnote_ids": "286;287;288",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -418742,7 +418742,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "293",
+    "footnote_ids": "290",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -418753,7 +418753,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "228",
+    "footnote_ids": "226",
     "display": "",
     "stay_display": "3 months",
     "travel_advisory": ""
@@ -418764,7 +418764,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "294;295",
+    "footnote_ids": "291;292",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -418775,7 +418775,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "292",
+    "footnote_ids": "289",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -418786,7 +418786,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "229",
+    "footnote_ids": "227",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -418803,12 +418803,12 @@
     "travel_advisory": ""
   },
   "VN:YE": {
-    "notes": "- Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.). [ 294 ]",
+    "notes": "- Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.). [ 291 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "296;297",
+    "footnote_ids": "293;294",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -418819,9 +418819,9 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "248",
+    "footnote_ids": "",
     "display": "",
-    "stay_display": "",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "VN:ZM": {
@@ -418830,7 +418830,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "298;299",
+    "footnote_ids": "295;296",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -418841,7 +418841,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "300;301",
+    "footnote_ids": "297;298",
     "display": "",
     "stay_display": "1 month",
     "travel_advisory": ""

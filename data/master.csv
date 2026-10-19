@@ -1386,7 +1386,7 @@ AM,SY,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens
 AM,SZ,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens,,unverified,,85,,,,true
 AM,TD,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens,,unverified,,54;55,,,,true
 AM,TG,ev,15,,https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens,,unverified,,255;256,,15 days,,true
-AM,TH,vo,15,eVisa may also be applied for stays up to 60 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens,,unverified,,252;253,,15 days,,true
+AM,TH,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens,,unverified,,252;253,,,,true
 AM,TJ,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens,,unverified,,249,,90 days,,true
 AM,TL,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens,,unverified,,254,,30 days,,true
 AM,TM,vr,,"- 10-day visa on arrival if holding a letter of invitation provided by a company registered in Turkmenistan with a prior approval from the Foreign Ministry. Visitors can apply to extend their stay for an additional 10 days. [ 257 ]
@@ -4633,7 +4633,7 @@ BI,TG,ev,15,,https://en.wikipedia.org/wiki/Visa_requirements_for_Burundian_citiz
 BI,TH,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Burundian_citizens,,unverified,,241;242,,,,true
 BI,TJ,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Burundian_citizens,,unverified,,238;239,,,,true
 BI,TL,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Burundian_citizens,,unverified,,243,,30 days,,true
-BI,TM,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Burundian_citizens,,unverified,,252,,,,true
+BI,TM,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Burundian_citizens,,unverified,,252,,,,true
 BI,TN,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Burundian_citizens,,unverified,,248,,,,true
 BI,TO,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Burundian_citizens,,unverified,,246,,,,true
 BI,TR,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Burundian_citizens,,unverified,,249;250;251,,,,true
@@ -4864,7 +4864,7 @@ BJ,TG,vf,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Beninese_citizens
 BJ,TH,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Beninese_citizens,,unverified,,240;241,,,,true
 BJ,TJ,ev,45,,https://en.wikipedia.org/wiki/Visa_requirements_for_Beninese_citizens,,unverified,,236;237,,45 days,,true
 BJ,TL,vo,30,- Not available at all entry points. [ 237 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Beninese_citizens,,unverified,,242;243,,30 days,,true
-BJ,TM,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Beninese_citizens,,unverified,,252,,,,true
+BJ,TM,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Beninese_citizens,,unverified,,252,,,,true
 BJ,TN,vf,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Beninese_citizens,,unverified,,247;248,,,,true
 BJ,TO,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Beninese_citizens,,unverified,,245,,,,true
 BJ,TR,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Beninese_citizens,,unverified,,249;250;251,,,,true
@@ -5825,7 +5825,7 @@ BS,TG,ev,15,,https://en.wikipedia.org/wiki/Visa_requirements_for_Bahamian_citize
 BS,TH,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Bahamian_citizens,,unverified,,231,,,,true
 BS,TJ,vf,30,- Visa also available online. [ 223 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Bahamian_citizens,,unverified,,229;MFA2024-228,,30 days,,true
 BS,TL,vo,30,- Not available at all entry points. [ 227 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Bahamian_citizens,,unverified,,232;233,,30 days,,true
-BS,TM,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Bahamian_citizens,,unverified,,240,,,,true
+BS,TM,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Bahamian_citizens,,unverified,,240,,,,true
 BS,TN,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Bahamian_citizens,,unverified,,238,,,,true
 BS,TO,vo,31,,https://en.wikipedia.org/wiki/Visa_requirements_for_Bahamian_citizens,,unverified,,236,,31 days,,true
 BS,TR,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Bahamian_citizens,,unverified,,239,,3 months,,true
@@ -8498,7 +8498,6 @@ CL,PG,ev,60,"- Available at Gurney Airport (Alotau), Mount Hagen Airport, Port M
 CL,PH,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Chilean_citizens,,unverified,,241,,30 days,,true
 CL,PK,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Chilean_citizens,,unverified,,232;233,,3 months,,true
 CL,PL,vf,90,"- 90 days within any 180 day period in the Schengen Area.
-- 90 days within any 180-day period in the Schengen Area.
 - Dual nationals must use their Polish passport.",https://en.wikipedia.org/wiki/Visa_requirements_for_Chilean_citizens,,unverified,,242,,90 days,,true
 CL,PS,vf,,- Travel to Gaza Strip may be restricted. [ 360 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Chilean_citizens,,unverified,,366,,,,false
 CL,PT,vf,90,- 90 days within any 180 day period in the Schengen Area.,https://en.wikipedia.org/wiki/Visa_requirements_for_Chilean_citizens,,unverified,,243,,90 days,,true
@@ -11620,241 +11619,241 @@ DM,YE,vr,,- Dominican Citizens of Yemeni origin with a Yemeni identification doc
 DM,ZA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominica_citizens,,unverified,,233,,,,true
 DM,ZM,vf,90,90 days as tourists or 30 days for business,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominica_citizens,,unverified,,277,,90 days as tourists,,true
 DM,ZW,vo,30,eVisa may also be applied for stays up to 30 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominica_citizens,,unverified,,278;279,,30 days,,true
-DO,AD,vr,,"- No border checkpoints in Andorra, but visitor must visit France or Spain before reach Andorra thus Schengen Visa is required",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,8,,,,true
-DO,AE,ev,30,"- E-visas can be obtained. [ 258 ]
-- May apply also using 'Smart service'. [ 259 ]
-- A 96-hour transit visa can be obtained on arrival at Dubai (DXB).",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,263;264;265,,30 days,,true
-DO,AF,ev,30,"- Visa is not required in case born in Afghanistan or can proof that one of their parents is a national of Afghanistan or born in Afghanistan. [ 3 ]
-- e-Visa: Visitors must arrive at Kabul International (KBL).",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,1;2;3,,30 days,,true
-DO,AG,ev,,"- Visa waiver for passengers with valid visas issued by Canada, USA, UK, or Schengen Member State. Visa fee: USD-100, for max. of 30 days.",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,10;11,,,,true
-DO,AL,ev,,"- Visa is not required for holders of Schengen, US or UK visa or residence permits (max stay 90 days) [ 6 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,4;5;:0-6,,,,true
+DO,AD,vr,,"- No border checkpoints in Andorra, but visitor must visit France or Spain before reach Andorra thus Schengen Visa is required",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,9,,,,true
+DO,AE,ev,30,"- E-visas can be obtained. [ 259 ]
+- May apply also using 'Smart service'. [ 260 ]
+- A 96-hour transit visa can be obtained on arrival at Dubai (DXB).",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,264;265;266,,30 days,,true
+DO,AF,ev,30,"- Visa is not required in case born in Afghanistan or can proof that one of their parents is a national of Afghanistan or born in Afghanistan. [ 4 ]
+- e-Visa: Visitors must arrive at Kabul International (KBL).",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,2;3;4,,30 days,,true
+DO,AG,ev,,"- Visa waiver for passengers with valid visas issued by Canada, USA, UK, or Schengen Member State. Visa fee: USD-100, for max. of 30 days.",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,11;12,,,,true
+DO,AL,ev,,"- Visa is not required for holders of Schengen, US or UK visa or residence permits (max stay 90 days) [ 7 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,5;6;:0-7,,,,true
 DO,AM,vo,120,"eVisa may also be applied for stays up to 120 days.
 
-- Obtainable on arrival at Zvartnots International Airport or prior to travel online. [ 16 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,14;15;16,,120 days,,true
-DO,AO,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,9,,30 days,,true
-DO,AR,vr,,"- Visa waiver for passengers with a valid visa issued by the US, or Schengen Member State. Visa fee: USD-60, for max. of 90 days. To be obtained online at the DNM Migraciones Argentina. [ 13 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,12;13,,,,true
-DO,AT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,19,,,,true
-DO,AU,vr,,- May apply online (Online Visitor e600 visa). [ 18 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,17;18,,,,true
-DO,AZ,vr,,"- September 2026 Dominican republic and Azerbaijan signed a mutual visa exemption agreement for tourist purposes, 90 days in 180 days period.",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,20,,,,true
-DO,BA,vr,,- Visa waiver for passengers with valid visa or resident permit issued by USA or Schengen Member State.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,37,,,,true
-DO,BB,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,27,,,,true
-DO,BD,vo,30,- Not available at all entry points. [ 26 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,25;26,,30 days,,true
-DO,BE,vr,,- Transit without visa (TWOV) available.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,30,,,,true
-DO,BF,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,42;43,,,,true
-DO,BG,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,41,,,,true
-DO,BH,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,23;24,,,,true
-DO,BI,vo,30,eVisa may also be applied for stays up to 30 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,44,,30 days,,true
+- Obtainable on arrival at Zvartnots International Airport or prior to travel online. [ 17 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,15;16;17,,120 days,,true
+DO,AO,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,10,,30 days,,true
+DO,AR,vr,,"- Visa waiver for passengers with a valid visa issued by the US, or Schengen Member State. Visa fee: USD-60, for max. of 90 days. To be obtained online at the DNM Migraciones Argentina. [ 14 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,13;14,,,,true
+DO,AT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,20,,,,true
+DO,AU,vr,,- May apply online (Online Visitor e600 visa). [ 19 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,18;19,,,,true
+DO,AZ,vr,,"- September 2026 Dominican republic and Azerbaijan signed a mutual visa exemption agreement for tourist purposes, 90 days in 180 days period.",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,21,,,,true
+DO,BA,vr,,- Visa waiver for passengers with valid visa or resident permit issued by USA or Schengen Member State.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,38,,,,true
+DO,BB,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,28,,,,true
+DO,BD,vo,30,- Not available at all entry points. [ 27 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,26;27,,30 days,,true
+DO,BE,vr,,- Transit without visa (TWOV) available.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,31,,,,true
+DO,BF,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,43;44,,,,true
+DO,BG,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,42,,,,true
+DO,BH,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,24;25,,,,true
+DO,BI,vo,30,eVisa may also be applied for stays up to 30 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,45,,30 days,,true
 DO,BJ,vo,8,"eVisa may also be applied for stays up to 30 days.
 
-- Must have an international vaccination certificate.",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,32;33,,8 days,,true
-DO,BN,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,40,,,,true
-DO,BO,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,36,,90 days,,true
-DO,BR,vf,60,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,39,,60 days,,true
-DO,BS,ev,,- Bahamas tourist visa is not required for US or Canada Resident card holder for a stay up to 30 days. [ 22 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,21;22,,,,true
+- Must have an international vaccination certificate.",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,33;34,,8 days,,true
+DO,BN,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,41,,,,true
+DO,BO,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,37,,90 days,,true
+DO,BR,vf,60,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,40,,60 days,,true
+DO,BS,ev,,- Bahamas tourist visa is not required for US or Canada Resident card holder for a stay up to 30 days. [ 23 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,22;23,,,,true
 DO,BT,ev,90,"- Visa fee is 40 USD per person and visa application may be processed within 5 business days with duration of stay of 90 days.
-- e-Visa applicant is also subject to pay Sustainable Development Fee",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,34;35,,90 days,,true
-DO,BW,vf,90,- 90 days within any year period,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,38,,90 days,,true
-DO,BY,vr,,- Visas are issued on arrival at the Minsk International Airport if the support documents were submitted not later than 3 business days before expected date of arrival. [ 29 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,28;29,,,,true
-DO,BZ,vr,,"- Visa waiver for passengers with multiple-entry valid visa or Pernamnent Resident Card issued by Canada, USA or Schengen Area, maximum for 30 days.",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,31,,,,true
-DO,CA,vr,,- Visa not required for US permanent resident card Holders. [ 50 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,49;50,,,,true
-DO,CD,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,61;62,,90 days,,true
-DO,CF,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,53,,,,true
-DO,CG,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,60,,,,true
-DO,CH,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,240,,,,true
-DO,CI,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,64;65,,90 days,,true
-DO,CL,vr,,- Visa not required for max. stay of 90 days for holders of a valid visa issued by USA.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,56,,,,true
-DO,CM,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,47;48,,,,true
-DO,CN,vr,,- Pre-arranged visa on arrival is available,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,57,,,,true
-DO,CO,vf,90,- 90 days – extendable up to 180-days stay within a one-year period,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,58,,90 days,,true
-DO,CR,vr,,"- Visa waiver for passengers with multiple-entry valid visa issued by Canada or USA, maximum for 30 days.",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,63,,,,true
-DO,CU,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,67;68,,90 days,,true
-DO,CV,vo,,- Not available at all entry points. [ 52 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,51;52,,,,true
-DO,CY,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,69,,,,true
-DO,CZ,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,70,,,,true
-DO,DE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,91,,,,true
-DO,DJ,ev,31,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,72,,31 days,,true
-DO,DK,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,71,,,,true
-DO,DM,vf,,"- Visa Exemptions: Passengers with a visa issued by Canada, USA, United Kingdom, or a Schengen Member State for a maximum stay of 6 months.",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,73,,,,true
-DO,DZ,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,7,,,,true
-DO,EC,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,74;A-75,,90 days,,true
-DO,EE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,81,,,,true
-DO,EG,vo,15,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,76,,15 days,,true
-DO,ER,vr,,.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,80,,,,true
-DO,ES,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,233,,,,true
-DO,ET,ev,90,- eVisa holders must arrive via Addis Ababa Bole International Airport,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,83,,90 days,,true
-DO,FI,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,85,,,,true
-DO,FJ,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,84,,,,true
-DO,FM,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,167,,30 days,,true
-DO,FR,vr,,- Transit without visa (TWOV) available.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,86,,,,true
-DO,GA,ev,,- Electronic visa holders must arrive via Libreville International Airport.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,87,,,,true
-DO,GB,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,266,,,,true
-DO,GD,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,94,,90 days,,true
-DO,GE,vf,365,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,90,,1 year,,true
-DO,GH,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,92,,,,true
+- e-Visa applicant is also subject to pay Sustainable Development Fee",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,35;36,,90 days,,true
+DO,BW,vf,90,- 90 days within any year period,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,39,,90 days,,true
+DO,BY,vr,,- Visas are issued on arrival at the Minsk International Airport if the support documents were submitted not later than 3 business days before expected date of arrival. [ 30 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,29;30,,,,true
+DO,BZ,vr,,"- Visa waiver for passengers with multiple-entry valid visa or Pernamnent Resident Card issued by Canada, USA or Schengen Area, maximum for 30 days.",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,32,,,,true
+DO,CA,vr,,- Visa not required for US permanent resident card Holders. [ 51 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,50;51,,,,true
+DO,CD,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,62;63,,90 days,,true
+DO,CF,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,54,,,,true
+DO,CG,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,61,,,,true
+DO,CH,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,241,,,,true
+DO,CI,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,65;66,,90 days,,true
+DO,CL,vr,,- Visa not required for max. stay of 90 days for holders of a valid visa issued by USA.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,57,,,,true
+DO,CM,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,48;49,,,,true
+DO,CN,vr,,- Pre-arranged visa on arrival is available,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,58,,,,true
+DO,CO,vf,90,- 90 days – extendable up to 180-days stay within a one-year period,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,59,,90 days,,true
+DO,CR,vr,,"- Visa waiver for passengers with multiple-entry valid visa issued by Canada or USA, maximum for 30 days.",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,64,,,,true
+DO,CU,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,68;69,,90 days,,true
+DO,CV,vo,,- Not available at all entry points. [ 53 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,52;53,,,,true
+DO,CY,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,70,,,,true
+DO,CZ,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,71,,,,true
+DO,DE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,92,,,,true
+DO,DJ,ev,31,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,73,,31 days,,true
+DO,DK,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,72,,,,true
+DO,DM,vf,,"- Visa Exemptions: Passengers with a visa issued by Canada, USA, United Kingdom, or a Schengen Member State for a maximum stay of 6 months.",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,74,,,,true
+DO,DZ,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,8,,,,true
+DO,EC,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,75;A-76,,90 days,,true
+DO,EE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,82,,,,true
+DO,EG,vo,15,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,77,,15 days,,true
+DO,ER,vr,,.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,81,,,,true
+DO,ES,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,234,,,,true
+DO,ET,ev,90,- eVisa holders must arrive via Addis Ababa Bole International Airport,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,84,,90 days,,true
+DO,FI,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,86,,,,true
+DO,FJ,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,85,,,,true
+DO,FM,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,168,,30 days,,true
+DO,FR,vr,,- Transit without visa (TWOV) available.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,87,,,,true
+DO,GA,ev,,- Electronic visa holders must arrive via Libreville International Airport.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,88,,,,true
+DO,GB,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,267,,,,true
+DO,GD,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,95,,90 days,,true
+DO,GE,vf,365,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,91,,1 year,,true
+DO,GH,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,93,,,,true
 DO,GM,vf,,"- Dominicans will need a clearance to enter into Gambia.
-- Must obtain an entry clearance from the Gambian Immigration prior to travel [ 89 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,88;89,,,,true
-DO,GN,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,96;97,,90 days,,true
-DO,GQ,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,78;79,,,,true
-DO,GR,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,93,,,,true
-DO,GT,vr,,- Visa requirement effective on 15 February 2023,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,95,,,,true
-DO,GW,vo,90,eVisa may also be applied for stays up to 90 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,98,,90 days,,true
-DO,GY,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,100;auto-99,,30 days,,true
-DO,HK,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,292,,30 days,,true
-DO,HN,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,102;auto-99,,30 days,,true
-DO,HR,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,66,,,,true
-DO,HT,vr,,"- Visa not required for max. stay of 3 Months for Holders of a valid visa issued by Canada, the USA or a Schengen Member State.",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,101,,,,true
-DO,HU,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,103,,,,true
-DO,ID,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,111,,,,true
-DO,IE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,116,,,,true
-DO,IL,et,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,117;118,,90 days,,true
-DO,IN,ev,60,"- e-Visa holders must arrive via 32 designated airports [ Note 1 ] or 5 designated seaports. [ Note 2 ] [ 106 ]
-- An Indian e-Tourist Visa may only be obtained twice within 1 calendar year. [ 107 ]
-- Foreigners of Pakistani origin or who hold a Pakistani Passport are not eligible for an e-Visa. Foreigners who are not Pakistani nationals, but whose parents or grandparents (either paternal or maternal) were born in, or were permanent residents in Pakistan, are also not eligible for an e-Visa. [ 108 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,105;108;109;110;Airports-106;Seaports-107,,60 days,,true
-DO,IQ,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,114;115,,30 days,,true
-DO,IR,vo,30,eVisa may also be applied for stays up to 30 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,112;113,,30 days,,true
-DO,IS,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,104,,,,true
-DO,IT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,119,,,,true
-DO,JM,vf,180,"- Since March 4, 2025:.",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,120;121,,180 days,,true
+- Must obtain an entry clearance from the Gambian Immigration prior to travel [ 90 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,89;90,,,,true
+DO,GN,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,97;98,,90 days,,true
+DO,GQ,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,79;80,,,,true
+DO,GR,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,94,,,,true
+DO,GT,vr,,- Visa requirement effective on 15 February 2023,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,96,,,,true
+DO,GW,vo,90,eVisa may also be applied for stays up to 90 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,99,,90 days,,true
+DO,GY,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,101;auto-100,,30 days,,true
+DO,HK,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,293,,30 days,,true
+DO,HN,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,103;auto-100,,30 days,,true
+DO,HR,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,67,,,,true
+DO,HT,vr,,"- Visa not required for max. stay of 3 Months for Holders of a valid visa issued by Canada, the USA or a Schengen Member State.",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,102,,,,true
+DO,HU,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,104,,,,true
+DO,ID,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,112,,,,true
+DO,IE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,117,,,,true
+DO,IL,et,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,118;119,,90 days,,true
+DO,IN,ev,60,"- e-Visa holders must arrive via 32 designated airports [ Note 1 ] or 5 designated seaports. [ Note 2 ] [ 107 ]
+- An Indian e-Tourist Visa may only be obtained twice within 1 calendar year. [ 108 ]
+- Foreigners of Pakistani origin or who hold a Pakistani Passport are not eligible for an e-Visa. Foreigners who are not Pakistani nationals, but whose parents or grandparents (either paternal or maternal) were born in, or were permanent residents in Pakistan, are also not eligible for an e-Visa. [ 109 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,106;109;110;111;Airports-107;Seaports-108,,60 days,,true
+DO,IQ,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,115;116,,30 days,,true
+DO,IR,vo,30,eVisa may also be applied for stays up to 30 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,113;114,,30 days,,true
+DO,IS,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,105,,,,true
+DO,IT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,120,,,,true
+DO,JM,vf,180,"- Since March 4, 2025:.",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,121;122,,180 days,,true
 DO,JO,vo,30,"eVisa may also be applied for stays up to 30 days.
 
-- Conditions apply. [ 123 ] Not available at all entry points. [ 124 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,123;124;125;126,,30 days,,true
-DO,JP,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,122,,90 days,,true
+- Conditions apply. [ 124 ] Not available at all entry points. [ 125 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,124;125;126;127,,30 days,,true
+DO,JP,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,123,,90 days,,true
 DO,KE,et,90,"- Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance.
 - eTA fee is USD 32.50.
 - eTA is good for single entry, but visitors who leave Kenya to other EAC countries may re-enter provided that their eTA is still valid
 - Proof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable).
 - Yellow fever vaccination certificate is required if coming from endemic countries.
-- Can also be entered on an East Africa tourist visa issued by Rwanda or Uganda.",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,130,,90 days,,true
-DO,KG,ev,,"- Electronic visa holders must arrive via Manas International Airport or Osh Airport or through land crossings with China (at Irkeshtam and Torugart), Kazakhstan (at Ak-jol, Ak-Tilek, Chaldybar, Chon-Kapka), Tajikistan (at Bor-Dobo, Kulundu, Kyzyl-Bel) and Uzbekistan (at Dostuk).",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,135;136,,,,true
-DO,KH,vo,30,eVisa may also be applied for stays up to 30 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,45;46,,30 days,,true
-DO,KI,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,131,,90 days,,true
-DO,KM,vo,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,59,,,,true
-DO,KN,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,211;212,,,,true
-DO,KP,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,132,,,,true
-DO,KR,et,90,- visitor must obtain a K-ETA before their departure to South Korea,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,133,,90 days,,true
-DO,KW,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,134,,,,true
-DO,KZ,vf,60,- National Congress of The Dominican Republic Approves 60 days visa free agreement with Kazakhstan. [ 127 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,127;128;129,,60 days,,true
+- Can also be entered on an East Africa tourist visa issued by Rwanda or Uganda.",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,131,,90 days,,true
+DO,KG,ev,,"- Electronic visa holders must arrive via Manas International Airport or Osh Airport or through land crossings with China (at Irkeshtam and Torugart), Kazakhstan (at Ak-jol, Ak-Tilek, Chaldybar, Chon-Kapka), Tajikistan (at Bor-Dobo, Kulundu, Kyzyl-Bel) and Uzbekistan (at Dostuk).",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,136;137,,,,true
+DO,KH,vo,30,eVisa may also be applied for stays up to 30 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,46;47,,30 days,,true
+DO,KI,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,132,,90 days,,true
+DO,KM,vo,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,60,,,,true
+DO,KN,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,212;213,,,,true
+DO,KP,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,133,,,,true
+DO,KR,et,90,- visitor must obtain a K-ETA before their departure to South Korea,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,134,,90 days,,true
+DO,KW,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,135,,,,true
+DO,KZ,vf,60,- National Congress of The Dominican Republic Approves 60 days visa free agreement with Kazakhstan. [ 128 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,128;129;130,,60 days,,true
 DO,LA,vo,30,"eVisa may also be applied for stays up to 30 days.
 
-- 18 [ Note 3 ] of the 33 border crossings are only open to regular visa holders. [ 136 ]
-- e-Visa may be used to enter Laos through the Luang Prabang, Pakse and Vientiane international airports, 3 Thai-Lao Friendship Bridges [ Note 4 ], in Boten (road and railroad), and in Vientiane (at Khamsavath railway station). [ 136 ]
-- Visa on arrival is available at the Luang Prabang, Pakse and Vientiane international airports, 4 Thai-Lao Friendship Bridges [ Note 5 ] and 7 border crossings. [ Note 6 ] [ 136 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,137;Checkpoints-139;Friendship_Bridges-141;VOA_border_crossings._Laos-142;Visa-only_border_crossings-138;eVisa_Friendship_Bridges-140,,30 days,,true
-DO,LB,vo,30,"- 1 month extendable for 2 additional months; granted free of charge at Beirut International Airport or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket.",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,144,,1 month,,true
-DO,LC,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,213,,,,true
-DO,LI,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,151,,,,true
+- 18 [ Note 3 ] of the 33 border crossings are only open to regular visa holders. [ 137 ]
+- e-Visa may be used to enter Laos through the Luang Prabang, Pakse and Vientiane international airports, 3 Thai-Lao Friendship Bridges [ Note 4 ], in Boten (road and railroad), and in Vientiane (at Khamsavath railway station). [ 137 ]
+- Visa on arrival is available at the Luang Prabang, Pakse and Vientiane international airports, 4 Thai-Lao Friendship Bridges [ Note 5 ] and 7 border crossings. [ Note 6 ] [ 137 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,138;Checkpoints-140;Friendship_Bridges-142;VOA_border_crossings._Laos-143;Visa-only_border_crossings-139;eVisa_Friendship_Bridges-141,,30 days,,true
+DO,LB,vo,30,"- 1 month extendable for 2 additional months; granted free of charge at Beirut International Airport or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket.",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,145,,1 month,,true
+DO,LC,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,214,,,,true
+DO,LI,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,152,,,,true
 DO,LK,et,30,"Visa on arrival may also be available for stays up to 30 days.
 
-- 30 days extendable to 6 months. [ 229 ]
+- 30 days extendable to 6 months. [ 230 ]
 - The standard visitor visa allows a stay of 60 days within any 6-month period.
 - Visa fees (for Standard visitor visa):
   - SAARC – US$35
   - Non SAARC – US$75
 - e-Visa categories will be charged an additional US$18.50 service fee.
-- If transiting from any of the Sri Lankan airports, An e-Visa is exempted (2 day transit period).",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,234;LK-235,,30 days,,true
-DO,LR,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,147;148,,30 days,,true
-DO,LS,ev,14,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,145;146,,14 days,,true
-DO,LT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,152,,,,true
-DO,LU,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,153,,,,true
-DO,LV,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,143,,,,true
-DO,LY,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,149;150,,30 days,,true
-DO,MA,vf,60,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,174,,60 days,,true
-DO,MC,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,170,,,,true
-DO,MD,ev,,"- visa waiver for passenger with a valid residence permit, a valid 'C'-type, or a valid 'D'-type visa issued by a Schengen member state or Ireland",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,168;169,,,,true
-DO,ME,vr,,"- Visa waiver for passengers with a valid visa issued by Canada, USA, UK or a Schengen Member State for 30 days.",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,173,,,,true
-DO,MG,vo,90,eVisa may also be applied for stays up to 90 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,154;155,,90 days,,true
-DO,MH,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,162,,,,true
-DO,MK,vr,,"- Visa is not required for holders of a valid US, UK, Canada or a Schengen member State visa, maximum for 15 days.",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,190,,,,true
-DO,ML,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,160,,,,true
-DO,MM,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,177,,,,true
-DO,MN,vf,,- Dominican Republic and Mongolia Sign Visa Exemption Agreement. Not in effect yet [ 166 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,171;172,,,,true
-DO,MO,vo,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,295,,,,true
-DO,MR,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,163;164,,,,true
-DO,MT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,161,,,,true
-DO,MU,vo,60,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,165,,60 days,,true
-DO,MV,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,159;A-75,,30 days,,true
-DO,MW,vo,30,eVisa may also be applied for stays up to 30 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,156;157,,30 days,,true
-DO,MX,vr,,"- No visa required for those holding a valid visa or residence issued by the United States, Canada, Japan, Colombia, Chile, or Schengen.",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,166,,,,true
-DO,MY,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,158,,30 days,,true
-DO,MZ,vo,30,eVisa may also be applied for stays up to 30 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,175;176,,30 days,,true
-DO,NA,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,178;179,,,,true
-DO,NE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,187,,,,true
-DO,NG,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,188;189,,90 days,,true
-DO,NI,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,186,,90 days,,true
-DO,NL,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,183,,,,true
-DO,NO,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,191,,,,true
-DO,NP,vo,90,eVisa may also be applied for stays up to 90 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,181;182,,90 days,,true
-DO,NR,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,180,,,,true
-DO,NZ,vr,,"- Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. [ 179 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,184;Australian_Resident_Visa-185,,,,true
-DO,OM,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,192,,,,true
-DO,PA,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,195,,90 days,,true
-DO,PE,vf,60,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,200,,60 days,,true
-DO,PG,ev,60,"- May apply for an e-visa under the type of ""Tourist – Own Itinerary"".",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,196;197,,60 days,,true
-DO,PH,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,201,,30 days,,true
-DO,PK,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,193,,,,true
-DO,PL,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,202,,,,true
-DO,PS,vf,,Arrival by sea to Gaza Strip not allowed. [ 293 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,298;299,,,,false
-DO,PT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,203,,,,true
-DO,PW,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,194,,30 days,,true
-DO,PY,vf,60,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,198;199,,60 days,,true
-DO,QA,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,204,,90 days,,true
-DO,RO,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,205,,,,true
-DO,RS,vr,,"- Visa not required for holders of Schengen, US or UK visa or residence permits (max stay 90 days) [ 6 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,220;:0-6,,,,true
-DO,RU,vf,60,- 60 days within any 180 day period [ 201 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,206;207,,60 days,,true
+- If transiting from any of the Sri Lankan airports, An e-Visa is exempted (2 day transit period).",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,235;LK-236,,30 days,,true
+DO,LR,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,148;149,,30 days,,true
+DO,LS,ev,14,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,146;147,,14 days,,true
+DO,LT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,153,,,,true
+DO,LU,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,154,,,,true
+DO,LV,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,144,,,,true
+DO,LY,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,150;151,,30 days,,true
+DO,MA,vf,60,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,175,,60 days,,true
+DO,MC,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,171,,,,true
+DO,MD,ev,,"- visa waiver for passenger with a valid residence permit, a valid 'C'-type, or a valid 'D'-type visa issued by a Schengen member state or Ireland",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,169;170,,,,true
+DO,ME,vr,,"- Visa waiver for passengers with a valid visa issued by Canada, USA, UK or a Schengen Member State for 30 days.",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,174,,,,true
+DO,MG,vo,90,eVisa may also be applied for stays up to 90 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,155;156,,90 days,,true
+DO,MH,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,163,,,,true
+DO,MK,vr,,"- Visa is not required for holders of a valid US, UK, Canada or a Schengen member State visa, maximum for 15 days.",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,191,,,,true
+DO,ML,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,161,,,,true
+DO,MM,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,178,,,,true
+DO,MN,vf,,- Dominican Republic and Mongolia Sign Visa Exemption Agreement. Not in effect yet [ 167 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,172;173,,,,true
+DO,MO,vo,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,296,,,,true
+DO,MR,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,164;165,,,,true
+DO,MT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,162,,,,true
+DO,MU,vo,60,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,166,,60 days,,true
+DO,MV,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,160;A-76,,30 days,,true
+DO,MW,vo,30,eVisa may also be applied for stays up to 30 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,157;158,,30 days,,true
+DO,MX,vr,,"- No visa required for those holding a valid visa or residence issued by the United States, Canada, Japan, Colombia, Chile, or Schengen.",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,167,,,,true
+DO,MY,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,159,,30 days,,true
+DO,MZ,vo,30,eVisa may also be applied for stays up to 30 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,176;177,,30 days,,true
+DO,NA,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,179;180,,,,true
+DO,NE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,188,,,,true
+DO,NG,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,189;190,,90 days,,true
+DO,NI,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,187,,90 days,,true
+DO,NL,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,184,,,,true
+DO,NO,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,192,,,,true
+DO,NP,vo,90,eVisa may also be applied for stays up to 90 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,182;183,,90 days,,true
+DO,NR,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,181,,,,true
+DO,NZ,vr,,"- Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. [ 180 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,185;Australian_Resident_Visa-186,,,,true
+DO,OM,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,193,,,,true
+DO,PA,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,196,,90 days,,true
+DO,PE,vf,60,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,201,,60 days,,true
+DO,PG,ev,60,"- May apply for an e-visa under the type of ""Tourist – Own Itinerary"".",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,197;198,,60 days,,true
+DO,PH,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,202,,30 days,,true
+DO,PK,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,194,,,,true
+DO,PL,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,203,,,,true
+DO,PS,vf,,Arrival by sea to Gaza Strip not allowed. [ 294 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,299;300,,,,false
+DO,PT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,204,,,,true
+DO,PW,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,195,,30 days,,true
+DO,PY,vf,60,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,199;200,,60 days,,true
+DO,QA,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,205,,90 days,,true
+DO,RO,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,206,,,,true
+DO,RS,vr,,"- Visa not required for holders of Schengen, US or UK visa or residence permits (max stay 90 days) [ 7 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,221;:0-7,,,,true
+DO,RU,vf,60,- 60 days within any 180 day period [ 202 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,207;208,,60 days,,true
 DO,RW,vo,30,"eVisa may also be applied for stays up to 30 days.
 
-- May apply online. [ 203 ]
-- Can also be entered on an East Africa tourist visa issued by Kenya or Uganda [ 204 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,208;209;210,,30 days,,true
-DO,SA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,218,,,,true
-DO,SB,vo,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,227,,3 months,,true
-DO,SC,vo,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,221;A-75,,3 months,,true
-DO,SD,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,236,,,,true
-DO,SE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,239,,,,true
-DO,SG,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,224,,30 days,,true
-DO,SI,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,226,,,,true
-DO,SK,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,225,,,,true
-DO,SL,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,222;223,,,,true
-DO,SM,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,216,,,,true
-DO,SN,vo,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,219,,90 days,,true
-DO,SO,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,228;229,,30 days,,true
-DO,SR,ev,90,- Multiple entry eVisa is also available. [ 232 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,237;238,,90 days,,true
-DO,SS,ev,180,"- Obtainable online [ 226 ]
+- May apply online. [ 204 ]
+- Can also be entered on an East Africa tourist visa issued by Kenya or Uganda [ 205 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,209;210;211,,30 days,,true
+DO,SA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,219,,,,true
+DO,SB,vo,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,228,,3 months,,true
+DO,SC,vo,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,222;A-76,,3 months,,true
+DO,SD,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,237,,,,true
+DO,SE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,240,,,,true
+DO,SG,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,225,,30 days,,true
+DO,SI,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,227,,,,true
+DO,SK,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,226,,,,true
+DO,SL,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,223;224,,,,true
+DO,SM,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,217,,,,true
+DO,SN,vo,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,220,,90 days,,true
+DO,SO,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,229;230,,30 days,,true
+DO,SR,ev,90,- Multiple entry eVisa is also available. [ 233 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,238;239,,90 days,,true
+DO,SS,ev,180,"- Obtainable online [ 227 ]
 - Visa fee: Single entry visa (US$100), 3 months multiple entry visa (US$200), 6 months multiple entry visa (US$350).
-- Printed visa authorization must be presented at the time of travel [ 226 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,231;evisa.gov.ss-232,,6 months,,true
-DO,ST,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,217,,,,true
-DO,SV,vf,180,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,77,,6 months,,true
-DO,SY,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,241;242,,,,true
-DO,SZ,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,82,,,,true
-DO,TD,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,54;55,,90 days,,true
-DO,TG,ev,15,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,251;252,,15 days,,true
-DO,TH,vf,60,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,247;248,,60 days,,true
-DO,TJ,vf,30,https://trektajikistan.com/entry-requirements-tajikistan/,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,243;244,,30 days,,true
-DO,TL,vo,30,- Not available at all entry points. [ 244 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,249;250,,30 days,,true
-DO,TM,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,258,,,,true
-DO,TN,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,255,,,,true
-DO,TO,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,253,,,,true
-DO,TR,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,256;257,,90 days,,true
-DO,TT,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,254,,90 days,,true
-DO,TV,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,259,,1 month,,true
-DO,TW,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,300,,30 days,,true
-DO,TZ,vo,90,eVisa may also be applied for stays up to 3 months.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,245;246,,3 months,,true
-DO,UA,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,261;262,,30 days,,true
+- Printed visa authorization must be presented at the time of travel [ 227 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,232;evisa.gov.ss-233,,6 months,,true
+DO,ST,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,218,,,,true
+DO,SV,vf,180,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,78,,6 months,,true
+DO,SY,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,242;243,,,,true
+DO,SZ,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,83,,,,true
+DO,TD,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,55;56,,90 days,,true
+DO,TG,ev,15,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,252;253,,15 days,,true
+DO,TH,vf,60,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,248;249,,60 days,,true
+DO,TJ,vf,30,https://trektajikistan.com/entry-requirements-tajikistan/,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,244;245,,30 days,,true
+DO,TL,vo,30,- Not available at all entry points. [ 245 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,250;251,,30 days,,true
+DO,TM,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,259,,,,true
+DO,TN,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,256,,,,true
+DO,TO,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,254,,,,true
+DO,TR,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,257;258,,90 days,,true
+DO,TT,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,255,,90 days,,true
+DO,TV,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,260,,1 month,,true
+DO,TW,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,301,,30 days,,true
+DO,TZ,vo,90,eVisa may also be applied for stays up to 3 months.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,246;247,,3 months,,true
+DO,UA,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,262;263,,30 days,,true
 DO,UG,vo,,"eVisa may also be applied.
 
-- Determined at the port of entry.",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,260,,,,true
-DO,US,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,267,,,,true
-DO,UY,vr,,- Visa not required for max. stay of 90 days for holders of a valid visa issued by USA or the United Kingdom.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,268,,,,true
-DO,UZ,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,269,,30 days,,true
-DO,VA,vr,,- Open borders but de facto follows Italian visa policy.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,271,,,,true
-DO,VC,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,214,,,,true
-DO,VE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,272,,,,true
-DO,VN,ev,90,- Phú Quốc without a visa for up to 30 days. [ 270 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,273;274;275;276,,90 days,,true
-DO,VU,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,270,,,,true
-DO,WS,vf,60,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,215,,60 days,,true
-DO,XK,vr,,Schengen visa covers entry,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,337,,,,true
-DO,YE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,277,,,,true
-DO,ZA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,230,,,,true
-DO,ZM,vf,90,"- Visa free Starting on January 1, 2025 [ 273 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,278;279,,90 days,,true
-DO,ZW,vo,30,eVisa may also be applied for stays up to 30 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,280;281,,30 days,,true
+- Determined at the port of entry.",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,261,,,,true
+DO,US,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,268,,,,true
+DO,UY,vr,,- Visa not required for max. stay of 90 days for holders of a valid visa issued by USA or the United Kingdom.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,269,,,,true
+DO,UZ,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,270,,30 days,,true
+DO,VA,vr,,- Open borders but de facto follows Italian visa policy.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,272,,,,true
+DO,VC,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,215,,,,true
+DO,VE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,273,,,,true
+DO,VN,ev,90,- Phú Quốc without a visa for up to 30 days. [ 271 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,274;275;276;277,,90 days,,true
+DO,VU,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,271,,,,true
+DO,WS,vf,60,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,216,,60 days,,true
+DO,XK,vr,,Schengen visa covers entry,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,338,,,,true
+DO,YE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,278,,,,true
+DO,ZA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,231,,,,true
+DO,ZM,vf,90,"- Visa free Starting on January 1, 2025 [ 274 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,279;280,,90 days,,true
+DO,ZW,vo,30,eVisa may also be applied for stays up to 30 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens,,unverified,,281;282,,30 days,,true
 DZ,AD,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens,,unverified,Yes,8,,,,true
 DZ,AE,vr,,- May apply using 'Smart service'. [ 272 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens,,unverified,Yes,271;272,,,,true
 DZ,AF,ev,,"- Visa is only approved if issued by a diplomatic mission approved by the Taliban
@@ -13485,7 +13484,7 @@ ET,SY,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ethiopian_citizen
 ET,SZ,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ethiopian_citizens,,unverified,,82,,,,true
 ET,TD,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ethiopian_citizens,,unverified,,53;54,,,,true
 ET,TG,vo,15,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ethiopian_citizens,,unverified,,237,,15 days,,true
-ET,TH,vo,15,eVisa may also be applied for stays up to 15 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ethiopian_citizens,,unverified,,234;235,,15 days,,true
+ET,TH,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ethiopian_citizens,,unverified,,234;235,,,,true
 ET,TJ,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ethiopian_citizens,,unverified,,230;231,,,,true
 ET,TL,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ethiopian_citizens,,unverified,,236,,30 days,,true
 ET,TM,vr,,- Passengers with a letter ofinvitation issued by a company registered in turkmenistan and approved by the ministry of foreign affairs can obtain a visa on arrival for a maximum stay of 10 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Ethiopian_citizens,,unverified,,242,,,,true
@@ -13998,7 +13997,7 @@ FJ,TG,ev,15,,https://en.wikipedia.org/wiki/Visa_requirements_for_Fijian_citizens
 FJ,TH,vf,60,,https://en.wikipedia.org/wiki/Visa_requirements_for_Fijian_citizens,,unverified,,234;235,,60 days,,true
 FJ,TJ,ev,60,,https://en.wikipedia.org/wiki/Visa_requirements_for_Fijian_citizens,,unverified,,230;231,,60 days,,true
 FJ,TL,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Fijian_citizens,,unverified,,236,,30 days,,true
-FJ,TM,vr,,- Passengers with a letter of invitation issued by a company registered in Turkmenistan and approved by the Ministry of Foreign Affairs can be obtained on arrival for a maximum of 10 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Fijian_citizens,,unverified,,244,,,,true
+FJ,TM,ev,,- Passengers with a letter of invitation issued by a company registered in Turkmenistan and approved by the Ministry of Foreign Affairs can be obtained on arrival for a maximum of 10 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Fijian_citizens,,unverified,,244,,,,true
 FJ,TN,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Fijian_citizens,,unverified,,241,,90 days,,true
 FJ,TO,vo,31,,https://en.wikipedia.org/wiki/Visa_requirements_for_Fijian_citizens,,unverified,,239,,31 days,,true
 FJ,TR,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Fijian_citizens,,unverified,,242;243,,90 days,,true
@@ -15437,7 +15436,7 @@ GE,TG,ev,15,,https://en.wikipedia.org/wiki/Visa_requirements_for_Georgian_citize
 GE,TH,vf,60,,https://en.wikipedia.org/wiki/Visa_requirements_for_Georgian_citizens,,unverified,,248,,60 days,,true
 GE,TJ,vf,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Georgian_citizens,,unverified,,245,,Unlimited,,true
 GE,TL,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Georgian_citizens,,unverified,,249,,30 days,,true
-GE,TM,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Georgian_citizens,,unverified,,256,,,,true
+GE,TM,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Georgian_citizens,,unverified,,256,,,,true
 GE,TN,vf,30,- Visa not required for a booked package tour through a travel agency authorized by Tunisian government.,https://en.wikipedia.org/wiki/Visa_requirements_for_Georgian_citizens,,unverified,,254,,30 days,,true
 GE,TO,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Georgian_citizens,,unverified,,252,,,,true
 GE,TR,vf,90,"- ID card valid for entry to Turkey for Georgians, passport not required.",https://en.wikipedia.org/wiki/Visa_requirements_for_Georgian_citizens,,unverified,,255,,90 days,,true
@@ -15660,7 +15659,7 @@ GH,TG,vf,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens
 GH,TH,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens,,unverified,,229;230,,,,true
 GH,TJ,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens,,unverified,,226;227,,,,true
 GH,TL,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens,,unverified,,231,,30 days,,true
-GH,TM,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens,,unverified,,237,,,,true
+GH,TM,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens,,unverified,,237,,,,true
 GH,TN,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens,,unverified,,235,,,,true
 GH,TO,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens,,unverified,,233,,,,true
 GH,TR,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens,,unverified,,236,,,,true
@@ -18251,7 +18250,7 @@ HT,TG,ev,15,,https://en.wikipedia.org/wiki/Visa_requirements_for_Haitian_citizen
 HT,TH,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Haitian_citizens,,unverified,,250;251,,30 days,,true
 HT,TJ,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Haitian_citizens,,unverified,,247,,,,true
 HT,TL,vo,30,- Not available at all entry points. [ 247 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Haitian_citizens,,unverified,,252;253,,30 days,,true
-HT,TM,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Haitian_citizens,,unverified,,260,,,,true
+HT,TM,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Haitian_citizens,,unverified,,260,,,,true
 HT,TN,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Haitian_citizens,,unverified,,257,,,,true
 HT,TO,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Haitian_citizens,,unverified,,255,,,,true
 HT,TR,vr,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Haitian_citizens,,unverified,,258;259,,3 months,,true
@@ -19567,8 +19566,9 @@ IN,FM,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens
 IN,FR,vr,,"- Schengen Visa Required
 - Transit Visa: Not Required [ 6 ] [Effective 10 Apr 2026, travellers enroute to a third country (outside the EU), remaining in the international zone of French airports, do not require a category A transit visa.]",https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens,,unverified,,185;:10-6,,,,true
 IN,GA,ev,90,- e-Visa holders must arrive via Libreville International Airport.,https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens,,unverified,,186;187,,90 days,,true
-IN,GB,vr,,"- Transit visa: Required, unless holding a valid visa or permanent residence in Canada, New Zealand, Australia, EU or the USA. [ 410 ]
+IN,GB,ev,,"- Transit visa: Required, unless holding a valid visa or permanent residence in Canada, New Zealand, Australia, EU or the USA. [ 410 ]
 - Visa not required if holding a biometric Irish visa endorsed with ""BC"" or ""BC BIVS"".
+- eVisa can be applied through gov portal [ ]
 - Other exemptions apply for Visa-free Direct Airside Transit. [ 411 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens,,unverified,,414;415;416,,,,true
 IN,GD,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens,,unverified,,194,,3 months,,true
 IN,GE,ev,30,"- Reinstated from May 2023.
@@ -20997,7 +20997,7 @@ JM,TG,ev,15,,https://en.wikipedia.org/wiki/Visa_requirements_for_Jamaican_citize
 JM,TH,vf,60,,https://en.wikipedia.org/wiki/Visa_requirements_for_Jamaican_citizens,,unverified,,231,,60 days,,true
 JM,TJ,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Jamaican_citizens,,unverified,,229,,30 days,,true
 JM,TL,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Jamaican_citizens,,unverified,,232,,30 days,,true
-JM,TM,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Jamaican_citizens,,unverified,,240,,,,true
+JM,TM,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Jamaican_citizens,,unverified,,240,,,,true
 JM,TN,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Jamaican_citizens,,unverified,,237,,,,true
 JM,TO,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Jamaican_citizens,,unverified,,234;235,,,,true
 JM,TR,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Jamaican_citizens,,unverified,,238;239,,1 month,,true
@@ -25149,7 +25149,7 @@ LI,TH,vf,60,- Maximum two visits annually if not arriving by air.,https://en.wik
 LI,TJ,vf,30,"- Visa also available online.
 - E-visa holders can enter through all border points. [ 221 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Liechtenstein_citizens,,unverified,,226;227,,30 days,,true
 LI,TL,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Liechtenstein_citizens,,unverified,,231,,30 days,,true
-LI,TM,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Liechtenstein_citizens,,unverified,,239,,,,true
+LI,TM,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Liechtenstein_citizens,,unverified,,239,,,,true
 LI,TN,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Liechtenstein_citizens,,unverified,,236,,3 months,,true
 LI,TO,vf,90,- 90 days within any 180 day period,https://en.wikipedia.org/wiki/Visa_requirements_for_Liechtenstein_citizens,,unverified,,234,,90 days,,true
 LI,TR,vf,90,- ID card valid [ 5 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Liechtenstein_citizens,,unverified,,237;238;mfa.gov.tr-5,,90 days,,true
@@ -26817,7 +26817,7 @@ LY,MD,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,
 LY,ME,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,165,,,,true
 LY,MG,vo,90,eVisa may also be applied for stays up to 90 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,148;149,,90 days,,true
 LY,MH,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,156,,,,true
-LY,MK,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,182,,,,true
+LY,MK,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,183,,,,true
 LY,ML,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,154,,,,true
 LY,MM,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,169,,,,true
 LY,MN,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,164,,,,true
@@ -26832,25 +26832,26 @@ LY,MX,vr,,"- Visa is not required for Holders of a valid visa of Canada, US, UK 
 LY,MY,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,152,,30 days,,true
 LY,MZ,vo,30,eVisa may also be applied for stays up to 30 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,167;168,,30 days,,true
 LY,NA,vo,90,eVisa may also be applied for stays up to 90 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,170;171,,3 months,,true
-LY,NE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,179,,,,true
-LY,NG,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,180;181,,90 days,,true
-LY,NI,vr,,"- VoA with valid visas of US, Canada, and Schengen",https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,178,,,,true
+LY,NE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,180,,,,true
+LY,NG,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,181;182,,90 days,,true
+LY,NI,ev,30,"- VoA with valid visas of US, Canada, and Schengen.
+- maximum allowed stay with extensions for eVisa is 120 days",https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,178;179,,30 days,,true
 LY,NL,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,175,,,,true
-LY,NO,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,183,,,,true
+LY,NO,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,184,,,,true
 LY,NP,vo,90,eVisa may also be applied for stays up to 90 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,173;174,,90 days,,true
 LY,NR,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,172,,,,true
 LY,NZ,vr,,"- Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. [ 177 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,176;Australian_Resident_Visa-177,,,,true
-LY,OM,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,184;185,,,,true
-LY,PA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,189,,,,true
-LY,PE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,193,,,,true
-LY,PG,vr,60,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,190;191,,60 days,,true
-LY,PH,vr,,- Residents of the United Arab Emirates may obtain an eVisa through the official Philippine eVisa website. A valid Emirati residence visa must be shown upon an eVisa application. [ 195 ] [ 196 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,194;195;196,,,,true
-LY,PK,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,186;187,,3 months,,true
+LY,OM,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,185;186,,,,true
+LY,PA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,190,,,,true
+LY,PE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,194,,,,true
+LY,PG,ev,60,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,191;192,,60 days,,true
+LY,PH,ev,59,"valid for 3 months for single entry, and 6 months or 1 year for multiple entry",https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,195;196,,59 days,,true
+LY,PK,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,187;188,,3 months,,true
 LY,PL,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,197,,,,true
 LY,PS,vf,,Arrival by sea to Gaza Strip not allowed. [ 291 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,290;291,,,,false
 LY,PT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,198,,,,true
-LY,PW,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,188,,30 days,,true
-LY,PY,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,192,,,,true
+LY,PW,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,189,,30 days,,true
+LY,PY,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,193,,,,true
 LY,QA,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,199;200,,,,true
 LY,RO,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens,,unverified,,201,,,,true
 LY,RS,ev,90,"- 90 days within any 180-day period. Transfers allowed.
@@ -29221,7 +29222,7 @@ MN,TJ,vf,30,"eVisa may also be applied for stays up to 60 days.
 
 - Visa also available online. [ 243 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Mongolian_citizens,,unverified,,244;245,,30 days,,true
 MN,TL,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Mongolian_citizens,,unverified,,249,,30 days,,true
-MN,TM,vr,,"- When transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD. [ 256 ] [ 257 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Mongolian_citizens,,unverified,,257;258;259,,,,true
+MN,TM,ev,,"- When transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD. [ 256 ] [ 257 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Mongolian_citizens,,unverified,,257;258;259,,,,true
 MN,TN,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Mongolian_citizens,,unverified,,255,,,,true
 MN,TO,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Mongolian_citizens,,unverified,,252,,,,true
 MN,TR,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Mongolian_citizens,,unverified,,256,,30 days,,true
@@ -33412,35 +33413,36 @@ NZ,ID,vo,30,"Visa on arrival may also be available for stays up to 30 days.
 
 - Visa on arrival is extendable up to 60 days.",https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,No,130;131,e-VOA,30 days,,true
 NZ,IE,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,Yes,138,,90 days,,true
-NZ,IL,et,90,"- The New Zealand government advises its citizens not to travel to Israel due to the ongoing conflict in the middle east. [ 139 ]
-- Entry refused to anyone who ""knowingly issues a public call for boycotting Israel."" [ 140 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,Yes,139;140;141;142,,90 days,,true
+NZ,IL,et,90,"- Entry refused to anyone who ""knowingly issues a public call for boycotting Israel."" [ 139 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,Yes,139;140;141,,90 days,,true
 NZ,IN,ev,30,"- e-Visa holders must arrive via 32 designated airports [ Note 1 ] or 5 designated seaports. [ Note 2 ] [ 125 ]
 - An Indian e-Tourist Visa may only be obtained twice within 1 calendar year. [ 126 ]
 - Foreigners of Pakistani origin or who hold a Pakistani Passport are not eligible for an e-Visa. Foreigners who are not Pakistani nationals, but whose parents or grandparents (either paternal or maternal) were born in, or were permanent residents in Pakistan, are also not eligible for an e-Visa. [ 127 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,No,123;124;127;128;129;Airports-125;Seaports-126,,30 days,,true
 NZ,IQ,ev,30,"- The New Zealand government advises its citizens not to travel to Iraq (including the Kurdistan region) due to the volatile and unpredictable security situation, the ongoing thread of terrorism, violent extremism and organised crime. [ 135 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,No,135;136;137,,30 days,,true
 NZ,IR,ev,30,"- The New Zealand government advises its citizens not to travel to Iran due to the potential for violent civil unrest, the risk of arrest or detention and the volatile security situation in the region. [ 132 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,No,132;133;134,,30 days,,true
 NZ,IS,vf,90,- 90 days within any 180 day period in the Schengen Area.,https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,Yes,122,,90 days,,true
-NZ,IT,vf,90,- 90 days within any 180 day period in the Schengen Area.,https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,Yes,143,,90 days,,true
-NZ,JM,vf,,,https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,No,144,,,,true
+NZ,IT,vf,90,- 90 days within any 180 day period in the Schengen Area.,https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,Yes,142,,90 days,,true
+NZ,JM,vf,,,https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,No,143,,,,true
 NZ,JO,vo,30,"eVisa may also be applied for stays up to 30 days.
 
-- Visa can be obtained upon arrival, it will cost a total of 40 JOD, obtainable at most international ports of entry and land border crossings. (except King Hussein/Allenby Bridge)",https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,No,146;147,,30 days,,true
-NZ,JP,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,Yes,145,,90 days,,true
+- Visa can be obtained upon arrival, it will cost a total of 40 JOD, obtainable at most international ports of entry and land border crossings. (except King Hussein/Allenby Bridge)",https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,No,145;146,,30 days,,true
+NZ,JP,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,Yes,144,,90 days,,true
 NZ,KE,et,90,"- Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance.
 - eTA fee is 32.50 USD.
 - Proof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable).
 - Yellow fever vaccination certificate is required if coming from endemic countries.
-- Can also be entered on an East Africa tourist visa issued by Rwanda or Uganda. [ 149 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,No,149;150;migration.gov.rw-151,,90 days,,true
+- Can also be entered on an East Africa tourist visa issued by Rwanda or Uganda. [ 148 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,No,148;149;migration.gov.rw-150,,90 days,,true
 NZ,KG,vf,30,- A single or multiple tourist or business e-visa for 90 days is also available. [ 160 ],https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,No,161;162,,30 days,,true
 NZ,KH,vo,30,eVisa may also be applied for stays up to 30 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,No,51;52,,30 days,,true
-NZ,KI,vf,90,- 90 days in any calendar year period.,https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,No,152,,90 days,,true
+NZ,KI,vf,90,- 90 days in any calendar year period.,https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,No,151,,90 days,,true
 NZ,KM,vo,45,,https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,No,71,,45 days,,true
 NZ,KN,et,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,No,240;241,,3 months,,true
-NZ,KP,vr,,- The New Zealand government advises its citizens not to travel to North Korea due to extensive restrictions placed on foreigners and an uncertain security situation that can change with little warning. [ 152 ],https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,Yes,153;154,,,,true
-NZ,KR,et,90,"- The validity period of a K-ETA is 3 years from the date of approval. [ 155 ]
-- Exempted from the K-ETA requirement until 31 December 2026. [ 156 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,Yes,155;156;157;158,,90 days,,true
-NZ,KW,vo,90,eVisa may also be applied for stays up to 3 months.,https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,Yes,159;160,,3 months,,true
-NZ,KZ,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,No,148,,30 days,,true
+NZ,KP,vr,,- The New Zealand government advises its citizens not to travel to North Korea due to extensive restrictions placed on foreigners and an uncertain security situation that can change with little warning. [ 151 ],https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,Yes,152;153,,,,true
+NZ,KR,et,90,"- The validity period of a K-ETA is 3 years from the date of approval. [ 154 ]
+- Exempted from the K-ETA requirement until 31 December 2026. [ 155 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,Yes,154;155;156;157,,90 days,,true
+NZ,KW,vo,90,"eVisa may also be applied for stays up to 3 months.
+
+- The New Zealand government advises its citizens not to travel to Kuwait due to the ongoing conflict in the middle east. [ 158 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,Yes,158;159;middle_east_security_situation-160,,3 months,,true
+NZ,KZ,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,No,147,,30 days,,true
 NZ,LA,vo,30,"eVisa may also be applied for stays up to 30 days.
 
 - 18 [ Note 3 ] of the 33 border crossings are only open to regular visa holders. [ 163 ]
@@ -33507,8 +33509,10 @@ NZ,QA,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_cit
 NZ,RO,vf,90,- 90 days within any 180 day period in the Schengen Area.,https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,Yes,236,,90 days,,true
 NZ,RS,vf,90,- 90 days within any 6-month period.,https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,No,251,,90 days,,true
 NZ,RU,vr,,- The New Zealand government advises its citizens not to travel to Russia due to the impacts the armed conflict with Ukraine has had on commercial flight availability and access to financial services. There is also potential for the security situation to deteriorate with little warning. [ 232 ],https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,Yes,237;238,,,,true
-NZ,RW,vf,30,- Can also be entered on an East Africa Tourist Visa issued by Kenya or Uganda. [ 149 ],https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,No,239;migration.gov.rw-151,,30 days,,true
-NZ,SA,vo,90,eVisa may also be applied for stays up to 90 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,Yes,248;249,,90 days,,true
+NZ,RW,vf,30,- Can also be entered on an East Africa Tourist Visa issued by Kenya or Uganda. [ 148 ],https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,No,239;migration.gov.rw-150,,30 days,,true
+NZ,SA,vo,90,"eVisa may also be applied for stays up to 90 days.
+
+- The New Zealand government advises its citizens not to travel to Saudi Arabia due to the ongoing conflict in the middle east. [ 158 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,Yes,248;249;middle_east_security_situation-160,,90 days,,true
 NZ,SB,vo,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,No,260,,3 months,,true
 NZ,SC,ev,90,"- Application can be submitted up to 30 days before travel.
 - Visitors must upload a reservation confirmation(s) for each visitor's location of stay in Seychelles.
@@ -33552,7 +33556,7 @@ NZ,TV,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_cit
 NZ,TW,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,,341;342,,90 days,,true
 NZ,TZ,vo,90,eVisa may also be applied for stays up to 90 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,No,284;285,,90 days,,true
 NZ,UA,vf,90,- The New Zealand government advises its citizens not to travel to Ukraine due to Russia's invasion and ongoing military aggression. [ 298 ],https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,No,303;304,,90 days,,true
-NZ,UG,ev,90,- Can also be entered on an East Africa Tourist Visa issued by Kenya or Rwanda. [ 149 ],https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,No,301;302;migration.gov.rw-151,,3 months,,true
+NZ,UG,ev,90,- Can also be entered on an East Africa Tourist Visa issued by Kenya or Rwanda. [ 148 ],https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens,,unverified,No,301;302;migration.gov.rw-150,,3 months,,true
 NZ,US,vf,90,"- ESTA is valid for 2 years from the date of issuance. [ 305 ]
 - ESTA is also required when entering the country by cruise ship or land. [ 306 ]
 - A Form I-94 is required for entry into the United States by land. It carries a $30 fee and can be obtained either online or upon arrival. [ 307 ]
@@ -34005,7 +34009,7 @@ PA,TG,ev,15,,https://en.wikipedia.org/wiki/Visa_requirements_for_Panamanian_citi
 PA,TH,vr,60,,https://en.wikipedia.org/wiki/Visa_requirements_for_Panamanian_citizens,,unverified,,229,,60 days,,true
 PA,TJ,ev,45,,https://en.wikipedia.org/wiki/Visa_requirements_for_Panamanian_citizens,,unverified,,225;226,,45 days,,true
 PA,TL,vo,30,- Not available at all entry points. [ 225 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Panamanian_citizens,,unverified,,230;231,,30 days,,true
-PA,TM,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Panamanian_citizens,,unverified,,238,,,,true
+PA,TM,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Panamanian_citizens,,unverified,,238,,,,true
 PA,TN,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Panamanian_citizens,,unverified,,236,,,,true
 PA,TO,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Panamanian_citizens,,unverified,,234,,,,true
 PA,TR,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Panamanian_citizens,,unverified,,237,,90 days,,true
@@ -37108,7 +37112,7 @@ RS,ZM,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Serbian_citizen
 RS,ZW,vo,30,eVisa may also be applied for stays up to 1 month.,https://en.wikipedia.org/wiki/Visa_requirements_for_Serbian_citizens,,unverified,No,334;335,,1 month,,true
 RU,AD,vf,90,"- 90 days within any 365-day period.
 - Although officially no visa is required, at least a Double Entry Schengen visa is required to enter Andorra since it has no own airport facility.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,78,,90 days,,true
-RU,AE,vf,90,- 90 days within any 180-day period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,363,,90 days,,true
+RU,AE,vf,90,- 90 days within any 180-day period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,368,,90 days,,true
 RU,AF,vr,30,"eVisa is available under certain conditions and allows for stays up to 30 days.
 
 - e-Visa: Visitors must arrive at Kabul International (KBL).
@@ -37157,7 +37161,7 @@ RU,CD,ev,7,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens
 RU,CF,vr,,"- Multiple entry visa valid for 1 year upon arrival into the Central African Republic is mandatory.
 - eVisa website exists, [ 123 ] however it's operating in a ""Test mode"" and claims that ""electronic visa processing is currently not possible""",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,124;125,,,,true
 RU,CG,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,139,,,,true
-RU,CH,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,339,,,,true
+RU,CH,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,344,,,,true
 RU,CI,ev,90,- e-Visa holders must arrive via Port Bouet Airport.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,143;144,,3 months,,true
 RU,CL,vf,90,- Extension of stay is possible for additional 90 days for a fee.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,128,,90 days,,true
 RU,CM,ev,,"- May apply online. [ 119 ]
@@ -37182,7 +37186,7 @@ RU,CV,vf,60,"- Must register online at least five days prior to arrival. [ 116 ]
 - Visitors must pay the Airport Security Fee (TSA) before visiting. The cost is 3,400 CVE (approx. 31 EUR) and can be paid via the online platform (EASE).",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,117;118;mid.ru-40,,60 days,,true
 RU,CY,vr,,- 90 days within any 180-day period for valid Schengen Member State visa holders.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,ReferenceB-147;auto-148,,,,true
 RU,CZ,vr,,"- From 19 September 2022, Russian citizens are banned from entering Czech Republic for tourism, business, sports or culture",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,149,Admission refused,,,true
-RU,DE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,180,,,,true
+RU,DE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,181,,,,true
 RU,DJ,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,151;152,,90 days,,true
 RU,DK,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,150,,,,true
 RU,DM,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,153,,90 days,,true
@@ -37198,7 +37202,7 @@ RU,EG,vo,30,"eVisa may also be applied for stays up to 30 days.
 - Visa-free for tourists arriving at Sharm El Sheikh, Saint Catherine or Taba airports and remaining in the Sinai resorts for a maximum stay of 15 days.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,156;157,,30 days,,true
 RU,EH,vr,,Undefined visa regime in the Western Sahara controlled territory.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,,,Visa regime undefined,,,false
 RU,ER,vr,,- Pre-arranged visa can be picked up on arrival.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,162,,,,true
-RU,ES,vr,,"- From July 12, 2025, Russian citizens will need an airport transit visa to transit through Spanish airports",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,330,,,,true
+RU,ES,vr,,"- From July 12, 2025, Russian citizens will need an airport transit visa to transit through Spanish airports",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,335,,,,true
 RU,ET,vo,90,"eVisa may also be applied for stays up to 90 days.
 
 - Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 167 ]
@@ -37206,209 +37210,212 @@ RU,ET,vo,90,"eVisa may also be applied for stays up to 90 days.
 - e-Visa is available for 30 or 90 days. [ 168 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,167;168;169;170,,90 days,,true
 RU,FI,vr,,"- From 30 September 2022, Russian citizens are banned from entering Finland for tourism.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,172,Admission refused,,,true
 RU,FJ,vf,120,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,171,,4 months,,true
-RU,FM,vf,30,- Extension of stay is possible up to 60 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,256,,30 days,,true
+RU,FM,vf,30,- Extension of stay is possible up to 60 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,258,,30 days,,true
 RU,FR,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,173,,,,true
 RU,GA,ev,90,- e-Visa holders must arrive via Libreville International Airport.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,174;175,,90 days,,true
 RU,GB,vr,,"- 24-hours visa-free visit:
   - When in transit to/from Australia, Canada, New Zealand or USA, or
   - If holder of residence permit issued by Australia, Canada, New Zealand or USA, or
   - If holder of certain EEA or Switzerland visas, or
-  - If holder of certain Irish visas. [ 361 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,364;365,,,,true
-RU,GD,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,183,,3 months,,true
-RU,GE,vf,365,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,178;179,,1 year,,true
-RU,GH,ev,,- Pre-arranged emergency visa can be picked up on arrival.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,181,,,,true
-RU,GM,vf,,- Visa required according to Timatic [ 175 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,176;177,,,,true
-RU,GN,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,185;186,,90 days,,true
+  - If holder of certain Irish visas. [ 366 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,369;370,,,,true
+RU,GD,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,184,,3 months,,true
+RU,GE,vf,365,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,179;180,,1 year,,true
+RU,GH,ev,,- Pre-arranged emergency visa can be picked up on arrival.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,182,,,,true
+RU,GM,vr,,"- Listed under ""Countries With Visa Exemption Agreement"" by Gambia Immigration Department [ 175 ].
+- However, visa exemption agreement signed in 2017 only covers service and diplomatic passports [ 176 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,176;177;178,,,,true
+RU,GN,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,186;187,,90 days,,true
 RU,GQ,ev,,- e-Visa holders must arrive via Malabo International Airport. [ 159 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,159;160;161,,,,true
-RU,GR,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,182,,,,true
-RU,GT,vf,90,- Extension of stay is possible for 90 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,184,,90 days,,true
-RU,GW,vo,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,187,,90 days,,true
-RU,GY,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,188,,90 days,,true
-RU,HK,vf,14,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,,396,,14 days,,true
-RU,HN,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,190,,3 months,,true
+RU,GR,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,183,,,,true
+RU,GT,vf,90,- Extension of stay is possible for 90 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,185,,90 days,,true
+RU,GW,vo,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,188,,90 days,,true
+RU,GY,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,189,,90 days,,true
+RU,HK,vf,14,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,,401,,14 days,,true
+RU,HN,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,191,,3 months,,true
 RU,HR,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,145,,,,true
-RU,HT,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,189,,3 months,,true
-RU,HU,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,191,,,,true
-RU,ID,vo,30,Visa on arrival may also be available for stays up to 30 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,200;201,e-VOA,30 days,,true
-RU,IE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,210,,,,true
-RU,IL,et,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,211;212,,90 days,,true
-RU,IN,ev,30,"- e-Visa holders must arrive via 32 designated airports [ Note 3 ] or 5 designated seaports. [ Note 4 ] [ 193 ]
-- An Indian e-Tourist Visa may only be obtained twice within 1 calendar year. [ 194 ]
-- Foreigners of Pakistani origin or who hold a Pakistani Passport are not eligible for an e-Visa. Foreigners who are not Pakistani nationals, but whose parents or grandparents (either paternal or maternal) were born in, or were permanent residents in Pakistan, are also not eligible for an e-Visa. [ 195 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,193;194;197;198;199;Airports-195;Seaports-196,,30 days,,true
-RU,IQ,ev,30,"- Due to safety concerns, the Russian government advises its citizens not to visit Iraq. [ 205 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,207;208;209,,30 days,,true
+RU,HT,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,190,,3 months,,true
+RU,HU,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,192,,,,true
+RU,ID,vo,30,Visa on arrival may also be available for stays up to 30 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,201;202,e-VOA,30 days,,true
+RU,IE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,211,,,,true
+RU,IL,et,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,212;213,,90 days,,true
+RU,IN,ev,30,"- e-Visa holders must arrive via 32 designated airports [ Note 3 ] or 5 designated seaports. [ Note 4 ] [ 194 ]
+- An Indian e-Tourist Visa may only be obtained twice within 1 calendar year. [ 195 ]
+- Foreigners of Pakistani origin or who hold a Pakistani Passport are not eligible for an e-Visa. Foreigners who are not Pakistani nationals, but whose parents or grandparents (either paternal or maternal) were born in, or were permanent residents in Pakistan, are also not eligible for an e-Visa. [ 196 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,194;195;198;199;200;Airports-196;Seaports-197,,30 days,,true
+RU,IQ,ev,30,"- Due to safety concerns, the Russian government advises its citizens not to visit Iraq. [ 206 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,208;209;210,,30 days,,true
 RU,IR,ev,30,"Visa is not required under certain conditions and allows for stays up to 15 days.
 
 - Visa not required for 15 days for travelling as part of an accredited tour group (5 ~ 50 people).
-- Citizens of Russia who have already made an application, at least two days before arrival, at the Iranian Ministry of Foreign Affair's e-Visa website and present the submission notification at the airport's visa desk may obtain a visa on arrival. [ 200 ]
+- Citizens of Russia who have already made an application, at least two days before arrival, at the Iranian Ministry of Foreign Affair's e-Visa website and present the submission notification at the airport's visa desk may obtain a visa on arrival. [ 201 ]
 - Admission will be refused:
   - to women not wearing Islamic head cover, scarf, long sleeves or stockings.
-  - to holders of passports containing an Israeli visa/stamp in the last 12 months. [ 201 ] [ circular reference ]
-- 14 day visa-free on Kish and Qeshm Islands. [ 202 ]
-- Extension of stay is possible twice for 30 days for a total of up to 90 days.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,202;203;204;206;Visa_Iran-205,,30 days,,true
-RU,IS,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,192,,,,true
-RU,IT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,213,,,,true
-RU,JM,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,214,,90 days,,true
-RU,JO,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,216;217;jordan-46,,90 days,,true
-RU,JP,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,215,,,,true
+  - to holders of passports containing an Israeli visa/stamp in the last 12 months. [ 202 ] [ circular reference ]
+- 14 day visa-free on Kish and Qeshm Islands. [ 203 ]
+- Extension of stay is possible twice for 30 days for a total of up to 90 days.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,203;204;205;207;Visa_Iran-206,,30 days,,true
+RU,IS,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,193,,,,true
+RU,IT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,214,,,,true
+RU,JM,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,215,,90 days,,true
+RU,JO,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,217;218;jordan-46,,90 days,,true
+RU,JP,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,216,,,,true
 RU,KE,et,90,"- Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance.
 - eTA fee is 32.50 USD.
 - Proof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable).
 - Yellow fever vaccination certificate is required if coming from endemic countries.
-- Can also be entered on an East Africa tourist visa issued by Rwanda or Uganda. [ 217 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,219;220;migration.gov.rw-221,,90 days,,true
+- Can also be entered on an East Africa tourist visa issued by Rwanda or Uganda. [ 218 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,220;221;migration.gov.rw-222,,90 days,,true
 RU,KG,vf,90,"- 90 days within any 180-day period.
-- Internal ID valid.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,228,,90 days,,true
+- Internal ID valid.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,229,,90 days,,true
 RU,KH,vo,30,eVisa may also be applied for stays up to 30 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,115;116,,30 days,,true
-RU,KI,vf,90,- 90 days within any 12-month period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,222,,90 days,,true
+RU,KI,vf,90,- 90 days within any 12-month period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,223,,90 days,,true
 RU,KM,vo,45,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,138,,45 days,,true
-RU,KN,et,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,303;304,,90 days,,true
-RU,KP,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,223,,,,true
+RU,KN,et,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,305;306,,90 days,,true
+RU,KP,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,224,,,,true
 RU,KR,et,60,"- A maximum total stay of 90 days within any 180-day period.
-- The validity period of a K-ETA is 3 years from the date of approval. [ 222 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,224;225;226,,60 days,,true
-RU,KW,vr,,- Pre-arranged visa can be picked up on arrival.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,227,,,,true
+- The validity period of a K-ETA is 3 years from the date of approval. [ 223 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,225;226;227,,60 days,,true
+RU,KW,vr,,- Pre-arranged visa can be picked up on arrival.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,228,,,,true
 RU,KZ,vf,90,"- 90 days within any 180-day period.
-- Internal ID valid.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,218,,90 days,,true
-RU,LA,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,229,,30 days,,true
+- Internal ID valid.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,219,,90 days,,true
+RU,LA,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,230,,30 days,,true
 RU,LB,vo,30,"- 1 month extendable for 2 additional months.
-- Granted free of charge at Beirut International Airport or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,232,,1 month,,true
-RU,LC,vf,6,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,305,,6 weeks,,true
-RU,LI,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,238,,,,true
+- Granted free of charge at Beirut International Airport or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,233,,1 month,,true
+RU,LC,vf,6,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,307,,6 weeks,,true
+RU,LI,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,240,,,,true
 RU,LK,et,30,"Visa on arrival may also be available for stays up to 30 days.
 
-- Electronic Travel Authorization subject to granting/issuing free of charge.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,331;332,,30 days,,true
-RU,LR,vo,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,234;235,e-VOA,3 months,,true
-RU,LS,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,233,,,,true
-RU,LT,vr,,"- From 19 September 2022, Russian citizens are banned from entering Lithuania for tourism, business, sports or culture.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,239;240,Admission refused,,,true
-RU,LU,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,241,,,,true
-RU,LV,vr,,"- From 19 September 2022, Russian citizens are banned from entering Latvia for tourism, business, sports or culture.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,230;231,Admission refused,,,true
-RU,LY,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,236;237,,,,true
-RU,MA,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,262,,3 months,,true
-RU,MC,vr,,- Open border with France.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,258,,,,true
-RU,MD,vf,90,- 90 days within any 180-day period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,257,,90 days,,true
-RU,ME,vf,30,"- Visa not required until November 1, 2026. [ 257 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,260;261,,30 days,,true
+- Electronic Travel Authorization subject to granting/issuing free of charge.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,336;337,,30 days,,true
+RU,LR,vo,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,236;237,e-VOA,3 months,,true
+RU,LS,vr,,- Obtaining a visa online via email might be possible [ 231 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,234;235,,,,true
+RU,LT,vr,,"- From 19 September 2022, Russian citizens are banned from entering Lithuania for tourism, business, sports or culture.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,241;242,Admission refused,,,true
+RU,LU,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,243,,,,true
+RU,LV,vr,,"- From 19 September 2022, Russian citizens are banned from entering Latvia for tourism, business, sports or culture.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,231;232,Admission refused,,,true
+RU,LY,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,238;239,,,,true
+RU,MA,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,264,,3 months,,true
+RU,MC,vr,,- Open border with France.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,260,,,,true
+RU,MD,vf,90,- 90 days within any 180-day period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,259,,90 days,,true
+RU,ME,vf,30,"- Visa not required until November 1, 2026. [ 259 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,262;263,,30 days,,true
 RU,MG,vo,90,"eVisa may also be applied for stays up to 90 days.
 
-- For stays of 61 to 90 days, the visa fee is 59 USD.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,242;243,,90 days,,true
-RU,MH,vo,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,250,,90 days,,true
-RU,MK,vr,,"- Visa-free entry for up to 15 days for valid USA, United Kingdom or Schengen Member State (multiple 'C' visa) visa holders.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,281;282,,,,true
-RU,ML,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,248,,,,true
+- For stays of 61 to 90 days, the visa fee is 59 USD.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,244;245,,90 days,,true
+RU,MH,vo,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,252,,90 days,,true
+RU,MK,vr,,"- Visa-free entry for up to 15 days for valid USA, United Kingdom or Schengen Member State (multiple 'C' visa) visa holders.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,283;284,,,,true
+RU,ML,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,250,,,,true
 RU,MM,vf,30,"- e-Visa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports or via land border crossings with Thailand — Tachileik, Myawaddy and Kawthaung or India — Rih Khaw Dar and Tamu.
-- e-Visa is available for both tourism (allowed stay is 28 days) or business (allowed stay is 70 days) purposes.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,265;266,,30 days,,true
-RU,MN,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,259,,30 days,,true
-RU,MO,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,,397,,30 days,,true
-RU,MR,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,251;252,,30 days,,true
-RU,MT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,249,,,,true
-RU,MU,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,253,,90 days,,true
-RU,MV,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,247,,90 days,,true
-RU,MW,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,244;245,,90 days,,true
+- e-Visa is available for both tourism (allowed stay is 28 days) or business (allowed stay is 70 days) purposes.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,267;268,,30 days,,true
+RU,MN,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,261,,30 days,,true
+RU,MO,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,,402,,30 days,,true
+RU,MR,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,253;254,,30 days,,true
+RU,MT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,251,,,,true
+RU,MU,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,255,,90 days,,true
+RU,MV,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,249,,90 days,,true
+RU,MW,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,246;247,,90 days,,true
 RU,MX,ev,180,"- Electronic permit gives the right to enter the country only by air.
-- 180 days for valid Canada, Japan, USA, United Kingdom or a Schengen Member State visa holders.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,255;ReferenceC-254,,180 days,,true
-RU,MY,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,246,,1 month,,true
+- 180 days for valid Canada, Japan, USA, United Kingdom or a Schengen Member State visa holders.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,257;ReferenceC-256,,180 days,,true
+RU,MY,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,248,,1 month,,true
 RU,MZ,et,30,"- Visitors must register their ETA on the e-Visa platform at least 48 hours before travel and pay a processing fee of 48 USD.
-- Extension of stay is possible for 30 days.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,263;264,,30 days,,true
-RU,NA,vf,90,- 90 days within 180-day period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,267,,90 days,,true
-RU,NE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,278,,,,true
-RU,NG,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,279;280,,30 days,,true
+- Extension of stay is possible for 30 days.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,265;266,,30 days,,true
+RU,NA,vf,90,- 90 days within 180-day period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,269,,90 days,,true
+RU,NE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,280,,,,true
+RU,NG,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,281;282,,30 days,,true
 RU,NI,vf,90,"- Tourist card must be obtained on arrival, subject to a fee.
-- Extension of stay is possible for additional 30 days for a fee.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,277,,90 days,,true
-RU,NL,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,272,,,,true
+- Extension of stay is possible for additional 30 days for a fee.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,279,,90 days,,true
+RU,NL,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,274,,,,true
 RU,NO,vr,90,"- From 29 May 2024, Russian citizens are banned from entering Norway for tourism.
 - Visa-free access to the Kirkenes area for 15 days for holders of border traffic permit.
-- Visa-free access for Schengen Residents including tourism.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,283;284,Admission refused,90 days,,true
+- Visa-free access for Schengen Residents including tourism.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,285;286,Admission refused,90 days,,true
 RU,NP,vo,90,"May apply for online visa for stays up to 90 days.
 
 - Extension of stay is possible of up to 150 days.
-- Business travellers can obtain a visa on arrival for a maximum stay of 5 years, subject to a fee and a license issued by the Ministry of Industry.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,270;271,,90 days,,true
-RU,NR,vf,14,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,268;269,,14 days,,true
-RU,NZ,ev,,"- May apply online (Online Visitor Visa). [ 270 ] [ 271 ]
-- Also referred to as eVisa [ 272 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,273;274;275;276,,,,true
-RU,OM,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,285;286;287,,30 days,,true
-RU,PA,vf,90,- Extension of stay is possible.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,291,,90 days,,true
-RU,PE,vf,183,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,295,,183 days,,true
-RU,PG,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,292;293,,30 days,,true
+- Business travellers can obtain a visa on arrival for a maximum stay of 5 years, subject to a fee and a license issued by the Ministry of Industry.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,272;273,,90 days,,true
+RU,NR,vf,14,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,270;271,,14 days,,true
+RU,NZ,ev,,"- May apply online (Online Visitor Visa). [ 272 ] [ 273 ]
+- Also referred to as eVisa [ 274 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,275;276;277;278,,,,true
+RU,OM,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,287;288;289,,30 days,,true
+RU,PA,vf,90,- Extension of stay is possible.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,293,,90 days,,true
+RU,PE,vf,183,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,297,,183 days,,true
+RU,PG,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,294;295,,30 days,,true
 RU,PH,vf,30,"- A visa on arrival is available for a maximum stay of 59 days.
-- Extension of stay is only possible for those who obtained a visa on arrival, to a maximum of 1 year.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,296,,30 days,,true
-RU,PK,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,288;289,,3 months,,true
-RU,PL,vr,,"- From 19 September 2022, Russian citizens are banned from entering Poland for tourism, business, sports or culture.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,297,Admission refused,,,true
-RU,PS,vf,,Arrival by sea to Gaza Strip not allowed. [ 384 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,,387;388,,,,false
-RU,PT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,298,,,,true
-RU,PW,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,290,,30 days,,true
-RU,PY,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,294,,90 days,,true
-RU,QA,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,299,,90 days,,true
-RU,RO,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,ReferenceD-300,,,,true
-RU,RS,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,313,,30 days,,true
+- Extension of stay is only possible for those who obtained a visa on arrival, to a maximum of 1 year.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,298,,30 days,,true
+RU,PK,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,290;291,,3 months,,true
+RU,PL,vr,,"- From 19 September 2022, Russian citizens are banned from entering Poland for tourism, business, sports or culture.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,299,Admission refused,,,true
+RU,PS,vf,,Arrival by sea to Gaza Strip not allowed. [ 389 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,,392;393,,,,false
+RU,PT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,300,,,,true
+RU,PW,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,292,,30 days,,true
+RU,PY,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,296,,90 days,,true
+RU,QA,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,301,,90 days,,true
+RU,RO,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,ReferenceD-302,,,,true
+RU,RS,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,318,,30 days,,true
 RU,RW,vo,30,"eVisa may also be applied for stays up to 30 days.
 
 - A visa on arrival is available for 30 days.
-- Can also be entered on an East Africa Tourist Visa issued by Kenya or Uganda. [ 217 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,301;302;migration.gov.rw-221,,30 days,,true
+- Can also be entered on an East Africa Tourist Visa issued by Kenya or Uganda. [ 218 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,303;304;migration.gov.rw-222,,30 days,,true
 RU,SA,vf,90,"- Visa-free for 90 days within one calendar year period.
-- Visa is required to perform Hajj or Umrah during the Hajj season.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,311,,90 days,,true
-RU,SB,ev,,- Pre-arranged visa can be picked up on arrival.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,323,,,,true
+- Visa is required to perform Hajj or Umrah during the Hajj season.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,316,,90 days,,true
+RU,SB,ev,,- Pre-arranged visa can be picked up on arrival.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,328,,,,true
 RU,SC,ev,90,"- Application can be submitted up to 30 days before travel.
 - Visitors must upload a reservation confirmation(s) for each visitor's location of stay in Seychelles.
 - Yellow fever vaccination certificate is required if coming from endemic countries.
 - Payment of the fee (EUR 10) by credit or debit card.
-- Valid for one journey only and it expires once exit the country.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,314;315,,3 months,,true
-RU,SD,vr,,- Pre-arranged visa can be picked up on arrival.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,333,,,,true
-RU,SE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,338,,,,true
-RU,SG,ev,,"- May obtain online e-Service through eligible through authorized travel agencies or through local sponsors (Singapore citizen or permanent residents). [ 315 ] [ 316 ]
-- Allowed visa-free transit for 96 hours.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,318;319;320,,,,true
-RU,SI,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,322,,,,true
-RU,SK,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,321,,,,true
-RU,SL,vo,30,eVisa may also be applied for stays up to 3 months.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,316;317,,30 days,,true
-RU,SM,vf,90,"- Although officially no visa is required, at least a Double Entry Schengen visa is required to enter San Marino since it has no own airport facility.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,308,,90 days,,true
-RU,SN,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,312,,1 month,,true
-RU,SO,ev,30,"- Due to safety concerns, the Russian government advises its citizens not to visit Somalia. [ 322 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,324;325;326,,30 days,,true
-RU,SR,vf,90,"- An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival. [ 332 ]
-- Multiple entry e-Visa is also available. [ 333 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,334;335;336;337,,90 days,,true
+- Valid for one journey only and it expires once exit the country.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,319;320,,3 months,,true
+RU,SD,vr,,- Pre-arranged visa can be picked up on arrival.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,338,,,,true
+RU,SE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,343,,,,true
+RU,SG,ev,,"- May obtain online e-Service through eligible through authorized travel agencies or through local sponsors (Singapore citizen or permanent residents). [ 320 ] [ 321 ]
+- Allowed visa-free transit for 96 hours.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,323;324;325,,,,true
+RU,SI,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,327,,,,true
+RU,SK,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,326,,,,true
+RU,SL,vo,30,eVisa may also be applied for stays up to 3 months.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,321;322,,30 days,,true
+RU,SM,vr,,"- In late 2021, visa abolishing agreement was signed [ 307 ]
+- Both Timatic and Russian Ministry of Foreign Affairs however still state that visa is required [ 308 ]
+- Nonetheless, San Marino carries out no border formalities [ 309 ] and maintains an open border with Italy",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,310;311;312;313,,,,true
+RU,SN,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,317,,1 month,,true
+RU,SO,ev,30,"- Due to safety concerns, the Russian government advises its citizens not to visit Somalia. [ 327 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,329;330;331,,30 days,,true
+RU,SR,vf,90,"- An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival. [ 337 ]
+- Multiple entry e-Visa is also available. [ 338 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,339;340;341;342,,90 days,,true
 RU,SS,ev,30,"- Obtainable online 30 days single entry for 100 USD, 90 days multiple entry for 200 USD and 180 days multiple entry for 350 USD.
-- Printed visa authorization must be presented at the time of travel.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,328;329,,30 days,,true
-RU,ST,vf,15,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,309;310,,15 days,,true
+- Printed visa authorization must be presented at the time of travel.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,333;334,,30 days,,true
+RU,ST,vf,15,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,314;315,,15 days,,true
 RU,SV,vf,180,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,158,,180 days,,true
-RU,SY,vo,15,"- Due to safety concerns, the Russian government advises its citizens not to visit Syria. [ 338 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,340;341;342,,15 days,,true
+RU,SY,vo,15,"- Due to safety concerns, the Russian government advises its citizens not to visit Syria. [ 343 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,345;346;347,,15 days,,true
 RU,SZ,vf,30,- Extension of stay is possible for additional 30 days in total.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,166,,30 days,,true
 RU,TD,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,126;127,,,,true
-RU,TG,ev,15,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,348;349,,15 days,,true
-RU,TH,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,346,,30 days,,true
-RU,TJ,vf,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,343,,Unlimited,,true
+RU,TG,ev,15,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,353;354,,15 days,,true
+RU,TH,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,351,,30 days,,true
+RU,TJ,vf,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,348,,Unlimited,,true
 RU,TL,vo,30,"- Visa on arrival is only available at the Presidente Nicolau Lobato International Airport or at the Dili Sea Port.
-- Extension of stay is possible for up to 90 days.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,347,,30 days,,true
-RU,TM,vr,,"- 10-day visa on arrival if holding a letter of invitation provided by a company registered in Turkmenistan with a prior approval from the Foreign Ministry. Visitors can apply to extend their stay for an additional 10 days. [ 351 ]
-- When transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD. [ 352 ] [ 353 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,354;355;356;357,,,,true
-RU,TN,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,352,,3 months,,true
-RU,TO,vo,31,- Extension of stay is possible for additional 5 months.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,350,,31 days,,true
-RU,TR,vf,60,"- 60 days during one trip, no more than 90 days within any 180-day period.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,353,,60 days,,true
-RU,TT,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,351,,90 days,,true
-RU,TV,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,358,,1 month,,true
-RU,TW,ev,,"- Temporary regime until July 6, 2027 [ 388 ]
-- Earlier visa-free regime was suspended in 2022",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,,392,,,,true
-RU,TZ,vo,90,eVisa may also be applied for stays up to 90 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,344;345,,90 days,,true
-RU,UA,vr,,"- Due to the Russian invasion of Ukraine, obtaining a visa has become very difficult, with some exceptions. [ 65 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,361;362;7380531UkrainebgBfr-65,,,,true
-RU,UG,ev,90,- Can also be entered on an East Africa Tourist Visa issued by Kenya or Rwanda. [ 217 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,359;360;migration.gov.rw-221,,3 months,,true
-RU,US,vr,,"- Residents of the Chukotka Autonomous Okrug in Russia who are members of the indigenous population do not need a visa to visit Alaska if they have relatives (blood relatives, members of the same tribe, native people who have similar language and cultural heritage) in Alaska. Entry points are in Gambell and Nome. Individuals must be invited by a relative in Alaska, must notify local authorities at least ten days before traveling to Alaska, and must leave Alaska within 90 days. [ 363 ] [ 364 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,366;367;368,,,,true
+- Extension of stay is possible for up to 90 days.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,352,,30 days,,true
+RU,TM,vr,,"- 10-day visa on arrival if holding a letter of invitation provided by a company registered in Turkmenistan with a prior approval from the Foreign Ministry. Visitors can apply to extend their stay for an additional 10 days. [ 356 ]
+- When transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD. [ 357 ] [ 358 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,359;360;361;362,,,,true
+RU,TN,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,357,,3 months,,true
+RU,TO,vo,31,- Extension of stay is possible for additional 5 months.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,355,,31 days,,true
+RU,TR,vf,60,"- 60 days during one trip, no more than 90 days within any 180-day period.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,358,,60 days,,true
+RU,TT,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,356,,90 days,,true
+RU,TV,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,363,,1 month,,true
+RU,TW,ev,,"- Temporary regime until July 6, 2027 [ 393 ]
+- Earlier visa-free regime was suspended in 2022",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,,397,,,,true
+RU,TZ,vo,90,eVisa may also be applied for stays up to 90 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,349;350,,90 days,,true
+RU,UA,vr,,"- Due to the Russian invasion of Ukraine, obtaining a visa has become very difficult, with some exceptions. [ 65 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,366;367;7380531UkrainebgBfr-65,,,,true
+RU,UG,ev,90,- Can also be entered on an East Africa Tourist Visa issued by Kenya or Rwanda. [ 218 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,364;365;migration.gov.rw-222,,3 months,,true
+RU,US,vr,,"- Residents of the Chukotka Autonomous Okrug in Russia who are members of the indigenous population do not need a visa to visit Alaska if they have relatives (blood relatives, members of the same tribe, native people who have similar language and cultural heritage) in Alaska. Entry points are in Gambell and Nome. Individuals must be invited by a relative in Alaska, must notify local authorities at least ten days before traveling to Alaska, and must leave Alaska within 90 days. [ 368 ] [ 369 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,371;372;373,,,,true
 RU,UY,vf,90,"- 90 days within any 180-day period.
-- Extension of stay is possible for additional 90 days.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,369,,3 months,,true
-RU,UZ,vf,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,370;371,,Unlimited,,true
-RU,VA,vr,,- Open border with Italy.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,373,,,,true
-RU,VC,vf,90,- Can be extended stay for a fee.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,306,,3 months,,true
+- Extension of stay is possible for additional 90 days.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,374,,3 months,,true
+RU,UZ,vf,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,375;376,,Unlimited,,true
+RU,VA,vr,,- Open border with Italy.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,378,,,,true
+RU,VC,vf,90,- Can be extended stay for a fee.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,308,,3 months,,true
 RU,VE,vf,90,"- 90 days within any 180-day period.
-- Extension of stay is possible for additional 90 days.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,374,,90 days,,true
-RU,VN,vf,45,"- 30 day visa-free on Phú Quốc. [ 372 ]
-- A single entry e-Visa is available for 90 days. [ 373 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,375;376;377,,45 days,,true
-RU,VU,vf,120,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,372,,120 days,,true
-RU,WS,vf,60,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,307,,60 days,,true
-RU,XK,vr,,"Visa is not required (in theory) for holders of a valid Laissez-Passer issued by United Nations Organizations, NATO, OSCE, Council of Europe or European Union, holders of valid travel documents issued by EU Member and Schengen States, United States of America, Canada, Australia and Japan based on the 1951 Convention on Refugee Status or the 1954 Convention on the Status of Stateless Persons, as well as holders of valid travel documents for foreigners (max. 15 days stay). [ 381 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,,384;385,,,,true
+- Extension of stay is possible for additional 90 days.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,379,,90 days,,true
+RU,VN,vf,45,"- 30 day visa-free on Phú Quốc. [ 377 ]
+- A single entry e-Visa is available for 90 days. [ 378 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,380;381;382,,45 days,,true
+RU,VU,vf,120,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,377,,120 days,,true
+RU,WS,vf,60,,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,309,,60 days,,true
+RU,XK,vr,,"Visa is not required (in theory) for holders of a valid Laissez-Passer issued by United Nations Organizations, NATO, OSCE, Council of Europe or European Union, holders of valid travel documents issued by EU Member and Schengen States, United States of America, Canada, Australia and Japan based on the 1951 Convention on Refugee Status or the 1954 Convention on the Status of Stateless Persons, as well as holders of valid travel documents for foreigners (max. 15 days stay). [ 386 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,,389;390,,,,true
 RU,YE,vr,,"- Due to safety concerns, the Russian government advises its citizens not to visit Yemen.
-- Separately, Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.). [ 375 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,378;379,,,,true
-RU,ZA,vf,90,- Extension of stay possible for additional 90 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,327,,90 days,,true
+- Separately, Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.). [ 380 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,383;384,,,,true
+RU,ZA,vf,90,- Extension of stay possible for additional 90 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,Yes,332,,90 days,,true
 RU,ZM,vo,90,"eVisa may also be applied for stays up to 90 days.
 
 - For those travelling to Zambia for business, the maximum stay is 30 days in any 1-year period.
 - Tourists are allowed 90 days in any 1-year period.
-- Also eligible for a universal visa allowing access to Zimbabwe.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,380;381,,90 days,,true
+- Also eligible for a universal visa allowing access to Zimbabwe.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,385;386,,90 days,,true
 RU,ZW,vo,30,"eVisa may also be applied for stays up to 1 month.
 
 - For those travelling to Zimbabwe for business, a visa on arrival can also be issued for a maximum stay of 30 days.
-- Also eligible for a universal visa allowing access to Zambia.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,382;383,,1 month,,true
+- Also eligible for a universal visa allowing access to Zambia.",https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens,,unverified,No,387;388,,1 month,,true
 RW,AD,vr,,"- Although no visa requirements exist, apply the relevant regulations of France or Spain, whichever must be transited to reach Andorra.",https://en.wikipedia.org/wiki/Visa_requirements_for_Rwandan_citizens,,unverified,,9,,,,true
 RW,AE,ev,,"- May apply online. [ 258 ]
 - May apply also using 'Smart service'. [ 259 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Rwandan_citizens,,unverified,,263;264;265,,,,true
@@ -41639,7 +41646,7 @@ SY,TG,ev,15,,https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens
 SY,TH,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens,,unverified,,236;237,,,,true
 SY,TJ,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens,,unverified,,233,,,,true
 SY,TL,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens,,unverified,,238,,30 days,,true
-SY,TM,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens,,unverified,,245,,,,true
+SY,TM,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens,,unverified,,245,,,,true
 SY,TN,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens,,unverified,,243,,,,true
 SY,TO,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens,,unverified,,241,,,,true
 SY,TR,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens,,unverified,,244,,,,true
@@ -42778,7 +42785,7 @@ TJ,TD,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Tajikistani_citiz
 TJ,TG,ev,15,,https://en.wikipedia.org/wiki/Visa_requirements_for_Tajikistani_citizens,,unverified,,246;247,,15 days,,true
 TJ,TH,ev,15,,https://en.wikipedia.org/wiki/Visa_requirements_for_Tajikistani_citizens,,unverified,,244,,15 days,,true
 TJ,TL,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Tajikistani_citizens,,unverified,,245,,30 days,,true
-TJ,TM,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Tajikistani_citizens,,unverified,,254,,,,true
+TJ,TM,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Tajikistani_citizens,,unverified,,254,,,,true
 TJ,TN,vr,,- Visa not required for tourist groups organised by a travel agency.,https://en.wikipedia.org/wiki/Visa_requirements_for_Tajikistani_citizens,,unverified,,250,,,,true
 TJ,TO,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Tajikistani_citizens,,unverified,,248,,,,true
 TJ,TR,vr,,"- e-Visa can be obtained if holding a multiple entry visa or a residence permit from any of the Schengen countries, USA, UK or Ireland. [ 246 ] [ 247 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Tajikistani_citizens,,unverified,,251;252;253,,,,true
@@ -47176,7 +47183,7 @@ VE,ZM,vo,90,eVisa may also be applied for stays up to 90 days.,https://en.wikipe
 VE,ZW,vo,30,eVisa may also be applied for stays up to 30 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Venezuelan_citizens,,unverified,,312;313,,30 days,,true
 VN,AD,vr,,"- There are no visa requirements for entry into Andorra, but it can only be accessed by passing through France or Spain. A multiple entry visa is required to re-enter either France or Spain when leaving Andorra.
 - All visitors can stay for 3 months.",https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,11,,,,true
-VN,AE,vr,,- May apply using 'Smart service'. [ 281 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,283;284,,,,true
+VN,AE,vr,,- May apply using 'Smart service'. [ 278 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,280;281,,,,true
 VN,AF,ev,30,"- Visa is not required in case born in Afghanistan or can proof that one of their parents is a national of Afghanistan or born in Afghanistan. [ 4 ]
 - e-Visa: Visitors must arrive at Kabul International Airport (KBL).",https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,2;3;4,,30 days,,true
 VN,AG,ev,,"- Holders of a visa or residency issued by Canada, USA, United Kingdom or a Schengen Member State can obtain a visa upon arrival that costs USD 100 for a maximum of 30 days. [ 15 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,13;14;15,,,,true
@@ -47209,7 +47216,7 @@ VN,CA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citize
 VN,CD,ev,7,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,74;75,,7 days,,true
 VN,CF,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,60,,,,true
 VN,CG,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,73,,,,true
-VN,CH,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,259,,,,true
+VN,CH,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,256,,,,true
 VN,CI,ev,90,- e-Visa holders must arrive via Port Bouet Airport.,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,79;80,,3 months,,true
 VN,CL,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,63,,90 days,,true
 VN,CM,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,56;57,,,,true
@@ -47234,14 +47241,14 @@ VN,EE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citize
 VN,EG,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,93,,30 days,,true
 VN,EH,vr,,- Undefined visa regime in the Western Sahara controlled territory.,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,,Undefined,,,false
 VN,ER,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,97,,,,true
-VN,ES,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,251,,,,true
+VN,ES,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,248,,,,true
 VN,ET,ev,90,- e-Visa holders must arrive via Addis Ababa Bole International Airport,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,100;101,,90 days,,true
 VN,FI,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,104,,,,true
 VN,FJ,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,102;103,,,,true
 VN,FM,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,177,,30 days,,true
 VN,FR,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,105,,,,true
 VN,GA,ev,90,- e-Visa holders must arrive via Libreville International Airport.,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,106;107,,90 days,,true
-VN,GB,vr,,- Direct Airside Transit visa (DATV) and Visitor in Transit visa (TWOV) may not be required under certain conditions. [ 283 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,285;286,,,,true
+VN,GB,vr,,- Direct Airside Transit visa (DATV) and Visitor in Transit visa (TWOV) may not be required under certain conditions. [ 280 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,282;283,,,,true
 VN,GD,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,115,,,,true
 VN,GE,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,110;111,,30 days,,true
 VN,GH,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,113,,,,true
@@ -47252,7 +47259,7 @@ VN,GR,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citize
 VN,GT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,116,,,,true
 VN,GW,vo,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,119,,90 days,,true
 VN,GY,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,120;121,,,,true
-VN,HK,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,308;309,,,,true
+VN,HK,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,305;306,,,,true
 VN,HN,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,123,,,,true
 VN,HR,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,81,,,,true
 VN,HT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,122,,,,true
@@ -47281,7 +47288,7 @@ VN,KG,vf,30,- Visa-free regime to be in force on 6 August 2021. [ 147 ],https://
 VN,KH,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,55,,30 days,,true
 VN,KI,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,146,,,,true
 VN,KM,vo,45,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,72,,45 days,,true
-VN,KN,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,225;226,,30 days,,true
+VN,KN,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,223;224,,30 days,,true
 VN,KP,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,147,,,,true
 VN,KR,vr,,"- Visa free transit (up to 30 days) provided holding a valid U.S., Canada, Australia, New Zealand visa, and arriving from or departing to those countries.
 - Visa-free access for 30 days to Jeju Island.
@@ -47290,9 +47297,9 @@ VN,KW,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citize
 VN,KZ,vf,30,"- 30 calendar days from the date of entry, for a total of 90 calendar days every 6 months.",https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,143,,30 days,,true
 VN,LA,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,151,,30 days,,true
 VN,LB,vr,,"- In addition to a visa, an approval should be obtained from the Immigration department of the General Directorate of General Security (La Surete Generale).",https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,153,,,,true
-VN,LC,vo,6,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,227,,6 weeks,,true
+VN,LC,vo,6,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,225,,6 weeks,,true
 VN,LI,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,159,,,,true
-VN,LK,et,30,Visa on arrival may also be available for stays up to 30 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,252;253,,30 days,,true
+VN,LK,et,30,Visa on arrival may also be available for stays up to 30 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,249;250,,30 days,,true
 VN,LR,vo,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,155;156,e-VOA,3 months,,true
 VN,LS,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,154,,,,true
 VN,LT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,160,,,,true
@@ -47309,7 +47316,7 @@ VN,MK,vr,,"- Visa-free for Schengen multiple-entry visa or residence permit hold
 VN,ML,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,168,,,,true
 VN,MM,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,189,,30 days,,true
 VN,MN,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,182,,30 days,,true
-VN,MO,vr,,- Visitors must obtain a visa in advance through the Chinese diplomatic mission. [ 310 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,312;313,,,,true
+VN,MO,vr,,- Visitors must obtain a visa in advance through the Chinese diplomatic mission. [ 307 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,309;310,,,,true
 VN,MR,ev,30,- Available at Nouakchott–Oumtounsy International Airport.,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,171;172,,30 days,,true
 VN,MT,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,169,,,,true
 VN,MU,vo,60,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,173;174,,60 days,,true
@@ -47343,67 +47350,67 @@ VN,PY,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citi
 VN,QA,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,218;219,,,,true
 VN,RO,vr,,- Visa free for holders of valid visa for Schengen area. [ 218 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,220;221,,,,true
 VN,RS,ev,90,"- 90 days within any 180-day period. Transfers allowed.
-- Visa-free for a maximum stay of 90 days for valid visa holders or residents of the European Union member states and the United States.",https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,235;236,,90 days,,true
-VN,RU,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,222;223,,30 days,,true
-VN,RW,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,224,,30 days,,true
-VN,SA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,233,,,,true
-VN,SB,vr,,- Pre-arranged visa can be picked up on arrival.,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,244,,,,true
+- Visa-free for a maximum stay of 90 days for valid visa holders or residents of the European Union member states and the United States.",https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,233;234,,90 days,,true
+VN,RU,vf,30,- Visa not required from 15 October 2026 to 15 October 2027,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,,,30 days,,true
+VN,RW,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,222,,30 days,,true
+VN,SA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,231,,,,true
+VN,SB,vr,,- Pre-arranged visa can be picked up on arrival.,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,242,,,,true
 VN,SC,ev,90,"- Application can be submitted up to 30 days before travel.
 - Visitors must upload a reservation confirmation(s) for each visitor's location of stay in Seychelles.
 - Yellow fever vaccination certificate is required if coming from endemic countries.
 - Payment of the fee (EUR 10) by credit or debit card.
-- Valid for one journey only and it expires once exit the country.",https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,237;238,,3 months,,true
-VN,SD,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,254,,,,true
-VN,SE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,258,,,,true
-VN,SG,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,241,,30 days,,true
-VN,SI,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,243,,,,true
-VN,SK,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,242,,,,true
-VN,SL,vo,30,eVisa may also be applied for stays up to 3 months.,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,239;240,,30 days,,true
-VN,SM,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,230,,,,true
-VN,SN,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,234,,,,true
-VN,SO,ev,30,- All visitors must have an approved Electronic Visa (eTAS) before the start of their journey. [ 244 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,245;246;247,,30 days,,true
-VN,SR,vf,90,"- An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival. [ 253 ]
-- Multiple entry e-Visa is also available. [ 254 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,255;256;257,,90 days,,true
+- Valid for one journey only and it expires once exit the country.",https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,235;236,,3 months,,true
+VN,SD,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,251,,,,true
+VN,SE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,255,,,,true
+VN,SG,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,239,,30 days,,true
+VN,SI,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,241,,,,true
+VN,SK,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,240,,,,true
+VN,SL,vo,30,eVisa may also be applied for stays up to 3 months.,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,237;238,,30 days,,true
+VN,SM,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,228,,,,true
+VN,SN,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,232,,,,true
+VN,SO,ev,30,- All visitors must have an approved Electronic Visa (eTAS) before the start of their journey. [ 242 ],https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,243;244;245,,30 days,,true
+VN,SR,vf,90,"- An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival. [ 250 ]
+- Multiple entry e-Visa is also available. [ 251 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,252;253;254,,90 days,,true
 VN,SS,ev,,"- Obtainable online.
-- Printed visa authorization must be presented at the time of travel.",https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,249;250,,,,true
-VN,ST,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,231;232,,,,true
+- Printed visa authorization must be presented at the time of travel.",https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,246;247,,,,true
+VN,ST,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,229;230,,,,true
 VN,SV,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,94,,,,true
-VN,SY,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,260;261,,,,true
+VN,SY,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,257;258,,,,true
 VN,SZ,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,99,,,,true
 VN,TD,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,61;62,,,,true
-VN,TG,ev,15,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,268;269,,15 days,,true
-VN,TH,vf,60,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,266,,60 days,,true
+VN,TG,ev,15,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,265;266,,15 days,,true
+VN,TH,vf,60,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,263,,60 days,,true
 VN,TJ,ev,60,"Visa is not required under certain conditions and allows for stays up to 14 days.
 
 - Visa not required for citizens over the age of 55 and they can stay for up to 14 days.
-- e-Visa holders can enter through all border points.",https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,262;263,,60 days,,true
-VN,TL,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,267,,30 days,,true
-VN,TM,vr,,"- When transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD. [ 274 ] [ 275 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,276;277;278,,,,true
-VN,TN,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,273,,,,true
-VN,TO,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,270,,,,true
-VN,TR,ev,30,- 30 days per 180-day period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,274;275,,30 days,,true
-VN,TT,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,271;272,,90 days,,true
-VN,TV,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,279,,1 month,,true
-VN,TW,vr,,"- Holders of valid or expired-within-10-year visa/ electronic visa, residence permit, or permanent resident issued by US, Canada, UK, Australia, New Zealand, and Schengen Member States are eligible to fill out an ETA form in order to be allowed for 14 days visa-free access",https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,314;315,,,,true
-VN,TZ,vo,90,eVisa may also be applied for stays up to 90 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,264;265,,90 days,,true
-VN,UA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,282,,,,true
-VN,UG,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,280;281,,3 months,,true
-VN,US,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,287,,,,true
-VN,UY,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,288,,,,true
+- e-Visa holders can enter through all border points.",https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,259;260,,60 days,,true
+VN,TL,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,264,,30 days,,true
+VN,TM,vr,,"- When transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD. [ 271 ] [ 272 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,273;274;275,,,,true
+VN,TN,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,270,,,,true
+VN,TO,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,267,,,,true
+VN,TR,ev,30,- 30 days per 180-day period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,271;272,,30 days,,true
+VN,TT,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,268;269,,90 days,,true
+VN,TV,vo,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,276,,1 month,,true
+VN,TW,vr,,"- Holders of valid or expired-within-10-year visa/ electronic visa, residence permit, or permanent resident issued by US, Canada, UK, Australia, New Zealand, and Schengen Member States are eligible to fill out an ETA form in order to be allowed for 14 days visa-free access",https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,311;312,,,,true
+VN,TZ,vo,90,eVisa may also be applied for stays up to 90 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,261;262,,90 days,,true
+VN,UA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,279,,,,true
+VN,UG,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,277;278,,3 months,,true
+VN,US,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,284,,,,true
+VN,UY,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,285,,,,true
 VN,UZ,ev,30,"Visa is not required under certain conditions and allows for stays up to 30 days.
 
 - Visa not required for citizens over the age of 55 and they can stay for up to 30 days.
-- 5-day visa-free transit at the international airports if holding a confirmed onward ticket for a flight to a third country. [ 288 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,289;290;291,,30 days,,true
-VN,VA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,293,,,,true
-VN,VC,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,228,,3 months,,true
-VN,VE,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,294;295,,,,true
-VN,VU,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,292,,,,true
-VN,WS,vo,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,229,,90 days,,true
+- 5-day visa-free transit at the international airports if holding a confirmed onward ticket for a flight to a third country. [ 285 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,286;287;288,,30 days,,true
+VN,VA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,290,,,,true
+VN,VC,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,226,,3 months,,true
+VN,VE,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,291;292,,,,true
+VN,VU,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,289,,,,true
+VN,WS,vo,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,227,,90 days,,true
 VN,XK,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,,,,,true
-VN,YE,vr,,"- Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.). [ 294 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,296;297,,,,true
-VN,ZA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,248,,,,true
-VN,ZM,vo,90,eVisa may also be applied for stays up to 90 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,298;299,,90 days,,true
-VN,ZW,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,300;301,,1 month,,true
+VN,YE,vr,,"- Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.). [ 291 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,293;294,,,,true
+VN,ZA,et,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,,,90 days,,true
+VN,ZM,vo,90,eVisa may also be applied for stays up to 90 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,295;296,,90 days,,true
+VN,ZW,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified,,297;298,,1 month,,true
 VU,AD,vr,,"- Although no visa requirements exist, apply the relevant regulations of France or Spain, whichever must be transited to reach Andorra.",https://en.wikipedia.org/wiki/Visa_requirements_for_Vanuatu_citizens,,unverified,,12,,,,true
 VU,AE,ev,30,"- May apply online. [ 261 ]
 - May apply also using 'Smart service'. [ 262 ]",https://en.wikipedia.org/wiki/Visa_requirements_for_Vanuatu_citizens,,unverified,,266;267;268,,30 days,,true
