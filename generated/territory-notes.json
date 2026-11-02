@@ -327,170 +327,170 @@
     {
       "region": "Europe",
       "name": "Abkhazia",
-      "description": "Visa required [ 305 ]. Tourists from all countries (except Georgia) can visit Abkhazia for a period not exceeding 24 hours as part of an organized tourist group.",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "312"
-    },
-    {
-      "region": "Europe",
-      "name": "Mount Athos",
-      "description": "Special permit required. Special permit required (4 days: €25 for Eastern Orthodox Church visitors, €35 for non-Orthodox visitors, €18 for students). There is a visitors' quota: maximum 100 Eastern Orthodox Church and 10 non-Orthodox per day and women are not allowed. [ 306 ] [ 307 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "313;314"
-    },
-    {
-      "region": "Europe",
-      "name": "Brest and Grodno",
-      "description": "Visa not required. Visa-free for 10 days [ 308 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "315"
-    },
-    {
-      "region": "Europe",
-      "name": "Crimea",
-      "description": "Visa not required. Visa policy of Russia is applied. [ 309 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "316"
-    },
-    {
-      "region": "Europe",
-      "name": "Turkish Republic of Northern Cyprus",
-      "description": "Visa not required. 3 months [ 310 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "317"
-    },
-    {
-      "region": "Europe",
-      "name": "UN Buffer Zone in Cyprus",
-      "description": "Access Permit required [ 311 ]. Access Permit is required for travelling inside the zone, except Civil Use Areas.",
+      "description": "Visa required [ 309 ]. Tourists from all countries (except Georgia) can visit Abkhazia for a period not exceeding 24 hours as part of an organized tourist group.",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
       "footnote_ids": "318"
     },
     {
       "region": "Europe",
-      "name": "Faroe Islands",
-      "description": "Visa not required [ 312 ]. 90 days",
+      "name": "Mount Athos",
+      "description": "Special permit required. Special permit required (4 days: €25 for Eastern Orthodox Church visitors, €35 for non-Orthodox visitors, €18 for students). There is a visitors' quota: maximum 100 Eastern Orthodox Church and 10 non-Orthodox per day and women are not allowed. [ 310 ] [ 311 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "gov.uk-319"
+      "footnote_ids": "319;320"
     },
     {
       "region": "Europe",
-      "name": "Gibraltar",
-      "description": "Visa not required [ 313 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "320"
-    },
-    {
-      "region": "Europe",
-      "name": "Guernsey",
-      "description": "Visa required [ 314 ]",
+      "name": "Brest and Grodno",
+      "description": "Visa not required. Visa-free for 10 days [ 312 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
       "footnote_ids": "321"
     },
     {
       "region": "Europe",
-      "name": "Isle of Man",
-      "description": "Visa required [ 315 ]",
+      "name": "Crimea",
+      "description": "Visa not required. Visa policy of Russia is applied. [ 313 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
       "footnote_ids": "322"
     },
     {
       "region": "Europe",
-      "name": "Jan Mayen",
-      "description": "Permit required [ 316 ]. Permit issued by the local police required for staying for less than 24 hours [ 317 ] and permit issued by the Norwegian police for staying for more than 24 hours. [ 318 ]",
+      "name": "Turkish Republic of Northern Cyprus",
+      "description": "Visa not required. 3 months [ 314 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "323;324;325"
+      "footnote_ids": "323"
     },
     {
       "region": "Europe",
-      "name": "Jersey",
-      "description": "Visa required [ 319 ]",
+      "name": "UN Buffer Zone in Cyprus",
+      "description": "Access Permit required [ 315 ]. Access Permit is required for travelling inside the zone, except Civil Use Areas.",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "footnote_ids": "324"
+    },
+    {
+      "region": "Europe",
+      "name": "Faroe Islands",
+      "description": "Visa not required [ 316 ]. 90 days",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "footnote_ids": "gov.uk-325"
+    },
+    {
+      "region": "Europe",
+      "name": "Gibraltar",
+      "description": "Visa not required [ 317 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
       "footnote_ids": "326"
     },
     {
       "region": "Europe",
-      "name": "Russia",
-      "description": "Special authorization required. Several closed cities and regions in Russia require special authorization. [ 320 ]",
+      "name": "Guernsey",
+      "description": "Visa required [ 318 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
       "footnote_ids": "327"
     },
     {
       "region": "Europe",
-      "name": "South Ossetia",
-      "description": "Visa required. To enter South Ossetia, visitors must have a multiple-entry visa for Russia and register their stay with the Migration Service of the Ministry of Internal Affairs within 3 days. [ 321 ] [ 322 ]",
+      "name": "Isle of Man",
+      "description": "Visa required [ 319 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "328;329"
+      "footnote_ids": "328"
     },
     {
       "region": "Europe",
-      "name": "Svalbard",
-      "description": "Visa not required [ 197 ]. - Unlimited stay.\n- Everybody may live and work in Svalbard indefinitely regardless of country of citizenship.",
+      "name": "Jan Mayen",
+      "description": "Permit required [ 320 ]. Permit issued by the local police required for staying for less than 24 hours [ 321 ] and permit issued by the Norwegian police for staying for more than 24 hours. [ 322 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "auto1-204"
+      "footnote_ids": "329;330;331"
     },
     {
       "region": "Europe",
-      "name": "Transnistria",
-      "description": "Visa not required. Registration required after 24h. [ 323 ] [ 324 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "330;331"
-    },
-    {
-      "region": "Africa",
-      "name": "British Indian Ocean Territory",
-      "description": "Special permit required. Special permit required. [ 325 ]",
+      "name": "Jersey",
+      "description": "Visa required [ 323 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
       "footnote_ids": "332"
     },
     {
-      "region": "Africa",
-      "name": "Eritrea outside Asmara",
-      "description": "Travel permit required. To travel in the rest of the country, a Travel Permit for Foreigners is required (20 Eritrean nakfa). [ 326 ]",
+      "region": "Europe",
+      "name": "Russia",
+      "description": "Special authorization required. Several closed cities and regions in Russia require special authorization. [ 324 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
       "footnote_ids": "333"
     },
     {
-      "region": "Africa",
-      "name": "Mayotte",
-      "description": "Visa not required [ 327 ]. 90 days",
+      "region": "Europe",
+      "name": "South Ossetia",
+      "description": "Visa required. To enter South Ossetia, visitors must have a multiple-entry visa for Russia and register their stay with the Migration Service of the Ministry of Internal Affairs within 3 days. [ 325 ] [ 326 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "France-334"
+      "footnote_ids": "334;335"
+    },
+    {
+      "region": "Europe",
+      "name": "Svalbard",
+      "description": "Visa not required [ 198 ]. - Unlimited stay.\n- Everybody may live and work in Svalbard indefinitely regardless of country of citizenship.",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "footnote_ids": "auto1-207"
+    },
+    {
+      "region": "Europe",
+      "name": "Transnistria",
+      "description": "Visa not required. Registration required after 24h. [ 327 ] [ 328 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "footnote_ids": "336;337"
     },
     {
       "region": "Africa",
-      "name": "Réunion",
-      "description": "Visa not required [ 327 ]. 90 days",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "France-334"
-    },
-    {
-      "region": "Africa",
-      "name": "Ascension Island",
-      "description": "eVisa [ 328 ] [ 329 ]. 3 months within any year period.",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "335;336"
-    },
-    {
-      "region": "Africa",
-      "name": "Saint Helena",
-      "description": "eVisa [ 330 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "337"
-    },
-    {
-      "region": "Africa",
-      "name": "Tristan da Cunha",
-      "description": "Permission required. Permission to land required for 15/30 pounds sterling (yacht/ship passenger) for Tristan da Cunha Island or 20 pounds sterling for Gough Island, Inaccessible Island or Nightingale Islands. [ 331 ]",
+      "name": "British Indian Ocean Territory",
+      "description": "Special permit required. Special permit required. [ 329 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
       "footnote_ids": "338"
     },
     {
       "region": "Africa",
-      "name": "Somaliland",
-      "description": "Visa required [ 332 ]",
+      "name": "Eritrea outside Asmara",
+      "description": "Travel permit required. To travel in the rest of the country, a Travel Permit for Foreigners is required (20 Eritrean nakfa). [ 330 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
       "footnote_ids": "339"
+    },
+    {
+      "region": "Africa",
+      "name": "Mayotte",
+      "description": "Visa not required [ 331 ]. 90 days",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "footnote_ids": "France-340"
+    },
+    {
+      "region": "Africa",
+      "name": "Réunion",
+      "description": "Visa not required [ 331 ]. 90 days",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "footnote_ids": "France-340"
+    },
+    {
+      "region": "Africa",
+      "name": "Ascension Island",
+      "description": "eVisa [ 332 ] [ 333 ]. 3 months within any year period.",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "footnote_ids": "341;342"
+    },
+    {
+      "region": "Africa",
+      "name": "Saint Helena",
+      "description": "eVisa [ 334 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "footnote_ids": "343"
+    },
+    {
+      "region": "Africa",
+      "name": "Tristan da Cunha",
+      "description": "Permission required. Permission to land required for 15/30 pounds sterling (yacht/ship passenger) for Tristan da Cunha Island or 20 pounds sterling for Gough Island, Inaccessible Island or Nightingale Islands. [ 335 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "footnote_ids": "344"
+    },
+    {
+      "region": "Africa",
+      "name": "Somaliland",
+      "description": "Visa required [ 336 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "footnote_ids": "345"
     },
     {
       "region": "Africa",
@@ -502,37 +502,37 @@
     {
       "region": "Africa",
       "name": "Darfur",
-      "description": "Travel permit required. Separate travel permit is required. [ 333 ]",
+      "description": "Travel permit required. Separate travel permit is required. [ 337 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "340"
+      "footnote_ids": "346"
     },
     {
       "region": "Asia",
       "name": "India PAP/RAP",
-      "description": "PAP/RAP required. Protected Area Permit (PAP) required for whole states of Nagaland and Sikkim and parts of states Manipur, Arunachal Pradesh, Uttaranchal, Jammu and Kashmir, Rajasthan, Himachal Pradesh. Restricted Area Permit (RAP) required for all of Andaman and Nicobar Islands and parts of Sikkim. Some of these requirements are occasionally lifted for a year. [ 335 ] [ 336 ] [ 337 ] [ 338 ] [ 339 ] [ 340 ]",
+      "description": "PAP/RAP required. Protected Area Permit (PAP) required for whole states of Nagaland and Sikkim and parts of states Manipur, Arunachal Pradesh, Uttaranchal, Jammu and Kashmir, Rajasthan, Himachal Pradesh. Restricted Area Permit (RAP) required for all of Andaman and Nicobar Islands and parts of Sikkim. Some of these requirements are occasionally lifted for a year. [ 339 ] [ 340 ] [ 341 ] [ 342 ] [ 343 ] [ 344 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "342;343;344;345;346;347"
+      "footnote_ids": "348;349;350;351;352;353"
     },
     {
       "region": "Asia",
       "name": "Kazakhstan",
-      "description": "Special permission required. Special permission required for the town of Baikonur and surrounding areas in Kyzylorda Oblast, and the town of Gvardeyskiy near Almaty. [ 341 ]",
+      "description": "Special permission required. Special permission required for the town of Baikonur and surrounding areas in Kyzylorda Oblast, and the town of Gvardeyskiy near Almaty. [ 345 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "348"
+      "footnote_ids": "354"
     },
     {
       "region": "Asia",
       "name": "Kish Island",
-      "description": "Visa not required. Visitors to Kish Island do not require a visa. [ 342 ]",
+      "description": "Visa not required. Visitors to Kish Island do not require a visa. [ 346 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "349"
+      "footnote_ids": "355"
     },
     {
       "region": "Asia",
       "name": "Maldives",
-      "description": "Permission required. With the exception of the capital Malé, tourists are generally prohibited from visiting non-resort islands without the express permission of the Government of Maldives. [ 344 ]",
+      "description": "Permission required. With the exception of the capital Malé, tourists are generally prohibited from visiting non-resort islands without the express permission of the Government of Maldives. [ 348 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "351"
+      "footnote_ids": "357"
     },
     {
       "region": "Asia",
@@ -544,23 +544,23 @@
     {
       "region": "Asia",
       "name": "Gorno-Badakhshan Autonomous Province",
-      "description": "OIVR permit required. OIVR permit required (15+5 Tajikistani Somoni) and another special permit (free of charge) is required for Lake Sarez. [ 348 ] [ 349 ] [ 350 ]",
+      "description": "OIVR permit required. OIVR permit required (15+5 Tajikistani Somoni) and another special permit (free of charge) is required for Lake Sarez. [ 352 ] [ 353 ] [ 354 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "355;356;357"
+      "footnote_ids": "361;362;363"
     },
     {
       "region": "Asia",
       "name": "Tibet Autonomous Region",
-      "description": "TTP required. Tibet Travel Permit required (10 US Dollars). [ 351 ] [ 352 ] [ 353 ]",
+      "description": "TTP required. Tibet Travel Permit required (10 US Dollars). [ 355 ] [ 356 ] [ 357 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "358;359;360"
+      "footnote_ids": "364;365;366"
     },
     {
       "region": "Asia",
       "name": "Turkmenistan",
-      "description": "Special permit required. A special permit, issued prior to arrival by Ministry of Foreign Affairs, is required if visiting the following places: Atamurat, Cheleken, Dashoguz, Serakhs and Serhetabat. [ 354 ]",
+      "description": "Special permit required. A special permit, issued prior to arrival by Ministry of Foreign Affairs, is required if visiting the following places: Atamurat, Cheleken, Dashoguz, Serakhs and Serhetabat. [ 358 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "361"
+      "footnote_ids": "367"
     },
     {
       "region": "Asia",
@@ -579,240 +579,240 @@
     {
       "region": "Asia",
       "name": "Yemen",
-      "description": "Special permission required. Special permission needed for travel outside Sanaa or Aden. [ 355 ]",
+      "description": "Special permission required. Special permission needed for travel outside Sanaa or Aden. [ 359 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "362"
+      "footnote_ids": "368"
     },
     {
       "region": "Caribbean and North Atlantic",
       "name": "Anguilla",
-      "description": "eVisa [ 356 ] [ 357 ]",
+      "description": "eVisa [ 360 ] [ 361 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "363;364"
+      "footnote_ids": "369;370"
     },
     {
       "region": "Caribbean and North Atlantic",
       "name": "Aruba",
-      "description": "Visa not required [ 358 ] [ 359 ]. 30 days",
+      "description": "Visa not required [ 362 ] [ 363 ]. 30 days",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "365;366"
+      "footnote_ids": "371;372"
     },
     {
       "region": "Caribbean and North Atlantic",
       "name": "Bermuda",
-      "description": "Visa required [ 360 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "367"
-    },
-    {
-      "region": "Caribbean and North Atlantic",
-      "name": "Bonaire, St. Eustatius and Saba",
-      "description": "Visa not required [ 361 ] [ 362 ]. 90 days",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "368;369"
-    },
-    {
-      "region": "Caribbean and North Atlantic",
-      "name": "British Virgin Islands",
-      "description": "Visa required [ 363 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "370"
-    },
-    {
-      "region": "Caribbean and North Atlantic",
-      "name": "Cayman Islands",
       "description": "Visa required [ 364 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "371"
-    },
-    {
-      "region": "Caribbean and North Atlantic",
-      "name": "Curacao",
-      "description": "Visa not required [ 365 ]. 90 days",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "372"
-    },
-    {
-      "region": "Caribbean and North Atlantic",
-      "name": "French Guiana",
-      "description": "Visa not required [ 366 ]. 90 days",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
       "footnote_ids": "373"
     },
     {
       "region": "Caribbean and North Atlantic",
-      "name": "French West Indies",
-      "description": "Visa not required [ 367 ]. 90 days; French West Indies refers to Martinique, Guadeloupe, Saint Martin and Saint Barthélemy.",
+      "name": "Bonaire, St. Eustatius and Saba",
+      "description": "Visa not required [ 365 ] [ 366 ]. 90 days",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "374"
+      "footnote_ids": "374;375"
     },
     {
       "region": "Caribbean and North Atlantic",
-      "name": "Greenland",
-      "description": "Visa not required [ 312 ]. 90 days",
+      "name": "British Virgin Islands",
+      "description": "Visa required [ 367 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "gov.uk-319"
+      "footnote_ids": "376"
     },
     {
       "region": "Caribbean and North Atlantic",
-      "name": "Montserrat",
-      "description": "eVisa [ 368 ] [ 369 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "375;376"
-    },
-    {
-      "region": "Caribbean and North Atlantic",
-      "name": "Puerto Rico",
-      "description": "Visa required [ 370 ]",
+      "name": "Cayman Islands",
+      "description": "Visa required [ 368 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
       "footnote_ids": "377"
     },
     {
       "region": "Caribbean and North Atlantic",
-      "name": "Saint Pierre and Miquelon",
-      "description": "Visa not required [ 327 ]. 90 days",
+      "name": "Curacao",
+      "description": "Visa not required [ 369 ]. 90 days",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "France-334"
+      "footnote_ids": "378"
     },
     {
       "region": "Caribbean and North Atlantic",
-      "name": "Sint Maarten",
-      "description": "Visa not required [ 371 ] [ 372 ]. 90 days",
+      "name": "French Guiana",
+      "description": "Visa not required [ 370 ]. 90 days",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "378;379"
+      "footnote_ids": "379"
     },
     {
       "region": "Caribbean and North Atlantic",
-      "name": "Turks and Caicos Islands",
-      "description": "Visa required [ 373 ]",
+      "name": "French West Indies",
+      "description": "Visa not required [ 371 ]. 90 days; French West Indies refers to Martinique, Guadeloupe, Saint Martin and Saint Barthélemy.",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
       "footnote_ids": "380"
     },
     {
       "region": "Caribbean and North Atlantic",
-      "name": "U.S. Virgin Islands",
+      "name": "Greenland",
+      "description": "Visa not required [ 316 ]. 90 days",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "footnote_ids": "gov.uk-325"
+    },
+    {
+      "region": "Caribbean and North Atlantic",
+      "name": "Montserrat",
+      "description": "eVisa [ 372 ] [ 373 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "footnote_ids": "381;382"
+    },
+    {
+      "region": "Caribbean and North Atlantic",
+      "name": "Puerto Rico",
       "description": "Visa required [ 374 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "381"
-    },
-    {
-      "region": "Oceania",
-      "name": "American Samoa",
-      "description": "Entry permit required [ 375 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "382"
-    },
-    {
-      "region": "Oceania",
-      "name": "Ashmore and Cartier Islands",
-      "description": "Special authorisation required. Special authorisation required. [ 376 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
       "footnote_ids": "383"
     },
     {
-      "region": "Oceania",
-      "name": "Clipperton Island",
-      "description": "Special permit required. Special permit required. [ 377 ]",
+      "region": "Caribbean and North Atlantic",
+      "name": "Saint Pierre and Miquelon",
+      "description": "Visa not required [ 331 ]. 90 days",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "384"
+      "footnote_ids": "France-340"
     },
     {
-      "region": "Oceania",
-      "name": "Cook Islands",
-      "description": "Visa not required [ 378 ]. 31 days",
+      "region": "Caribbean and North Atlantic",
+      "name": "Sint Maarten",
+      "description": "Visa not required [ 375 ] [ 376 ]. 90 days",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "385"
+      "footnote_ids": "384;385"
     },
     {
-      "region": "Oceania",
-      "name": "Lau Province",
-      "description": "Special permission required. Special permission required. [ 379 ]",
+      "region": "Caribbean and North Atlantic",
+      "name": "Turks and Caicos Islands",
+      "description": "Visa required [ 377 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
       "footnote_ids": "386"
     },
     {
-      "region": "Oceania",
-      "name": "French Polynesia",
-      "description": "Visa not required [ 380 ]. 90 days",
+      "region": "Caribbean and North Atlantic",
+      "name": "U.S. Virgin Islands",
+      "description": "Visa required [ 378 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
       "footnote_ids": "387"
     },
     {
       "region": "Oceania",
-      "name": "Guam",
-      "description": "Visa required [ 381 ]",
+      "name": "American Samoa",
+      "description": "Entry permit required [ 379 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
       "footnote_ids": "388"
     },
     {
       "region": "Oceania",
-      "name": "New Caledonia",
-      "description": "Visa required [ 327 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "France-334"
-    },
-    {
-      "region": "Oceania",
-      "name": "Niue",
-      "description": "Visa not required [ 382 ]. 30 days",
+      "name": "Ashmore and Cartier Islands",
+      "description": "Special authorisation required. Special authorisation required. [ 380 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
       "footnote_ids": "389"
     },
     {
       "region": "Oceania",
-      "name": "Northern Mariana Islands",
-      "description": "Visa required [ 383 ]",
+      "name": "Clipperton Island",
+      "description": "Special permit required. Special permit required. [ 381 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
       "footnote_ids": "390"
     },
     {
       "region": "Oceania",
-      "name": "Pitcairn Islands",
-      "description": "Visa not required. 14 days visa free and landing fee US$35 or tax of US$5 if not going ashore. [ 384 ] [ 385 ] [ 386 ]",
+      "name": "Cook Islands",
+      "description": "Visa not required [ 382 ]. 31 days",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "391;392;393"
+      "footnote_ids": "391"
     },
     {
       "region": "Oceania",
-      "name": "Tokelau",
-      "description": "Entry permit required [ 387 ]",
+      "name": "Lau Province",
+      "description": "Special permission required. Special permission required. [ 383 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "footnote_ids": "392"
+    },
+    {
+      "region": "Oceania",
+      "name": "French Polynesia",
+      "description": "Visa not required [ 384 ]. 90 days",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "footnote_ids": "393"
+    },
+    {
+      "region": "Oceania",
+      "name": "Guam",
+      "description": "Visa required [ 385 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
       "footnote_ids": "394"
     },
     {
       "region": "Oceania",
-      "name": "United States Minor Outlying Islands",
-      "description": "Special permits required. Special permits required for Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Atoll, Palmyra Atoll and Wake Island. [ 388 ] [ 389 ] [ 390 ] [ 391 ] [ 392 ] [ 393 ] [ 394 ]",
+      "name": "New Caledonia",
+      "description": "Visa required [ 331 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "395;396;397;398;399;400;401"
+      "footnote_ids": "France-340"
+    },
+    {
+      "region": "Oceania",
+      "name": "Niue",
+      "description": "Visa not required [ 386 ]. 30 days",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "footnote_ids": "395"
+    },
+    {
+      "region": "Oceania",
+      "name": "Northern Mariana Islands",
+      "description": "Visa required [ 387 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "footnote_ids": "396"
+    },
+    {
+      "region": "Oceania",
+      "name": "Pitcairn Islands",
+      "description": "Visa not required. 14 days visa free and landing fee US$35 or tax of US$5 if not going ashore. [ 388 ] [ 389 ] [ 390 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "footnote_ids": "397;398;399"
+    },
+    {
+      "region": "Oceania",
+      "name": "Tokelau",
+      "description": "Entry permit required [ 391 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "footnote_ids": "400"
+    },
+    {
+      "region": "Oceania",
+      "name": "United States Minor Outlying Islands",
+      "description": "Special permits required. Special permits required for Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Atoll, Palmyra Atoll and Wake Island. [ 392 ] [ 393 ] [ 394 ] [ 395 ] [ 396 ] [ 397 ] [ 398 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "footnote_ids": "401;402;403;404;405;406;407"
     },
     {
       "region": "Oceania",
       "name": "Wallis and Futuna",
-      "description": "Visa not required [ 327 ]. 90 days",
+      "description": "Visa not required [ 331 ]. 90 days",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "France-334"
+      "footnote_ids": "France-340"
     },
     {
       "region": "South Atlantic and Antarctica",
       "name": "Falkland Islands",
-      "description": "Visa required [ 395 ]",
+      "description": "Visa required [ 399 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "402"
+      "footnote_ids": "408"
     },
     {
       "region": "South Atlantic and Antarctica",
       "name": "South Georgia and the South Sandwich Islands",
-      "description": "Permit required. Pre-arrival permit from the Commissioner required (72 hours/1 month for 110/160 pounds sterling). [ 396 ] [ 397 ]",
+      "description": "Permit required. Pre-arrival permit from the Commissioner required (72 hours/1 month for 110/160 pounds sterling). [ 400 ] [ 401 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "403;404"
+      "footnote_ids": "409;410"
     },
     {
       "region": "South Atlantic and Antarctica",
       "name": "Antarctica",
-      "description": "Special permits required for British Antarctic Territory, French Southern and Antarctic Lands, Argentine Antarctica, Australian Antarctic Territory, Chilean Antarctic Territory, Heard Island and McDonald Islands, Peter I Island, Queen Maud Land, Ross Dependency. [ 398 ] [ 399 ] [ 400 ] [ 401 ] [ 402 ] [ 403 ] [ 404 ] [ 405 ] [ 406 ] [ 407 ] [ 408 ] [ 409 ]",
+      "description": "Special permits required for British Antarctic Territory, French Southern and Antarctic Lands, Argentine Antarctica, Australian Antarctic Territory, Chilean Antarctic Territory, Heard Island and McDonald Islands, Peter I Island, Queen Maud Land, Ross Dependency. [ 402 ] [ 403 ] [ 404 ] [ 405 ] [ 406 ] [ 407 ] [ 408 ] [ 409 ] [ 410 ] [ 411 ] [ 412 ] [ 413 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "footnote_ids": "405;406;407;408;409;410;411;412;413;414;415;416"
+      "footnote_ids": "411;412;413;414;415;416;417;418;419;420;421;422"
     }
   ],
   "DZ": [
@@ -6495,65 +6495,65 @@
     {
       "region": "Dependent, disputed, or restricted territories",
       "name": "Abkhazia",
-      "description": "Visa required [ 259 ]",
+      "description": "Visa required [ 265 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
-      "footnote_ids": "265"
+      "footnote_ids": "271"
     },
     {
       "region": "Dependent, disputed, or restricted territories",
       "name": "Northern Cyprus",
-      "description": "Visa not required [ 261 ]",
+      "description": "Visa not required [ 267 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
-      "footnote_ids": "267"
+      "footnote_ids": "273"
     },
     {
       "region": "Dependent, disputed, or restricted territories",
       "name": "Somaliland",
-      "description": "Visa on arrival. 30 days for 30 US dollars, payable on arrival. [ 264 ] [ 265 ]",
+      "description": "Visa on arrival. 30 days for 30 US dollars, payable on arrival. [ 270 ] [ 271 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
-      "footnote_ids": "270;271"
+      "footnote_ids": "276;277"
     },
     {
       "region": "Dependent, disputed, or restricted territories",
       "name": "South Ossetia",
-      "description": "Visa not required [ 266 ]. Multiple entry visa to Russia and three day prior notification are required to enter South Ossetia. [ 267 ] [ 268 ]",
+      "description": "Visa not required [ 272 ]. Multiple entry visa to Russia and three day prior notification are required to enter South Ossetia. [ 273 ] [ 274 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
-      "footnote_ids": "272;273;274"
+      "footnote_ids": "278;279;280"
     },
     {
       "region": "Dependent, disputed, or restricted territories",
       "name": "Transnistria",
-      "description": "Visa not required [ 271 ]. Registration required after 24h. [ 272 ] [ 273 ]",
+      "description": "Visa not required [ 277 ]. Registration required after 24h. [ 278 ] [ 279 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
-      "footnote_ids": "277;278;279"
+      "footnote_ids": "283;284;285"
     },
     {
       "region": "Denmark",
       "name": "Faroe Islands",
-      "description": "Visa required [ 276 ]",
+      "description": "Visa required [ 282 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
-      "footnote_ids": "282"
+      "footnote_ids": "288"
     },
     {
       "region": "Denmark",
       "name": "Greenland",
-      "description": "Visa required [ 277 ]",
+      "description": "Visa required [ 283 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
-      "footnote_ids": "283"
+      "footnote_ids": "289"
     },
     {
       "region": "France",
       "name": "French Guiana",
-      "description": "Visa required [ 278 ]",
+      "description": "Visa required [ 284 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
-      "footnote_ids": "284"
+      "footnote_ids": "290"
     },
     {
       "region": "France",
       "name": "French Polynesia",
-      "description": "Visa required [ 279 ]",
+      "description": "Visa required [ 285 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
-      "footnote_ids": "285"
+      "footnote_ids": "291"
     },
     {
       "region": "France",
@@ -6565,226 +6565,233 @@
     {
       "region": "France",
       "name": "Mayotte",
-      "description": "Visa required [ 280 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
-      "footnote_ids": "286"
-    },
-    {
-      "region": "France",
-      "name": "New Caledonia",
-      "description": "Visa required [ 281 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
-      "footnote_ids": "287"
-    },
-    {
-      "region": "France",
-      "name": "Réunion",
-      "description": "Visa required [ 282 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
-      "footnote_ids": "288"
-    },
-    {
-      "region": "France",
-      "name": "Saint Pierre and Miquelon",
-      "description": "Visa required [ 283 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
-      "footnote_ids": "289"
-    },
-    {
-      "region": "France",
-      "name": "Wallis and Futuna",
-      "description": "Visa required [ 284 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
-      "footnote_ids": "290"
-    },
-    {
-      "region": "Netherlands",
-      "name": "Aruba",
-      "description": "Visa required [ 285 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
-      "footnote_ids": "291"
-    },
-    {
-      "region": "Netherlands",
-      "name": "Caribbean Netherlands",
-      "description": "Visa required [ 286 ]. Includes Bonaire, Sint Eustatius and Saba.",
+      "description": "Visa required [ 286 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
       "footnote_ids": "292"
     },
     {
-      "region": "Netherlands",
-      "name": "Curaçao",
+      "region": "France",
+      "name": "New Caledonia",
       "description": "Visa required [ 287 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
       "footnote_ids": "293"
     },
     {
-      "region": "Netherlands",
-      "name": "Sint Maarten",
+      "region": "France",
+      "name": "Réunion",
       "description": "Visa required [ 288 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
       "footnote_ids": "294"
     },
     {
-      "region": "New Zealand",
-      "name": "Cook Islands",
-      "description": "Visa not required [ 289 ]. 31 days",
+      "region": "France",
+      "name": "Saint Pierre and Miquelon",
+      "description": "Visa required [ 289 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
       "footnote_ids": "295"
     },
     {
-      "region": "New Zealand",
-      "name": "Niue",
-      "description": "Visa not required [ 290 ]. 30 days",
+      "region": "France",
+      "name": "Wallis and Futuna",
+      "description": "Visa required [ 290 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
       "footnote_ids": "296"
     },
     {
-      "region": "New Zealand",
-      "name": "Tokelau",
+      "region": "Netherlands",
+      "name": "Aruba",
       "description": "Visa required [ 291 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
       "footnote_ids": "297"
     },
     {
-      "region": "United Kingdom",
-      "name": "Akrotiri and Dhekelia",
-      "description": "Visa required [ 292 ]",
+      "region": "Netherlands",
+      "name": "Caribbean Netherlands",
+      "description": "Visa required [ 292 ]. Includes Bonaire, Sint Eustatius and Saba.",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
       "footnote_ids": "298"
     },
     {
-      "region": "United Kingdom",
-      "name": "Anguilla",
-      "description": "Visa not required [ 293 ]. Holders of a valid visa issued by the United Kingdom do not require a visa. [ 294 ]",
+      "region": "Netherlands",
+      "name": "Curaçao",
+      "description": "Visa required [ 293 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
-      "footnote_ids": "299;300"
+      "footnote_ids": "299"
     },
     {
-      "region": "United Kingdom",
-      "name": "Bermuda",
-      "description": "Visa not required [ 295 ]",
+      "region": "Netherlands",
+      "name": "Sint Maarten",
+      "description": "Visa required [ 294 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
+      "footnote_ids": "300"
+    },
+    {
+      "region": "New Zealand",
+      "name": "Cook Islands",
+      "description": "Visa not required [ 295 ]. 31 days",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
       "footnote_ids": "301"
     },
     {
-      "region": "United Kingdom",
-      "name": "British Indian Ocean Territory",
-      "description": "Special permit required. Special permit required. [ 296 ]",
+      "region": "New Zealand",
+      "name": "Niue",
+      "description": "Visa not required [ 296 ]. 30 days",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
       "footnote_ids": "302"
     },
     {
-      "region": "United Kingdom",
-      "name": "British Virgin Islands",
-      "description": "Visa not required [ 297 ]",
+      "region": "New Zealand",
+      "name": "Tokelau",
+      "description": "Visa required [ 297 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
       "footnote_ids": "303"
     },
     {
-      "region": "United Kingdom",
-      "name": "Cayman Islands",
-      "description": "Visa not required [ 298 ]",
+      "region": "Norway",
+      "name": "Svalbard",
+      "description": "Visa not required [ 298 ]. - A Schengen visa may nevertheless be needed for travel through mainland Norway; a visa allowing two entries is normally necessary where a Schengen visa is required.",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
       "footnote_ids": "304"
     },
     {
       "region": "United Kingdom",
-      "name": "Falkland Islands",
+      "name": "Akrotiri and Dhekelia",
       "description": "Visa required [ 299 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
       "footnote_ids": "305"
     },
     {
       "region": "United Kingdom",
+      "name": "Anguilla",
+      "description": "Visa not required [ 300 ]. Holders of a valid visa issued by the United Kingdom do not require a visa. [ 301 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
+      "footnote_ids": "306;307"
+    },
+    {
+      "region": "United Kingdom",
+      "name": "Bermuda",
+      "description": "Visa required [ 302 ]. - Since 17 September 2026, Botswana nationals must hold a qualifying multiple-re-entry visa issued by Canada, the United Kingdom or the United States.",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
+      "footnote_ids": "308"
+    },
+    {
+      "region": "United Kingdom",
+      "name": "British Indian Ocean Territory",
+      "description": "Special permit required. Special permit required. [ 303 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
+      "footnote_ids": "309"
+    },
+    {
+      "region": "United Kingdom",
+      "name": "British Virgin Islands",
+      "description": "Visa not required [ 304 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
+      "footnote_ids": "310"
+    },
+    {
+      "region": "United Kingdom",
+      "name": "Cayman Islands",
+      "description": "Visa not required [ 305 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
+      "footnote_ids": "311"
+    },
+    {
+      "region": "United Kingdom",
+      "name": "Falkland Islands",
+      "description": "Visa required [ 306 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
+      "footnote_ids": "312"
+    },
+    {
+      "region": "United Kingdom",
       "name": "Gibraltar",
-      "description": "Visa not required [ 300 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
-      "footnote_ids": "306"
-    },
-    {
-      "region": "United Kingdom",
-      "name": "Montserrat",
-      "description": "Visa not required [ 301 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
-      "footnote_ids": "307"
-    },
-    {
-      "region": "United Kingdom",
-      "name": "Pitcairn Islands",
-      "description": "Visa not required. 14 days visa free and landing fee US$35 or tax of US$5 if not going ashore. [ 302 ] [ 303 ] [ 304 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
-      "footnote_ids": "308;309;310"
-    },
-    {
-      "region": "United Kingdom",
-      "name": "Ascension Island",
-      "description": "eVisa [ 305 ] [ 306 ]. - 3 months within any year period",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
-      "footnote_ids": "311;312"
-    },
-    {
-      "region": "United Kingdom",
-      "name": "Saint Helena",
-      "description": "Visitor's Pass required. Visitor's Pass granted on arrival valid for 4/10/21/60/90 days for 12/14/16/20/25 pound sterling. [ 307 ]",
+      "description": "Visa required [ 307 ]. - From 15 July 2026, Gibraltar aligns its short-stay visa arrangements with Schengen requirements.",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
       "footnote_ids": "313"
     },
     {
       "region": "United Kingdom",
-      "name": "Tristan da Cunha",
-      "description": "Permission required. Permission to land required for 15/30 pounds sterling (yacht/ship passenger) for Tristan da Cunha Island or 20 pounds sterling for Gough Island, Inaccessible Island or Nightingale Islands. [ 308 ]",
+      "name": "Montserrat",
+      "description": "Visa not required [ 308 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
       "footnote_ids": "314"
     },
     {
       "region": "United Kingdom",
-      "name": "South Georgia and the South Sandwich Islands",
-      "description": "Permit required. Pre-arrival permit from the Commissioner required (72 hours/1 month for 110/160 pounds sterling). [ 309 ] [ 310 ]",
+      "name": "Pitcairn Islands",
+      "description": "Visa not required. 14 days visa free and landing fee US$35 or tax of US$5 if not going ashore. [ 309 ] [ 310 ] [ 311 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
-      "footnote_ids": "315;316"
+      "footnote_ids": "315;316;317"
     },
     {
       "region": "United Kingdom",
-      "name": "Turks and Caicos Islands",
-      "description": "Visa required [ 311 ]. Holders of a valid visa issued by Canada, United Kingdom or the USA do not required a visa for a maximum stay of 90 days.",
+      "name": "Ascension Island",
+      "description": "eVisa [ 312 ] [ 313 ]. - 3 months within any year period",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
-      "footnote_ids": "317"
+      "footnote_ids": "318;319"
     },
     {
-      "region": "United States",
-      "name": "American Samoa",
-      "description": "Visa required [ 312 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
-      "footnote_ids": "318"
-    },
-    {
-      "region": "United States",
-      "name": "Guam",
-      "description": "Visa required [ 313 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
-      "footnote_ids": "319"
-    },
-    {
-      "region": "United States",
-      "name": "Northern Mariana Islands",
-      "description": "Visa required [ 314 ]",
+      "region": "United Kingdom",
+      "name": "Saint Helena",
+      "description": "Visitor's Pass required. Visitor's Pass granted on arrival valid for 4/10/21/60/90 days for 12/14/16/20/25 pound sterling. [ 314 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
       "footnote_ids": "320"
     },
     {
-      "region": "United States",
-      "name": "Puerto Rico",
-      "description": "Visa required [ 315 ]",
+      "region": "United Kingdom",
+      "name": "Tristan da Cunha",
+      "description": "Permission required. Permission to land required for 15/30 pounds sterling (yacht/ship passenger) for Tristan da Cunha Island or 20 pounds sterling for Gough Island, Inaccessible Island or Nightingale Islands. [ 315 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
       "footnote_ids": "321"
     },
     {
+      "region": "United Kingdom",
+      "name": "South Georgia and the South Sandwich Islands",
+      "description": "Permit required. Pre-arrival permit from the Commissioner required (72 hours/1 month for 110/160 pounds sterling). [ 316 ] [ 317 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
+      "footnote_ids": "322;323"
+    },
+    {
+      "region": "United Kingdom",
+      "name": "Turks and Caicos Islands",
+      "description": "Visa not required [ 318 ]. - Botswana is included on the official visa-exempt nationality list.",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
+      "footnote_ids": "324"
+    },
+    {
+      "region": "United States",
+      "name": "American Samoa",
+      "description": "Visa required [ 319 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
+      "footnote_ids": "325"
+    },
+    {
+      "region": "United States",
+      "name": "Guam",
+      "description": "Visa required [ 320 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
+      "footnote_ids": "326"
+    },
+    {
+      "region": "United States",
+      "name": "Northern Mariana Islands",
+      "description": "Visa required [ 321 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
+      "footnote_ids": "327"
+    },
+    {
+      "region": "United States",
+      "name": "Puerto Rico",
+      "description": "Visa required [ 322 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
+      "footnote_ids": "328"
+    },
+    {
       "region": "United States",
       "name": "U.S. Virgin Islands",
-      "description": "Visa required [ 316 ]",
+      "description": "Visa required [ 323 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
-      "footnote_ids": "322"
+      "footnote_ids": "329"
     }
   ],
   "BR": [
@@ -11864,58 +11871,58 @@
     {
       "region": "Dependent, disputed, or restricted territories",
       "name": "Abkhazia",
-      "description": "Visa required [ 162 ]",
+      "description": "Visa required [ 163 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
-      "footnote_ids": "166"
+      "footnote_ids": "167"
     },
     {
       "region": "Dependent, disputed, or restricted territories",
       "name": "Northern Cyprus",
-      "description": "Visa not required [ 166 ]",
+      "description": "Visa not required [ 167 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
-      "footnote_ids": "170"
+      "footnote_ids": "171"
     },
     {
       "region": "Dependent, disputed, or restricted territories",
       "name": "Somaliland",
-      "description": "Visa on arrival. 30 days for USD 30, payable on arrival. [ 168 ]",
+      "description": "Visa on arrival. 30 days for USD 30, payable on arrival. [ 169 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
-      "footnote_ids": "172"
+      "footnote_ids": "173"
     },
     {
       "region": "Dependent, disputed, or restricted territories",
       "name": "South Ossetia",
-      "description": "Visa required. To enter South Ossetia, visitors must have a multiple-entry visa for Russia and register their stay with the Migration Service of the Ministry of Internal Affairs within 3 days. [ 169 ] [ 170 ]",
+      "description": "Visa required. To enter South Ossetia, visitors must have a multiple-entry visa for Russia and register their stay with the Migration Service of the Ministry of Internal Affairs within 3 days. [ 170 ] [ 171 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
-      "footnote_ids": "173;174"
+      "footnote_ids": "174;175"
     },
     {
       "region": "Dependent, disputed, or restricted territories",
       "name": "Transnistria",
-      "description": "Visa not required [ 171 ]. Registration required after 24h. [ 172 ] [ 173 ]",
+      "description": "Visa not required [ 172 ]. Registration required after 24h. [ 173 ] [ 174 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
-      "footnote_ids": "175;176;177"
+      "footnote_ids": "176;177;178"
     },
     {
       "region": "Denmark",
       "name": "Faroe Islands",
-      "description": "Visa required [ 174 ]",
+      "description": "Visa required [ 175 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
-      "footnote_ids": "gov.uk-178"
+      "footnote_ids": "gov.uk-179"
     },
     {
       "region": "Denmark",
       "name": "Greenland",
-      "description": "Visa required [ 174 ]",
+      "description": "Visa required [ 175 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
-      "footnote_ids": "gov.uk-178"
+      "footnote_ids": "gov.uk-179"
     },
     {
       "region": "France",
       "name": "Clipperton Island",
-      "description": "Special permit required [ 175 ]",
+      "description": "Special permit required [ 176 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
-      "footnote_ids": "179"
+      "footnote_ids": "180"
     },
     {
       "region": "France",
@@ -11934,9 +11941,9 @@
     {
       "region": "France",
       "name": "Guadeloupe",
-      "description": "Visa required [ 176 ]. Visa not required of cruise ship passengers during the period of the stopover if hold residence permit issued by EU / EEA country, Switzerland, Canada, Japan or USA [ 177 ]",
+      "description": "Visa required [ 177 ]. Visa not required of cruise ship passengers during the period of the stopover if hold residence permit issued by EU / EEA country, Switzerland, Canada, Japan or USA [ 178 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
-      "footnote_ids": "France-180;181"
+      "footnote_ids": "France-181;182"
     },
     {
       "region": "France",
@@ -11962,16 +11969,16 @@
     {
       "region": "France",
       "name": "Mayotte",
-      "description": "Visa required [ 6 ] [ 176 ]",
+      "description": "Visa required [ 6 ] [ 177 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
-      "footnote_ids": "Timatic-6;France-180"
+      "footnote_ids": "Timatic-6;France-181"
     },
     {
       "region": "France",
       "name": "New Caledonia",
-      "description": "Conditional visa waiver [ 6 ] [ 178 ]. 15 days, must travel with specific agencies",
+      "description": "Conditional visa waiver [ 6 ] [ 179 ]. 15 days, must travel with specific agencies",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
-      "footnote_ids": "Timatic-6;nc-182"
+      "footnote_ids": "Timatic-6;nc-183"
     },
     {
       "region": "France",
@@ -11983,16 +11990,16 @@
     {
       "region": "France",
       "name": "Saint Pierre and Miquelon",
-      "description": "Visa required [ 6 ] [ 176 ]. Holders of a Canadian photo ID (e.g. a driver's licence, health card, student card, or permanent resident card), traveling directly from Canada, do not require a visa. [ 179 ]",
+      "description": "Visa required [ 6 ] [ 177 ]. Holders of a Canadian photo ID (e.g. a driver's licence, health card, student card, or permanent resident card), traveling directly from Canada, do not require a visa. [ 180 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
-      "footnote_ids": "Timatic-6;France-180;183"
+      "footnote_ids": "Timatic-6;France-181;184"
     },
     {
       "region": "France",
       "name": "Wallis and Futuna",
-      "description": "Visa required [ 180 ]",
+      "description": "Visa required [ 181 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
-      "footnote_ids": "184"
+      "footnote_ids": "185"
     },
     {
       "region": "Netherlands",
@@ -12039,37 +12046,37 @@
     {
       "region": "New Zealand",
       "name": "Tokelau",
-      "description": "Permit required [ 181 ]",
+      "description": "Permit required [ 182 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
-      "footnote_ids": "185"
+      "footnote_ids": "186"
     },
     {
       "region": "Norway",
       "name": "Jan Mayen",
-      "description": "Permit required. Permit issued by the local police required for staying for less than 24 hours [ 182 ] and permit issued by the Norwegian police for staying for more than 24 hours. [ 183 ]",
+      "description": "Permit required. Permit issued by the local police required for staying for less than 24 hours [ 183 ] and permit issued by the Norwegian police for staying for more than 24 hours. [ 184 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
-      "footnote_ids": "186;187"
+      "footnote_ids": "187;188"
     },
     {
       "region": "Norway",
       "name": "Svalbard",
-      "description": "Visa not required. Unlimited period under Svalbard Treaty. [ 184 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
-      "footnote_ids": "188"
-    },
-    {
-      "region": "United Kingdom",
-      "name": "Akrotiri and Dhekelia",
-      "description": "Visa required [ 185 ]",
+      "description": "Visa not required. Unlimited period under Svalbard Treaty. [ 185 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
       "footnote_ids": "189"
     },
     {
       "region": "United Kingdom",
-      "name": "Anguilla",
-      "description": "Visa required [ 6 ] [ 186 ]. Visa not required with a valid visa or residence permit from the United States, Canada or the United Kingdom.",
+      "name": "Akrotiri and Dhekelia",
+      "description": "Visa required [ 186 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
-      "footnote_ids": "Timatic-6;190"
+      "footnote_ids": "190"
+    },
+    {
+      "region": "United Kingdom",
+      "name": "Anguilla",
+      "description": "Visa required [ 6 ] [ 187 ]. Visa not required with a valid visa or residence permit from the United States, Canada or the United Kingdom.",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "footnote_ids": "Timatic-6;191"
     },
     {
       "region": "United Kingdom",
@@ -12081,23 +12088,23 @@
     {
       "region": "United Kingdom",
       "name": "British Indian Ocean Territory",
-      "description": "Special permit required [ 187 ]",
+      "description": "Special permit required [ 188 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
-      "footnote_ids": "191"
+      "footnote_ids": "192"
     },
     {
       "region": "United Kingdom",
       "name": "British Virgin Islands",
-      "description": "Visa not required [ 6 ]. 6 months for business and tourism purposes [ 188 ] [ 189 ]",
+      "description": "Visa not required [ 6 ]. 6 months for business and tourism purposes [ 189 ] [ 190 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
-      "footnote_ids": "Timatic-6;192;193"
+      "footnote_ids": "Timatic-6;193;194"
     },
     {
       "region": "United Kingdom",
       "name": "Cayman Islands",
-      "description": "Visa required [ 6 ]. Visa free for cruise ship passengers leaving on the day of arrival. [ 190 ] Visa not required for 30 days for holders of a valid multiple-entry visa for the US, UK and/or Canada. [ 191 ]",
+      "description": "Visa required [ 6 ]. Visa free for cruise ship passengers leaving on the day of arrival. [ 191 ] Visa not required for 30 days for holders of a valid multiple-entry visa for the US, UK and/or Canada. [ 192 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
-      "footnote_ids": "Timatic-6;194;195"
+      "footnote_ids": "Timatic-6;195;196"
     },
     {
       "region": "United Kingdom",
@@ -12123,44 +12130,44 @@
     {
       "region": "United Kingdom",
       "name": "Pitcairn Islands",
-      "description": "Visa not required. 14 days visa free and landing fee US$35 or tax of US$5 if not going ashore. [ 192 ] [ 193 ] [ 194 ]",
+      "description": "Visa not required. 14 days visa free and landing fee US$35 or tax of US$5 if not going ashore. [ 193 ] [ 194 ] [ 195 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
-      "footnote_ids": "196;197;198"
+      "footnote_ids": "197;198;199"
     },
     {
       "region": "United Kingdom",
       "name": "Saint Helena",
-      "description": "eVisa [ 195 ] [ 196 ]",
+      "description": "eVisa [ 196 ] [ 197 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
-      "footnote_ids": "199;200"
+      "footnote_ids": "200;201"
     },
     {
       "region": "United Kingdom",
       "name": "Ascension Island",
-      "description": "Admission refused [ 197 ] [ 198 ]. From May 2015 Ascension Island Government does not issue entry visas including eVisas to nationals of China. [ 199 ]",
+      "description": "Admission refused [ 198 ] [ 199 ]. From May 2015 Ascension Island Government does not issue entry visas including eVisas to nationals of China. [ 200 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
-      "footnote_ids": "201;202;203"
+      "footnote_ids": "202;203;204"
     },
     {
       "region": "United Kingdom",
       "name": "Tristan da Cunha",
-      "description": "Permission required. Permission to land required for 15/30 pounds sterling (yacht/ship passenger) for Tristan da Cunha Island or 20 pounds sterling for Gough Island, Inaccessible Island or Nightingale Islands. [ 200 ]",
+      "description": "Permission required. Permission to land required for 15/30 pounds sterling (yacht/ship passenger) for Tristan da Cunha Island or 20 pounds sterling for Gough Island, Inaccessible Island or Nightingale Islands. [ 201 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
-      "footnote_ids": "204"
+      "footnote_ids": "205"
     },
     {
       "region": "United Kingdom",
       "name": "South Georgia and the South Sandwich Islands",
-      "description": "Permit required. Pre-arrival permit from the Commissioner required (72 hours/1 month for 110/160 pounds sterling). [ 201 ] [ 202 ]",
+      "description": "Permit required. Pre-arrival permit from the Commissioner required (72 hours/1 month for 110/160 pounds sterling). [ 202 ] [ 203 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
-      "footnote_ids": "205;206"
+      "footnote_ids": "206;207"
     },
     {
       "region": "United Kingdom",
       "name": "Turks and Caicos Islands",
-      "description": "Visa not required [ 6 ]. 90 days [ 203 ]",
+      "description": "Visa not required [ 6 ]. 90 days [ 204 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
-      "footnote_ids": "Timatic-6;207"
+      "footnote_ids": "Timatic-6;208"
     },
     {
       "region": "United States",
@@ -12179,7 +12186,7 @@
     {
       "region": "United States",
       "name": "Northern Mariana Islands",
-      "description": "Visa not required [ 6 ]. 14 days",
+      "description": "Visa required [ 6 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
       "footnote_ids": "Timatic-6"
     },
@@ -12202,149 +12209,149 @@
     {
       "region": "Europe",
       "name": "Abkhazia",
-      "description": "Visa required [ 287 ]",
+      "description": "Visa required [ 280 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "footnote_ids": "280"
+    },
+    {
+      "region": "Europe",
+      "name": "Mount Athos",
+      "description": "Special permit required. Special permit required (4 days: 25 euro for Orthodox visitors, 35 euro for non-Orthodox visitors, 18 euro for students). There is a visitors' quota: maximum 100 Orthodox and 10 non-Orthodox per day and women are not allowed. [ 281 ] [ 282 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "footnote_ids": "281;282"
+    },
+    {
+      "region": "Europe",
+      "name": "Crimea",
+      "description": "Visa not required. Visa issued by Russia is required, HK SAR Passport is exempted from a visa to enter Russia for 14 days. [ 283 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "footnote_ids": "283"
+    },
+    {
+      "region": "Europe",
+      "name": "Turkish Republic of Northern Cyprus",
+      "description": "Visa not required. 3 months [ 284 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "footnote_ids": "284"
+    },
+    {
+      "region": "Europe",
+      "name": "UN Buffer Zone in Cyprus",
+      "description": "Access Permit required [ 285 ]. Access Permit is required for travelling inside the zone, except Civil Use Areas.",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "footnote_ids": "285"
+    },
+    {
+      "region": "Europe",
+      "name": "Faroe Islands",
+      "description": "Visa not required [ 286 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "footnote_ids": "gov.uk-286"
+    },
+    {
+      "region": "Europe",
+      "name": "Gibraltar",
+      "description": "Visa not required [ 287 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
       "footnote_ids": "287"
     },
     {
       "region": "Europe",
-      "name": "Mount Athos",
-      "description": "Special permit required. Special permit required (4 days: 25 euro for Orthodox visitors, 35 euro for non-Orthodox visitors, 18 euro for students). There is a visitors' quota: maximum 100 Orthodox and 10 non-Orthodox per day and women are not allowed. [ 288 ] [ 289 ]",
+      "name": "Guernsey",
+      "description": "Visa not required [ 288 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "288;289"
+      "footnote_ids": "288"
     },
     {
       "region": "Europe",
-      "name": "Crimea",
-      "description": "Visa not required. Visa issued by Russia is required, HK SAR Passport is exempted from a visa to enter Russia for 14 days. [ 290 ]",
+      "name": "Isle of Man",
+      "description": "Visa not required [ 289 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "290"
+      "footnote_ids": "289"
     },
     {
       "region": "Europe",
-      "name": "Turkish Republic of Northern Cyprus",
-      "description": "Visa not required. 3 months [ 291 ]",
+      "name": "Jan Mayen",
+      "description": "Permit required. Permit issued by the local police required for staying for less than 24 hours [ 290 ] and permit issued by the Norwegian police for staying for more than 24 hours. [ 291 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "291"
+      "footnote_ids": "290;291"
     },
     {
       "region": "Europe",
-      "name": "UN Buffer Zone in Cyprus",
-      "description": "Access Permit required [ 292 ]. Access Permit is required for travelling inside the zone, except Civil Use Areas.",
+      "name": "Jersey",
+      "description": "Visa not required [ 292 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
       "footnote_ids": "292"
     },
     {
       "region": "Europe",
-      "name": "Faroe Islands",
-      "description": "Visa not required [ 293 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "gov.uk-293"
-    },
-    {
-      "region": "Europe",
-      "name": "Gibraltar",
-      "description": "Visa not required [ 294 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "294"
-    },
-    {
-      "region": "Europe",
-      "name": "Guernsey",
-      "description": "Visa not required [ 295 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "295"
-    },
-    {
-      "region": "Europe",
-      "name": "Isle of Man",
-      "description": "Visa not required [ 296 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "296"
-    },
-    {
-      "region": "Europe",
-      "name": "Jan Mayen",
-      "description": "Permit required. Permit issued by the local police required for staying for less than 24 hours [ 297 ] and permit issued by the Norwegian police for staying for more than 24 hours. [ 298 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "297;298"
-    },
-    {
-      "region": "Europe",
-      "name": "Jersey",
-      "description": "Visa not required [ 299 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "299"
-    },
-    {
-      "region": "Europe",
       "name": "South Ossetia",
-      "description": "Visa not required. Multiple entry visa to Russia and three-day prior notification are required to enter South Ossetia. [ 301 ] [ 302 ]",
+      "description": "Visa not required. Multiple entry visa to Russia and three-day prior notification are required to enter South Ossetia. [ 294 ] [ 295 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "301;302"
+      "footnote_ids": "294;295"
     },
     {
       "region": "Europe",
       "name": "Transnistria",
-      "description": "Visa not required. Migration card issued upon arrival. [ 303 ] [ 304 ]",
+      "description": "Visa not required. Migration card issued upon arrival. [ 296 ] [ 297 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "303;304"
+      "footnote_ids": "296;297"
     },
     {
       "region": "Africa",
       "name": "British Indian Ocean Territory",
-      "description": "Special permit required. Special permit required. [ 305 ]",
+      "description": "Special permit required. Special permit required. [ 298 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "footnote_ids": "298"
+    },
+    {
+      "region": "Africa",
+      "name": "Eritrea outside Asmara",
+      "description": "Travel permit required. To travel in the rest of the country, a Travel Permit for Foreigners is required (20 Eritrean nakfa). [ 299 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "footnote_ids": "299"
+    },
+    {
+      "region": "Africa",
+      "name": "Mayotte",
+      "description": "Visa not required [ 300 ]. 90 days",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "footnote_ids": "France-300"
+    },
+    {
+      "region": "Africa",
+      "name": "Réunion",
+      "description": "Visa not required [ 300 ]. 90 days",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "footnote_ids": "France-300"
+    },
+    {
+      "region": "Africa",
+      "name": "Ascension Island",
+      "description": "Admission refused [ 301 ] [ 302 ]. From May 2015, the Ascension Island Government does not issue entry visas including eVisas to Chinese citizens of Hong Kong. [ 303 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "footnote_ids": "301;302;303"
+    },
+    {
+      "region": "Africa",
+      "name": "Saint Helena",
+      "description": "Visitor's Pass required. Visitor's Pass granted on arrival valid for 4/10/21/60/90 days for 12/14/16/20/25 pound sterling. [ 304 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "footnote_ids": "304"
+    },
+    {
+      "region": "Africa",
+      "name": "Tristan da Cunha",
+      "description": "Permission required. Permission to land required for 15/30 pounds sterling (yacht/ship passenger) for Tristan da Cunha Island or 20 pounds sterling for Gough Island, Inaccessible Island or Nightingale Islands. [ 305 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
       "footnote_ids": "305"
     },
     {
       "region": "Africa",
-      "name": "Eritrea outside Asmara",
-      "description": "Travel permit required. To travel in the rest of the country, a Travel Permit for Foreigners is required (20 Eritrean nakfa). [ 306 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "306"
-    },
-    {
-      "region": "Africa",
-      "name": "Mayotte",
-      "description": "Visa not required [ 307 ]. 90 days",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "France-307"
-    },
-    {
-      "region": "Africa",
-      "name": "Réunion",
-      "description": "Visa not required [ 307 ]. 90 days",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "France-307"
-    },
-    {
-      "region": "Africa",
-      "name": "Ascension Island",
-      "description": "Admission refused [ 308 ] [ 309 ]. From May 2015, the Ascension Island Government does not issue entry visas including eVisas to Chinese citizens of Hong Kong. [ 310 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "308;309;310"
-    },
-    {
-      "region": "Africa",
-      "name": "Saint Helena",
-      "description": "Visitor's Pass required. Visitor's Pass granted on arrival valid for 4/10/21/60/90 days for 12/14/16/20/25 pound sterling. [ 311 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "311"
-    },
-    {
-      "region": "Africa",
-      "name": "Tristan da Cunha",
-      "description": "Permission required. Permission to land required for 15/30 pounds sterling (yacht/ship passenger) for Tristan da Cunha Island or 20 pounds sterling for Gough Island, Inaccessible Island or Nightingale Islands. [ 312 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "312"
-    },
-    {
-      "region": "Africa",
       "name": "Somaliland",
-      "description": "Visa on arrival. 30 days for 30 US dollars, payable on arrival. [ 313 ] [ 314 ]",
+      "description": "Visa on arrival. 30 days for 30 US dollars, payable on arrival. [ 306 ] [ 307 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "313;314"
+      "footnote_ids": "306;307"
     },
     {
       "region": "Africa",
@@ -12356,51 +12363,51 @@
     {
       "region": "Africa",
       "name": "Darfur",
-      "description": "Travel permit required. Separate travel permit is required. [ 315 ]",
+      "description": "Travel permit required. Separate travel permit is required. [ 308 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "footnote_ids": "308"
+    },
+    {
+      "region": "Asia",
+      "name": "India PAP/RAP",
+      "description": "PAP/RAP required. Protected Area Permit (PAP) required for all of Arunachal Pradesh, Manipur, Mizoram and parts of Himachal Pradesh, Jammu and Kashmir and Uttarakhand. Restricted Area Permit (RAP) required for all of Andaman and Nicobar Islands and Lakshadweep and parts of Sikkim. Some of these requirements are occasionally lifted for a year. [ 309 ] [ 310 ] [ 311 ] [ 312 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "footnote_ids": "309;310;311;312"
+    },
+    {
+      "region": "Asia",
+      "name": "Kazakhstan",
+      "description": "Special permission required. Special permission required for the town of Baikonur and surrounding areas in Kyzylorda Oblast, and the town of Gvardeyskiy near Almaty. [ 313 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "footnote_ids": "313"
+    },
+    {
+      "region": "Asia",
+      "name": "Kish Island",
+      "description": "Visa not required. Visitors to Kish Island do not require a visa. [ 314 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "footnote_ids": "314"
+    },
+    {
+      "region": "Asia",
+      "name": "Malaysia: Sabah and Sarawak",
+      "description": "Visa not required. These states have their own immigration authorities and passport is required to travel to them, however the same visa applies. [ 315 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
       "footnote_ids": "315"
     },
     {
       "region": "Asia",
-      "name": "India PAP/RAP",
-      "description": "PAP/RAP required. Protected Area Permit (PAP) required for all of Arunachal Pradesh, Manipur, Mizoram and parts of Himachal Pradesh, Jammu and Kashmir and Uttarakhand. Restricted Area Permit (RAP) required for all of Andaman and Nicobar Islands and Lakshadweep and parts of Sikkim. Some of these requirements are occasionally lifted for a year. [ 316 ] [ 317 ] [ 318 ] [ 319 ] [ 320 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "316;317;318;319;320"
-    },
-    {
-      "region": "Asia",
-      "name": "Kazakhstan",
-      "description": "Special permission required. Special permission required for the town of Baikonur and surrounding areas in Kyzylorda Oblast, and the town of Gvardeyskiy near Almaty. [ 321 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "321"
-    },
-    {
-      "region": "Asia",
-      "name": "Kish Island",
-      "description": "Visa not required. Visitors to Kish Island do not require a visa. [ 322 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "322"
-    },
-    {
-      "region": "Asia",
-      "name": "Malaysia: Sabah and Sarawak",
-      "description": "Visa not required. These states have their own immigration authorities and passport is required to travel to them, however the same visa applies. [ 323 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "323"
-    },
-    {
-      "region": "Asia",
       "name": "Maldives",
-      "description": "Permission required. With the exception of the capital Malé, tourists are generally prohibited from visiting non-resort islands without the express permission of the Government of Maldives. [ 324 ]",
+      "description": "Permission required. With the exception of the capital Malé, tourists are generally prohibited from visiting non-resort islands without the express permission of the Government of Maldives. [ 316 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "324"
+      "footnote_ids": "316"
     },
     {
       "region": "Asia",
       "name": "Gorno-Badakhshan Autonomous Province",
-      "description": "OIVR permit required. OIVR permit required (15+5 Tajikistani Somoni) and another special permit (free of charge) is required for Lake Sarez. [ 327 ] [ 328 ] [ 329 ]",
+      "description": "OIVR permit required. OIVR permit required (15+5 Tajikistani Somoni) and another special permit (free of charge) is required for Lake Sarez. [ 319 ] [ 320 ] [ 321 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "327;328;329"
+      "footnote_ids": "319;320;321"
     },
     {
       "region": "Asia",
@@ -12419,240 +12426,240 @@
     {
       "region": "Asia",
       "name": "Yemen",
-      "description": "Special permission required. Special permission needed for travel outside Sana'a or Aden. [ 330 ]",
+      "description": "Special permission required. Special permission needed for travel outside Sana'a or Aden. [ 322 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "footnote_ids": "322"
+    },
+    {
+      "region": "Caribbean and North Atlantic",
+      "name": "Anguilla",
+      "description": "Visa not required [ 323 ]. 3 months",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "footnote_ids": "323"
+    },
+    {
+      "region": "Caribbean and North Atlantic",
+      "name": "Aruba",
+      "description": "Visa not required [ 324 ]. 30 days",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "footnote_ids": "324"
+    },
+    {
+      "region": "Caribbean and North Atlantic",
+      "name": "Bermuda",
+      "description": "Visa not required [ 325 ]. lesser than 6 months",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "footnote_ids": "325"
+    },
+    {
+      "region": "Caribbean and North Atlantic",
+      "name": "Bonaire, St. Eustatius and Saba",
+      "description": "Visa not required [ 326 ]. 30 days",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "footnote_ids": "326"
+    },
+    {
+      "region": "Caribbean and North Atlantic",
+      "name": "British Virgin Islands",
+      "description": "Visa not required [ 327 ]. 30 days",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "footnote_ids": "327"
+    },
+    {
+      "region": "Caribbean and North Atlantic",
+      "name": "Cayman Islands",
+      "description": "Visa not required [ 328 ]. 60 days for tourism / 10 days for business",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "footnote_ids": "328"
+    },
+    {
+      "region": "Caribbean and North Atlantic",
+      "name": "Curacao",
+      "description": "Visa not required [ 329 ]. 30 days",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "footnote_ids": "329"
+    },
+    {
+      "region": "Caribbean and North Atlantic",
+      "name": "French Guiana",
+      "description": "Visa not required [ 330 ]. 90 days",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
       "footnote_ids": "330"
     },
     {
       "region": "Caribbean and North Atlantic",
-      "name": "Anguilla",
-      "description": "Visa not required [ 331 ]. 3 months",
+      "name": "French West Indies",
+      "description": "Visa not required. French West Indies refers to Martinique, Guadeloupe, Saint Martin and Saint Barthélemy. [ 331 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
       "footnote_ids": "331"
     },
     {
       "region": "Caribbean and North Atlantic",
-      "name": "Aruba",
-      "description": "Visa not required [ 332 ]. 30 days",
+      "name": "Greenland",
+      "description": "Visa not required [ 286 ]. 90 days",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "footnote_ids": "gov.uk-286"
+    },
+    {
+      "region": "Caribbean and North Atlantic",
+      "name": "Montserrat",
+      "description": "Visa not required [ 332 ]. 90 days",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
       "footnote_ids": "332"
     },
     {
       "region": "Caribbean and North Atlantic",
-      "name": "Bermuda",
-      "description": "Visa not required [ 333 ]. lesser than 6 months",
+      "name": "Puerto Rico",
+      "description": "Visa required [ 333 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
       "footnote_ids": "333"
     },
     {
       "region": "Caribbean and North Atlantic",
-      "name": "Bonaire, St. Eustatius and Saba",
-      "description": "Visa not required [ 334 ]. 30 days",
+      "name": "Saint Pierre and Miquelon",
+      "description": "Visa not required [ 300 ]. 90 days",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "footnote_ids": "France-300"
+    },
+    {
+      "region": "Caribbean and North Atlantic",
+      "name": "Sint Maarten",
+      "description": "Visa not required [ 334 ]. 3 months",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
       "footnote_ids": "334"
     },
     {
       "region": "Caribbean and North Atlantic",
-      "name": "British Virgin Islands",
-      "description": "Visa not required [ 335 ]. 30 days",
+      "name": "Turks and Caicos Islands",
+      "description": "Visa not required [ 335 ]. 90 days",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
       "footnote_ids": "335"
     },
     {
       "region": "Caribbean and North Atlantic",
-      "name": "Cayman Islands",
-      "description": "Visa not required [ 336 ]. 60 days for tourism / 10 days for business",
+      "name": "U.S. Virgin Islands",
+      "description": "Visa required [ 336 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
       "footnote_ids": "336"
     },
     {
-      "region": "Caribbean and North Atlantic",
-      "name": "Curacao",
-      "description": "Visa not required [ 337 ]. 30 days",
+      "region": "Oceania",
+      "name": "American Samoa",
+      "description": "Visa required [ 337 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
       "footnote_ids": "337"
     },
     {
-      "region": "Caribbean and North Atlantic",
-      "name": "French Guiana",
-      "description": "Visa not required [ 338 ]. 90 days",
+      "region": "Oceania",
+      "name": "Ashmore and Cartier Islands",
+      "description": "Special authorisation required. Special authorisation required. [ 338 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
       "footnote_ids": "338"
     },
     {
-      "region": "Caribbean and North Atlantic",
-      "name": "French West Indies",
-      "description": "Visa not required. French West Indies refers to Martinique, Guadeloupe, Saint Martin and Saint Barthélemy. [ 339 ]",
+      "region": "Oceania",
+      "name": "Clipperton Island",
+      "description": "Special permit required. Special permit required. [ 339 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
       "footnote_ids": "339"
     },
     {
-      "region": "Caribbean and North Atlantic",
-      "name": "Greenland",
-      "description": "Visa not required [ 293 ]. 90 days",
+      "region": "Oceania",
+      "name": "Cook Islands",
+      "description": "Visa not required [ 340 ]. 31 days [ 341 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "gov.uk-293"
+      "footnote_ids": "340;341"
     },
     {
-      "region": "Caribbean and North Atlantic",
-      "name": "Montserrat",
-      "description": "Visa not required [ 340 ]. 90 days",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "340"
-    },
-    {
-      "region": "Caribbean and North Atlantic",
-      "name": "Puerto Rico",
-      "description": "Visa required [ 341 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "341"
-    },
-    {
-      "region": "Caribbean and North Atlantic",
-      "name": "Saint Pierre and Miquelon",
-      "description": "Visa not required [ 307 ]. 90 days",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "France-307"
-    },
-    {
-      "region": "Caribbean and North Atlantic",
-      "name": "Sint Maarten",
-      "description": "Visa not required [ 342 ]. 3 months",
+      "region": "Oceania",
+      "name": "Lau Province",
+      "description": "Special permission required. Special permission required. [ 342 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
       "footnote_ids": "342"
     },
     {
-      "region": "Caribbean and North Atlantic",
-      "name": "Turks and Caicos Islands",
+      "region": "Oceania",
+      "name": "French Polynesia",
       "description": "Visa not required [ 343 ]. 90 days",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
       "footnote_ids": "343"
     },
     {
-      "region": "Caribbean and North Atlantic",
-      "name": "U.S. Virgin Islands",
-      "description": "Visa required [ 344 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "344"
-    },
-    {
-      "region": "Oceania",
-      "name": "American Samoa",
-      "description": "Visa required [ 345 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "345"
-    },
-    {
-      "region": "Oceania",
-      "name": "Ashmore and Cartier Islands",
-      "description": "Special authorisation required. Special authorisation required. [ 346 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "346"
-    },
-    {
-      "region": "Oceania",
-      "name": "Clipperton Island",
-      "description": "Special permit required. Special permit required. [ 347 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "347"
-    },
-    {
-      "region": "Oceania",
-      "name": "Cook Islands",
-      "description": "Visa not required [ 348 ]. 31 days [ 349 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "348;349"
-    },
-    {
-      "region": "Oceania",
-      "name": "Lau Province",
-      "description": "Special permission required. Special permission required. [ 350 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "350"
-    },
-    {
-      "region": "Oceania",
-      "name": "French Polynesia",
-      "description": "Visa not required [ 351 ]. 90 days",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "351"
-    },
-    {
       "region": "Oceania",
       "name": "Guam",
-      "description": "Visa not required [ 352 ]. Visa free for holders of both Hong Kong Permanent Identity Cards and HKSAR Passport for a stay of less than 45 days. Visa required if without Hong Kong Permanent Identity Cards.",
+      "description": "Visa not required [ 344 ]. Visa free for holders of both Hong Kong Permanent Identity Cards and HKSAR Passport for a stay of less than 45 days. Visa required if without Hong Kong Permanent Identity Cards.",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "auto-352"
+      "footnote_ids": "auto-344"
     },
     {
       "region": "Oceania",
       "name": "New Caledonia",
-      "description": "Visa not required [ 307 ]. 90 days",
+      "description": "Visa not required [ 300 ]. 90 days",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "France-307"
+      "footnote_ids": "France-300"
     },
     {
       "region": "Oceania",
       "name": "Northern Mariana Islands",
-      "description": "Visa not required [ 352 ]. Visa free for holders of both Hong Kong Permanent Identity Cards and HKSAR Passport for a stay of less than 45 days. Visa required if without Hong Kong Permanent Identity Cards.",
+      "description": "Visa not required [ 344 ]. Visa free for holders of both Hong Kong Permanent Identity Cards and HKSAR Passport for a stay of less than 45 days. Visa required if without Hong Kong Permanent Identity Cards.",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "auto-352"
+      "footnote_ids": "auto-344"
     },
     {
       "region": "Oceania",
       "name": "Niue",
-      "description": "Visa on arrival [ 353 ]. 30 days [ 354 ]",
+      "description": "Visa on arrival [ 345 ]. 30 days [ 346 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "353;354"
+      "footnote_ids": "345;346"
     },
     {
       "region": "Oceania",
       "name": "Pitcairn Islands",
-      "description": "Visa not required. 14 days visa free and landing fee US$35 or tax of US$5 if not going ashore. [ 355 ] [ 356 ] [ 357 ]",
+      "description": "Visa not required. 14 days visa free and landing fee US$35 or tax of US$5 if not going ashore. [ 347 ] [ 348 ] [ 349 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "355;356;357"
+      "footnote_ids": "347;348;349"
     },
     {
       "region": "Oceania",
       "name": "United States Minor Outlying Islands",
-      "description": "Special permits required. Special permits required for Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Atoll, Palmyra Atoll and Wake Island. [ 358 ] [ 359 ] [ 360 ] [ 361 ] [ 362 ] [ 363 ] [ 364 ]",
+      "description": "Special permits required. Special permits required for Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Atoll, Palmyra Atoll and Wake Island. [ 350 ] [ 351 ] [ 352 ] [ 353 ] [ 354 ] [ 355 ] [ 356 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "358;359;360;361;362;363;364"
+      "footnote_ids": "350;351;352;353;354;355;356"
     },
     {
       "region": "Oceania",
       "name": "Wallis and Futuna",
-      "description": "Visa not required [ 307 ]. 90 days",
+      "description": "Visa not required [ 300 ]. 90 days",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "France-307"
+      "footnote_ids": "France-300"
     },
     {
       "region": "South America",
       "name": "Galápagos",
-      "description": "Pre-registration required. Online pre-registration is required. Transit Control Card must also be obtained at the airport prior to departure. [ 365 ]",
+      "description": "Pre-registration required. Online pre-registration is required. Transit Control Card must also be obtained at the airport prior to departure. [ 357 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "365"
+      "footnote_ids": "357"
     },
     {
       "region": "South Atlantic and Antarctica",
       "name": "Falkland Islands",
-      "description": "Visa not required [ 366 ]. A visitor permit is normally issued as a stamp in the passport on arrival, The maximum validity period is 1 month. [ 367 ]",
+      "description": "Visa not required [ 358 ]. A visitor permit is normally issued as a stamp in the passport on arrival, The maximum validity period is 1 month. [ 359 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "366;367"
+      "footnote_ids": "358;359"
     },
     {
       "region": "South Atlantic and Antarctica",
       "name": "South Georgia and the South Sandwich Islands",
-      "description": "Permit required. Pre-arrival permit from the Commissioner required (72 hours/1 month for 110/160 pounds sterling). [ 368 ] [ 369 ]",
+      "description": "Permit required. Pre-arrival permit from the Commissioner required (72 hours/1 month for 110/160 pounds sterling). [ 360 ] [ 361 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "368;369"
+      "footnote_ids": "360;361"
     },
     {
       "region": "South Atlantic and Antarctica",
       "name": "Antarctica",
-      "description": "Special permits required for British Antarctic Territory, French Southern and Antarctic Lands, Argentine Antarctica, Australian Antarctic Territory, Chilean Antarctic Territory, Heard Island and McDonald Islands, Peter I Island, Queen Maud Land, Ross Dependency. [ 370 ] [ 371 ] [ 372 ] [ 373 ] [ 374 ] [ 375 ] [ 376 ] [ 377 ] [ 378 ] [ 379 ] [ 380 ] [ 381 ]",
+      "description": "Special permits required for British Antarctic Territory, French Southern and Antarctic Lands, Argentine Antarctica, Australian Antarctic Territory, Chilean Antarctic Territory, Heard Island and McDonald Islands, Peter I Island, Queen Maud Land, Ross Dependency. [ 362 ] [ 363 ] [ 364 ] [ 365 ] [ 366 ] [ 367 ] [ 368 ] [ 369 ] [ 370 ] [ 371 ] [ 372 ] [ 373 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "footnote_ids": "370;371;372;373;374;375;376;377;378;379;380;381"
+      "footnote_ids": "362;363;364;365;366;367;368;369;370;371;372;373"
     }
   ],
   "MO": [
@@ -19098,79 +19105,79 @@
     {
       "region": "Unrecognized or partially recognized countries",
       "name": "Abkhazia",
-      "description": "Visa required [ 339 ]. - Tourists from all countries (except Georgia) can visit Abkhazia for a period not exceeding 24 hours as part of an organized tourist group.",
+      "description": "Visa required [ 337 ]. - Tourists from all countries (except Georgia) can visit Abkhazia for a period not exceeding 24 hours as part of an organized tourist group.",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
+      "footnote_ids": "344"
+    },
+    {
+      "region": "Unrecognized or partially recognized countries",
+      "name": "Northern Cyprus",
+      "description": "Visa not required [ 339 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
       "footnote_ids": "346"
     },
     {
       "region": "Unrecognized or partially recognized countries",
-      "name": "Northern Cyprus",
-      "description": "Visa not required [ 341 ]",
+      "name": "Somaliland",
+      "description": "Visa on arrival [ 341 ]. - 30 days for 30 USD, payable on arrival.",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
       "footnote_ids": "348"
     },
     {
       "region": "Unrecognized or partially recognized countries",
-      "name": "Somaliland",
-      "description": "Visa on arrival [ 343 ]. - 30 days for 30 USD, payable on arrival.",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
-      "footnote_ids": "350"
-    },
-    {
-      "region": "Unrecognized or partially recognized countries",
       "name": "South Ossetia",
-      "description": "Visa required. - To enter South Ossetia, visitors must have a multiple-entry visa for Russia and register their stay with the Migration Service of the Ministry of Internal Affairs within 3 days. [ 344 ] [ 345 ]",
+      "description": "Visa required. - To enter South Ossetia, visitors must have a multiple-entry visa for Russia and register their stay with the Migration Service of the Ministry of Internal Affairs within 3 days. [ 342 ] [ 343 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
-      "footnote_ids": "351;352"
+      "footnote_ids": "349;350"
     },
     {
       "region": "Unrecognized or partially recognized countries",
       "name": "Transnistria",
-      "description": "Visa not required [ 347 ]. - Registration required after 24h. [ 348 ] [ 349 ]",
+      "description": "Visa not required [ 345 ]. - Registration required after 24h. [ 346 ] [ 347 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
-      "footnote_ids": "354;355;356"
+      "footnote_ids": "352;353;354"
     },
     {
       "region": "Denmark",
       "name": "Faroe Islands",
-      "description": "Visa not required [ 352 ]",
+      "description": "Visa not required [ 350 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
-      "footnote_ids": "359"
+      "footnote_ids": "357"
     },
     {
       "region": "Denmark",
       "name": "Greenland",
-      "description": "Visa not required [ 353 ]",
+      "description": "Visa not required [ 351 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
-      "footnote_ids": "360"
+      "footnote_ids": "358"
     },
     {
       "region": "Ecuador",
       "name": "Galápagos",
-      "description": "Pre-registration required. - 60 days; Visitors must pre-register to receive a 20 USD Transit Control Card (TCT). [ 354 ]",
+      "description": "Pre-registration required. - 60 days; Visitors must pre-register to receive a 20 USD Transit Control Card (TCT). [ 352 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
+      "footnote_ids": "359"
+    },
+    {
+      "region": "France",
+      "name": "Clipperton Island",
+      "description": "Special permit required [ 353 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
+      "footnote_ids": "360"
+    },
+    {
+      "region": "France",
+      "name": "French Guiana",
+      "description": "Visa not required [ 354 ]. - 90 days within any 180-day period.",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
       "footnote_ids": "361"
     },
     {
       "region": "France",
-      "name": "Clipperton Island",
-      "description": "Special permit required [ 355 ]",
+      "name": "French Polynesia",
+      "description": "Visa not required [ 355 ]. - 90 days within any 180-day period.",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
       "footnote_ids": "362"
-    },
-    {
-      "region": "France",
-      "name": "French Guiana",
-      "description": "Visa not required [ 356 ]. - 90 days within any 180-day period.",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
-      "footnote_ids": "363"
-    },
-    {
-      "region": "France",
-      "name": "French Polynesia",
-      "description": "Visa not required [ 357 ]. - 90 days within any 180-day period.",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
-      "footnote_ids": "364"
     },
     {
       "region": "France",
@@ -19189,65 +19196,65 @@
     {
       "region": "France",
       "name": "Saint Barthélemy",
-      "description": "Visa not required [ 358 ] [ 359 ]",
+      "description": "Visa not required [ 356 ] [ 357 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
-      "footnote_ids": "365;legifrance.gouv.fr-366"
+      "footnote_ids": "363;legifrance.gouv.fr-364"
     },
     {
       "region": "France",
       "name": "Saint Martin",
-      "description": "Visa not required [ 360 ] [ 359 ]",
+      "description": "Visa not required [ 358 ] [ 357 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
-      "footnote_ids": "367;legifrance.gouv.fr-366"
+      "footnote_ids": "365;legifrance.gouv.fr-364"
     },
     {
       "region": "France",
       "name": "Mayotte",
+      "description": "Visa not required [ 359 ]. - 90 days within any 180-day period.",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
+      "footnote_ids": "366"
+    },
+    {
+      "region": "France",
+      "name": "New Caledonia",
+      "description": "Visa not required [ 360 ]. - 90 days within any 180-day period.",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
+      "footnote_ids": "367"
+    },
+    {
+      "region": "France",
+      "name": "Réunion",
       "description": "Visa not required [ 361 ]. - 90 days within any 180-day period.",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
       "footnote_ids": "368"
     },
     {
       "region": "France",
-      "name": "New Caledonia",
+      "name": "Saint Pierre and Miquelon",
       "description": "Visa not required [ 362 ]. - 90 days within any 180-day period.",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
       "footnote_ids": "369"
     },
     {
       "region": "France",
-      "name": "Réunion",
+      "name": "Wallis and Futuna",
       "description": "Visa not required [ 363 ]. - 90 days within any 180-day period.",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
       "footnote_ids": "370"
     },
     {
-      "region": "France",
-      "name": "Saint Pierre and Miquelon",
-      "description": "Visa not required [ 364 ]. - 90 days within any 180-day period.",
+      "region": "Netherlands",
+      "name": "Aruba",
+      "description": "Visa not required [ 364 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
       "footnote_ids": "371"
     },
     {
-      "region": "France",
-      "name": "Wallis and Futuna",
-      "description": "Visa not required [ 365 ]. - 90 days within any 180-day period.",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
-      "footnote_ids": "372"
-    },
-    {
-      "region": "Netherlands",
-      "name": "Aruba",
-      "description": "Visa not required [ 366 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
-      "footnote_ids": "373"
-    },
-    {
       "region": "Netherlands",
       "name": "Bonaire",
-      "description": "Visa not required [ 367 ]",
+      "description": "Visa not required [ 365 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
-      "footnote_ids": "374"
+      "footnote_ids": "372"
     },
     {
       "region": "Netherlands",
@@ -19266,198 +19273,198 @@
     {
       "region": "Netherlands",
       "name": "Curaçao",
+      "description": "Visa not required [ 366 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
+      "footnote_ids": "373"
+    },
+    {
+      "region": "Netherlands",
+      "name": "Sint Maarten",
+      "description": "Visa not required [ 367 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
+      "footnote_ids": "374"
+    },
+    {
+      "region": "New Zealand",
+      "name": "Cook Islands",
       "description": "Visa not required [ 368 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
       "footnote_ids": "375"
     },
     {
-      "region": "Netherlands",
-      "name": "Sint Maarten",
+      "region": "New Zealand",
+      "name": "Niue",
       "description": "Visa not required [ 369 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
       "footnote_ids": "376"
     },
     {
       "region": "New Zealand",
-      "name": "Cook Islands",
-      "description": "Visa not required [ 370 ]",
+      "name": "Tokelau",
+      "description": "Visa required [ 370 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
       "footnote_ids": "377"
     },
     {
-      "region": "New Zealand",
-      "name": "Niue",
-      "description": "Visa not required [ 371 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
-      "footnote_ids": "378"
-    },
-    {
-      "region": "New Zealand",
-      "name": "Tokelau",
-      "description": "Visa required [ 372 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
-      "footnote_ids": "379"
-    },
-    {
       "region": "Norway",
       "name": "Jan Mayen",
-      "description": "Permit required. Permit issued by the local police required for staying for less than 24 hours [ 373 ] and permit issued by the Norwegian police for staying for more than 24 hours. [ 374 ]",
+      "description": "Permit required. Permit issued by the local police required for staying for less than 24 hours [ 371 ] and permit issued by the Norwegian police for staying for more than 24 hours. [ 372 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
-      "footnote_ids": "380;381"
+      "footnote_ids": "378;379"
     },
     {
       "region": "Norway",
       "name": "Svalbard",
-      "description": "Visa not required. Unlimited period under Svalbard Treaty. [ 375 ]",
+      "description": "Visa not required. Unlimited period under Svalbard Treaty. [ 373 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
-      "footnote_ids": "382"
+      "footnote_ids": "380"
     },
     {
       "region": "United Kingdom",
       "name": "Akrotiri and Dhekelia",
-      "description": "Visa not required [ 376 ]. - Same visa regime as Cyprus.",
+      "description": "Visa not required [ 374 ]. - Same visa regime as Cyprus.",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
-      "footnote_ids": "383"
+      "footnote_ids": "381"
     },
     {
       "region": "United Kingdom",
       "name": "Anguilla",
-      "description": "eVisa [ 377 ] [ 378 ]. - Holders of a valid visa issued by the United Kingdom do not require a visa. [ 379 ]",
+      "description": "eVisa [ 375 ] [ 376 ]. - Holders of a valid visa issued by the United Kingdom do not require a visa. [ 377 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
-      "footnote_ids": "384;385;386"
+      "footnote_ids": "382;383;384"
     },
     {
       "region": "United Kingdom",
       "name": "Bermuda",
-      "description": "Visa not required(conditional) [ 380 ]. - Visa-free for a maximum stay of 3 months if arriving from or transiting through the United Kingdom.",
+      "description": "Visa not required(conditional) [ 378 ]. - Visa-free for a maximum stay of 3 months if arriving from or transiting through the United Kingdom.",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
+      "footnote_ids": "385"
+    },
+    {
+      "region": "United Kingdom",
+      "name": "British Indian Ocean Territory",
+      "description": "Special permit required. - Special permit required. [ 379 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
+      "footnote_ids": "386"
+    },
+    {
+      "region": "United Kingdom",
+      "name": "British Virgin Islands",
+      "description": "Visa required [ 380 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
       "footnote_ids": "387"
     },
     {
       "region": "United Kingdom",
-      "name": "British Indian Ocean Territory",
-      "description": "Special permit required. - Special permit required. [ 381 ]",
+      "name": "Cayman Islands",
+      "description": "Visa required [ 381 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
       "footnote_ids": "388"
     },
     {
       "region": "United Kingdom",
-      "name": "British Virgin Islands",
-      "description": "Visa required [ 382 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
-      "footnote_ids": "389"
-    },
-    {
-      "region": "United Kingdom",
-      "name": "Cayman Islands",
-      "description": "Visa required [ 383 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
-      "footnote_ids": "390"
-    },
-    {
-      "region": "United Kingdom",
       "name": "Falkland Islands",
-      "description": "Visa not required [ 384 ]. - A visitor permit is normally issued as a stamp in the passport on arrival, The maximum validity period is 1 month. [ 385 ]",
+      "description": "Visa not required [ 382 ]. - A visitor permit is normally issued as a stamp in the passport on arrival, The maximum validity period is 1 month. [ 383 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
-      "footnote_ids": "391;392"
+      "footnote_ids": "389;390"
     },
     {
       "region": "United Kingdom",
       "name": "Gibraltar",
-      "description": "Visa required [ 386 ]",
+      "description": "Visa required [ 384 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
-      "footnote_ids": "393"
+      "footnote_ids": "391"
     },
     {
       "region": "United Kingdom",
       "name": "Montserrat",
-      "description": "eVisa [ 387 ] [ 388 ]",
+      "description": "eVisa [ 385 ] [ 386 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
-      "footnote_ids": "394;395"
+      "footnote_ids": "392;393"
     },
     {
       "region": "United Kingdom",
       "name": "Pitcairn Islands",
-      "description": "Visa not required. - Landing fee 35 USD or tax of 5 USD if not going ashore. [ 389 ] [ 390 ] [ 391 ]",
+      "description": "Visa not required. - Landing fee 35 USD or tax of 5 USD if not going ashore. [ 387 ] [ 388 ] [ 389 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
-      "footnote_ids": "396;397;398"
+      "footnote_ids": "394;395;396"
     },
     {
       "region": "United Kingdom",
       "name": "Saint Helena",
-      "description": "eVisa [ 392 ] [ 393 ]",
+      "description": "eVisa [ 390 ] [ 391 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
+      "footnote_ids": "397;398"
+    },
+    {
+      "region": "United Kingdom",
+      "name": "Ascension Island",
+      "description": "eVisa [ 392 ] [ 393 ]. - 3 months within any year-period.",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
       "footnote_ids": "399;400"
     },
     {
       "region": "United Kingdom",
-      "name": "Ascension Island",
-      "description": "eVisa [ 394 ] [ 395 ]. - 3 months within any year-period.",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
-      "footnote_ids": "401;402"
-    },
-    {
-      "region": "United Kingdom",
       "name": "Tristan da Cunha",
-      "description": "Permission required. - Permission to land required for £15/30 (yacht/ship passenger) for Tristan da Cunha Island or £20 for Gough Island, Inaccessible Island or Nightingale Islands. [ 396 ]",
+      "description": "Permission required. - Permission to land required for £15/30 (yacht/ship passenger) for Tristan da Cunha Island or £20 for Gough Island, Inaccessible Island or Nightingale Islands. [ 394 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
-      "footnote_ids": "403"
+      "footnote_ids": "401"
     },
     {
       "region": "United Kingdom",
       "name": "South Georgia and the South Sandwich Islands",
-      "description": "Permit required. - Pre-arrival permit from the Commissioner required (72 hours/1 month for £110/160). [ 397 ] [ 398 ]",
+      "description": "Permit required. - Pre-arrival permit from the Commissioner required (72 hours/1 month for £110/160). [ 395 ] [ 396 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
-      "footnote_ids": "404;405"
+      "footnote_ids": "402;403"
     },
     {
       "region": "United Kingdom",
       "name": "Turks and Caicos Islands",
-      "description": "Visa not required [ 399 ]",
+      "description": "Visa not required [ 397 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
+      "footnote_ids": "404"
+    },
+    {
+      "region": "United States",
+      "name": "American Samoa",
+      "description": "Visa required [ 398 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
+      "footnote_ids": "405"
+    },
+    {
+      "region": "United States",
+      "name": "Guam",
+      "description": "Visa required [ 399 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
       "footnote_ids": "406"
     },
     {
       "region": "United States",
-      "name": "American Samoa",
+      "name": "Northern Mariana Islands",
       "description": "Visa required [ 400 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
       "footnote_ids": "407"
     },
     {
       "region": "United States",
-      "name": "Guam",
+      "name": "Puerto Rico",
       "description": "Visa required [ 401 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
       "footnote_ids": "408"
     },
     {
       "region": "United States",
-      "name": "Northern Mariana Islands",
+      "name": "U.S. Virgin Islands",
       "description": "Visa required [ 402 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
       "footnote_ids": "409"
     },
     {
-      "region": "United States",
-      "name": "Puerto Rico",
-      "description": "Visa required [ 403 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
-      "footnote_ids": "410"
-    },
-    {
-      "region": "United States",
-      "name": "U.S. Virgin Islands",
-      "description": "Visa required [ 404 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
-      "footnote_ids": "411"
-    },
-    {
       "region": "Antarctica and adjacent islands",
       "name": "Antarctica",
-      "description": "Special permits required. - Special permits required for Bouvet Island, British Antarctic Territory, French Southern and Antarctic Lands, Argentine Antarctica, Australian Antarctic Territory, Chilean Antarctic Territory, Heard Island and McDonald Islands, Peter I Island, Queen Maud Land, Ross Dependency. [ 405 ] [ 406 ] [ 407 ] [ 408 ] [ 409 ] [ 410 ] [ 411 ] [ 412 ] [ 413 ] [ 414 ] [ 415 ] [ 416 ]",
+      "description": "Special permits required. - Special permits required for Bouvet Island, British Antarctic Territory, French Southern and Antarctic Lands, Argentine Antarctica, Australian Antarctic Territory, Chilean Antarctic Territory, Heard Island and McDonald Islands, Peter I Island, Queen Maud Land, Ross Dependency. [ 403 ] [ 404 ] [ 405 ] [ 406 ] [ 407 ] [ 408 ] [ 409 ] [ 410 ] [ 411 ] [ 412 ] [ 413 ] [ 414 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
-      "footnote_ids": "412;413;414;415;416;417;418;419;420;421;422;423"
+      "footnote_ids": "410;411;412;413;414;415;416;417;418;419;420;421"
     }
   ],
   "GQ": [
@@ -35194,128 +35201,128 @@
     {
       "region": "",
       "name": "Abkhazia",
-      "description": "Visa required. [ 266 ]",
+      "description": "Visa required. [ 268 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "272"
+      "footnote_ids": "274"
     },
     {
       "region": "",
       "name": "Mount Athos",
-      "description": "Special permit required (4 days: 25 euro for Orthodox visitors, 35 euro for non-Orthodox visitors, 18 euro for students). There is a visitors' quota: maximum 100 Orthodox and 10 non-Orthodox per day and women are not allowed. [ 267 ] [ 268 ]",
+      "description": "Special permit required (4 days: 25 euro for Orthodox visitors, 35 euro for non-Orthodox visitors, 18 euro for students). There is a visitors' quota: maximum 100 Orthodox and 10 non-Orthodox per day and women are not allowed. [ 269 ] [ 270 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "273;274"
+      "footnote_ids": "275;276"
     },
     {
       "region": "",
       "name": "Brest and Grodno",
-      "description": "Visa not required for 10 days. [ 269 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "275"
-    },
-    {
-      "region": "",
-      "name": "Crimea",
-      "description": "Visa issued by Russia is required. [ 270 ] If discovered by Ukrainian authorities, the traveler might be denied entry to Ukraine.",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "276"
-    },
-    {
-      "region": "",
-      "name": "Turkish Republic of Northern Cyprus",
-      "description": "Visa free access for 3 months. Passport required. [ 271 ]",
+      "description": "Visa not required for 10 days. [ 271 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
       "footnote_ids": "277"
     },
     {
       "region": "",
-      "name": "UN Buffer Zone in Cyprus",
-      "description": "Access Permit is required for travelling inside the zone, except Civil Use Areas. [ 272 ]",
+      "name": "Crimea",
+      "description": "Visa issued by Russia is required. [ 272 ] If discovered by Ukrainian authorities, the traveler might be denied entry to Ukraine.",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
       "footnote_ids": "278"
     },
     {
       "region": "",
-      "name": "Faroe Islands",
-      "description": "Visa not required. [ 273 ]",
+      "name": "Turkish Republic of Northern Cyprus",
+      "description": "Visa free access for 3 months. Passport required. [ 273 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "gov.uk-279"
+      "footnote_ids": "279"
     },
     {
       "region": "",
-      "name": "Gibraltar",
-      "description": "Visa not required. [ 274 ]",
+      "name": "UN Buffer Zone in Cyprus",
+      "description": "Access Permit is required for travelling inside the zone, except Civil Use Areas. [ 274 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
       "footnote_ids": "280"
     },
     {
       "region": "",
-      "name": "Isle of Man",
-      "description": "Visa not required. [ 278 ] [ 279 ]",
+      "name": "Faroe Islands",
+      "description": "Visa not required. [ 275 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "284;285"
+      "footnote_ids": "gov.uk-281"
     },
     {
       "region": "",
-      "name": "Jan Mayen",
-      "description": "permit issued by the local police required for staying for less than 24 hours [ 280 ] and permit issued by the Norwegian police for staying for more than 24 hours. [ 281 ]",
+      "name": "Gibraltar",
+      "description": "Visa not required. [ 276 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
+      "footnote_ids": "282"
+    },
+    {
+      "region": "",
+      "name": "Isle of Man",
+      "description": "Visa not required. [ 280 ] [ 281 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
       "footnote_ids": "286;287"
     },
     {
       "region": "",
-      "name": "Kaliningrad Oblast",
-      "description": "From 1 July 2019, Latvian citizens are eligible for E-visa access for 8 days. [ 283 ]",
+      "name": "Jan Mayen",
+      "description": "permit issued by the local police required for staying for less than 24 hours [ 282 ] and permit issued by the Norwegian police for staying for more than 24 hours. [ 283 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "289"
+      "footnote_ids": "288;289"
+    },
+    {
+      "region": "",
+      "name": "Kaliningrad Oblast",
+      "description": "From 1 July 2019, Latvian citizens are eligible for E-visa access for 8 days. [ 285 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
+      "footnote_ids": "291"
     },
     {
       "region": "",
       "name": "Leningrad Oblast",
-      "description": "From 1 October 2019, Latvian citizens are eligible for E-visa access for 8 days (can't enter by rail [ 284 ]). [ 285 ]",
+      "description": "From 1 October 2019, Latvian citizens are eligible for E-visa access for 8 days (can't enter by rail [ 286 ]). [ 287 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "E-visa_Application_Process-290;electronic-visa.kdmid.ru-291"
+      "footnote_ids": "E-visa_Application_Process-292;electronic-visa.kdmid.ru-293"
     },
     {
       "region": "",
       "name": "Saint Petersburg",
-      "description": "From 1 October 2019, Latvian citizens are eligible for E-visa access for 8 days (can't enter by rail [ 284 ]). [ 285 ]",
+      "description": "From 1 October 2019, Latvian citizens are eligible for E-visa access for 8 days (can't enter by rail [ 286 ]). [ 287 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "E-visa_Application_Process-290;electronic-visa.kdmid.ru-291"
+      "footnote_ids": "E-visa_Application_Process-292;electronic-visa.kdmid.ru-293"
     },
     {
       "region": "",
       "name": "Closed cities and regions in Russia",
-      "description": "special authorization required. [ 287 ]",
+      "description": "special authorization required. [ 289 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "293"
+      "footnote_ids": "295"
     },
     {
       "region": "",
       "name": "South Ossetia",
-      "description": "Visa free. Multiple entry visa to Russia and three-day prior notification are required to enter South Ossetia. [ 288 ] [ 289 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "294;295"
-    },
-    {
-      "region": "",
-      "name": "Transnistria",
-      "description": "Visa free. Registration required after 24h. [ 290 ] [ 291 ]",
+      "description": "Visa free. Multiple entry visa to Russia and three-day prior notification are required to enter South Ossetia. [ 290 ] [ 291 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
       "footnote_ids": "296;297"
     },
     {
       "region": "",
-      "name": "Eritrea (outside Asmara)",
-      "description": "visa covers Asmara only; to travel in the rest of the country, a Travel Permit for Foreigners is required (20 Eritrean nakfa). [ 292 ]",
+      "name": "Transnistria",
+      "description": "Visa free. Registration required after 24h. [ 292 ] [ 293 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "298"
+      "footnote_ids": "298;299"
+    },
+    {
+      "region": "",
+      "name": "Eritrea (outside Asmara)",
+      "description": "visa covers Asmara only; to travel in the rest of the country, a Travel Permit for Foreigners is required (20 Eritrean nakfa). [ 294 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
+      "footnote_ids": "300"
     },
     {
       "region": "",
       "name": "Somaliland",
-      "description": "Visa issued on arrival (30 days for 30 US dollars, payable on arrival). [ 294 ] [ 295 ]",
+      "description": "Visa issued on arrival (30 days for 30 US dollars, payable on arrival). [ 296 ] [ 297 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "300;301"
+      "footnote_ids": "302;303"
     },
     {
       "region": "",
@@ -35327,16 +35334,16 @@
     {
       "region": "",
       "name": "Darfur",
-      "description": "Separate travel permit is required. [ 296 ]",
+      "description": "Separate travel permit is required. [ 298 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "302"
+      "footnote_ids": "304"
     },
     {
       "region": "",
       "name": "India",
-      "description": "Protected Area Permit (PAP) required for whole states of Nagaland and Sikkim and parts of states Manipur, Arunachal Pradesh, Uttaranchal, Jammu and Kashmir, Rajasthan, Himachal Pradesh. Restricted Area Permit (RAP) required for all of Andaman and Nicobar Islands and parts of Sikkim. Some of these requirements are occasionally lifted for a year. [ 298 ] [ 299 ] [ 300 ] [ 301 ] [ 302 ] [ 303 ]",
+      "description": "Protected Area Permit (PAP) required for whole states of Nagaland and Sikkim and parts of states Manipur, Arunachal Pradesh, Uttaranchal, Jammu and Kashmir, Rajasthan, Himachal Pradesh. Restricted Area Permit (RAP) required for all of Andaman and Nicobar Islands and parts of Sikkim. Some of these requirements are occasionally lifted for a year. [ 300 ] [ 301 ] [ 302 ] [ 303 ] [ 304 ] [ 305 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "304;305;306;307;308;309"
+      "footnote_ids": "306;307;308;309;310;311"
     },
     {
       "region": "",
@@ -35348,51 +35355,51 @@
     {
       "region": "",
       "name": "Kazakhstan",
-      "description": "Special permission required for the town of Baikonur and surrounding areas in Kyzylorda Oblast, and the town of Gvardeyskiy near Almaty. [ 304 ]",
+      "description": "Special permission required for the town of Baikonur and surrounding areas in Kyzylorda Oblast, and the town of Gvardeyskiy near Almaty. [ 306 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "310"
+      "footnote_ids": "312"
     },
     {
       "region": "",
       "name": "Kish Island",
-      "description": "Visitors to Kish Island do not require a visa. [ 305 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "311"
-    },
-    {
-      "region": "",
-      "name": "Sabah and Sarawak",
-      "description": "These states have their own immigration authorities and passport is required to travel to them, however the same visa applies. [ 307 ]",
+      "description": "Visitors to Kish Island do not require a visa. [ 307 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
       "footnote_ids": "313"
     },
     {
       "region": "",
-      "name": "Maldives",
-      "description": "With the exception of the capital Malé, tourists are generally prohibited from visiting non-resort islands without the express permission of the Government of Maldives. [ 308 ]",
+      "name": "Sabah and Sarawak",
+      "description": "These states have their own immigration authorities and passport is required to travel to them, however the same visa applies. [ 309 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "314"
+      "footnote_ids": "315"
+    },
+    {
+      "region": "",
+      "name": "Maldives",
+      "description": "With the exception of the capital Malé, tourists are generally prohibited from visiting non-resort islands without the express permission of the Government of Maldives. [ 310 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
+      "footnote_ids": "316"
     },
     {
       "region": "",
       "name": "Gorno-Badakhshan Autonomous Province",
-      "description": "OIVR permit required (15+5 Tajikistani Somoni) and another special permit (free of charge) is required for Lake Sarez. [ 312 ] [ 313 ] [ 314 ]",
+      "description": "OIVR permit required (15+5 Tajikistani Somoni) and another special permit (free of charge) is required for Lake Sarez. [ 314 ] [ 315 ] [ 316 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "318;319;320"
+      "footnote_ids": "320;321;322"
     },
     {
       "region": "",
       "name": "Turkmenistan",
-      "description": "A special permit, issued prior to arrival by Ministry of Foreign Affairs, is required if visiting the following places: Atamurat, Cheleken, Dashoguz, Serakhs and Serhetabat. [ 315 ]",
+      "description": "A special permit, issued prior to arrival by Ministry of Foreign Affairs, is required if visiting the following places: Atamurat, Cheleken, Dashoguz, Serakhs and Serhetabat. [ 317 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "321"
+      "footnote_ids": "323"
     },
     {
       "region": "",
       "name": "Tibet Autonomous Region",
-      "description": "Tibet Travel Permit required (10 US Dollars). [ 316 ] [ 317 ]",
+      "description": "Tibet Travel Permit required (10 US Dollars). [ 318 ] [ 319 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "322;323"
+      "footnote_ids": "324;325"
     },
     {
       "region": "",
@@ -35411,268 +35418,268 @@
     {
       "region": "",
       "name": "Phú Quốc",
-      "description": "can visit without a visa for up to 30 days. [ 262 ]",
+      "description": "can visit without a visa for up to 30 days. [ 264 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "vietseatourist.vn-268"
+      "footnote_ids": "vietseatourist.vn-270"
     },
     {
       "region": "",
       "name": "Yemen",
-      "description": "Special permission needed for travel outside Sanaa or Aden. [ 318 ]",
+      "description": "Special permission needed for travel outside Sanaa or Aden. [ 320 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "324"
+      "footnote_ids": "326"
     },
     {
       "region": "",
       "name": "Anguilla",
-      "description": "Visa not required for 3 months. [ 319 ] [ 320 ]",
+      "description": "Visa not required for 3 months. [ 321 ] [ 322 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "325;326"
+      "footnote_ids": "327;328"
     },
     {
       "region": "",
       "name": "Aruba",
-      "description": "Visa not required for 30 days. [ 321 ]",
+      "description": "Visa not required for 30 days. [ 323 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "327"
+      "footnote_ids": "329"
     },
     {
       "region": "",
       "name": "Bonaire, St. Eustatius and Saba",
-      "description": "Visa not required for 3 months. [ 322 ]",
+      "description": "Visa not required for 3 months. [ 324 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "328"
+      "footnote_ids": "330"
     },
     {
       "region": "",
       "name": "Bermuda",
-      "description": "Visa not required for 21 days (extendable). [ 323 ] [ 324 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "329;330"
-    },
-    {
-      "region": "",
-      "name": "British Virgin Islands",
-      "description": "Visa not required for 1 month (extendable). [ 325 ] [ 326 ]",
+      "description": "Visa not required for 21 days (extendable). [ 325 ] [ 326 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
       "footnote_ids": "331;332"
     },
     {
       "region": "",
-      "name": "Cayman Islands",
-      "description": "Visa not required for 6 months. [ 327 ] [ 328 ]",
+      "name": "British Virgin Islands",
+      "description": "Visa not required for 1 month (extendable). [ 327 ] [ 328 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
       "footnote_ids": "333;334"
     },
     {
       "region": "",
+      "name": "Cayman Islands",
+      "description": "Visa not required for 6 months. [ 329 ] [ 330 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
+      "footnote_ids": "335;336"
+    },
+    {
+      "region": "",
       "name": "Colombia",
-      "description": "Visitors arriving at San Andrés and Leticia must buy tourist cards on arrival. [ 329 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "335"
-    },
-    {
-      "region": "",
-      "name": "Curacao",
-      "description": "Visa not required for 3 months. [ 330 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "336"
-    },
-    {
-      "region": "",
-      "name": "Montserrat",
-      "description": "Visa not required for 6 months. [ 331 ]",
+      "description": "Visitors arriving at San Andrés and Leticia must buy tourist cards on arrival. [ 331 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
       "footnote_ids": "337"
     },
     {
       "region": "",
-      "name": "Greenland",
-      "description": "Visa not required. [ 273 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "gov.uk-279"
-    },
-    {
-      "region": "",
-      "name": "Margarita Island",
-      "description": "All visitors are fingerprinted. [ 332 ]",
+      "name": "Curacao",
+      "description": "Visa not required for 3 months. [ 332 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
       "footnote_ids": "338"
     },
     {
       "region": "",
-      "name": "Puerto Rico",
-      "description": "Visa not required under the Visa Waiver Program, for 90 days on arrival from overseas for 2 years. ESTA required. [ 333 ]",
+      "name": "Montserrat",
+      "description": "Visa not required for 6 months. [ 333 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
       "footnote_ids": "339"
     },
     {
       "region": "",
-      "name": "Saint Pierre and Miquelon",
-      "description": "Visa not required. [ 334 ]",
+      "name": "Greenland",
+      "description": "Visa not required. [ 275 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
+      "footnote_ids": "gov.uk-281"
+    },
+    {
+      "region": "",
+      "name": "Margarita Island",
+      "description": "All visitors are fingerprinted. [ 334 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
       "footnote_ids": "340"
     },
     {
       "region": "",
-      "name": "Sint Maarten",
-      "description": "Visa not required for 3 months. [ 335 ]",
+      "name": "Puerto Rico",
+      "description": "Visa not required under the Visa Waiver Program, for 90 days on arrival from overseas for 2 years. ESTA required. [ 335 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
       "footnote_ids": "341"
     },
     {
       "region": "",
-      "name": "Turks and Caicos Islands",
-      "description": "Visa not required for 90 days. [ 336 ] [ 337 ]",
+      "name": "Saint Pierre and Miquelon",
+      "description": "Visa not required. [ 336 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "342;343"
+      "footnote_ids": "342"
+    },
+    {
+      "region": "",
+      "name": "Sint Maarten",
+      "description": "Visa not required for 3 months. [ 337 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
+      "footnote_ids": "343"
+    },
+    {
+      "region": "",
+      "name": "Turks and Caicos Islands",
+      "description": "Visa not required for 90 days. [ 338 ] [ 339 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
+      "footnote_ids": "344;345"
     },
     {
       "region": "",
       "name": "U.S. Virgin Islands",
-      "description": "Visa not required under the Visa Waiver Program, for 90 days on arrival from overseas for 2 years. ESTA required. [ 338 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "344"
-    },
-    {
-      "region": "",
-      "name": "American Samoa",
-      "description": "Electronic authorization for 30 days. [ 339 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "345"
-    },
-    {
-      "region": "",
-      "name": "Ashmore and Cartier Islands",
-      "description": "special authorisation required. [ 340 ]",
+      "description": "Visa not required under the Visa Waiver Program, for 90 days on arrival from overseas for 2 years. ESTA required. [ 340 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
       "footnote_ids": "346"
     },
     {
       "region": "",
-      "name": "Clipperton Island",
-      "description": "special permit required. [ 341 ]",
+      "name": "American Samoa",
+      "description": "Electronic authorization for 30 days. [ 341 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
       "footnote_ids": "347"
     },
     {
       "region": "",
-      "name": "Cook Islands",
-      "description": "Visa free access for 31 days. [ 342 ]",
+      "name": "Ashmore and Cartier Islands",
+      "description": "special authorisation required. [ 342 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
       "footnote_ids": "348"
     },
     {
       "region": "",
-      "name": "Lau Province",
-      "description": "Special permission required. [ 343 ]",
+      "name": "Clipperton Island",
+      "description": "special permit required. [ 343 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
       "footnote_ids": "349"
     },
     {
       "region": "",
-      "name": "French Polynesia",
-      "description": "Visa not required. [ 344 ]",
+      "name": "Cook Islands",
+      "description": "Visa free access for 31 days. [ 344 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
       "footnote_ids": "350"
     },
     {
       "region": "",
-      "name": "Guam",
-      "description": "Visa not required under the Visa Waiver Program, for 90 days on arrival from overseas for 2 years. ESTA required. [ 345 ]",
+      "name": "Lau Province",
+      "description": "Special permission required. [ 345 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
       "footnote_ids": "351"
     },
     {
       "region": "",
-      "name": "New Caledonia",
-      "description": "Visa not required for 3 months. [ 346 ]",
+      "name": "French Polynesia",
+      "description": "Visa not required. [ 346 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
       "footnote_ids": "352"
     },
     {
       "region": "",
-      "name": "Niue",
-      "description": "Visa on arrival valid for 30 days is issued free of charge. [ 347 ]",
+      "name": "Guam",
+      "description": "Visa not required under the Visa Waiver Program, for 90 days on arrival from overseas for 2 years. ESTA required. [ 347 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
       "footnote_ids": "353"
     },
     {
       "region": "",
-      "name": "Northern Mariana Islands",
-      "description": "Visa not required. [ 348 ]",
+      "name": "New Caledonia",
+      "description": "Visa not required for 3 months. [ 348 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
       "footnote_ids": "354"
     },
     {
       "region": "",
-      "name": "Pitcairn Islands",
-      "description": "14 days visa free and landing fee US$35 or tax of US$5 if not going ashore. [ 349 ] [ 350 ] [ 351 ] [ 352 ]",
+      "name": "Niue",
+      "description": "Visa on arrival valid for 30 days is issued free of charge. [ 349 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "355;356;357;358"
+      "footnote_ids": "355"
+    },
+    {
+      "region": "",
+      "name": "Northern Mariana Islands",
+      "description": "Visa not required. [ 350 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
+      "footnote_ids": "356"
+    },
+    {
+      "region": "",
+      "name": "Pitcairn Islands",
+      "description": "14 days visa free and landing fee US$35 or tax of US$5 if not going ashore. [ 351 ] [ 352 ] [ 353 ] [ 354 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
+      "footnote_ids": "357;358;359;360"
     },
     {
       "region": "",
       "name": "Tokelau",
-      "description": "Entry permit required. [ 353 ]",
+      "description": "Entry permit required. [ 355 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "359"
+      "footnote_ids": "361"
     },
     {
       "region": "",
       "name": "United States Minor Outlying Islands",
-      "description": "special permits required for Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Atoll, Palmyra Atoll and Wake Island. [ 354 ] [ 355 ] [ 356 ] [ 357 ] [ 358 ] [ 359 ] [ 360 ]",
+      "description": "special permits required for Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Atoll, Palmyra Atoll and Wake Island. [ 356 ] [ 357 ] [ 358 ] [ 359 ] [ 360 ] [ 361 ] [ 362 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "360;361;362;363;364;365;366"
+      "footnote_ids": "362;363;364;365;366;367;368"
     },
     {
       "region": "",
       "name": "Wallis and Futuna",
-      "description": "Visa not required. [ 361 ]",
+      "description": "Visa not required. [ 363 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "367"
+      "footnote_ids": "369"
     },
     {
       "region": "",
       "name": "Falkland Islands",
-      "description": "Visitor Permit valid for 4 weeks is issued on arriva. [ 362 ] [ 363 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "368;369"
-    },
-    {
-      "region": "",
-      "name": "Ascension Island",
-      "description": "eVisa for 3 months within any year period. [ 364 ] [ 365 ]",
+      "description": "Visitor Permit valid for 4 weeks is issued on arriva. [ 364 ] [ 365 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
       "footnote_ids": "370;371"
     },
     {
       "region": "",
-      "name": "Saint Helena",
-      "description": "Entry Permit (£25) for 183 days is issued on arrival. [ 366 ]",
+      "name": "Ascension Island",
+      "description": "eVisa for 3 months within any year period. [ 366 ] [ 367 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "372"
+      "footnote_ids": "372;373"
+    },
+    {
+      "region": "",
+      "name": "Saint Helena",
+      "description": "Entry Permit (£25) for 183 days is issued on arrival. [ 368 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
+      "footnote_ids": "374"
     },
     {
       "region": "",
       "name": "Tristan da Cunha",
-      "description": "Permission to land required for 15/30 pounds sterling (yacht/ship passenger) for Tristan da Cunha Island or 20 pounds sterling for Gough Island, Inaccessible Island or Nightingale Islands. [ 367 ]",
+      "description": "Permission to land required for 15/30 pounds sterling (yacht/ship passenger) for Tristan da Cunha Island or 20 pounds sterling for Gough Island, Inaccessible Island or Nightingale Islands. [ 369 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "373"
+      "footnote_ids": "375"
     },
     {
       "region": "",
       "name": "South Georgia and the South Sandwich Islands",
-      "description": "Pre-arrival permit from the Commissioner required (72 hours/1 month for 110/160 pounds sterling). [ 368 ] [ 369 ] [ 370 ]",
+      "description": "Pre-arrival permit from the Commissioner required (72 hours/1 month for 110/160 pounds sterling). [ 370 ] [ 371 ] [ 372 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "374;375;376"
+      "footnote_ids": "376;377;378"
     },
     {
       "region": "",
       "name": "Antarctica and adjacent islands",
-      "description": "special permits required for French Southern and Antarctic Lands, Argentine Antarctica, Australian Antarctic Territory, Chilean Antarctic Territory, Heard Island and McDonald Islands, Peter I Island, Queen Maud Land, Ross Dependency. [ 371 ] [ 372 ] [ 373 ] [ 374 ] [ 375 ] [ 376 ] [ 377 ] [ 378 ] [ 379 ] [ 380 ] [ 381 ]",
+      "description": "special permits required for French Southern and Antarctic Lands, Argentine Antarctica, Australian Antarctic Territory, Chilean Antarctic Territory, Heard Island and McDonald Islands, Peter I Island, Queen Maud Land, Ross Dependency. [ 373 ] [ 374 ] [ 375 ] [ 376 ] [ 377 ] [ 378 ] [ 379 ] [ 380 ] [ 381 ] [ 382 ] [ 383 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
-      "footnote_ids": "377;378;379;380;381;382;383;384;385;386;387"
+      "footnote_ids": "379;380;381;382;383;384;385;386;387;388;389"
     },
     {
       "region": "",
@@ -61511,79 +61518,79 @@
     {
       "region": "",
       "name": "Eritrea (outside Asmara)",
-      "description": "Visa covers Asmara only; to travel in the rest of the country, a Travel Permit for Foreigners is required (20 Eritrean nakfa). [ 304 ]",
+      "description": "Visa covers Asmara only; to travel in the rest of the country, a Travel Permit for Foreigners is required (20 Eritrean nakfa). [ 305 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "307"
+      "footnote_ids": "308"
     },
     {
       "region": "",
       "name": "Somaliland",
-      "description": "Visa issued on arrival (30 days for 30 USD, payable on arrival also permission from the federal government of Somalia is required). [ 306 ]",
+      "description": "Visa issued on arrival (30 days for 30 USD, payable on arrival also permission from the federal government of Somalia is required). [ 307 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "309"
+      "footnote_ids": "310"
     },
     {
       "region": "",
       "name": "Sudan",
-      "description": "All foreigners traveling more than 25 kilometers outside of Khartoum must obtain a travel permit. [ 307 ]",
+      "description": "All foreigners traveling more than 25 kilometers outside of Khartoum must obtain a travel permit. [ 308 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "travel.state.gov-310"
+      "footnote_ids": "travel.state.gov-311"
     },
     {
       "region": "",
       "name": "Darfur",
-      "description": "Separate travel permit is required. [ 307 ]",
+      "description": "Separate travel permit is required. [ 308 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "travel.state.gov-310"
+      "footnote_ids": "travel.state.gov-311"
     },
     {
       "region": "",
       "name": "India",
-      "description": "Protected Area Permit (PAP) required for whole states of Nagaland and Sikkim and parts of states Mizoram, Manipur, Arunachal Pradesh, Uttaranchal, Jammu and Kashmir, Rajasthan, Himachal Pradesh. Restricted Area Permit (RAP) required for all of Andaman and Nicobar Islands and parts of Sikkim. Some of these requirements are occasionally lifted for a year. [ 309 ] [ 310 ] [ 311 ]",
+      "description": "Protected Area Permit (PAP) required for whole states of Nagaland and Sikkim and parts of states Mizoram, Manipur, Arunachal Pradesh, Uttaranchal, Jammu and Kashmir, Rajasthan, Himachal Pradesh. Restricted Area Permit (RAP) required for all of Andaman and Nicobar Islands and parts of Sikkim. Some of these requirements are occasionally lifted for a year. [ 310 ] [ 311 ] [ 312 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "312;313;314"
+      "footnote_ids": "313;314;315"
     },
     {
       "region": "",
       "name": "Kazakhstan",
-      "description": "Special permission required for the town of Baikonur and surrounding areas in Kyzylorda Oblast, and the town of Gvardeyskiy near Almaty. [ 312 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "315"
-    },
-    {
-      "region": "",
-      "name": "Kish Island",
-      "description": "Visitors to Kish Island do not require a visa. [ 313 ]",
+      "description": "Special permission required for the town of Baikonur and surrounding areas in Kyzylorda Oblast, and the town of Gvardeyskiy near Almaty. [ 313 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
       "footnote_ids": "316"
     },
     {
       "region": "",
-      "name": "Sabah and Sarawak",
-      "description": "These states have their own immigration authorities and passport is required to travel to them, however the same visa applies. [ 315 ]",
+      "name": "Kish Island",
+      "description": "Visitors to Kish Island do not require a visa. [ 314 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "318"
+      "footnote_ids": "317"
+    },
+    {
+      "region": "",
+      "name": "Sabah and Sarawak",
+      "description": "These states have their own immigration authorities and passport is required to travel to them, however the same visa applies. [ 316 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
+      "footnote_ids": "319"
     },
     {
       "region": "",
       "name": "Mecca and Medina",
-      "description": "Non-Muslims and those following the Ahmadiyya religious movement are strictly prohibited from entry. [ 317 ]",
+      "description": "Non-Muslims and those following the Ahmadiyya religious movement are strictly prohibited from entry. [ 318 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "320"
+      "footnote_ids": "321"
     },
     {
       "region": "",
       "name": "Gorno-Badakhshan Autonomous Province",
-      "description": "OIVR permit required (15+5 Tajikistani Somoni) and another special permit (free of charge) is required for Lake Sarez. [ 319 ] [ 320 ] [ 321 ]",
+      "description": "OIVR permit required (15+5 Tajikistani Somoni) and another special permit (free of charge) is required for Lake Sarez. [ 320 ] [ 321 ] [ 322 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "322;323;324"
+      "footnote_ids": "323;324;325"
     },
     {
       "region": "",
       "name": "Turkmenistan",
-      "description": "A special permit, issued prior to arrival by Ministry of Foreign Affairs, is required if visiting the following places: Atamurat, Cheleken, Dashoguz, Serakhs and Serhetabat. [ 322 ]",
+      "description": "A special permit, issued prior to arrival by Ministry of Foreign Affairs, is required if visiting the following places: Atamurat, Cheleken, Dashoguz, Serakhs and Serhetabat. [ 323 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "325"
+      "footnote_ids": "326"
     },
     {
       "region": "",
@@ -61609,331 +61616,331 @@
     {
       "region": "",
       "name": "Phú Quốc",
-      "description": "can visit without a visa for up to 30 days. [ 298 ]",
+      "description": "can visit without a visa for up to 30 days. [ 299 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "vietseatourist.vn-301"
+      "footnote_ids": "vietseatourist.vn-302"
     },
     {
       "region": "",
       "name": "Yemen",
-      "description": "Special permission needed for travel outside Sanaa or Aden. [ 324 ]",
+      "description": "Special permission needed for travel outside Sanaa or Aden. [ 325 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "327"
+      "footnote_ids": "328"
     },
     {
       "region": "",
       "name": "Anguilla",
-      "description": "eVisa - Possible to visit with a multiple entry Canada, USA or United Kingdom visa. [ 325 ] [ 326 ]",
+      "description": "eVisa - Possible to visit with a multiple entry Canada, USA or United Kingdom visa. [ 326 ] [ 327 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "328;329"
+      "footnote_ids": "329;330"
     },
     {
       "region": "",
       "name": "Aruba",
-      "description": "Visa required - Possible to visit with a multiple entry Schengen visa or an EU residence permit. [ 327 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "330"
-    },
-    {
-      "region": "",
-      "name": "Bonaire, St. Eustatius and Saba",
       "description": "Visa required - Possible to visit with a multiple entry Schengen visa or an EU residence permit. [ 328 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
       "footnote_ids": "331"
     },
     {
       "region": "",
-      "name": "Bermuda",
-      "description": "Visa required - Possible to visit with a multiple entry US, UK or Canada visa. [ 329 ]",
+      "name": "Bonaire, St. Eustatius and Saba",
+      "description": "Visa required - Possible to visit with a multiple entry Schengen visa or an EU residence permit. [ 329 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
       "footnote_ids": "332"
     },
     {
       "region": "",
-      "name": "British Virgin Islands",
-      "description": "Visa not required - 30 days. [ 330 ]",
+      "name": "Bermuda",
+      "description": "Visa required - Possible to visit with a multiple entry US, UK or Canada visa. [ 330 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
       "footnote_ids": "333"
     },
     {
       "region": "",
-      "name": "Cayman Islands",
-      "description": "Visa required. Possible to visit with US Green Card if arriving directly from USA. [ 331 ]",
+      "name": "British Virgin Islands",
+      "description": "Visa not required - 30 days. [ 331 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
       "footnote_ids": "334"
     },
     {
       "region": "",
-      "name": "Colombia",
-      "description": "Visitors arriving at San Andrés must buy tourist cards on arrival. [ 332 ]",
+      "name": "Cayman Islands",
+      "description": "Visa required. Possible to visit with US Green Card if arriving directly from USA. [ 332 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
       "footnote_ids": "335"
     },
     {
       "region": "",
-      "name": "Curacao",
-      "description": "Visa required - Possible to visit with a multiple entry Schengen visa or an EU residence permit. [ 333 ]",
+      "name": "Colombia",
+      "description": "Visitors arriving at San Andrés must buy tourist cards on arrival. [ 333 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
       "footnote_ids": "336"
     },
     {
       "region": "",
-      "name": "Montserrat",
-      "description": "Visa required - eVisa Application Possible. Possible to visit with a multiple entry EU Member State, Canada or USA visa. [ 334 ]",
+      "name": "Curacao",
+      "description": "Visa required - Possible to visit with a multiple entry Schengen visa or an EU residence permit. [ 334 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
       "footnote_ids": "337"
     },
     {
       "region": "",
-      "name": "Greenland",
-      "description": "Visa required. [ 335 ]",
+      "name": "Montserrat",
+      "description": "Visa required - eVisa Application Possible. Possible to visit with a multiple entry EU Member State, Canada or USA visa. [ 335 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
       "footnote_ids": "338"
     },
     {
       "region": "",
-      "name": "Margarita Island",
-      "description": "All visitors are fingerprinted. [ 336 ]",
+      "name": "Greenland",
+      "description": "Visa required. [ 336 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
       "footnote_ids": "339"
     },
     {
       "region": "",
-      "name": "Puerto Rico",
-      "description": "Visa required - Possible to visit with a multiple entry US visa [ 337 ]",
+      "name": "Margarita Island",
+      "description": "All visitors are fingerprinted. [ 337 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
       "footnote_ids": "340"
     },
     {
       "region": "",
-      "name": "Saint Barthelemy",
-      "description": "Visa required - Possible to visit with a multiple entry Schengen visa or an EU residence permit. [ 338 ]",
+      "name": "Puerto Rico",
+      "description": "Visa required - Possible to visit with a multiple entry US visa [ 338 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "diplomatie.gouv.fr-341"
+      "footnote_ids": "341"
+    },
+    {
+      "region": "",
+      "name": "Saint Barthelemy",
+      "description": "Visa required - Possible to visit with a multiple entry Schengen visa or an EU residence permit. [ 339 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
+      "footnote_ids": "diplomatie.gouv.fr-342"
     },
     {
       "region": "",
       "name": "Saint Martin",
-      "description": "Visa required - Possible to visit with a multiple entry Schengen visa or an EU residence permit. [ 338 ]",
+      "description": "Visa required - Possible to visit with a multiple entry Schengen visa or an EU residence permit. [ 339 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "diplomatie.gouv.fr-341"
+      "footnote_ids": "diplomatie.gouv.fr-342"
     },
     {
       "region": "",
       "name": "Saint Pierre and Miquelon",
-      "description": "Visa required. Possible to visit with a multiple entry Schengen visa or an EU residence permit. [ 338 ]",
+      "description": "Visa required. Possible to visit with a multiple entry Schengen visa or an EU residence permit. [ 339 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "diplomatie.gouv.fr-341"
+      "footnote_ids": "diplomatie.gouv.fr-342"
     },
     {
       "region": "",
       "name": "Sint Maarten",
-      "description": "Visa required - Possible to visit with a multiple entry Schengen visa or an EU residence permit. [ 339 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "342"
-    },
-    {
-      "region": "",
-      "name": "Turks and Caicos Islands",
-      "description": "Visa not required [ 340 ]",
+      "description": "Visa required - Possible to visit with a multiple entry Schengen visa or an EU residence permit. [ 340 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
       "footnote_ids": "343"
     },
     {
       "region": "",
-      "name": "U.S. Virgin Islands",
-      "description": "Visa required - Possible to visit with a multiple entry US visa [ 341 ]",
+      "name": "Turks and Caicos Islands",
+      "description": "Visa not required [ 341 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
       "footnote_ids": "344"
     },
     {
       "region": "",
-      "name": "Abkhazia",
-      "description": "Visa required. Tourists from all countries (except Georgia) can visit Abkhazia for a period not exceeding 24 hours as part of an organized tourist group. [ 342 ]",
+      "name": "U.S. Virgin Islands",
+      "description": "Visa required - Possible to visit with a multiple entry US visa [ 342 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
       "footnote_ids": "345"
     },
     {
       "region": "",
-      "name": "Mount Athos",
-      "description": "Special permit required (4 days: 25 EUR for Orthodox visitors, 35 EUR for non-Orthodox visitors, 18 EUR for students). There is a visitors' quota: maximum 100 Orthodox and 10 non-Orthodox per day and women are not allowed. [ 343 ] [ 344 ]",
+      "name": "Abkhazia",
+      "description": "Visa required. Tourists from all countries (except Georgia) can visit Abkhazia for a period not exceeding 24 hours as part of an organized tourist group. [ 343 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "346;347"
+      "footnote_ids": "346"
+    },
+    {
+      "region": "",
+      "name": "Mount Athos",
+      "description": "Special permit required (4 days: 25 EUR for Orthodox visitors, 35 EUR for non-Orthodox visitors, 18 EUR for students). There is a visitors' quota: maximum 100 Orthodox and 10 non-Orthodox per day and women are not allowed. [ 344 ] [ 345 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
+      "footnote_ids": "347;348"
     },
     {
       "region": "",
       "name": "Republic of Crimea",
-      "description": "Visa regime of Russia is applied. [ 345 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "348"
-    },
-    {
-      "region": "",
-      "name": "Turkish Republic of Northern Cyprus",
-      "description": "unlimited access;. ID card valid [ 346 ]",
+      "description": "Visa regime of Russia is applied. [ 346 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
       "footnote_ids": "349"
     },
     {
       "region": "",
-      "name": "UN Buffer Zone in Cyprus",
-      "description": "Access Permit is required for travelling inside the zone, except Civil Use Areas. [ 347 ]",
+      "name": "Turkish Republic of Northern Cyprus",
+      "description": "unlimited access;. ID card valid [ 347 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
       "footnote_ids": "350"
     },
     {
       "region": "",
-      "name": "Faroe Islands",
-      "description": "Visa required. [ 348 ]",
+      "name": "UN Buffer Zone in Cyprus",
+      "description": "Access Permit is required for travelling inside the zone, except Civil Use Areas. [ 348 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
       "footnote_ids": "351"
     },
     {
       "region": "",
-      "name": "Gibraltar",
+      "name": "Faroe Islands",
       "description": "Visa required. [ 349 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
       "footnote_ids": "352"
     },
     {
       "region": "",
-      "name": "Isle of Man",
-      "description": "Visa required. [ 351 ] [ 352 ]",
+      "name": "Gibraltar",
+      "description": "Visa required. [ 350 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "354;355"
+      "footnote_ids": "353"
+    },
+    {
+      "region": "",
+      "name": "Isle of Man",
+      "description": "Visa required. [ 352 ] [ 353 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
+      "footnote_ids": "355;356"
     },
     {
       "region": "",
       "name": "Jan Mayen",
-      "description": "Permit issued by the local police required for staying for less than 24 hours [ 353 ] and permit issued by the Norwegian police for staying for more than 24 hours. [ 354 ]",
+      "description": "Permit issued by the local police required for staying for less than 24 hours [ 354 ] and permit issued by the Norwegian police for staying for more than 24 hours. [ 355 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "356;357"
+      "footnote_ids": "357;358"
     },
     {
       "region": "",
       "name": "Closed cities and regions in Russia",
-      "description": "special authorization required. [ 357 ]",
+      "description": "special authorization required. [ 358 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "360"
+      "footnote_ids": "361"
     },
     {
       "region": "",
       "name": "South Ossetia",
-      "description": "Visa required. To enter South Ossetia, visitors must have a multiple-entry visa for Russia and register their stay with the Migration Service of the Ministry of Internal Affairs within 3 days. [ 358 ] [ 359 ]",
+      "description": "Visa required. To enter South Ossetia, visitors must have a multiple-entry visa for Russia and register their stay with the Migration Service of the Ministry of Internal Affairs within 3 days. [ 359 ] [ 360 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "361;362"
+      "footnote_ids": "362;363"
     },
     {
       "region": "",
       "name": "Transnistria",
-      "description": "Visa free. Registration required after 24h. [ 360 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "363"
-    },
-    {
-      "region": "",
-      "name": "American Samoa",
-      "description": "Visa required (entry permit). [ 361 ]",
+      "description": "Visa free. Registration required after 24h. [ 361 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
       "footnote_ids": "364"
     },
     {
       "region": "",
-      "name": "Ashmore and Cartier Islands",
-      "description": "special authorisation required. [ 362 ]",
+      "name": "American Samoa",
+      "description": "Visa required (entry permit). [ 362 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
       "footnote_ids": "365"
     },
     {
       "region": "",
-      "name": "Clipperton Island",
-      "description": "special permit required. [ 363 ]",
+      "name": "Ashmore and Cartier Islands",
+      "description": "special authorisation required. [ 363 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
       "footnote_ids": "366"
     },
     {
       "region": "",
-      "name": "Cook Islands",
-      "description": "Visa free access for 31 days. [ 364 ]",
+      "name": "Clipperton Island",
+      "description": "special permit required. [ 364 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
       "footnote_ids": "367"
     },
     {
       "region": "",
-      "name": "Lau Province",
-      "description": "Special permission required. If you are traveling to the Lau group of islands by yacht, you need special permission from your first port of entry into Fiji. [ 365 ]",
+      "name": "Cook Islands",
+      "description": "Visa free access for 31 days. [ 365 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
       "footnote_ids": "368"
     },
     {
       "region": "",
-      "name": "French Polynesia",
-      "description": "Visa required. [ 338 ]",
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "diplomatie.gouv.fr-341"
-    },
-    {
-      "region": "",
-      "name": "Guam",
-      "description": "Visa required. [ 366 ]",
+      "name": "Lau Province",
+      "description": "Special permission required. If you are traveling to the Lau group of islands by yacht, you need special permission from your first port of entry into Fiji. [ 366 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
       "footnote_ids": "369"
     },
     {
       "region": "",
-      "name": "New Caledonia",
-      "description": "Visa required. [ 338 ]",
+      "name": "French Polynesia",
+      "description": "Visa required. [ 339 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "diplomatie.gouv.fr-341"
+      "footnote_ids": "diplomatie.gouv.fr-342"
     },
     {
       "region": "",
-      "name": "Niue",
-      "description": "Visa on arrival valid for 30 days is issued free of charge. [ 367 ]",
+      "name": "Guam",
+      "description": "Visa required. [ 367 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
       "footnote_ids": "370"
     },
     {
       "region": "",
-      "name": "Northern Mariana Islands",
-      "description": "Visa required. [ 368 ]",
+      "name": "New Caledonia",
+      "description": "Visa required. [ 339 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
+      "footnote_ids": "diplomatie.gouv.fr-342"
+    },
+    {
+      "region": "",
+      "name": "Niue",
+      "description": "Visa on arrival valid for 30 days is issued free of charge. [ 368 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
       "footnote_ids": "371"
     },
     {
       "region": "",
-      "name": "Pitcairn Islands",
-      "description": "14 days visa free and landing fee US$35 or tax of US$5 if not going ashore. [ 369 ] [ 370 ] [ 371 ]",
+      "name": "Northern Mariana Islands",
+      "description": "Visa required. [ 369 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "372;373;374"
+      "footnote_ids": "372"
+    },
+    {
+      "region": "",
+      "name": "Pitcairn Islands",
+      "description": "14 days visa free and landing fee US$35 or tax of US$5 if not going ashore. [ 370 ] [ 371 ] [ 372 ]",
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
+      "footnote_ids": "373;374;375"
     },
     {
       "region": "",
       "name": "Tokelau",
-      "description": "Visa required (entry permit). [ 372 ]",
+      "description": "Visa required (entry permit). [ 373 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "375"
+      "footnote_ids": "376"
     },
     {
       "region": "",
       "name": "United States Minor Outlying Islands",
-      "description": "special permits required for Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Atoll, Palmyra Atoll and Wake Island. [ 373 ] [ 374 ] [ 375 ] [ 376 ] [ 377 ] [ 378 ] [ 379 ]",
+      "description": "special permits required for Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Atoll, Palmyra Atoll and Wake Island. [ 374 ] [ 375 ] [ 376 ] [ 377 ] [ 378 ] [ 379 ] [ 380 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "376;377;378;379;380;381;382"
+      "footnote_ids": "377;378;379;380;381;382;383"
     },
     {
       "region": "",
       "name": "Wallis and Futuna",
-      "description": "Visa required. Possible to visit with a multiple entry Schengen visa or an EU residence permit. [ 338 ]",
+      "description": "Visa required. Possible to visit with a multiple entry Schengen visa or an EU residence permit. [ 339 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "diplomatie.gouv.fr-341"
+      "footnote_ids": "diplomatie.gouv.fr-342"
     },
     {
       "region": "",
       "name": "Galápagos",
-      "description": "60 days; Visitors must pre-register to receive a 20 USD Transit Control Card (TCT). [ 380 ]",
+      "description": "60 days; Visitors must pre-register to receive a 20 USD Transit Control Card (TCT). [ 381 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "383"
+      "footnote_ids": "384"
     },
     {
       "region": "",
@@ -61945,37 +61952,37 @@
     {
       "region": "",
       "name": "Ascension Island",
-      "description": "eVisa for 3 months within any year period. [ 381 ] [ 382 ]",
+      "description": "eVisa for 3 months within any year period. [ 382 ] [ 383 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "384;385"
+      "footnote_ids": "385;386"
     },
     {
       "region": "",
       "name": "Saint Helena",
-      "description": "eVisa. [ 383 ] [ 384 ]",
+      "description": "eVisa. [ 384 ] [ 385 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "386;387"
+      "footnote_ids": "387;388"
     },
     {
       "region": "",
       "name": "Tristan da Cunha",
-      "description": "Permission to land required for 15/30 pounds sterling (yacht / ship passenger) for Tristan da Cunha Island or 20 pounds sterling for Gough Island, Inaccessible Island or Nightingale Islands. [ 385 ]",
+      "description": "Permission to land required for 15/30 pounds sterling (yacht / ship passenger) for Tristan da Cunha Island or 20 pounds sterling for Gough Island, Inaccessible Island or Nightingale Islands. [ 386 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "388"
+      "footnote_ids": "389"
     },
     {
       "region": "",
       "name": "South Georgia and the South Sandwich Islands",
-      "description": "Pre-arrival permit from the Commissioner required (72 hours / 1 month for 110/160 pounds sterling). [ 386 ] [ 387 ]",
+      "description": "Pre-arrival permit from the Commissioner required (72 hours / 1 month for 110/160 pounds sterling). [ 387 ] [ 388 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "389;390"
+      "footnote_ids": "390;391"
     },
     {
       "region": "",
       "name": "Antarctica and adjacent islands",
-      "description": "special permits required for French Southern and Antarctic Lands, Argentine Antarctica, Australian Antarctic Territory, Chilean Antarctic Territory, Heard Island and McDonald Islands, Peter I Island, Queen Maud Land, Ross Dependency. [ 388 ] [ 389 ] [ 390 ] [ 391 ] [ 392 ] [ 393 ] [ 394 ] [ 395 ] [ 396 ] [ 397 ] [ 398 ]",
+      "description": "special permits required for French Southern and Antarctic Lands, Argentine Antarctica, Australian Antarctic Territory, Chilean Antarctic Territory, Heard Island and McDonald Islands, Peter I Island, Queen Maud Land, Ross Dependency. [ 389 ] [ 390 ] [ 391 ] [ 392 ] [ 393 ] [ 394 ] [ 395 ] [ 396 ] [ 397 ] [ 398 ] [ 399 ]",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "footnote_ids": "391;392;393;394;395;396;397;398;399;400;401"
+      "footnote_ids": "392;393;394;395;396;397;398;399;400;401;402"
     },
     {
       "region": "",

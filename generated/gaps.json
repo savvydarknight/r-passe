@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-26T14:47:30.261Z",
+  "generated_at": "2026-11-02T14:09:08.460Z",
   "universe_size": 200,
   "total_expected_pairs": 39402,
-  "total_missing_pairs": 254,
+  "total_missing_pairs": 255,
   "by_passport": [
     {
       "code": "EH",
@@ -379,6 +379,13 @@
       "name": "Haiti",
       "missing": [
         "MO"
+      ]
+    },
+    {
+      "code": "KW",
+      "name": "Kuwait",
+      "missing": [
+        "AR"
       ]
     },
     {
@@ -825,11 +832,6 @@
     {
       "code": "KR",
       "name": "South Korea",
-      "missing": []
-    },
-    {
-      "code": "KW",
-      "name": "Kuwait",
       "missing": []
     },
     {
@@ -1367,6 +1369,14 @@
       ]
     },
     {
+      "code": "AR",
+      "name": "Argentina",
+      "missing": [
+        "EH",
+        "KW"
+      ]
+    },
+    {
       "code": "SV",
       "name": "El Salvador",
       "missing": [
@@ -1427,13 +1437,6 @@
     {
       "code": "AO",
       "name": "Angola",
-      "missing": [
-        "EH"
-      ]
-    },
-    {
-      "code": "AR",
-      "name": "Argentina",
       "missing": [
         "EH"
       ]
