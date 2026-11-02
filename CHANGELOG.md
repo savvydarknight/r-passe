@@ -5,6 +5,17 @@
 | Metric | Value |
 |--------|-------|
 | Passports | 199 |
+| Routes | 39,463 (no change) |
+| Top ranked | AE (score: 160.6) |
+| Last ranked | SY (score: 30.7) |
+
+---
+
+## 2026-11-02
+
+| Metric | Value |
+|--------|-------|
+| Passports | 199 |
 | Routes | 39,463 (-1) |
 | Top ranked | AE (score: 160.6) |
 | Last ranked | SY (score: 30.7) |
