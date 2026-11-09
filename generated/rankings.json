@@ -12,7 +12,7 @@
   {
     "rank": 3,
     "passport": "HK",
-    "score": 157.6
+    "score": 156.8
   },
   {
     "rank": 4,
@@ -146,22 +146,22 @@
   },
   {
     "rank": 30,
+    "passport": "GB",
+    "score": 150.8
+  },
+  {
+    "rank": 31,
     "passport": "CY",
     "score": 150.7
   },
   {
-    "rank": 31,
+    "rank": 32,
     "passport": "JP",
     "score": 150.7
   },
   {
-    "rank": 32,
-    "passport": "SK",
-    "score": 149.8
-  },
-  {
     "rank": 33,
-    "passport": "GB",
+    "passport": "SK",
     "score": 149.8
   },
   {
@@ -302,7 +302,7 @@
   {
     "rank": 61,
     "passport": "TT",
-    "score": 127.3
+    "score": 126.6
   },
   {
     "rank": 62,
@@ -381,13 +381,13 @@
   },
   {
     "rank": 77,
-    "passport": "TV",
-    "score": 114
+    "passport": "ME",
+    "score": 115
   },
   {
     "rank": 78,
-    "passport": "ME",
-    "score": 113
+    "passport": "TV",
+    "score": 114
   },
   {
     "rank": 79,
@@ -395,9 +395,9 @@
     "score": 112.8
   },
   {
-    "rank": 80,
+    "rank": 79,
     "passport": "MK",
-    "score": 111.8
+    "score": 112.8
   },
   {
     "rank": 81,
@@ -477,7 +477,7 @@
   {
     "rank": 96,
     "passport": "KW",
-    "score": 97.1
+    "score": 98
   },
   {
     "rank": 97,
@@ -516,12 +516,12 @@
   },
   {
     "rank": 104,
-    "passport": "XK",
-    "score": 83.3
+    "passport": "CN",
+    "score": 83.6
   },
   {
     "rank": 105,
-    "passport": "CN",
+    "passport": "XK",
     "score": 83.3
   },
   {
@@ -761,27 +761,27 @@
   },
   {
     "rank": 153,
+    "passport": "JO",
+    "score": 57.8
+  },
+  {
+    "rank": 154,
     "passport": "GA",
     "score": 57.7
   },
   {
-    "rank": 154,
+    "rank": 155,
     "passport": "VN",
     "score": 57.6
   },
   {
-    "rank": 155,
+    "rank": 156,
     "passport": "CU",
     "score": 57.5
   },
   {
-    "rank": 156,
-    "passport": "GN",
-    "score": 57.4
-  },
-  {
     "rank": 157,
-    "passport": "JO",
+    "passport": "GN",
     "score": 57.4
   },
   {
@@ -937,7 +937,7 @@
   {
     "rank": 188,
     "passport": "IR",
-    "score": 43.7
+    "score": 43.4
   },
   {
     "rank": 189,
@@ -982,7 +982,7 @@
   {
     "rank": 197,
     "passport": "IQ",
-    "score": 34.4
+    "score": 34.1
   },
   {
     "rank": 198,
