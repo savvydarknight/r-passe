@@ -102894,7 +102894,7 @@
     "travel_advisory": ""
   },
   "DO:BZ": {
-    "notes": "- Visa waiver for passengers with multiple-entry valid visa or Pernamnent Resident Card issued by Canada, USA or Schengen Area, maximum for 30 days.",
+    "notes": "- Visa waiver for passengers with multiple-entry valid visa or Permanent Resident Card issued by Canada, USA or Schengen Area, maximum for 30 days.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -106931,14 +106931,14 @@
     "travel_advisory": ""
   },
   "DZ:ZA": {
-    "notes": "",
+    "notes": "x",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens",
     "last_verified": "",
     "confidence": "unverified",
-    "reciprocity": "No",
+    "reciprocity": "",
     "footnote_ids": "231;232",
     "display": "",
-    "stay_display": "",
+    "stay_display": "90 days",
     "travel_advisory": ""
   },
   "DZ:ZM": {
@@ -174647,12 +174647,12 @@
     "travel_advisory": ""
   },
   "IQ:AE": {
-    "notes": "- May apply using 'Smart service'. [ 252 ]",
+    "notes": "- May apply using 'Smart service'. [ 251 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "252;253",
+    "footnote_ids": "251;252",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -175301,7 +175301,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "254",
+    "footnote_ids": "253",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -175412,6 +175412,17 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "103",
+    "display": "",
+    "stay_display": "",
+    "travel_advisory": ""
+  },
+  "IQ:HK": {
+    "notes": "",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "277;278",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -175549,7 +175560,7 @@
     "travel_advisory": ""
   },
   "IQ:JO": {
-    "notes": "Visa on Arrival in queen alia international airport for 40 jordanian dinnar\n- Visa on arrival if having an official \"Businessmen card\" issued by Jordan or an official letter confirming the attendance to a conference or workshop.\n- Visa on arrival holding a residence permit issued by a country whose citizens can obtain a visa on arrival(except Lebanon) for 1 month maximum stay.\n- Visa on arrival if traveling for medical treatment for Female or Male older than 50 years and younger than 15 years.",
+    "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -175911,6 +175922,17 @@
     "stay_display": "",
     "travel_advisory": ""
   },
+  "IQ:MO": {
+    "notes": "* Allowed stay: 30 days. Individual single-entry fee: MOP 200.",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "279;280",
+    "display": "",
+    "stay_display": "",
+    "travel_advisory": ""
+  },
   "IQ:MR": {
     "notes": "- Available at Nouakchott–Oumtounsy International Airport.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
@@ -176171,6 +176193,17 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "186",
+    "display": "",
+    "stay_display": "",
+    "travel_advisory": ""
+  },
+  "IQ:PS": {
+    "notes": "Entry and transit rules depend on the crossing and the controlling authority.",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "274;Iraq_2026_coverage-272",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -176440,7 +176473,7 @@
     "travel_advisory": ""
   },
   "IQ:SY": {
-    "notes": "- National card valid",
+    "notes": "- Valid National ID Card",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -176478,7 +176511,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "238;239",
+    "footnote_ids": "237;238",
     "display": "",
     "stay_display": "15 days",
     "travel_advisory": ""
@@ -176511,7 +176544,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "237",
+    "footnote_ids": "236",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -176522,7 +176555,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "247",
+    "footnote_ids": "246",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -176533,7 +176566,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "243",
+    "footnote_ids": "242",
     "display": "",
     "stay_display": "15 days",
     "travel_advisory": ""
@@ -176544,18 +176577,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "240",
+    "footnote_ids": "239",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
   },
   "IQ:TR": {
-    "notes": "- Visa not required for travelers Aged less than 15 and more than 50 years old (Effective 1st of September 2024). Holders of a valid visa or residence permit from Schengen area countries, Ireland, the United Kingdom or the United States can apply for eVisa. [ 245 ]",
+    "notes": "- Visa not required for travelers Aged less than 15 and more than 50 years old (Effective 1st of September 2024). Holders of a valid visa or residence permit from Schengen area countries, Ireland, the United Kingdom or the United States can apply for eVisa. [ 244 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "244;245;246",
+    "footnote_ids": "243;244;245",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -176566,7 +176599,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "241;242",
+    "footnote_ids": "240;241",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -176577,7 +176610,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "248",
+    "footnote_ids": "247",
     "display": "",
     "stay_display": "1 month",
     "travel_advisory": ""
@@ -176588,7 +176621,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "236",
+    "footnote_ids": "276",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -176610,7 +176643,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "251",
+    "footnote_ids": "250",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -176621,7 +176654,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "249;250",
+    "footnote_ids": "248;249",
     "display": "",
     "stay_display": "3 months",
     "travel_advisory": ""
@@ -176632,7 +176665,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "255",
+    "footnote_ids": "254",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -176643,7 +176676,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "256",
+    "footnote_ids": "255",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -176654,7 +176687,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "257",
+    "footnote_ids": "256",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -176665,7 +176698,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "261",
+    "footnote_ids": "260",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -176682,12 +176715,12 @@
     "travel_advisory": ""
   },
   "IQ:VE": {
-    "notes": "- Introduction of Electronic Visa System for Tourist and Business Travelers. [ 263 ] [ 264 ]",
+    "notes": "- Introduction of Electronic Visa System for Tourist and Business Travelers. [ 262 ] [ 263 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "262;263;264;265",
+    "footnote_ids": "261;262;263;264",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -176698,7 +176731,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "266;267",
+    "footnote_ids": "265;266",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -176709,7 +176742,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "258;259;260",
+    "footnote_ids": "257;258;259",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -176725,13 +176758,24 @@
     "stay_display": "60 days",
     "travel_advisory": ""
   },
+  "IQ:XK": {
+    "notes": "",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "271;Iraq_2026_coverage-272",
+    "display": "",
+    "stay_display": "",
+    "travel_advisory": ""
+  },
   "IQ:YE": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "268",
+    "footnote_ids": "267",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -176753,7 +176797,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "269",
+    "footnote_ids": "268",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -176764,7 +176808,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "270;271",
+    "footnote_ids": "269;270",
     "display": "",
     "stay_display": "3 months",
     "travel_advisory": ""
@@ -287738,7 +287782,7 @@
     "travel_advisory": ""
   },
   "NL:TM": {
-    "notes": "- Pre-approved visa can be picked up on arrival.",
+    "notes": "- Available online via the State Migration Service of Turkmenistan since 1 October 2026.\n- Independent tourist entry remains restricted; travel through a licensed agency is typically required.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -325143,7 +325187,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "319",
+    "footnote_ids": "320",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -325484,7 +325528,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "292",
+    "footnote_ids": "293",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -325726,7 +325770,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "284",
+    "footnote_ids": "285",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -325798,12 +325842,12 @@
     "travel_advisory": ""
   },
   "RS:GB": {
-    "notes": "- Serbian citizens who hold a valid entry visa for Australia, Canada, New Zealand or the United States, and a valid airline ticket for travel via the United Kingdom, as part of a journey to or from one of those countries and/or are permanent residents of the European Union, Australia, Canada and New Zealand do not require a Direct Airside Transit visa. [ 315 ]",
+    "notes": "- Serbian citizens who hold a valid entry visa for Australia, Canada, New Zealand or the United States, and a valid airline ticket for travel via the United Kingdom, as part of a journey to or from one of those countries and/or are permanent residents of the European Union, Australia, Canada and New Zealand do not require a Direct Airside Transit visa. [ 316 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Serbian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "320;321",
+    "footnote_ids": "321;322",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -325924,7 +325968,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "366",
+    "footnote_ids": "367",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -326254,7 +326298,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "285;286",
+    "footnote_ids": "286;287",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -326441,7 +326485,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "377",
+    "footnote_ids": "378",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -326711,12 +326755,12 @@
     "travel_advisory": ""
   },
   "RS:PS": {
-    "notes": "- Arrival by sea to Gaza Strip not allowed. [ 374 ]",
+    "notes": "- Arrival by sea to Gaza Strip not allowed. [ 375 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Serbian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "379;380",
+    "footnote_ids": "380;381",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -326799,12 +326843,12 @@
     "travel_advisory": ""
   },
   "RS:SA": {
-    "notes": "- Holders of a US, UK or Schengen visas have been eligible for a Saudi e-Visa upon arrival.",
+    "notes": "eVisa may also be applied.\n\n- Holders of a US, UK or Schengen visas have been eligible for a Saudi e-Visa upon arrival.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Serbian_citizens",
     "last_verified": "",
     "confidence": "unverified",
-    "reciprocity": "Yes",
-    "footnote_ids": "269",
+    "reciprocity": "No",
+    "footnote_ids": "269;270",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -326815,7 +326859,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "278",
+    "footnote_ids": "279",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -326826,7 +326870,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "271;272",
+    "footnote_ids": "272;273",
     "display": "",
     "stay_display": "3 months",
     "travel_advisory": ""
@@ -326837,7 +326881,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "287",
+    "footnote_ids": "288",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -326848,7 +326892,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "291",
+    "footnote_ids": "292",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -326859,7 +326903,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "275",
+    "footnote_ids": "276",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -326870,7 +326914,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "277",
+    "footnote_ids": "278",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -326881,7 +326925,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "276",
+    "footnote_ids": "277",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -326892,7 +326936,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "273;274",
+    "footnote_ids": "274;275",
     "display": "",
     "stay_display": "3 months",
     "travel_advisory": ""
@@ -326914,7 +326958,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "270",
+    "footnote_ids": "271",
     "display": "",
     "stay_display": "1 month",
     "travel_advisory": ""
@@ -326925,18 +326969,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "279;280",
+    "footnote_ids": "280;281",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
   },
   "RS:SR": {
-    "notes": "- An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival. [ 283 ]\n- Multiple entry e-Visa is also available. [ 284 ]",
+    "notes": "- An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival. [ 284 ]\n- Multiple entry e-Visa is also available. [ 285 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Serbian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "288;289;290",
+    "footnote_ids": "289;290;291",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -326947,7 +326991,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "282;283",
+    "footnote_ids": "283;284",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -326980,7 +327024,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "293;294",
+    "footnote_ids": "294;295",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -327013,7 +327057,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "303;304",
+    "footnote_ids": "304;305",
     "display": "",
     "stay_display": "15 days",
     "travel_advisory": ""
@@ -327024,40 +327068,40 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "299;300",
+    "footnote_ids": "300;301",
     "display": "",
     "stay_display": "15 days",
     "travel_advisory": ""
   },
   "RS:TJ": {
-    "notes": "eVisa may also be applied for stays up to 60 days.\n\n- Visa also available online. [ 290 ]",
+    "notes": "eVisa may also be applied for stays up to 60 days.\n\n- Visa also available online. [ 291 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Serbian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "296;MFA2024-295",
+    "footnote_ids": "297;MFA2024-296",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
   },
   "RS:TL": {
-    "notes": "- Not available at all entry points. [ 296 ]",
+    "notes": "- Not available at all entry points. [ 297 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Serbian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "301;302",
+    "footnote_ids": "302;303",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
   },
   "RS:TM": {
-    "notes": "- 10-day visa on arrival if holding a letter of invitation provided by a company registered in Turkmenistan with a prior approval from the Foreign Ministry. Visitors can apply to extend their stay for an additional 10 days. [ 305 ]\n- When transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD. [ 306 ] [ 307 ]",
+    "notes": "- 10-day visa on arrival if holding a letter of invitation provided by a company registered in Turkmenistan with a prior approval from the Foreign Ministry. Visitors can apply to extend their stay for an additional 10 days. [ 306 ]\n- When transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD. [ 307 ] [ 308 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Serbian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "310;311;312;313",
+    "footnote_ids": "311;312;313;314",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -327068,7 +327112,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "307;308",
+    "footnote_ids": "308;309",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -327079,7 +327123,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "305",
+    "footnote_ids": "306",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -327090,7 +327134,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "309",
+    "footnote_ids": "310",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -327101,7 +327145,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "306",
+    "footnote_ids": "307",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -327112,7 +327156,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "314;315",
+    "footnote_ids": "315;316",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -327123,7 +327167,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "381",
+    "footnote_ids": "382",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -327134,7 +327178,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "297;298",
+    "footnote_ids": "298;299",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -327145,7 +327189,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "318",
+    "footnote_ids": "319",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -327156,7 +327200,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "316;317",
+    "footnote_ids": "317;318",
     "display": "",
     "stay_display": "3 months",
     "travel_advisory": ""
@@ -327167,7 +327211,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "322",
+    "footnote_ids": "323",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -327178,7 +327222,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "323",
+    "footnote_ids": "324",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -327189,7 +327233,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "324",
+    "footnote_ids": "325",
     "display": "",
     "stay_display": "30 days",
     "travel_advisory": ""
@@ -327200,7 +327244,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "326",
+    "footnote_ids": "327",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -327217,12 +327261,12 @@
     "travel_advisory": ""
   },
   "RS:VE": {
-    "notes": "- On July 14, 2023, a visa waiver agreement was signed between the two countries, and both national parliaments ratified it in 2023 and 2025. [ 322 ]",
+    "notes": "- On July 14, 2023, a visa waiver agreement was signed between the two countries, and both national parliaments ratified it in 2023 and 2025. [ 323 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Serbian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "327;venezuela-328",
+    "footnote_ids": "328;venezuela-329",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -327233,7 +327277,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "329;330",
+    "footnote_ids": "330;331",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -327244,7 +327288,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "325",
+    "footnote_ids": "326",
     "display": "",
     "stay_display": "120 days",
     "travel_advisory": ""
@@ -327272,12 +327316,12 @@
     "travel_advisory": ""
   },
   "RS:YE": {
-    "notes": "- Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.). [ 326 ]",
+    "notes": "- Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.). [ 327 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Serbian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "331;332",
+    "footnote_ids": "332;333",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -327288,7 +327332,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "Yes",
-    "footnote_ids": "281",
+    "footnote_ids": "282",
     "display": "",
     "stay_display": "",
     "travel_advisory": ""
@@ -327299,7 +327343,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "333",
+    "footnote_ids": "334",
     "display": "",
     "stay_display": "90 days",
     "travel_advisory": ""
@@ -327310,7 +327354,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "No",
-    "footnote_ids": "334;335",
+    "footnote_ids": "335;336",
     "display": "",
     "stay_display": "1 month",
     "travel_advisory": ""
@@ -342327,7 +342371,7 @@
     "reciprocity": "",
     "footnote_ids": "251;252",
     "display": "",
-    "stay_display": "60 days",
+    "stay_display": "30 days",
     "travel_advisory": ""
   },
   "SE:TJ": {
@@ -410168,7 +410212,7 @@
     "travel_advisory": ""
   },
   "VA:AF": {
-    "notes": "- Visa is not required in case born in Afghanistan or can proof that one of their parents is a national of Afghanistan or born in Afghanistan. [ 4 ]\n- e-Visa: Visitors must arrive at Kabul International (KBL).",
+    "notes": "- Visa is not required in case born in Afghanistan or can prove that one of their parents is a national of Afghanistan or born in Afghanistan. [ 4 ]\n- e-Visa: Visitors must arrive at Kabul International (KBL).",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
     "last_verified": "",
     "confidence": "unverified",
